@@ -15,6 +15,11 @@ Máy khác chỉ cần bộ skills cùng quyền MCP cho công việc vận hàn
 lấy `.work` hoặc credentials từ máy Mac. Deploy và phát triển ứng dụng là
 nhiệm vụ riêng, không thực hiện trong repo này.
 
+Mục tiêu Dũng nêu ngày 25/11/2026: hơn 90% thao tác vận hành số thường xuyên
+có thể giao cho agent hoàn thành bằng bộ skills và MCP được cấp quyền, không
+cần đọc code hoặc lấy file làm việc từ máy cũ. Đây là mục tiêu, chưa phải tỷ lệ
+đã đo. Đánh giá theo lượt việc thực tế hoàn thành, không theo số lượng tools.
+
 ## Mở theo việc
 
 - **Ba tài liệu nền tảng:** [Chính sách bán hàng](chinh_sach_ban_hang.md), [Quy trình làm việc hằng ngày và phát sinh](quy_trinh_lam_viec.md), [Custom Instructions Meta AI](meta_ai_prompt.md). Hiện Dũng vận hành toàn bộ; quy trình chia theo đầu việc để có thể bàn giao về sau.
