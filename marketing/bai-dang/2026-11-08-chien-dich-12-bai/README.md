@@ -81,4 +81,4 @@ Dũng đổi phạm vi: tự đăng Page chính Giày Đá Bóng - Yêu Bóng Đ
 
 ## Xác nhận Page chính và chuẩn bị ads — 08/11
 
-Dũng đã tự đăng 12 bài và gắn Messenger. Đã đọc live đủ 12 bài qua private MCP: công khai, caption khớp bản duyệt, có CTA MESSAGE_PAGE. Hồ sơ nháp quảng cáo local và ID bài nằm tại marketing/quang-cao/2026-11-08-dot-moi/. Chưa kiểm tra trực quan/bấm nút; chưa tạo hoặc bật quảng cáo. Dũng yêu cầu thảo luận cấu trúc chiến dịch trước.
+Dũng đã tự đăng 12 bài và gắn Messenger. Đã đọc live đủ 12 bài qua private MCP: công khai, caption khớp bản duyệt, có CTA MESSAGE_PAGE. Hồ sơ nháp quảng cáo local và ID bài nằm tại marketing/ads/2026-11-08-dot-moi/. Chưa kiểm tra trực quan/bấm nút; chưa tạo hoặc bật quảng cáo. Dũng yêu cầu thảo luận cấu trúc chiến dịch trước.

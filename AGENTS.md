@@ -15,6 +15,8 @@ Phân biệt dữ kiện, giả định, đề xuất và quyết định của 
 - Sản phẩm/giá/kho/thu chi: `.agents/skills/admin-workspace/SKILL.md`.
 - Vận đơn: `.agents/skills/superai-workspace/SKILL.md`.
 - Ảnh: `photo-workshop/AGENTS.md`; marketing giữ chiến dịch và kết quả đăng.
+- Ads: `marketing/ads/README.md`; giữ hồ sơ có cấu trúc theo đợt, cập nhật sau
+  mỗi lượt làm. Snapshot lịch sử không thay trạng thái Meta hiện hành.
 
 Dữ liệu khách, đơn, kho và vận đơn hiện hành thuộc backend tương ứng; query nguồn
 phù hợp trước khi nhận biết trạng thái hiện tại. Git không thay thế database.

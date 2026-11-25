@@ -1,6 +1,6 @@
 # Lịch sử cấu hình và kết quả quảng cáo 29/10/2026
 
-Đợt thử trên Page Giày Đá Bóng - Yêu Bóng Đá Shop, tài khoản quảng cáo `814094494973387`. Tạo ngày 29/10: hai campaign theo cách trình bày sản phẩm **nhiều màu** và **một màu**, mỗi campaign có một nhóm tương tác và một nhóm Messenger, mỗi nhóm sáu ads: tổng **2 campaign / 4 ad set / 24 ads**. Các ID và payload tại [ads-state.json](ads-state.json); cấu hình chi tiết ban đầu và danh sách bài tại [hồ sơ 29/10](../../.work/meta-setup-2026-10/quang-cao/cau-hinh-2026-10-29.md). Các trạng thái PAUSED trong hai hồ sơ đó là snapshot lúc tạo, không có nghĩa quảng cáo chưa chạy.
+Đợt thử trên Page Giày Đá Bóng - Yêu Bóng Đá Shop, tài khoản quảng cáo `814094494973387`. Tạo ngày 29/10: hai campaign theo cách trình bày sản phẩm **nhiều màu** và **một màu**, mỗi campaign có một nhóm tương tác và một nhóm Messenger, mỗi nhóm sáu ads: tổng **2 campaign / 4 ad set / 24 ads**. Các ID và payload tại [ads-state.json](ads-state.json). Các trạng thái PAUSED trong hai hồ sơ đó là snapshot lúc tạo, không có nghĩa quảng cáo chưa chạy.
 
 ## Cấu hình lúc tạo
 
@@ -29,5 +29,5 @@ Breakdown `publisher_platform,platform_position` cùng kỳ: hai nhóm tương t
 ## Nguồn và giới hạn
 
 - [Performance 02/11](PERFORMANCE-2026-11-02.md) là snapshot ảnh 03/10–01/11, chỉ thấy 9/12 ads Messenger; khác kỳ và mức tổng hợp nên không thay bằng số mới.
-- [Hồ sơ cấu hình đợt 08/11](2026-11-08-dot-moi/README.md) ghi cách áp dụng bài học, quyết định hiện tại và các đính chính.
+- [Hồ sơ cấu hình đợt 08/11](../2026-11-08-dot-moi/README.md) ghi cách áp dụng bài học, quyết định hiện tại và các đính chính.
 - Chưa có báo cáo hiệu quả đầy đủ cho từng ad, doanh thu thực quy kết, chi phí hoàn/giá vốn hay lợi nhuận. Số Meta có thể thay đổi do quy kết; ngày chụp không tự chứng minh trạng thái đang chạy.

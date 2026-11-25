@@ -1,4 +1,4 @@
-# Quảng cáo Facebook
+# Chuyển sang tài khoản phụ — 21–25/11/2026
 
 ## Messenger Tiempo tài khoản phụ — 25/11/2026
 
@@ -38,7 +38,7 @@ Ads đã xác nhận đúng từng link pfbid Dũng gửi qua Page API:
 
 ## Phương án chuyển sang tài khoản phụ — 21/11/2026
 
-- Dũng đặt mục tiêu ngân sách Messenger 600.000đ/ngày sau chuyển đổi, gồm 450.000đ Tiempo và 150.000đ dùng chung Messi/Vapor. Đợt này chuẩn bị sáu bài Page chính gồm bốn bài Tiempo một màu, một bài Tiempo tổng hợp và một bài Messi tổng hợp đủ sáu màu. [Caption chờ duyệt](../bai-dang/2026-11-21-nhap-caption-tiempo-messi.md).
+- Dũng đặt mục tiêu ngân sách Messenger 600.000đ/ngày sau chuyển đổi, gồm 450.000đ Tiempo và 150.000đ dùng chung Messi/Vapor. Đợt này chuẩn bị sáu bài Page chính gồm bốn bài Tiempo một màu, một bài Tiempo tổng hợp và một bài Messi tổng hợp đủ sáu màu. [Caption chờ duyệt](../../bai-dang/2026-11-21-nhap-caption-tiempo-messi.md).
 - Token nick chính mới đọc được cả hai tài khoản, có `ads_read`, `ads_management` và tác vụ `ADVERTISE`/`MANAGE` trên mỗi tài khoản. Dũng báo đã chọn được Page chính trong bản nháp Ads Manager ở tài khoản phụ. Chưa xác nhận tài khoản phụ đã qua yêu cầu xác minh điện thoại hoặc phát sinh phân phối/thanh toán.
 - Đọc live 21/11, tài khoản chính `814094494973387` đang cấu hình Messenger 480.000đ/ngày, gồm Tiempo 240.000đ, Messi 120.000đ và Vapor 120.000đ. Nhóm tương tác 50.000đ/ngày đã qua thời điểm kết thúc 19/11. Tài khoản phụ `1554033896044468` chưa có campaign.
 - Phương án ba ngày đầu gồm tài khoản phụ chạy Messenger Messi/Vapor 150.000đ/ngày với 12 quảng cáo (5 bài Vapor, 6 bài Messi đơn và bài Messi tổng hợp mới thay bài gom cũ) và tương tác sáu bài mới khoảng 100.000đ/ngày. Tài khoản chính giữ Tiempo 240.000đ/ngày sau khi dừng campaign Vapor và ad set Messi trong campaign Messenger 360k. Tổng cấu hình hai bên khoảng 490.000đ/ngày, trong đó Messenger 390.000đ/ngày.
@@ -54,10 +54,10 @@ Ads đã xác nhận đúng từng link pfbid Dũng gửi qua Page API:
 
 ## Tra cứu lịch sử set ads
 
-- [Bổ sung 15/11: Vapor, Messi hồng và phân bổ ngân sách](2026-11-15-bo-sung.md): đã dựng, Dũng tự bật; Vapor 120k/ngày, Tiempo 240k, Messi 120k; tương tác sáu bài 50k/ngày bốn ngày. Đã kiểm tra live và sửa tên khớp ngân sách.
+- [Bổ sung 15/11: Vapor, Messi hồng và phân bổ ngân sách](../2026-11-15-bo-sung/README.md): đã dựng, Dũng tự bật; Vapor 120k/ngày, Tiempo 240k, Messi 120k; tương tác sáu bài 50k/ngày bốn ngày. Đã kiểm tra live và sửa tên khớp ngân sách.
 
-- [Đợt 29/10: cấu hình và kết quả Meta đến 09/11](2026-10-29-lich-su-va-ket-qua.md): hai campaign cũ, bốn ad set, chi phí, hội thoại và phân bổ placements; ghi rõ giới hạn quy kết.
-- [Đợt 08/11: cấu hình và nhật ký quyết định](2026-11-08-dot-moi/README.md): hai campaign mới, ngân sách, audience, placements, mẫu hội thoại và tình trạng bàn giao cho Dũng. Trạng thái chỉ là snapshot theo thời điểm ghi.
+- [Đợt 29/10: cấu hình và kết quả Meta đến 09/11](../2026-10-29/README.md): hai campaign cũ, bốn ad set, chi phí, hội thoại và phân bổ placements; ghi rõ giới hạn quy kết.
+- [Đợt 08/11: cấu hình và nhật ký quyết định](../2026-11-08-dot-moi/README.md): hai campaign mới, ngân sách, audience, placements, mẫu hội thoại và tình trạng bàn giao cho Dũng. Trạng thái chỉ là snapshot theo thời điểm ghi.
 
 ## Mốc trạng thái đã biết
 
@@ -69,12 +69,12 @@ Ads đã xác nhận đúng từng link pfbid Dũng gửi qua Page API:
 
 ## File cần dùng
 
-- [Performance 02/11](PERFORMANCE-2026-11-02.md): số đọc từ ảnh, kỳ 03/10–01/11, 9/12 dòng Messenger; chưa đủ để tính CPA/ROAS/lợi nhuận.
-- [Mẫu hội thoại](MAU-HOI-THOAI.md): ba câu mở Dũng chọn, đã gắn cho 12 Messenger ads ngày 29/10.
-- `ads-state.json`: ID campaign/ad set/ad, giữ để tra và tránh tạo trùng; trạng thái trong file là snapshot cũ.
-- `messenger-template.json`: payload mẫu hội thoại đã chuẩn bị.
-- [Bài và link Facebook](../bai-dang/README.md): nguồn 12 bài đã dùng cho ads.
+- [Performance 02/11](../2026-10-29/PERFORMANCE-2026-11-02.md): số đọc từ ảnh, kỳ 03/10–01/11, 9/12 dòng Messenger; chưa đủ để tính CPA/ROAS/lợi nhuận.
+- [Mẫu hội thoại](../templates/MAU-HOI-THOAI.md): ba câu mở Dũng chọn, đã gắn cho 12 Messenger ads ngày 29/10.
+- [ID đợt 29/10](../2026-10-29/ads-state.json): ID campaign/ad set/ad, giữ để tra và tránh tạo trùng; trạng thái trong file là snapshot cũ.
+- [Payload mẫu hội thoại](../templates/messenger-template.json): mẫu đã chuẩn bị.
+- [Bài và link Facebook](../../bai-dang/README.md): nguồn 12 bài đã dùng cho ads.
 
 Hai campaign: Nhiều màu `120254476314060057`, Một màu `120254476321520057`; ad set Messenger tương ứng `120254476317410057` và `120254476340700057`. Tài khoản `814094494973387`.
 
-Chi tiết cấu hình 29/10, log thử CTA/API, screenshot và bản đọc kiểm chứng đã gom tại `.work/meta-setup-2026-10/quang-cao/` ở root. Không dùng snapshot paused ban đầu để suy rằng ads chưa từng chạy. Meta có thể dùng ID hiển thị riêng cho ads; chưa xác nhận gộp social proof với bài gốc.
+Log thử CTA/API, screenshot và bản đọc kiểm chứng local cũ đã dọn; ID và kết quả cần giữ nằm trong hồ sơ từng đợt. Không dùng snapshot paused ban đầu để suy rằng ads chưa từng chạy. Meta có thể dùng ID hiển thị riêng cho ads; chưa xác nhận gộp social proof với bài gốc.

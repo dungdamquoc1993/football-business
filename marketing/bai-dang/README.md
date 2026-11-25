@@ -2,13 +2,13 @@
 
 **Bộ bổ sung 15/11:** [6 bài Vapor Elite 17 và Messi trắng–hồng](2026-11-15-bo-sung-6-bai/README.md) đã soạn theo yêu cầu Dũng, kèm caption và 44 vị trí ảnh đã duyệt. Đã đăng và kiểm tra 24/24 bài trên bốn Page phụ; Page chính để Dũng tự đăng.
 
-**Bộ 08/11:** [12 bài Tiempo, Messi và Bata](2026-11-08-chien-dich-12-bai/README.md). Hồ sơ ghi đã đăng trên bốn Page phụ và kiểm tra đủ 12 bài trên Page chính. ID và link đã kiểm tra nằm trong [danh sách bài nguồn của quảng cáo](../quang-cao/2026-11-08-dot-moi/verified-posts.json).
+**Bộ 08/11:** [12 bài Tiempo, Messi và Bata](2026-11-08-chien-dich-12-bai/README.md). Hồ sơ ghi đã đăng trên bốn Page phụ và kiểm tra đủ 12 bài trên Page chính. ID và link đã kiểm tra nằm trong [danh sách bài nguồn của quảng cáo](../ads/2026-11-08-dot-moi/verified-posts.json).
 
 ## Đợt cũ 29/10/2026
 
 **Cập nhật 08/11:** Dũng báo đã tự xóa các bài giá cũ; agent không thực hiện xóa và chưa kiểm chứng lại trên Meta. Đang bàn cách chia bài cho bộ ảnh 12 mẫu–màu mới. [Lịch sử xử lý giá](2026-11-08-sua-gia.md).
 
-Đã đăng đủ **12 bài / 58 ảnh** lên Page Giày Đá Bóng - Yêu Bóng Đá Shop (`693218564214489`), bao phủ 35/47 mẫu–màu. Link bài nằm bên dưới; thời điểm và ID gốc giữ trong `lich-su-dang-bai.json`. [Quảng cáo](../quang-cao/README.md) giữ mốc chạy/tắt đã biết.
+Đã đăng đủ **12 bài / 58 ảnh** lên Page Giày Đá Bóng - Yêu Bóng Đá Shop (`693218564214489`), bao phủ 35/47 mẫu–màu. Link bài nằm bên dưới; thời điểm và ID gốc giữ trong `lich-su-dang-bai.json`. [Ads](../ads/README.md) giữ mốc chạy/tắt đã biết.
 
 - Folder 01–06: bài nhiều màu, mỗi màu một ảnh.
 - Folder 07–12: một mẫu–màu, mỗi bài bốn pose.

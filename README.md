@@ -34,7 +34,7 @@ bằng skills + MCP. Chưa có quyết định đưa toàn bộ tài liệu ho�
 - **Ảnh sản phẩm:** [Photo workshop](photo-workshop/README.md) — bỏ ảnh vào, xem duyệt, lấy bộ đã duyệt; hồ sơ nguồn/prompt ở hậu trường.
 - **Giá và nguồn hàng:** [supplier quotes](supplier-quotes/README.md) — báo giá và ghi chú xưởng. Sản phẩm và tồn hiện hành tra Admin MCP.
 - **Bài Facebook:** [marketing/bai-dang](marketing/bai-dang/README.md) — các đợt bài đăng, ảnh và caption.
-- **Quảng cáo và nhận diện:** [quảng cáo](marketing/quang-cao/README.md), [logo và ảnh bìa](marketing/nhan-dien/README.md).
+- **Quảng cáo và nhận diện:** [ads](marketing/ads/README.md), [logo và ảnh bìa](marketing/nhan-dien/README.md).
 - **Messenger và Facebook:** [skill Facebook](.agents/skills/facebook-workspace/SKILL.md).
 - **Hồ sơ công việc:** [skill SaleNote](.agents/skills/salenote-workspace/SKILL.md).
 - **Catalog, kho và thu chi:** [skill Admin](.agents/skills/admin-workspace/SKILL.md).

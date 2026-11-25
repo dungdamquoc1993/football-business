@@ -14,7 +14,7 @@ năm bài màu (bạc, xanh da trời, đen–vàng, đỏ–trắng, xanh than�
 trắng–hồng mới có ảnh thì cần thêm một bài riêng, tổng sáu nội dung mới.
 
 Nguồn lịch sử: `2026-11-08-chien-dich-12-bai/README.md`, `M06.md` và
-`../quang-cao/2026-11-08-dot-moi/verified-posts.json`. Chưa kiểm tra lại trạng
+`../ads/2026-11-08-dot-moi/verified-posts.json`. Chưa kiểm tra lại trạng
 thái live hoặc hiệu quả bài/ads trong lượt này; không coi cơ cấu cũ là đã chứng
 minh hiệu quả. Bộ ảnh tám màu đã duyệt thuộc hồ sơ release của photo-workshop.
 
