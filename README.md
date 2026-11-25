@@ -27,7 +27,7 @@ bằng skills + MCP. Chưa có quyết định đưa toàn bộ tài liệu ho�
 
 ## Mở theo việc
 
-- **Ba tài liệu nền tảng:** [Chính sách bán hàng](chinh_sach_ban_hang.md), [Quy trình làm việc hằng ngày và phát sinh](quy_trinh_lam_viec.md), [Custom Instructions Meta AI](meta_ai_prompt.md). Hiện Dũng vận hành toàn bộ; quy trình chia theo đầu việc để có thể bàn giao về sau.
+- **Ba tài liệu nền tảng:** [Chính sách bán hàng](chinh_sach_ban_hang.md), [Quy trình làm việc hằng ngày và phát sinh](quy_trinh_lam_viec.md), [Meta Agent](marketing/meta-agent/README.md). Hiện Dũng vận hành toàn bộ; quy trình chia theo đầu việc để có thể bàn giao về sau.
 - **Nhập hàng hằng tuần:** [skill lập kế hoạch và xuất Excel đặt xưởng](.agents/skills/weekly-replenishment/SKILL.md),
   dùng dữ liệu server qua Admin MCP. Nguồn nhập hàng cũ đã được import và kiểm tra
   luồng đọc/ghi production ngày 25/11/2026; tiếp tục công việc từ server.

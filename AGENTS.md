@@ -7,7 +7,7 @@ Phân biệt dữ kiện, giả định, đề xuất và quyết định của 
 
 ## Nguồn đúng theo việc
 
-- Ba tài liệu nền tảng là `chinh_sach_ban_hang.md` (điều kiện bán), `quy_trinh_lam_viec.md` (checklist vận hành và xử lý phát sinh) và `meta_ai_prompt.md` (hướng dẫn AI Meta). Đọc phần liên quan khi sửa chính sách, quy trình hoặc prompt và giữ nhất quán giữa ba tài liệu. Hiện Dũng tự vận hành toàn bộ, các đầu việc được tổ chức để có thể bàn giao về sau.
+- Ba tài liệu nền tảng là `chinh_sach_ban_hang.md` (điều kiện bán), `quy_trinh_lam_viec.md` (checklist vận hành và xử lý phát sinh) và `marketing/meta-agent/instructions.md` (hướng dẫn AI Meta). Đọc phần liên quan khi sửa chính sách, quy trình hoặc prompt và giữ nhất quán giữa ba tài liệu. Hiện Dũng tự vận hành toàn bộ, các đầu việc được tổ chức để có thể bàn giao về sau.
 - Lập kế hoạch nhập hàng: `.agents/skills/weekly-replenishment/SKILL.md`.
 - Báo giá và điều khoản xưởng: `supplier-quotes/README.md`.
 - Giá: `chinh_sach_gia.md`; giá bán và giá mua thực tế đọc qua Admin MCP.
