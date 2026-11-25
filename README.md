@@ -33,7 +33,7 @@ bằng skills + MCP. Chưa có quyết định đưa toàn bộ tài liệu ho�
   luồng đọc/ghi production ngày 25/11/2026; tiếp tục công việc từ server.
 - **Ảnh sản phẩm:** [Photo workshop](photo-workshop/README.md) — bỏ ảnh vào, xem duyệt, lấy bộ đã duyệt; hồ sơ nguồn/prompt ở hậu trường.
 - **Giá và nguồn hàng:** [supplier quotes](supplier-quotes/README.md) — báo giá và ghi chú xưởng. Sản phẩm và tồn hiện hành tra Admin MCP.
-- **Bài Facebook:** [marketing/bai-dang](marketing/bai-dang/README.md) — các đợt bài đăng, ảnh và caption.
+- **Bài Facebook:** [fanpage-posts](marketing/fanpage-posts/README.md) — caption, metadata và lịch sử từng đợt; ảnh tra workshop.
 - **Quảng cáo và nhận diện:** [ads](marketing/ads/README.md), [logo và ảnh bìa](marketing/nhan-dien/README.md).
 - **Messenger và Facebook:** [skill Facebook](.agents/skills/facebook-workspace/SKILL.md).
 - **Hồ sơ công việc:** [skill SaleNote](.agents/skills/salenote-workspace/SKILL.md).

@@ -13,7 +13,7 @@ agent tra cứu và tiếp tục công việc. Làm ads trong repo với credent
 - [Đợt 08/11](2026-11-08-dot-moi/README.md): cấu hình, các lần chỉnh và ID đối tượng.
 - [Đợt 29/10](2026-10-29/README.md): ID, kết quả và giới hạn số liệu của đợt đầu.
 - [Mẫu hội thoại](templates/MAU-HOI-THOAI.md): các phiên bản đã dùng; không mặc định
-  mẫu cũ là mẫu đang chạy. Bài, caption và kết quả đăng thuộc [bài đăng](../bai-dang/README.md).
+  mẫu cũ là mẫu đang chạy. Bài, caption và kết quả đăng thuộc [bài đăng](../fanpage-posts/README.md).
 
 ## Cách lưu sau mỗi lượt làm ads
 

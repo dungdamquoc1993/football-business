@@ -1,0 +1,2820 @@
+{
+  "schema_version": 1,
+  "batch_date": "2026-11-08",
+  "consolidated_at": "2026-11-25T09:47:53.514853+00:00",
+  "path_base": "repository_root_for_images; batch_directory_for_captions",
+  "posts": [
+    {
+      "id": "T01",
+      "title": "Xstars Tiempo 8 — Trắng–vàng",
+      "caption_file": "captions/T01.md",
+      "caption_sha256": "e48e4062d0a81f4f40cb739cf38f44842bca421a37f9e3601ba4db14a0cc599f",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/01-hero-pair.png",
+          "sha256": "388eee84669645f0c76e808a1a029e0975d565876d946085c52f216608530cba"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/02-outside.png",
+          "sha256": "0219d33ef4df1219b6da9a734471a78a9674b04caa50db27a24279bfd6fc6386"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/03-top-pair.png",
+          "sha256": "4611a9a85b9afd19b3d557141a9b358f5504e9dd085b935ec07da12db53a30b9"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/07-inner-side.png",
+          "sha256": "d55171ff2082007f18be296a840016c24a9c69da09979e6ad5610b5fc941b9a1"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/05-rear.png",
+          "sha256": "76ebd3c2ce9fd46ec96f9c89996708ab7f60d360bf247d0cf2005f2d581c37a3"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/04-detail.png",
+          "sha256": "4fdd6abca5a1f451d31ce941a94b24cb94cb424f6bfb770be0607af10a53c707"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/06-lacing-detail.png",
+          "sha256": "d6f16dee689423f6678bccd9e93bfdcc814cd1aff6e14a43ac412f6464f698f1"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/08-heel-detail.png",
+          "sha256": "ae1167d6eb4c76148ef17770996eb333989dc073da188b20b976f92f9a760c43"
+        }
+      ],
+      "image_order_basis": "preserved_Desktop_filename_order; original_handout_was_hash_verified_against_frozen_release",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1444209871258287",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1444209871258287",
+          "created_time": "2026-11-08T09:30:51+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1443165364590798",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1443165364590798",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "676fa930-3b2c-42c6-8d88-b6c32f7cd538",
+          "publish_operation_id": "0b69af03-4d50-48f1-a675-c4cef7a5a093",
+          "photo_ids_in_order": [
+            "1443164721257529",
+            "1443164794590855",
+            "1443164871257514",
+            "1443164924590842",
+            "1443164977924170",
+            "1443165044590830",
+            "1443165111257490",
+            "1443165264590808"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1443165364590798"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1776837221111546",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1776837221111546",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "bcc905f1-6dc4-4020-a912-a856a189492e",
+          "publish_operation_id": "95910eb3-af0a-4acd-9300-49d2b8097f43",
+          "photo_ids_in_order": [
+            "1776836611111607",
+            "1776836661111602",
+            "1776836737778261",
+            "1776836824444919",
+            "1776836887778246",
+            "1776836977778237",
+            "1776837084444893",
+            "1776837177778217"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1776837221111546"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1447455220810925",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1447455220810925",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "eff992d8-6520-435d-b44f-575912e26abb",
+          "publish_operation_id": "22637fae-c845-405f-85e6-8be6b4371fe0",
+          "photo_ids_in_order": [
+            "1447454654144315",
+            "1447454724144308",
+            "1447454824144298",
+            "1447454897477624",
+            "1447454974144283",
+            "1447455024144278",
+            "1447455100810937",
+            "1447455160810931"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1447455220810925"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1686834876480427",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1686834876480427",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "0e695af3-a579-4318-80a7-0675cc0245ca",
+          "publish_operation_id": "6f8c817b-b8c9-4da2-85ea-927be008d338",
+          "photo_ids_in_order": [
+            "1686834303147151",
+            "1686834376480477",
+            "1686834519813796",
+            "1686834573147124",
+            "1686834616480453",
+            "1686834679813780",
+            "1686834769813771",
+            "1686834819813766"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1686834876480427"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "01 - Tiempo - Trang vang",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/01-hero-pair.png",
+            "sha256": "388eee84669645f0c76e808a1a029e0975d565876d946085c52f216608530cba",
+            "handoff_filename": "01 - white-gold - 01-hero-pair.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/02-outside.png",
+            "sha256": "0219d33ef4df1219b6da9a734471a78a9674b04caa50db27a24279bfd6fc6386",
+            "handoff_filename": "02 - white-gold - 02-outside.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/03-top-pair.png",
+            "sha256": "4611a9a85b9afd19b3d557141a9b358f5504e9dd085b935ec07da12db53a30b9",
+            "handoff_filename": "03 - white-gold - 03-top-pair.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/07-inner-side.png",
+            "sha256": "d55171ff2082007f18be296a840016c24a9c69da09979e6ad5610b5fc941b9a1",
+            "handoff_filename": "04 - white-gold - 07-inner-side.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/05-rear.png",
+            "sha256": "76ebd3c2ce9fd46ec96f9c89996708ab7f60d360bf247d0cf2005f2d581c37a3",
+            "handoff_filename": "05 - white-gold - 05-rear.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/04-detail.png",
+            "sha256": "4fdd6abca5a1f451d31ce941a94b24cb94cb424f6bfb770be0607af10a53c707",
+            "handoff_filename": "06 - white-gold - 04-detail.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/06-lacing-detail.png",
+            "sha256": "d6f16dee689423f6678bccd9e93bfdcc814cd1aff6e14a43ac412f6464f698f1",
+            "handoff_filename": "07 - white-gold - 06-lacing-detail.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/08-heel-detail.png",
+            "sha256": "ae1167d6eb4c76148ef17770996eb333989dc073da188b20b976f92f9a760c43",
+            "handoff_filename": "08 - white-gold - 08-heel-detail.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      },
+      "recorded_main_page_verification": {
+        "code": "T01",
+        "title": "Xstars Tiempo 8 — Trắng–vàng",
+        "post_id": "693218564214489_1444209871258287",
+        "permalink": "https://www.facebook.com/1036915915321020/posts/1444209871258287",
+        "caption_match": true,
+        "is_published": true,
+        "call_to_action": {
+          "type": "MESSAGE_PAGE",
+          "value": {}
+        },
+        "photo_count": 8,
+        "expected_photo_count": 8,
+        "revision": "49cbc56a127c1a5ef3f2cffe26c9d3034e36c5f7ba64e472a7f1e10eb75d40ed"
+      },
+      "internal_notes": "Giá theo chính sách/giá đã ghi nhận ngày 08/11; kiểm tra catalog trước phát hành. Không hứa sẵn hàng, đủ size, thời gian nhập hoặc miễn ship khi chưa xác nhận. CTA mục tiêu: Gửi tin nhắn → Messenger; cần kiểm chứng trên bài và bản xem trước quảng cáo."
+    },
+    {
+      "id": "T02",
+      "title": "Xstars Tiempo 8 — Xanh dương–bạc",
+      "caption_file": "captions/T02.md",
+      "caption_sha256": "b7f39c40d15c770cbf018df4acbd249f28acd69a8183e0d5026b14c8153f4734",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/01-hero-pair.png",
+          "sha256": "f98cf106a228456f726d2be677720c97248749ec403c384883d7a58bba564391"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/02-outside.png",
+          "sha256": "bd414b7b89fbc8229618efc4d482e158d51695778634e6d70a1bf60e62cb2fd3"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/03-top-pair.png",
+          "sha256": "d5528106b9124aff068a31d19194b83c06eec307e60d4d0654d4c97615711488"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/06-outsole.png",
+          "sha256": "65d0303600e2f0f850195735626cf710541a8eb393f2273a29868dba95125320"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/07-inner-side.png",
+          "sha256": "4d389483ff14949e28f783c5fd7a2624e8476e406204d6037db682b99cac292e"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/05-rear.png",
+          "sha256": "9438b66f8cbcc616d69891dfd48822251d413e4ffae26203dff6d3eedfc5bf36"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/04-detail.png",
+          "sha256": "1520fa97255e1d362f0fed0c6fdc11508ed08852fc89b90b93bd6ea3923a51f3"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/08-heel-detail.png",
+          "sha256": "45e1edf89cdd26f50635dfbfdfafbe533498be2c886d14e85240ac93fe003b17"
+        }
+      ],
+      "image_order_basis": "preserved_Desktop_filename_order; original_handout_was_hash_verified_against_frozen_release",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1444209021258372",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1444209021258372",
+          "created_time": "2026-11-08T09:30:24+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1443166287924039",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1443166287924039",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "61f8c7e9-08a5-48df-a416-66e1baa75059",
+          "publish_operation_id": "edf148a5-0a00-4191-840d-a2aefc76ce8b",
+          "photo_ids_in_order": [
+            "1443165604590774",
+            "1443165704590764",
+            "1443165774590757",
+            "1443165844590750",
+            "1443165934590741",
+            "1443166064590728",
+            "1443166144590720",
+            "1443166221257379"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1443166287924039"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1776838034444798",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1776838034444798",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "77035e7b-2e07-46f6-a206-668913d3db20",
+          "publish_operation_id": "c540c104-e5ad-4edb-9358-5551dcc2eff3",
+          "photo_ids_in_order": [
+            "1776837371111531",
+            "1776837431111525",
+            "1776837564444845",
+            "1776837634444838",
+            "1776837694444832",
+            "1776837797778155",
+            "1776837917778143",
+            "1776837974444804"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1776838034444798"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1447456110810836",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1447456110810836",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "c4a10aa6-b955-4dbb-8b3a-9e0f017edd42",
+          "publish_operation_id": "a2af8a5f-907d-47ed-905c-39c8b4cbf8ca",
+          "photo_ids_in_order": [
+            "1447455494144231",
+            "1447455584144222",
+            "1447455667477547",
+            "1447455767477537",
+            "1447455824144198",
+            "1447455924144188",
+            "1447455987477515",
+            "1447456050810842"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1447456110810836"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1686835753147006",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1686835753147006",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "d9911512-3a66-4e23-8971-01fbb777388e",
+          "publish_operation_id": "e9b7e9be-8d92-4703-80d7-08f5507af3a8",
+          "photo_ids_in_order": [
+            "1686835109813737",
+            "1686835193147062",
+            "1686835293147052",
+            "1686835373147044",
+            "1686835479813700",
+            "1686835569813691",
+            "1686835636480351",
+            "1686835689813679"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1686835753147006"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "02 - Tiempo - Xanh duong bac",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/01-hero-pair.png",
+            "sha256": "f98cf106a228456f726d2be677720c97248749ec403c384883d7a58bba564391",
+            "handoff_filename": "01 - royal-blue-silver - 01-hero-pair.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/02-outside.png",
+            "sha256": "bd414b7b89fbc8229618efc4d482e158d51695778634e6d70a1bf60e62cb2fd3",
+            "handoff_filename": "02 - royal-blue-silver - 02-outside.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/03-top-pair.png",
+            "sha256": "d5528106b9124aff068a31d19194b83c06eec307e60d4d0654d4c97615711488",
+            "handoff_filename": "03 - royal-blue-silver - 03-top-pair.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/06-outsole.png",
+            "sha256": "65d0303600e2f0f850195735626cf710541a8eb393f2273a29868dba95125320",
+            "handoff_filename": "04 - royal-blue-silver - 06-outsole.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/07-inner-side.png",
+            "sha256": "4d389483ff14949e28f783c5fd7a2624e8476e406204d6037db682b99cac292e",
+            "handoff_filename": "05 - royal-blue-silver - 07-inner-side.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/05-rear.png",
+            "sha256": "9438b66f8cbcc616d69891dfd48822251d413e4ffae26203dff6d3eedfc5bf36",
+            "handoff_filename": "06 - royal-blue-silver - 05-rear.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/04-detail.png",
+            "sha256": "1520fa97255e1d362f0fed0c6fdc11508ed08852fc89b90b93bd6ea3923a51f3",
+            "handoff_filename": "07 - royal-blue-silver - 04-detail.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/08-heel-detail.png",
+            "sha256": "45e1edf89cdd26f50635dfbfdfafbe533498be2c886d14e85240ac93fe003b17",
+            "handoff_filename": "08 - royal-blue-silver - 08-heel-detail.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      },
+      "recorded_main_page_verification": {
+        "code": "T02",
+        "title": "Xstars Tiempo 8 — Xanh dương–bạc",
+        "post_id": "693218564214489_1444209021258372",
+        "permalink": "https://www.facebook.com/1036915915321020/posts/1444209021258372",
+        "caption_match": true,
+        "is_published": true,
+        "call_to_action": {
+          "type": "MESSAGE_PAGE",
+          "value": {}
+        },
+        "photo_count": 8,
+        "expected_photo_count": 8,
+        "revision": "1055fee7916e43bb16d58afaae7fa22b1fe21416560b00bb1219617df72827d2"
+      },
+      "internal_notes": "Giá theo chính sách/giá đã ghi nhận ngày 08/11; kiểm tra catalog trước phát hành. Không hứa sẵn hàng, đủ size, thời gian nhập hoặc miễn ship khi chưa xác nhận. CTA mục tiêu: Gửi tin nhắn → Messenger; cần kiểm chứng trên bài và bản xem trước quảng cáo."
+    },
+    {
+      "id": "T03",
+      "title": "Xstars Tiempo 8 — Đỏ–đen",
+      "caption_file": "captions/T03.md",
+      "caption_sha256": "710856d97bb25a61f45dd0a87dbe3a35bf2a010246e5e60dc8a715db201685d5",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/01-hero-pair.png",
+          "sha256": "3916190a4ce50c811d36a65b9ac21a68d6abde1d329d86a927795a9d9d502524"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/02-outside.png",
+          "sha256": "fcfca704fc2a5bfa154320da6f3646bc74e2669354e74257b8012ef9dc3982e6"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/03-top-pair.png",
+          "sha256": "ccfc181332f77fbb86bd6bae33834f9e9806a5877a9e92b1e2bbf73035701030"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/06-outsole.png",
+          "sha256": "882e8201af18cdba493db307fe145596d8a73d8612dabffb781cc4e7ce23f97d"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/07-inner-side.png",
+          "sha256": "a03345ef4ec39f1ebbfcd9a352e23cf72995e882ec18122449d3e9a6885d3bc7"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/05-rear.png",
+          "sha256": "d92c6928fe2ef5e1f20563db2c6413a734f7ebb6a5f8059ff28e88d50c31a01f"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/04-forefoot-detail.png",
+          "sha256": "98c71ca694e5ea529c95c1887035277004c02cfb47d11736b74086f0cb05366a"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/08-rear-three-quarter.png",
+          "sha256": "1e9e885d6414f8e3e62b88bdb746199b93d54defbc4159341fd05d4dbd4a0977"
+        }
+      ],
+      "image_order_basis": "preserved_Desktop_filename_order; original_handout_was_hash_verified_against_frozen_release",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1444208244591783",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1444208244591783",
+          "created_time": "2026-11-08T09:29:56+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1443167207923947",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1443167207923947",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "77c984b1-8960-43ae-80e1-890fd07809ba",
+          "publish_operation_id": "8270264f-e311-44a9-ab3e-ff9338bd2131",
+          "photo_ids_in_order": [
+            "1443166454590689",
+            "1443166541257347",
+            "1443166681257333",
+            "1443166767923991",
+            "1443166847923983",
+            "1443167014590633",
+            "1443167064590628",
+            "1443167144590620"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1443167207923947"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1776838907778044",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1776838907778044",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "f245f607-7997-400a-bc4c-35eb8f147f10",
+          "publish_operation_id": "eb8518e1-9801-4ec0-9dec-a2773de994c7",
+          "photo_ids_in_order": [
+            "1776838247778110",
+            "1776838384444763",
+            "1776838487778086",
+            "1776838551111413",
+            "1776838641111404",
+            "1776838714444730",
+            "1776838787778056",
+            "1776838864444715"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1776838907778044"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1447456937477420",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1447456937477420",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "019b7b4b-9a42-41a0-b81a-f72f6e453c19",
+          "publish_operation_id": "4c7c4184-0e25-46d8-95d2-66852d2af24d",
+          "photo_ids_in_order": [
+            "1447456287477485",
+            "1447456364144144",
+            "1447456434144137",
+            "1447456497477464",
+            "1447456637477450",
+            "1447456720810775",
+            "1447456800810767",
+            "1447456874144093"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1447456937477420"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1686836586480256",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1686836586480256",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "4aaffa5e-aecb-4454-88b4-f9bcd1e9fc5a",
+          "publish_operation_id": "14109d08-276e-40d1-b15a-0e6ee6a443c7",
+          "photo_ids_in_order": [
+            "1686835983146983",
+            "1686836093146972",
+            "1686836153146966",
+            "1686836216480293",
+            "1686836309813617",
+            "1686836376480277",
+            "1686836466480268",
+            "1686836539813594"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1686836586480256"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "03 - Tiempo - Do den",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/01-hero-pair.png",
+            "sha256": "3916190a4ce50c811d36a65b9ac21a68d6abde1d329d86a927795a9d9d502524",
+            "handoff_filename": "01 - red-black - 01-hero-pair.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/02-outside.png",
+            "sha256": "fcfca704fc2a5bfa154320da6f3646bc74e2669354e74257b8012ef9dc3982e6",
+            "handoff_filename": "02 - red-black - 02-outside.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/03-top-pair.png",
+            "sha256": "ccfc181332f77fbb86bd6bae33834f9e9806a5877a9e92b1e2bbf73035701030",
+            "handoff_filename": "03 - red-black - 03-top-pair.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/06-outsole.png",
+            "sha256": "882e8201af18cdba493db307fe145596d8a73d8612dabffb781cc4e7ce23f97d",
+            "handoff_filename": "04 - red-black - 06-outsole.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/07-inner-side.png",
+            "sha256": "a03345ef4ec39f1ebbfcd9a352e23cf72995e882ec18122449d3e9a6885d3bc7",
+            "handoff_filename": "05 - red-black - 07-inner-side.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/05-rear.png",
+            "sha256": "d92c6928fe2ef5e1f20563db2c6413a734f7ebb6a5f8059ff28e88d50c31a01f",
+            "handoff_filename": "06 - red-black - 05-rear.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/04-forefoot-detail.png",
+            "sha256": "98c71ca694e5ea529c95c1887035277004c02cfb47d11736b74086f0cb05366a",
+            "handoff_filename": "07 - red-black - 04-forefoot-detail.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/08-rear-three-quarter.png",
+            "sha256": "1e9e885d6414f8e3e62b88bdb746199b93d54defbc4159341fd05d4dbd4a0977",
+            "handoff_filename": "08 - red-black - 08-rear-three-quarter.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      },
+      "recorded_main_page_verification": {
+        "code": "T03",
+        "title": "Xstars Tiempo 8 — Đỏ–đen",
+        "post_id": "693218564214489_1444208244591783",
+        "permalink": "https://www.facebook.com/1036915915321020/posts/1444208244591783",
+        "caption_match": true,
+        "is_published": true,
+        "call_to_action": {
+          "type": "MESSAGE_PAGE",
+          "value": {}
+        },
+        "photo_count": 8,
+        "expected_photo_count": 8,
+        "revision": "ae617ca5925666cbd4cb8b639a77e46dcc3a32c5b14f7e2ea6c2c7e4d8f730a3"
+      },
+      "internal_notes": "Giá theo chính sách/giá đã ghi nhận ngày 08/11; kiểm tra catalog trước phát hành. Không hứa sẵn hàng, đủ size, thời gian nhập hoặc miễn ship khi chưa xác nhận. CTA mục tiêu: Gửi tin nhắn → Messenger; cần kiểm chứng trên bài và bản xem trước quảng cáo."
+    },
+    {
+      "id": "T04",
+      "title": "Xstars Tiempo 8 — Xanh da trời–chanh",
+      "caption_file": "captions/T04.md",
+      "caption_sha256": "dfc51510f22994b447b9b709fa55cb0cb77aa9876934c3b629106365f7533f1e",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/01-hero-pair.png",
+          "sha256": "042c7392055d07e4cbb8325769890800010e82bcd550162d2f81ed48c4e52070"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/02-outside.png",
+          "sha256": "a800ec6c9c7fd5c7283f8d0c705d9485188c1dd41e44bed36adf7c1576c2cf3c"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/03-top-pair.png",
+          "sha256": "b6ddccd36b66dc6d494f999c9e0cb65af75833aa0d618460042364bf6a238191"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/06-outsole.png",
+          "sha256": "7b344e015631a11f5dfd1910233be948d871687d757e23e875354f009b34253d"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/07-inner-side.png",
+          "sha256": "2eb73ea12b1b87dcd1baf198ca2621a06e436d873fee9640e6199704f3517513"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/05-rear.png",
+          "sha256": "111cc69b7d95ed878747b8ea169d951740ad182876d4175ab79e86a2622377ef"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/04-detail.png",
+          "sha256": "47f0e17671bc1a7bd3bb9c4794d1856ea498eae0d6757d605007aec6fd5d5c8d"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/08-heel-detail.png",
+          "sha256": "c6cd8e701236d8a8b7f71206addee905f5eb308c42b84e81b3dcc23df579bb50"
+        }
+      ],
+      "image_order_basis": "preserved_Desktop_filename_order; original_handout_was_hash_verified_against_frozen_release",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1444207211258553",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1444207211258553",
+          "created_time": "2026-11-08T09:29:12+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1443168087923859",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1443168087923859",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "02934727-e040-4983-9fd0-5dee50777d6f",
+          "publish_operation_id": "e39e2b35-6683-44b5-b17c-bed463e1a0a1",
+          "photo_ids_in_order": [
+            "1443167401257261",
+            "1443167471257254",
+            "1443167557923912",
+            "1443167711257230",
+            "1443167784590556",
+            "1443167854590549",
+            "1443167971257204",
+            "1443168041257197"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1443168087923859"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1776839677777967",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1776839677777967",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "153482e6-9518-4cca-b264-1341b41e9e89",
+          "publish_operation_id": "f8f8f3b9-cace-4eb7-b46c-282fb4bd1a2f",
+          "photo_ids_in_order": [
+            "1776839097778025",
+            "1776839167778018",
+            "1776839221111346",
+            "1776839287778006",
+            "1776839377777997",
+            "1776839464444655",
+            "1776839544444647",
+            "1776839617777973"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1776839677777967"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1447457750810672",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1447457750810672",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "bd59973a-db17-4030-8038-c9b8bc843d0b",
+          "publish_operation_id": "ed566647-40c1-4f9f-ac8f-73295b3ec9e1",
+          "photo_ids_in_order": [
+            "1447457107477403",
+            "1447457190810728",
+            "1447457264144054",
+            "1447457364144044",
+            "1447457450810702",
+            "1447457520810695",
+            "1447457594144021",
+            "1447457680810679"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1447457750810672"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1686837413146840",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1686837413146840",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "9ebd299c-ec56-4979-88eb-41774c4cd045",
+          "publish_operation_id": "2550d239-c659-4ea5-9073-a35128e44352",
+          "photo_ids_in_order": [
+            "1686836743146907",
+            "1686836839813564",
+            "1686836923146889",
+            "1686837009813547",
+            "1686837086480206",
+            "1686837203146861",
+            "1686837293146852",
+            "1686837359813512"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1686837413146840"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "04 - Tiempo - Xanh da troi chanh",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/01-hero-pair.png",
+            "sha256": "042c7392055d07e4cbb8325769890800010e82bcd550162d2f81ed48c4e52070",
+            "handoff_filename": "01 - sky-blue-lime - 01-hero-pair.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/02-outside.png",
+            "sha256": "a800ec6c9c7fd5c7283f8d0c705d9485188c1dd41e44bed36adf7c1576c2cf3c",
+            "handoff_filename": "02 - sky-blue-lime - 02-outside.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/03-top-pair.png",
+            "sha256": "b6ddccd36b66dc6d494f999c9e0cb65af75833aa0d618460042364bf6a238191",
+            "handoff_filename": "03 - sky-blue-lime - 03-top-pair.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/06-outsole.png",
+            "sha256": "7b344e015631a11f5dfd1910233be948d871687d757e23e875354f009b34253d",
+            "handoff_filename": "04 - sky-blue-lime - 06-outsole.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/07-inner-side.png",
+            "sha256": "2eb73ea12b1b87dcd1baf198ca2621a06e436d873fee9640e6199704f3517513",
+            "handoff_filename": "05 - sky-blue-lime - 07-inner-side.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/05-rear.png",
+            "sha256": "111cc69b7d95ed878747b8ea169d951740ad182876d4175ab79e86a2622377ef",
+            "handoff_filename": "06 - sky-blue-lime - 05-rear.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/04-detail.png",
+            "sha256": "47f0e17671bc1a7bd3bb9c4794d1856ea498eae0d6757d605007aec6fd5d5c8d",
+            "handoff_filename": "07 - sky-blue-lime - 04-detail.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/08-heel-detail.png",
+            "sha256": "c6cd8e701236d8a8b7f71206addee905f5eb308c42b84e81b3dcc23df579bb50",
+            "handoff_filename": "08 - sky-blue-lime - 08-heel-detail.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      },
+      "recorded_main_page_verification": {
+        "code": "T04",
+        "title": "Xstars Tiempo 8 — Xanh da trời–chanh",
+        "post_id": "693218564214489_1444207211258553",
+        "permalink": "https://www.facebook.com/1036915915321020/posts/1444207211258553",
+        "caption_match": true,
+        "is_published": true,
+        "call_to_action": {
+          "type": "MESSAGE_PAGE",
+          "value": {}
+        },
+        "photo_count": 8,
+        "expected_photo_count": 8,
+        "revision": "bd55a11351e78a1fb37520556fa43628b745e2d4b08f39e2650af1a84278c00d"
+      },
+      "internal_notes": "Giá theo chính sách/giá đã ghi nhận ngày 08/11; kiểm tra catalog trước phát hành. Không hứa sẵn hàng, đủ size, thời gian nhập hoặc miễn ship khi chưa xác nhận. CTA mục tiêu: Gửi tin nhắn → Messenger; cần kiểm chứng trên bài và bản xem trước quảng cáo."
+    },
+    {
+      "id": "T05",
+      "title": "Xstars Tiempo 8 — bài gom 4 màu",
+      "caption_file": "captions/T05.md",
+      "caption_sha256": "60222a4b524b594f7bfcc9fee43667366013a02a24d1dc8a28c5e591704e556c",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/01-hero-pair.png",
+          "sha256": "388eee84669645f0c76e808a1a029e0975d565876d946085c52f216608530cba"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/01-hero-pair.png",
+          "sha256": "f98cf106a228456f726d2be677720c97248749ec403c384883d7a58bba564391"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/01-hero-pair.png",
+          "sha256": "3916190a4ce50c811d36a65b9ac21a68d6abde1d329d86a927795a9d9d502524"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/01-hero-pair.png",
+          "sha256": "042c7392055d07e4cbb8325769890800010e82bcd550162d2f81ed48c4e52070"
+        }
+      ],
+      "image_order_basis": "preserved_Desktop_filename_order; original_handout_was_hash_verified_against_frozen_release",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1444206317925309",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1444206317925309",
+          "created_time": "2026-11-08T09:28:34+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1443168817923786",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1443168817923786",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "0bd54e4a-3b0d-49c0-8726-732d6d93f353",
+          "publish_operation_id": "275fa0f0-2836-43e7-9a90-6f3c39ecae60",
+          "photo_ids_in_order": [
+            "1443168514590483",
+            "1443168587923809",
+            "1443168697923798",
+            "1443168774590457"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 4,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1443168817923786"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1776840177777917",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1776840177777917",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "4c8fbb84-a577-4d61-ab1d-8f52f646ca96",
+          "publish_operation_id": "2c222ec7-7bca-4385-b05e-c5126a2c6c1f",
+          "photo_ids_in_order": [
+            "1776839877777947",
+            "1776839947777940",
+            "1776840047777930",
+            "1776840127777922"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 4,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1776840177777917"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1447458334143947",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1447458334143947",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "0ff969fc-210d-4d74-809c-a1805d71cd4a",
+          "publish_operation_id": "4c4ae9ae-9a00-4e27-bc0a-94ca571aa981",
+          "photo_ids_in_order": [
+            "1447457974143983",
+            "1447458064143974",
+            "1447458177477296",
+            "1447458270810620"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 4,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1447458334143947"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1686837899813458",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1686837899813458",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "2f604d46-d35a-46e2-a9db-34f09c3d29b4",
+          "publish_operation_id": "75d7ebb9-297d-421b-8837-15f73060374c",
+          "photo_ids_in_order": [
+            "1686837606480154",
+            "1686837673146814",
+            "1686837759813472",
+            "1686837833146798"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 4,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1686837899813458"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "05 - Tiempo - Gom 4 mau",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/white-gold/01-hero-pair.png",
+            "sha256": "388eee84669645f0c76e808a1a029e0975d565876d946085c52f216608530cba",
+            "handoff_filename": "01 - white-gold - 01-hero-pair.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/royal-blue-silver/01-hero-pair.png",
+            "sha256": "f98cf106a228456f726d2be677720c97248749ec403c384883d7a58bba564391",
+            "handoff_filename": "02 - royal-blue-silver - 01-hero-pair.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/red-black/01-hero-pair.png",
+            "sha256": "3916190a4ce50c811d36a65b9ac21a68d6abde1d329d86a927795a9d9d502524",
+            "handoff_filename": "03 - red-black - 01-hero-pair.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/tiempo-8/sky-blue-lime/01-hero-pair.png",
+            "sha256": "042c7392055d07e4cbb8325769890800010e82bcd550162d2f81ed48c4e52070",
+            "handoff_filename": "04 - sky-blue-lime - 01-hero-pair.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      },
+      "recorded_main_page_verification": {
+        "code": "T05",
+        "title": "Xstars Tiempo 8 — bài gom 4 màu",
+        "post_id": "693218564214489_1444206317925309",
+        "permalink": "https://www.facebook.com/1036915915321020/posts/1444206317925309",
+        "caption_match": true,
+        "is_published": true,
+        "call_to_action": {
+          "type": "MESSAGE_PAGE",
+          "value": {}
+        },
+        "photo_count": 4,
+        "expected_photo_count": 4,
+        "revision": "06f196d97b99f0aec8f3e8101a0d974091df3d60bcbee6187de4daf0f749c50e"
+      },
+      "internal_notes": "Giá theo chính sách/giá đã ghi nhận ngày 08/11; kiểm tra catalog trước phát hành. Không hứa sẵn hàng, đủ size, thời gian nhập hoặc miễn ship khi chưa xác nhận. CTA mục tiêu: Gửi tin nhắn → Messenger; cần kiểm chứng trên bài và bản xem trước quảng cáo."
+    },
+    {
+      "id": "M01",
+      "title": "Xstars Messi — Bạc sọc đen",
+      "caption_file": "captions/M01.md",
+      "caption_sha256": "42a1dce3adce44ae1f38f0142b270601a9e27d17e0187dcf6db0a8a586fe1647",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/01-hero-pair.png",
+          "sha256": "dbc9f8a8d031b7e8fc29cf27445b111833010044ba3ce442904839dc51d8e208"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/02-outside.png",
+          "sha256": "865f60c071c6890a24e088ff753fe23897b7740df77e60d9b310e4ea7b84b05b"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/03-top-pair.png",
+          "sha256": "44baf2fe02543fec30583242b804b213a5d8c496b84e73f2144d32a3669538e4"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/04-pair-and-sole.png",
+          "sha256": "2856f7d8c89b6002f1c5543fc69f61a19c95324e04da2f96e2cbd5b7f7dd5132"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/07-inner-side.png",
+          "sha256": "1ca92a9bc252ac1c7cde184ee6f5d7f4f44f8b93cfec12778b5942c39ef793aa"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/06-outsole.png",
+          "sha256": "76c8e2a65d6ffde3df0c287afc1fa0c8894bd446b21baa1f2c28933df6b17b6b"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/05-material-detail.png",
+          "sha256": "414f30d492cbbafa67cfd9bf89e6befe88b9dbb74947d07386f29bade21d2655"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/08-rear.png",
+          "sha256": "4cd9a42d732d5c066f7849bbc2c5df4f8e4400aebeaf8dbc2002f1f8bb8bb1a8"
+        }
+      ],
+      "image_order_basis": "preserved_Desktop_filename_order; original_handout_was_hash_verified_against_frozen_release",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1444205121258762",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1444205121258762",
+          "created_time": "2026-11-08T09:27:19+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1443169691257032",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1443169691257032",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "c7c76194-53d0-4a23-b9db-79b000618327",
+          "publish_operation_id": "79dd2e36-c9f6-4bef-abc2-0c954e740244",
+          "photo_ids_in_order": [
+            "1443169114590423",
+            "1443169191257082",
+            "1443169244590410",
+            "1443169314590403",
+            "1443169397923728",
+            "1443169481257053",
+            "1443169551257046",
+            "1443169631257038"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1443169691257032"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1776841064444495",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1776841064444495",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "8d3cf88a-a7c5-4ddc-9155-9b9c69c58ef6",
+          "publish_operation_id": "e9544689-fd59-4fcd-8af7-0ca9ae739d19",
+          "photo_ids_in_order": [
+            "1776840347777900",
+            "1776840421111226",
+            "1776840591111209",
+            "1776840651111203",
+            "1776840751111193",
+            "1776840824444519",
+            "1776840914444510",
+            "1776841007777834"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1776841064444495"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1447459110810536",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1447459110810536",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "f9973160-d2bd-4c45-9bc9-c22fc54a2770",
+          "publish_operation_id": "c85f301f-e8a8-440c-95e3-4e2705e5abfd",
+          "photo_ids_in_order": [
+            "1447458444143936",
+            "1447458527477261",
+            "1447458610810586",
+            "1447458687477245",
+            "1447458760810571",
+            "1447458877477226",
+            "1447458947477219",
+            "1447459017477212"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1447459110810536"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1686838653146716",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1686838653146716",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "cacf2268-0979-4c10-ae23-0650daca817a",
+          "publish_operation_id": "d8353ecf-0f1f-4025-98a6-2284c161000e",
+          "photo_ids_in_order": [
+            "1686838013146780",
+            "1686838116480103",
+            "1686838216480093",
+            "1686838283146753",
+            "1686838343146747",
+            "1686838409813407",
+            "1686838479813400",
+            "1686838596480055"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1686838653146716"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "06 - Messi - Bac soc den",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/01-hero-pair.png",
+            "sha256": "dbc9f8a8d031b7e8fc29cf27445b111833010044ba3ce442904839dc51d8e208",
+            "handoff_filename": "01 - silver - 01-hero-pair.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/02-outside.png",
+            "sha256": "865f60c071c6890a24e088ff753fe23897b7740df77e60d9b310e4ea7b84b05b",
+            "handoff_filename": "02 - silver - 02-outside.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/03-top-pair.png",
+            "sha256": "44baf2fe02543fec30583242b804b213a5d8c496b84e73f2144d32a3669538e4",
+            "handoff_filename": "03 - silver - 03-top-pair.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/04-pair-and-sole.png",
+            "sha256": "2856f7d8c89b6002f1c5543fc69f61a19c95324e04da2f96e2cbd5b7f7dd5132",
+            "handoff_filename": "04 - silver - 04-pair-and-sole.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/07-inner-side.png",
+            "sha256": "1ca92a9bc252ac1c7cde184ee6f5d7f4f44f8b93cfec12778b5942c39ef793aa",
+            "handoff_filename": "05 - silver - 07-inner-side.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/06-outsole.png",
+            "sha256": "76c8e2a65d6ffde3df0c287afc1fa0c8894bd446b21baa1f2c28933df6b17b6b",
+            "handoff_filename": "06 - silver - 06-outsole.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/05-material-detail.png",
+            "sha256": "414f30d492cbbafa67cfd9bf89e6befe88b9dbb74947d07386f29bade21d2655",
+            "handoff_filename": "07 - silver - 05-material-detail.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/08-rear.png",
+            "sha256": "4cd9a42d732d5c066f7849bbc2c5df4f8e4400aebeaf8dbc2002f1f8bb8bb1a8",
+            "handoff_filename": "08 - silver - 08-rear.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      },
+      "recorded_main_page_verification": {
+        "code": "M01",
+        "title": "Xstars Messi — Bạc sọc đen",
+        "post_id": "693218564214489_1444205121258762",
+        "permalink": "https://www.facebook.com/1036915915321020/posts/1444205121258762",
+        "caption_match": true,
+        "is_published": true,
+        "call_to_action": {
+          "type": "MESSAGE_PAGE",
+          "value": {}
+        },
+        "photo_count": 8,
+        "expected_photo_count": 8,
+        "revision": "6cc522d3cae9c48692e5607db0d6e9960d3d720d7853a0aa83244ff53f0eebe7"
+      },
+      "internal_notes": "Giá theo chính sách/giá đã ghi nhận ngày 08/11; kiểm tra catalog trước phát hành. Không hứa sẵn hàng, đủ size, thời gian nhập hoặc miễn ship khi chưa xác nhận. CTA mục tiêu: Gửi tin nhắn → Messenger; cần kiểm chứng trên bài và bản xem trước quảng cáo."
+    },
+    {
+      "id": "M02",
+      "title": "Xstars Messi — Xanh da trời",
+      "caption_file": "captions/M02.md",
+      "caption_sha256": "381bd37ca86e8a97d4a98d59cffc569a3cf02809429c19efabd99000bbda3c14",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/01-hero-pair.png",
+          "sha256": "d5ae4256706cc012c98c61efd6b5edbdecf51d4b594ecb33ee9789e9f343529b"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/02-outside.png",
+          "sha256": "a2908d6ffe1cd340b6c3adbb982cb488175d62b548cc2325a52edf33b408c010"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/03-top-pair.png",
+          "sha256": "31b06141cabc1b0e96caed785677bc7f09fa84b5a9172c808cc60f293a0a9d7c"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/04-pair-and-sole.png",
+          "sha256": "0bfd0337337376620b461023a1b567f0dfcbd536483b86c6f0ffe8b51ed5543f"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/07-inner-side.png",
+          "sha256": "c4404ecce5e992ef118bd4b469d778208f566aea994adc1e3a2e1af77ae8cd02"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/06-outsole.png",
+          "sha256": "baea3d77107c4b18c60fa98c0f8b89a6c0f3ecf104b83c6c03bb3eb3db151391"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/05-material-detail.png",
+          "sha256": "f630a47a114b0dcad1c78f49d508276f0d97f8354b7192a80150ef78ffe1bfb9"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/08-rear.png",
+          "sha256": "512342e4fd1707b4ce2d2d9970ef59abae4404c85122e835bcbd58a27350b7c9"
+        }
+      ],
+      "image_order_basis": "preserved_Desktop_filename_order; original_handout_was_hash_verified_against_frozen_release",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1444203941258880",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1444203941258880",
+          "created_time": "2026-11-08T09:26:28+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1443170521256949",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1443170521256949",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "f1eba870-5bd0-42bf-981c-09e3bc10c093",
+          "publish_operation_id": "c8107e33-8c38-42b4-9938-b5fff858e894",
+          "photo_ids_in_order": [
+            "1443169911257010",
+            "1443169994590335",
+            "1443170077923660",
+            "1443170201256981",
+            "1443170287923639",
+            "1443170364590298",
+            "1443170417923626",
+            "1443170477923620"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1443170521256949"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1776841817777753",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1776841817777753",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "bb31e2a9-eb9a-4423-89ad-42399f5a9814",
+          "publish_operation_id": "d3bd3481-e48b-444a-be60-50003fe15670",
+          "photo_ids_in_order": [
+            "1776841237777811",
+            "1776841321111136",
+            "1776841387777796",
+            "1776841477777787",
+            "1776841524444449",
+            "1776841574444444",
+            "1776841677777767",
+            "1776841744444427"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1776841817777753"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1447459844143796",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1447459844143796",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "e698ef7a-2595-4a24-aeb5-2fe1774a0813",
+          "publish_operation_id": "b69e11d2-a381-4961-a272-4e045a29cbdc",
+          "photo_ids_in_order": [
+            "1447459250810522",
+            "1447459320810515",
+            "1447459430810504",
+            "1447459480810499",
+            "1447459574143823",
+            "1447459640810483",
+            "1447459707477143",
+            "1447459780810469"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1447459844143796"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1686839429813305",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1686839429813305",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "402a2abe-3b76-4dc3-ac43-d0455402655f",
+          "publish_operation_id": "dad7209c-8755-4c89-9186-d5db2b03fb0a",
+          "photo_ids_in_order": [
+            "1686838843146697",
+            "1686838906480024",
+            "1686838986480016",
+            "1686839083146673",
+            "1686839173146664",
+            "1686839233146658",
+            "1686839313146650",
+            "1686839376479977"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1686839429813305"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "07 - Messi - Xanh da troi",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/01-hero-pair.png",
+            "sha256": "d5ae4256706cc012c98c61efd6b5edbdecf51d4b594ecb33ee9789e9f343529b",
+            "handoff_filename": "01 - sky-blue - 01-hero-pair.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/02-outside.png",
+            "sha256": "a2908d6ffe1cd340b6c3adbb982cb488175d62b548cc2325a52edf33b408c010",
+            "handoff_filename": "02 - sky-blue - 02-outside.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/03-top-pair.png",
+            "sha256": "31b06141cabc1b0e96caed785677bc7f09fa84b5a9172c808cc60f293a0a9d7c",
+            "handoff_filename": "03 - sky-blue - 03-top-pair.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/04-pair-and-sole.png",
+            "sha256": "0bfd0337337376620b461023a1b567f0dfcbd536483b86c6f0ffe8b51ed5543f",
+            "handoff_filename": "04 - sky-blue - 04-pair-and-sole.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/07-inner-side.png",
+            "sha256": "c4404ecce5e992ef118bd4b469d778208f566aea994adc1e3a2e1af77ae8cd02",
+            "handoff_filename": "05 - sky-blue - 07-inner-side.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/06-outsole.png",
+            "sha256": "baea3d77107c4b18c60fa98c0f8b89a6c0f3ecf104b83c6c03bb3eb3db151391",
+            "handoff_filename": "06 - sky-blue - 06-outsole.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/05-material-detail.png",
+            "sha256": "f630a47a114b0dcad1c78f49d508276f0d97f8354b7192a80150ef78ffe1bfb9",
+            "handoff_filename": "07 - sky-blue - 05-material-detail.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/08-rear.png",
+            "sha256": "512342e4fd1707b4ce2d2d9970ef59abae4404c85122e835bcbd58a27350b7c9",
+            "handoff_filename": "08 - sky-blue - 08-rear.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      },
+      "recorded_main_page_verification": {
+        "code": "M02",
+        "title": "Xstars Messi — Xanh da trời",
+        "post_id": "693218564214489_1444203941258880",
+        "permalink": "https://www.facebook.com/1036915915321020/posts/1444203941258880",
+        "caption_match": true,
+        "is_published": true,
+        "call_to_action": {
+          "type": "MESSAGE_PAGE",
+          "value": {}
+        },
+        "photo_count": 8,
+        "expected_photo_count": 8,
+        "revision": "36813314b2bc66f591561ab6e9f632e40c543c3df1b204e9dd8a898aabec079e"
+      },
+      "internal_notes": "Giá theo chính sách/giá đã ghi nhận ngày 08/11; kiểm tra catalog trước phát hành. Không hứa sẵn hàng, đủ size, thời gian nhập hoặc miễn ship khi chưa xác nhận. CTA mục tiêu: Gửi tin nhắn → Messenger; cần kiểm chứng trên bài và bản xem trước quảng cáo."
+    },
+    {
+      "id": "M03",
+      "title": "Xstars Messi — Đen–vàng",
+      "caption_file": "captions/M03.md",
+      "caption_sha256": "b6adae5a797a51eb8d59d5171a5f17771b9d1030269c0d696917ad11ae6718df",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/01-hero-pair.png",
+          "sha256": "8b8140061f4061cd1ec7c6bc2d4c5f40fb70190aa48f6358987b354cc0d1612c",
+          "asset_id": "SRC-0102"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/02-outside.png",
+          "sha256": "9a2bd319e8b223689659bb39b58d52f0e448ffeef51e45cb0e483a9d2ca330ce",
+          "asset_id": "SRC-0101"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/03-top-pair.png",
+          "sha256": "d1879edec6e6726bce12bffd779e4a32dc7569ccd72c86b5510af71ec89957e4",
+          "asset_id": "SRC-0103"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/04-pair-and-sole.png",
+          "sha256": "f15ea4d63f6e2c17fe7668ff25db995af02e75632bca06f8f50947dd482fd50b",
+          "asset_id": "SRC-0104"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/07-outer-three-quarter.png",
+          "sha256": "ad928af19f08e5d911ea808b8905eb5fd044efcd95cb8979bbd038a83bd8bb74"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/06-outsole.png",
+          "sha256": "799364b8ef327d2115653c98573d52471d4ba43add21fd55f84af28430f04b5a"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/05-material-detail.png",
+          "sha256": "9982482b22a8169b0bae91adbe37e247f1d0a289585375265eab2a9e8ed791ac"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/08-outer-band-detail.png",
+          "sha256": "4269769c57731035abefefb1ad9c0984924795292eaa836a6e60dd62cd75922a"
+        }
+      ],
+      "image_order_basis": "preserved_Desktop_filename_order; original_handout_was_hash_verified_against_frozen_release",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1444202991258975",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1444202991258975",
+          "created_time": "2026-11-08T09:25:52+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1443171331256868",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1443171331256868",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "0a3f15b3-0c5e-42a2-9aee-6b76c9f7c1a1",
+          "publish_operation_id": "1ab5c9b3-49a7-439a-beac-272e039c22d4",
+          "photo_ids_in_order": [
+            "1443170701256931",
+            "1443170777923590",
+            "1443170867923581",
+            "1443170961256905",
+            "1443171034590231",
+            "1443171107923557",
+            "1443171201256881",
+            "1443171257923542"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1443171331256868"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1776842594444342",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1776842594444342",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "805295f4-237c-4018-92fb-b16d28e46b5b",
+          "publish_operation_id": "c6bfe974-6cd6-4cd0-a78c-69f7005235cb",
+          "photo_ids_in_order": [
+            "1776841977777737",
+            "1776842034444398",
+            "1776842114444390",
+            "1776842204444381",
+            "1776842294444372",
+            "1776842361111032",
+            "1776842461111022",
+            "1776842534444348"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1776842594444342"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1447460737477040",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1447460737477040",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "01d7996b-02a2-499d-847c-b7a0fca73587",
+          "publish_operation_id": "2fa8a3d1-cc73-4e58-8d59-2c89ec26afef",
+          "photo_ids_in_order": [
+            "1447460044143776",
+            "1447460120810435",
+            "1447460214143759",
+            "1447460300810417",
+            "1447460377477076",
+            "1447460454143735",
+            "1447460584143722",
+            "1447460654143715"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1447460737477040"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1686840166479898",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1686840166479898",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "1bfb2d83-9e8c-402d-a719-b6c75e30b765",
+          "publish_operation_id": "b3d12c5d-435a-49c5-93f7-334f0cd1c6dd",
+          "photo_ids_in_order": [
+            "1686839606479954",
+            "1686839686479946",
+            "1686839759813272",
+            "1686839856479929",
+            "1686839919813256",
+            "1686839973146584",
+            "1686840039813244",
+            "1686840109813237"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1686840166479898"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "08 - Messi - Den vang",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/01-hero-pair.png",
+            "sha256": "8b8140061f4061cd1ec7c6bc2d4c5f40fb70190aa48f6358987b354cc0d1612c",
+            "asset_id": "SRC-0102",
+            "handoff_filename": "01 - black-yellow - 01-hero-pair.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/02-outside.png",
+            "sha256": "9a2bd319e8b223689659bb39b58d52f0e448ffeef51e45cb0e483a9d2ca330ce",
+            "asset_id": "SRC-0101",
+            "handoff_filename": "02 - black-yellow - 02-outside.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/03-top-pair.png",
+            "sha256": "d1879edec6e6726bce12bffd779e4a32dc7569ccd72c86b5510af71ec89957e4",
+            "asset_id": "SRC-0103",
+            "handoff_filename": "03 - black-yellow - 03-top-pair.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/04-pair-and-sole.png",
+            "sha256": "f15ea4d63f6e2c17fe7668ff25db995af02e75632bca06f8f50947dd482fd50b",
+            "asset_id": "SRC-0104",
+            "handoff_filename": "04 - black-yellow - 04-pair-and-sole.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/07-outer-three-quarter.png",
+            "sha256": "ad928af19f08e5d911ea808b8905eb5fd044efcd95cb8979bbd038a83bd8bb74",
+            "handoff_filename": "05 - black-yellow - 07-outer-three-quarter.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/06-outsole.png",
+            "sha256": "799364b8ef327d2115653c98573d52471d4ba43add21fd55f84af28430f04b5a",
+            "handoff_filename": "06 - black-yellow - 06-outsole.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/05-material-detail.png",
+            "sha256": "9982482b22a8169b0bae91adbe37e247f1d0a289585375265eab2a9e8ed791ac",
+            "handoff_filename": "07 - black-yellow - 05-material-detail.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/08-outer-band-detail.png",
+            "sha256": "4269769c57731035abefefb1ad9c0984924795292eaa836a6e60dd62cd75922a",
+            "handoff_filename": "08 - black-yellow - 08-outer-band-detail.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      },
+      "recorded_main_page_verification": {
+        "code": "M03",
+        "title": "Xstars Messi — Đen–vàng",
+        "post_id": "693218564214489_1444202991258975",
+        "permalink": "https://www.facebook.com/1036915915321020/posts/1444202991258975",
+        "caption_match": true,
+        "is_published": true,
+        "call_to_action": {
+          "type": "MESSAGE_PAGE",
+          "value": {}
+        },
+        "photo_count": 8,
+        "expected_photo_count": 8,
+        "revision": "98357b65e2587d36f58bf10b6dc22b2cd409c34dd9aa094a277cc458ecd06207"
+      },
+      "internal_notes": "Giá theo chính sách/giá đã ghi nhận ngày 08/11; kiểm tra catalog trước phát hành. Không hứa sẵn hàng, đủ size, thời gian nhập hoặc miễn ship khi chưa xác nhận. CTA mục tiêu: Gửi tin nhắn → Messenger; cần kiểm chứng trên bài và bản xem trước quảng cáo."
+    },
+    {
+      "id": "M04",
+      "title": "Xstars Messi — Đỏ–trắng",
+      "caption_file": "captions/M04.md",
+      "caption_sha256": "6dd87e63d37585d40feb82030a50f3c5f4f281f51b261b918093875b8e29a434",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/01-hero-pair.png",
+          "sha256": "73264a380be2c3accd12d7096a940114808c83bcf0f35d14eaa0265c1bea4e47",
+          "asset_id": "SRC-0106"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/02-outside.png",
+          "sha256": "47f6475f96eebca42f7cebbe9b628a9f032023dc57d8673a4d00a002c489f265",
+          "asset_id": "SRC-0105"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/03-top-pair.png",
+          "sha256": "a2d38a5a9318722c9d5c5af747aa251de41df0ebe79ef293a52a083ccdbea4aa",
+          "asset_id": "SRC-0107"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/04-pair-and-sole.png",
+          "sha256": "b72705ec75968eead4f845ca634eef0a51871b7af6fa53cfde6664a8300ba02a",
+          "asset_id": "SRC-0108"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/07-outer-three-quarter.png",
+          "sha256": "3821fde589e7edb294cd4bafeca5ad02b1cf17392a2d644e9d96df4de56f12d7"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/06-outsole.png",
+          "sha256": "83e52aadc6e49e0768d3830634a8c0c17fe868da4630d4dad3612525e26d62b5"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/05-material-detail.png",
+          "sha256": "ff9365b2110dfbc2bc1dce44f0bc3991a0f539bc87aa7e7cda2a7f171005e716"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/08-outer-band-detail.png",
+          "sha256": "96abd8fa7e417384b5ae8c3a37eec7bcc4737921f47af7f8b01c4f5f2b8d4151"
+        }
+      ],
+      "image_order_basis": "preserved_Desktop_filename_order; original_handout_was_hash_verified_against_frozen_release",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1444202004592407",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1444202004592407",
+          "created_time": "2026-11-08T09:25:12+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1443172214590113",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1443172214590113",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "e8b038f4-3d14-4f92-a665-926128a87130",
+          "publish_operation_id": "b410f598-94bb-4211-a38d-c5fe24039b6e",
+          "photo_ids_in_order": [
+            "1443171561256845",
+            "1443171674590167",
+            "1443171774590157",
+            "1443171851256816",
+            "1443171954590139",
+            "1443172044590130",
+            "1443172104590124",
+            "1443172167923451"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1443172214590113"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1776843351110933",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1776843351110933",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "f1487340-145e-425f-b4ed-140e29d554de",
+          "publish_operation_id": "71dc83d9-5356-431d-8715-a02646760638",
+          "photo_ids_in_order": [
+            "1776842767777658",
+            "1776842831110985",
+            "1776842927777642",
+            "1776842991110969",
+            "1776843034444298",
+            "1776843107777624",
+            "1776843194444282",
+            "1776843297777605"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1776843351110933"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1447461554143625",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1447461554143625",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "5c5e5c2f-cc93-4da7-b165-8970d5ed2532",
+          "publish_operation_id": "7441b13c-040d-4e7b-92d4-90ebadcf0b15",
+          "photo_ids_in_order": [
+            "1447460937477020",
+            "1447461010810346",
+            "1447461084143672",
+            "1447461177476996",
+            "1447461237476990",
+            "1447461334143647",
+            "1447461414143639",
+            "1447461480810299"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1447461554143625"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1686840929813155",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1686840929813155",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "852e31ab-2cd8-40b4-ae2d-2f1b4e803aa8",
+          "publish_operation_id": "a612a96d-dbd7-4800-b8f3-bcee6fa98c1f",
+          "photo_ids_in_order": [
+            "1686840349813213",
+            "1686840433146538",
+            "1686840523146529",
+            "1686840603146521",
+            "1686840669813181",
+            "1686840733146508",
+            "1686840819813166",
+            "1686840879813160"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1686840929813155"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "09 - Messi - Do trang",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/01-hero-pair.png",
+            "sha256": "73264a380be2c3accd12d7096a940114808c83bcf0f35d14eaa0265c1bea4e47",
+            "asset_id": "SRC-0106",
+            "handoff_filename": "01 - red-white - 01-hero-pair.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/02-outside.png",
+            "sha256": "47f6475f96eebca42f7cebbe9b628a9f032023dc57d8673a4d00a002c489f265",
+            "asset_id": "SRC-0105",
+            "handoff_filename": "02 - red-white - 02-outside.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/03-top-pair.png",
+            "sha256": "a2d38a5a9318722c9d5c5af747aa251de41df0ebe79ef293a52a083ccdbea4aa",
+            "asset_id": "SRC-0107",
+            "handoff_filename": "03 - red-white - 03-top-pair.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/04-pair-and-sole.png",
+            "sha256": "b72705ec75968eead4f845ca634eef0a51871b7af6fa53cfde6664a8300ba02a",
+            "asset_id": "SRC-0108",
+            "handoff_filename": "04 - red-white - 04-pair-and-sole.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/07-outer-three-quarter.png",
+            "sha256": "3821fde589e7edb294cd4bafeca5ad02b1cf17392a2d644e9d96df4de56f12d7",
+            "handoff_filename": "05 - red-white - 07-outer-three-quarter.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/06-outsole.png",
+            "sha256": "83e52aadc6e49e0768d3830634a8c0c17fe868da4630d4dad3612525e26d62b5",
+            "handoff_filename": "06 - red-white - 06-outsole.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/05-material-detail.png",
+            "sha256": "ff9365b2110dfbc2bc1dce44f0bc3991a0f539bc87aa7e7cda2a7f171005e716",
+            "handoff_filename": "07 - red-white - 05-material-detail.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/08-outer-band-detail.png",
+            "sha256": "96abd8fa7e417384b5ae8c3a37eec7bcc4737921f47af7f8b01c4f5f2b8d4151",
+            "handoff_filename": "08 - red-white - 08-outer-band-detail.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      },
+      "recorded_main_page_verification": {
+        "code": "M04",
+        "title": "Xstars Messi — Đỏ–trắng",
+        "post_id": "693218564214489_1444202004592407",
+        "permalink": "https://www.facebook.com/1036915915321020/posts/1444202004592407",
+        "caption_match": true,
+        "is_published": true,
+        "call_to_action": {
+          "type": "MESSAGE_PAGE",
+          "value": {}
+        },
+        "photo_count": 8,
+        "expected_photo_count": 8,
+        "revision": "70086cda0f4bbca0f6c08b851685a1e1bfb258500a11940e41e8ee69382ca005"
+      },
+      "internal_notes": "Giá theo chính sách/giá đã ghi nhận ngày 08/11; kiểm tra catalog trước phát hành. Không hứa sẵn hàng, đủ size, thời gian nhập hoặc miễn ship khi chưa xác nhận. CTA mục tiêu: Gửi tin nhắn → Messenger; cần kiểm chứng trên bài và bản xem trước quảng cáo."
+    },
+    {
+      "id": "M05",
+      "title": "Xstars Messi — Xanh than–bạc, sọc cam",
+      "caption_file": "captions/M05.md",
+      "caption_sha256": "bdfabb1169ffc136487d830fe24db1d1ef13f1a7054e33c9abe507c9670548bf",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/01-hero-pair.png",
+          "sha256": "a0b0f33552ef129abd6488dcd146482954faaf5aa7b7f635dd0d424edfefecb2",
+          "asset_id": "SRC-0118"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/02-outside.png",
+          "sha256": "695253745c1fb9c4a89711439bfc5ca51082224eccac9a72f2b3c1733cdeba5a",
+          "asset_id": "SRC-0117"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/03-top-pair.png",
+          "sha256": "537d0e7e5df8ff0b3620841a7c877bc8f2ea98733a6d3907bb4f93fc438ce3fe",
+          "asset_id": "SRC-0119"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/04-pair-and-sole.png",
+          "sha256": "ade97783d047169d6e834050882d895319fa58ab835315b6f14f5680e575b78b",
+          "asset_id": "SRC-0120"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/07-outer-three-quarter.png",
+          "sha256": "843fadf2307b1f1f3d3b5fbf0b9c7b03456074c4b52f8ffaf0f2f5c182e3e42c"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/06-outsole.png",
+          "sha256": "180e7010f1b7b3f8b9f3306e7408060a87f6a5432b132e63ebd156b6fea655cb"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/05-material-detail.png",
+          "sha256": "1d8c5c3cc96d7e959ec23943de430f9d1fde841c336be8dddc066c1959be943e"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/08-outer-band-detail.png",
+          "sha256": "086996f436853ec989ce07e6ba381a9cca27f0a58271038fd7fa7691158332bc"
+        }
+      ],
+      "image_order_basis": "preserved_Desktop_filename_order; original_handout_was_hash_verified_against_frozen_release",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1444200987925842",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1444200987925842",
+          "created_time": "2026-11-08T09:24:24+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1443173004590034",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1443173004590034",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "b7b78b26-89f1-4b67-b019-058e1daba95c",
+          "publish_operation_id": "7ad243f0-548c-498d-845f-98cab5d405ab",
+          "photo_ids_in_order": [
+            "1443172414590093",
+            "1443172504590084",
+            "1443172561256745",
+            "1443172657923402",
+            "1443172741256727",
+            "1443172794590055",
+            "1443172871256714",
+            "1443172941256707"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1443173004590034"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1776844131110855",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1776844131110855",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "8b5cdda2-59a8-49df-86ee-0c019be5a6f9",
+          "publish_operation_id": "b05ef885-a441-4742-9ccb-e6781cafeaeb",
+          "photo_ids_in_order": [
+            "1776843491110919",
+            "1776843581110910",
+            "1776843667777568",
+            "1776843764444225",
+            "1776843844444217",
+            "1776843911110877",
+            "1776843991110869",
+            "1776844077777527"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1776844131110855"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1447462310810216",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1447462310810216",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "2263cd27-5e40-4192-866c-6d7d39cfb525",
+          "publish_operation_id": "904213d5-35b5-47df-a5c7-1528bca3f22e",
+          "photo_ids_in_order": [
+            "1447461720810275",
+            "1447461790810268",
+            "1447461884143592",
+            "1447461974143583",
+            "1447462057476908",
+            "1447462130810234",
+            "1447462194143561",
+            "1447462250810222"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1447462310810216"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1686841733146408",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1686841733146408",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "15fdb683-4936-465f-b605-999af44db212",
+          "publish_operation_id": "81171325-fbb5-49ca-8d06-2c32b0ab2838",
+          "photo_ids_in_order": [
+            "1686841076479807",
+            "1686841179813130",
+            "1686841273146454",
+            "1686841356479779",
+            "1686841429813105",
+            "1686841509813097",
+            "1686841593146422",
+            "1686841656479749"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1686841733146408"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "10 - Messi - Xanh than bac soc cam",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/01-hero-pair.png",
+            "sha256": "a0b0f33552ef129abd6488dcd146482954faaf5aa7b7f635dd0d424edfefecb2",
+            "asset_id": "SRC-0118",
+            "handoff_filename": "01 - navy-silver-orange - 01-hero-pair.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/02-outside.png",
+            "sha256": "695253745c1fb9c4a89711439bfc5ca51082224eccac9a72f2b3c1733cdeba5a",
+            "asset_id": "SRC-0117",
+            "handoff_filename": "02 - navy-silver-orange - 02-outside.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/03-top-pair.png",
+            "sha256": "537d0e7e5df8ff0b3620841a7c877bc8f2ea98733a6d3907bb4f93fc438ce3fe",
+            "asset_id": "SRC-0119",
+            "handoff_filename": "03 - navy-silver-orange - 03-top-pair.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/04-pair-and-sole.png",
+            "sha256": "ade97783d047169d6e834050882d895319fa58ab835315b6f14f5680e575b78b",
+            "asset_id": "SRC-0120",
+            "handoff_filename": "04 - navy-silver-orange - 04-pair-and-sole.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/07-outer-three-quarter.png",
+            "sha256": "843fadf2307b1f1f3d3b5fbf0b9c7b03456074c4b52f8ffaf0f2f5c182e3e42c",
+            "handoff_filename": "05 - navy-silver-orange - 07-outer-three-quarter.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/06-outsole.png",
+            "sha256": "180e7010f1b7b3f8b9f3306e7408060a87f6a5432b132e63ebd156b6fea655cb",
+            "handoff_filename": "06 - navy-silver-orange - 06-outsole.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/05-material-detail.png",
+            "sha256": "1d8c5c3cc96d7e959ec23943de430f9d1fde841c336be8dddc066c1959be943e",
+            "handoff_filename": "07 - navy-silver-orange - 05-material-detail.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/08-outer-band-detail.png",
+            "sha256": "086996f436853ec989ce07e6ba381a9cca27f0a58271038fd7fa7691158332bc",
+            "handoff_filename": "08 - navy-silver-orange - 08-outer-band-detail.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      },
+      "recorded_main_page_verification": {
+        "code": "M05",
+        "title": "Xstars Messi — Xanh than–bạc, sọc cam",
+        "post_id": "693218564214489_1444200987925842",
+        "permalink": "https://www.facebook.com/1036915915321020/posts/1444200987925842",
+        "caption_match": true,
+        "is_published": true,
+        "call_to_action": {
+          "type": "MESSAGE_PAGE",
+          "value": {}
+        },
+        "photo_count": 8,
+        "expected_photo_count": 8,
+        "revision": "1b28c66ed8fdaf69eb6cd1c03603609b0b85bb577b2692175bb854adf658c7da"
+      },
+      "internal_notes": "Giá theo chính sách/giá đã ghi nhận ngày 08/11; kiểm tra catalog trước phát hành. Không hứa sẵn hàng, đủ size, thời gian nhập hoặc miễn ship khi chưa xác nhận. CTA mục tiêu: Gửi tin nhắn → Messenger; cần kiểm chứng trên bài và bản xem trước quảng cáo."
+    },
+    {
+      "id": "M06",
+      "title": "Xstars Messi — bài gom 5 màu",
+      "caption_file": "captions/M06.md",
+      "caption_sha256": "d431617a89a98d86e846ce0811705ac22f6379caa45fd19ab159a2430dcbb818",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/01-hero-pair.png",
+          "sha256": "dbc9f8a8d031b7e8fc29cf27445b111833010044ba3ce442904839dc51d8e208"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/01-hero-pair.png",
+          "sha256": "d5ae4256706cc012c98c61efd6b5edbdecf51d4b594ecb33ee9789e9f343529b"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/01-hero-pair.png",
+          "sha256": "8b8140061f4061cd1ec7c6bc2d4c5f40fb70190aa48f6358987b354cc0d1612c",
+          "asset_id": "SRC-0102"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/01-hero-pair.png",
+          "sha256": "73264a380be2c3accd12d7096a940114808c83bcf0f35d14eaa0265c1bea4e47",
+          "asset_id": "SRC-0106"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/01-hero-pair.png",
+          "sha256": "a0b0f33552ef129abd6488dcd146482954faaf5aa7b7f635dd0d424edfefecb2",
+          "asset_id": "SRC-0118"
+        }
+      ],
+      "image_order_basis": "preserved_Desktop_filename_order; original_handout_was_hash_verified_against_frozen_release",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1444198001259474",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1444198001259474",
+          "created_time": "2026-11-08T09:22:18+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1443173564589978",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1443173564589978",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "da2433a3-00f0-464b-8be3-2b5f33a9c6e9",
+          "publish_operation_id": "6f6a259d-4ea4-4b43-96ad-5d8299b1917f",
+          "photo_ids_in_order": [
+            "1443173171256684",
+            "1443173251256676",
+            "1443173347923333",
+            "1443173417923326",
+            "1443173501256651"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 5,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1443173564589978"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1776844707777464",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1776844707777464",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "6333e8f8-027e-4b7a-a593-10c88e11b5d1",
+          "publish_operation_id": "00e5a4eb-2abf-4f6b-bd2e-3db362b1818c",
+          "photo_ids_in_order": [
+            "1776844324444169",
+            "1776844384444163",
+            "1776844464444155",
+            "1776844584444143",
+            "1776844657777469"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 5,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1776844707777464"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1447462844143496",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1447462844143496",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "a64c64a2-2c65-4b7a-87f2-293f26712b24",
+          "publish_operation_id": "7acdc43d-3ebf-4069-b5fc-24497366a7a3",
+          "photo_ids_in_order": [
+            "1447462497476864",
+            "1447462570810190",
+            "1447462670810180",
+            "1447462740810173",
+            "1447462797476834"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 5,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1447462844143496"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1686842353146346",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1686842353146346",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "c062cea9-1da2-4708-943d-0a800dc988c5",
+          "publish_operation_id": "f634678e-97d0-4037-b262-a5307247c2f9",
+          "photo_ids_in_order": [
+            "1686841933146388",
+            "1686842006479714",
+            "1686842089813039",
+            "1686842156479699",
+            "1686842233146358"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 5,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1686842353146346"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "11 - Messi - Gom 5 mau",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/silver/01-hero-pair.png",
+            "sha256": "dbc9f8a8d031b7e8fc29cf27445b111833010044ba3ce442904839dc51d8e208",
+            "handoff_filename": "01 - silver - 01-hero-pair.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/sky-blue/01-hero-pair.png",
+            "sha256": "d5ae4256706cc012c98c61efd6b5edbdecf51d4b594ecb33ee9789e9f343529b",
+            "handoff_filename": "02 - sky-blue - 01-hero-pair.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/01-hero-pair.png",
+            "sha256": "8b8140061f4061cd1ec7c6bc2d4c5f40fb70190aa48f6358987b354cc0d1612c",
+            "asset_id": "SRC-0102",
+            "handoff_filename": "03 - black-yellow - 01-hero-pair.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/01-hero-pair.png",
+            "sha256": "73264a380be2c3accd12d7096a940114808c83bcf0f35d14eaa0265c1bea4e47",
+            "asset_id": "SRC-0106",
+            "handoff_filename": "04 - red-white - 01-hero-pair.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/01-hero-pair.png",
+            "sha256": "a0b0f33552ef129abd6488dcd146482954faaf5aa7b7f635dd0d424edfefecb2",
+            "asset_id": "SRC-0118",
+            "handoff_filename": "05 - navy-silver-orange - 01-hero-pair.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      },
+      "recorded_main_page_verification": {
+        "code": "M06",
+        "title": "Xstars Messi — bài gom 5 màu",
+        "post_id": "693218564214489_1444198001259474",
+        "permalink": "https://www.facebook.com/1036915915321020/posts/1444198001259474",
+        "caption_match": true,
+        "is_published": true,
+        "call_to_action": {
+          "type": "MESSAGE_PAGE",
+          "value": {}
+        },
+        "photo_count": 5,
+        "expected_photo_count": 5,
+        "revision": "4140c182593a530ef93f38cda6ce676ada0989a0eaabd0d58f889c9e4ed65b16"
+      },
+      "internal_notes": "Giá theo chính sách/giá đã ghi nhận ngày 08/11; kiểm tra catalog trước phát hành. Không hứa sẵn hàng, đủ size, thời gian nhập hoặc miễn ship khi chưa xác nhận. CTA mục tiêu: Gửi tin nhắn → Messenger; cần kiểm chứng trên bài và bản xem trước quảng cáo."
+    },
+    {
+      "id": "B01",
+      "title": "Xstars Bata ráp đế — ba màu",
+      "caption_file": "captions/B01.md",
+      "caption_sha256": "e288dd95b4a4eec0fca3411e8e645e9f737b6299117dcafc6f55a95545db7ea5",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/bata/white-turquoise/01-hero-pair.png",
+          "sha256": "14ca353673d712ddfa71f667f2c2b6197c40f303d97ec474b6040e2080dd3afb"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/bata/white-red/01-hero-pair.png",
+          "sha256": "a2adc6860ca120ecc21ef77f2e7df82f78e8b684c452a8a7efb26ae074d2b006",
+          "asset_id": "SRC-0086"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/bata/white-silver/01-hero-pair.png",
+          "sha256": "ea0a200589ec55f93f2b060f12b41b5235d7cd686700c8422d6dcdef34d03e35"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/bata/white-turquoise/02-outside.png",
+          "sha256": "66ad4c1c34fac3a64b6bb8fac7e7294bcff4b1699c5b43751212092f93033153"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/bata/white-red/02-outside.png",
+          "sha256": "31f57fd05b67bdddd8cad3fdcc91c2cf3e4586c41898f00cbfb8a9d8b7f2e6a2",
+          "asset_id": "SRC-0085"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/bata/white-silver/02-outside.png",
+          "sha256": "720dee819c76b9e14afddfd53506869e2465a84a970d1c5d65efdc7c4181b313"
+        }
+      ],
+      "image_order_basis": "preserved_Desktop_filename_order; original_handout_was_hash_verified_against_frozen_release",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1444194887926452",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1444194887926452",
+          "created_time": "2026-11-08T09:20:27+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1443174287923239",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1443174287923239",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "a5a6ed3e-a386-4129-bc8e-e400db670777",
+          "publish_operation_id": "d489f460-946b-4879-b552-25eacff8d1f0",
+          "photo_ids_in_order": [
+            "1443173737923294",
+            "1443173864589948",
+            "1443173967923271",
+            "1443174037923264",
+            "1443174111256590",
+            "1443174211256580"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 6,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1443174287923239"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1776845357777399",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1776845357777399",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "83265b68-35b2-479e-b13d-329d68cd0953",
+          "publish_operation_id": "1065f973-e046-465b-8ab6-d969253d265d",
+          "photo_ids_in_order": [
+            "1776844851110783",
+            "1776844994444102",
+            "1776845047777430",
+            "1776845131110755",
+            "1776845221110746",
+            "1776845311110737"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 6,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1776845357777399"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1447463520810095",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1447463520810095",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "4076b010-540c-4795-a1b5-e0ecf1c58251",
+          "publish_operation_id": "09e3b30a-096d-467a-9e35-b7b507bbe64c",
+          "photo_ids_in_order": [
+            "1447463014143479",
+            "1447463114143469",
+            "1447463194143461",
+            "1447463267476787",
+            "1447463357476778",
+            "1447463440810103"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 6,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1447463520810095"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1686842976479617",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1686842976479617",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-08",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "00a2c500-2d6f-49de-8ee4-1f23f9112c8e",
+          "publish_operation_id": "fb13318c-f6de-496a-99c6-426f0fe6f72a",
+          "photo_ids_in_order": [
+            "1686842473146334",
+            "1686842569812991",
+            "1686842679812980",
+            "1686842779812970",
+            "1686842869812961",
+            "1686842926479622"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 6,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1686842976479617"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "12 - Bata - Gom 3 mau",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/bata/white-turquoise/01-hero-pair.png",
+            "sha256": "14ca353673d712ddfa71f667f2c2b6197c40f303d97ec474b6040e2080dd3afb",
+            "handoff_filename": "01 - white-turquoise - 01-hero-pair.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/bata/white-red/01-hero-pair.png",
+            "sha256": "a2adc6860ca120ecc21ef77f2e7df82f78e8b684c452a8a7efb26ae074d2b006",
+            "asset_id": "SRC-0086",
+            "handoff_filename": "02 - white-red - 01-hero-pair.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/bata/white-silver/01-hero-pair.png",
+            "sha256": "ea0a200589ec55f93f2b060f12b41b5235d7cd686700c8422d6dcdef34d03e35",
+            "handoff_filename": "03 - white-silver - 01-hero-pair.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/bata/white-turquoise/02-outside.png",
+            "sha256": "66ad4c1c34fac3a64b6bb8fac7e7294bcff4b1699c5b43751212092f93033153",
+            "handoff_filename": "04 - white-turquoise - 02-outside.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/bata/white-red/02-outside.png",
+            "sha256": "31f57fd05b67bdddd8cad3fdcc91c2cf3e4586c41898f00cbfb8a9d8b7f2e6a2",
+            "asset_id": "SRC-0085",
+            "handoff_filename": "05 - white-red - 02-outside.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/bata/white-silver/02-outside.png",
+            "sha256": "720dee819c76b9e14afddfd53506869e2465a84a970d1c5d65efdc7c4181b313",
+            "handoff_filename": "06 - white-silver - 02-outside.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      },
+      "recorded_main_page_verification": {
+        "code": "B01",
+        "title": "Xstars Bata ráp đế — ba màu",
+        "post_id": "693218564214489_1444194887926452",
+        "permalink": "https://www.facebook.com/1036915915321020/posts/1444194887926452",
+        "caption_match": true,
+        "is_published": true,
+        "call_to_action": {
+          "type": "MESSAGE_PAGE",
+          "value": {}
+        },
+        "photo_count": 6,
+        "expected_photo_count": 6,
+        "revision": "62b328fc5be71d0476589831dbbbfbed0a2680ded387df67cadbc24fd6272657"
+      },
+      "internal_notes": "Giá theo chính sách/giá đã ghi nhận ngày 08/11; kiểm tra catalog trước phát hành. Không hứa sẵn hàng, đủ size, thời gian nhập hoặc miễn ship khi chưa xác nhận. CTA mục tiêu: Gửi tin nhắn → Messenger; cần kiểm chứng trên bài và bản xem trước quảng cáo."
+    }
+  ],
+  "unpublished_pilots": [
+    {
+      "page_id": "693218564214489",
+      "post_id": "693218564214489_1444181707927770",
+      "create_operation_id": "e015fe3d-54b5-4281-877c-2f6479c0c22d",
+      "planned_publish_operation_id": "2e284948-3981-4a57-9cb0-ec3bb1f64906",
+      "published_at_observation": false,
+      "observed_on": "2026-11-08",
+      "photo_ids_in_request": [
+        "1444181011261173",
+        "1444181074594500",
+        "1444181134594494",
+        "1444181207927820",
+        "1444181377927803",
+        "1444181444594463",
+        "1444181547927786",
+        "1444181637927777"
+      ],
+      "outcome": "Messenger CTA returned, but attachment was a Page share instead of the eight photos.",
+      "automatic_publication_pending": false
+    },
+    {
+      "page_id": "693218564214489",
+      "post_id": "693218564214489_1444190097926931",
+      "create_operation_id": "d57e1e7c-b055-4ec9-903a-f64636eb0282",
+      "planned_publish_operation_id": "4f714869-d6db-4f6a-b2ff-d39a08faf44d",
+      "published_at_observation": false,
+      "observed_on": "2026-11-08",
+      "photo_ids_in_request": [],
+      "outcome": "Eight photos returned, but Messenger CTA was absent.",
+      "automatic_publication_pending": false
+    }
+  ]
+}

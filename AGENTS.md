@@ -15,6 +15,9 @@ Phân biệt dữ kiện, giả định, đề xuất và quyết định của 
 - Sản phẩm/giá/kho/thu chi: `.agents/skills/admin-workspace/SKILL.md`.
 - Vận đơn: `.agents/skills/superai-workspace/SKILL.md`.
 - Ảnh: `photo-workshop/AGENTS.md`; marketing giữ chiến dịch và kết quả đăng.
+- Bài Fanpage: `marketing/fanpage-posts/README.md`. Caption công khai tách khỏi
+  metadata theo đợt; giữ Page/post ID, link, thời điểm kiểm chứng và thứ tự/hash
+  ảnh. Ảnh thuộc workshop; bộ giao Desktop dùng tạm và dọn sau khi đối chiếu.
 - Ads: `marketing/ads/README.md`; giữ hồ sơ có cấu trúc theo đợt, cập nhật sau
   mỗi lượt làm. Snapshot lịch sử không thay trạng thái Meta hiện hành.
 

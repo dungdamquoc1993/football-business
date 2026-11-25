@@ -6,15 +6,15 @@ Hai campaign / ba ad set / 23 ads, dùng bài đã đăng trên Page chính. Nh�
 
 Cả ba nhóm: Việt Nam, nam 18–44, không custom audience, không lọc sở thích, mọi ngôn ngữ; tuổi và giới tính là giới hạn, không phải suggestions. Hai nhóm Messenger để Facebook, Instagram, Audience Network và Threads cùng các nhóm vị trí Feed, Stories/Reels, in-stream, search và apps/sites. Nhóm tương tác chỉ Facebook Feed và không cho chi sang vị trí đã loại. Giữ cấu hình này theo kết quả cũ; [số liệu và phạm vi đợt 29/10](../2026-10-29/README.md).
 
-11 ads Messenger dùng mẫu `YBDS | 4 cau hoi | 08-11-2026`, bốn câu về tư vấn size, kiểm tra khi nhận, bảo hành và freeship; không gắn câu trả lời tự động. Toàn văn tại [mẫu hội thoại](../templates/MAU-HOI-THOAI.md); mã từng ads, ngân sách và snapshots ở [ads-draft-state.json](ads-draft-state.json), bài nguồn ở [verified-posts.json](verified-posts.json).
+11 ads Messenger dùng mẫu `YBDS | 4 cau hoi | 08-11-2026`, bốn câu về tư vấn size, kiểm tra khi nhận, bảo hành và freeship; không gắn câu trả lời tự động. Toàn văn tại [mẫu hội thoại](../templates/MAU-HOI-THOAI.md); mã từng ads, ngân sách và snapshots ở [ads-draft-state.json](ads-draft-state.json), bài nguồn ở [hồ sơ bài đăng](../../fanpage-posts/2026-11-08/posts.json).
 
 **Lịch và bàn giao:** Dũng báo đã tự đặt nhóm tương tác bắt đầu **12:00 trưa, chạy ba ngày** và sẽ tự Publish. Chưa đọc lại lịch sau khi Dũng tự sửa, nên không khẳng định ngày bắt đầu/kết thúc thực tế từ snapshot cũ. Dũng dự định Publish Messenger sau khi làm lại Meta Agent; đây là dự định, không phải đã bật. Lần kiểm tra UI trước khi Dũng tự chỉnh: cả hai campaign là draft và tắt; cần kiểm tra live khi hỏi trạng thái sau đó. Không tự Publish hoặc thay đổi lịch.
 
 Các mục bên dưới là **nhật ký theo thời điểm**: số 150k, ngày 08/11 và template Meta gợi ý ở các mục cũ đã được quyết định sau đó thay thế, không phải cấu hình hiện hành.
 
-Dũng báo tự đăng đủ 12 bài trên Page chính và gắn Messenger. Đã đọc lại đủ 12 bài qua MCP: công khai, caption khớp bản duyệt, có call_to_action.type=MESSAGE_PAGE. Chi tiết ID, link, số ảnh và revision nằm trong verified-posts.json; dữ liệu live gốc tại .work/main-page-2026-11-08/. Chưa kiểm tra trực quan hoặc bấm thử nút.
+Dũng báo tự đăng đủ 12 bài trên Page chính và gắn Messenger. Đã đọc lại đủ 12 bài qua MCP: công khai, caption khớp bản duyệt, có call_to_action.type=MESSAGE_PAGE. Chi tiết ID, link, số ảnh và revision nằm trong hồ sơ bài đăng; bản đọc trung gian local đã dọn. Chưa kiểm tra trực quan hoặc bấm thử nút.
 
-Caption và thứ tự ảnh của T01–T05, M01–M06 và B01 nằm trong [bộ 12 bài](../../bai-dang/2026-11-08-chien-dich-12-bai/README.md).
+Caption và thứ tự ảnh của T01–T05, M01–M06 và B01 nằm trong [bộ 12 bài](../../fanpage-posts/2026-11-08/README.md).
 
 Dũng yêu cầu bàn cách chia chiến dịch trước. Chưa tạo campaign/ad set/ad, chưa bật ads; ngân sách, lịch chạy, đối tượng và tập bài chạy chưa chốt. Hướng hai mục tiêu tương tác/Messenger trước đây cần được bàn lại trong lần này, chưa áp cấu hình cũ.
 

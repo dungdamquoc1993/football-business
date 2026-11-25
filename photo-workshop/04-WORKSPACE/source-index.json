@@ -4794,6 +4794,83 @@
       "product_color": null,
       "visual_review": "Inspected in capture contact sheet; alternate pair pose, unused in the batch review.",
       "provenance_note": "User-captured batch available as JPEG at intake; HEIC provenance for this exact file unverified."
+    },
+    {
+      "asset_id": "SRC-0414",
+      "original_path": "marketing/bai-dang/05-Nhieu-mau-Winbro-Tia-155k/wb14-hong-trang-soc-den.png",
+      "path": "photo-workshop/04-WORKSPACE/sources/posting-derivatives/2026-10-29/p05/image-02.png",
+      "sha256": "0c785139d1c40ad14e8eca0ad8cc03f308db07e4c1404d2a2dc140edc6bb108a",
+      "bytes": 1978570,
+      "source_type": "historical-posting-derivative",
+      "product_color": null,
+      "visual_review": "not_performed",
+      "provenance_note": "Preserved byte for byte during fanpage-posts consolidation on 2026-11-25. Source folder labels are provenance, not a new visual identification or approval."
+    },
+    {
+      "asset_id": "SRC-0415",
+      "original_path": "marketing/bai-dang/05-Nhieu-mau-Winbro-Tia-155k/wb13-xanh-la-soc-den.png",
+      "path": "photo-workshop/04-WORKSPACE/sources/posting-derivatives/2026-10-29/p05/image-03.png",
+      "sha256": "3cfe87be9e1df58bb9f2516538cad40f558c2d968b181043c0c4abfa9fed8310",
+      "bytes": 1904969,
+      "source_type": "historical-posting-derivative",
+      "product_color": null,
+      "visual_review": "not_performed",
+      "provenance_note": "Preserved byte for byte during fanpage-posts consolidation on 2026-11-25. Source folder labels are provenance, not a new visual identification or approval."
+    },
+    {
+      "asset_id": "SRC-0416",
+      "original_path": "marketing/bai-dang/05-Nhieu-mau-Winbro-Tia-155k/wb12-trang-hong-soc-xanh.png",
+      "path": "photo-workshop/04-WORKSPACE/sources/posting-derivatives/2026-10-29/p05/image-08.png",
+      "sha256": "a7f471d21d39b3fbe04009cb8aab3aa5ea6c5bb8d0672fbca30c1e9477590349",
+      "bytes": 1907754,
+      "source_type": "historical-posting-derivative",
+      "product_color": null,
+      "visual_review": "not_performed",
+      "provenance_note": "Preserved byte for byte during fanpage-posts consolidation on 2026-11-25. Source folder labels are provenance, not a new visual identification or approval."
+    },
+    {
+      "asset_id": "SRC-0417",
+      "original_path": "marketing/bai-dang/06-Nhieu-mau-Winbro-Moc-225k/wb16-kem-moc-cam-got-xanh.png",
+      "path": "photo-workshop/04-WORKSPACE/sources/posting-derivatives/2026-10-29/p06/image-02.png",
+      "sha256": "a788d23a7b5fc201d82d33ea9bfdbbfdbb0642538e3cdea2959c15047ea27a5b",
+      "bytes": 2096704,
+      "source_type": "historical-posting-derivative",
+      "product_color": null,
+      "visual_review": "not_performed",
+      "provenance_note": "Preserved byte for byte during fanpage-posts consolidation on 2026-11-25. Source folder labels are provenance, not a new visual identification or approval."
+    },
+    {
+      "asset_id": "SRC-0418",
+      "original_path": "marketing/bai-dang/06-Nhieu-mau-Winbro-Moc-225k/wb18-chanh-moc-den.png",
+      "path": "photo-workshop/04-WORKSPACE/sources/posting-derivatives/2026-10-29/p06/image-03.png",
+      "sha256": "f6d79cb685502a010c243cc388904675d3c7314b6f5012928362ec5a40827ac2",
+      "bytes": 1961511,
+      "source_type": "historical-posting-derivative",
+      "product_color": null,
+      "visual_review": "not_performed",
+      "provenance_note": "Preserved byte for byte during fanpage-posts consolidation on 2026-11-25. Source folder labels are provenance, not a new visual identification or approval."
+    },
+    {
+      "asset_id": "SRC-0419",
+      "original_path": "marketing/bai-dang/06-Nhieu-mau-Winbro-Moc-225k/wb17-xanh-duong-moc-hong.png",
+      "path": "photo-workshop/04-WORKSPACE/sources/posting-derivatives/2026-10-29/p06/image-05.png",
+      "sha256": "cc35a4b83ed88aef44c60bc7aa17f0ac7af942963677725d1669b32720c79fe2",
+      "bytes": 1982765,
+      "source_type": "historical-posting-derivative",
+      "product_color": null,
+      "visual_review": "not_performed",
+      "provenance_note": "Preserved byte for byte during fanpage-posts consolidation on 2026-11-25. Source folder labels are provenance, not a new visual identification or approval."
+    },
+    {
+      "asset_id": "SRC-0420",
+      "original_path": "/Users/dung/Desktop/Bai Facebook - 6 bai - 21-11-2026/02 - Xstars Tiempo 8 xanh dương–bạc/02-top-pair-v02.png",
+      "path": "photo-workshop/04-WORKSPACE/sources/desktop-post-variants/2026-11-21/t02/image-02.png",
+      "sha256": "ee5d0b48a314af1f0c147c52fabbcec729569761672ccc9545b5a9ec4054c335",
+      "bytes": 2299763,
+      "source_type": "desktop-post-variant",
+      "product_color": null,
+      "visual_review": "not_performed",
+      "provenance_note": "Preserved byte for byte during fanpage-posts consolidation on 2026-11-25. Source folder labels are provenance, not a new visual identification or approval."
     }
   ]
 }

@@ -1,0 +1,786 @@
+{
+  "schema_version": 1,
+  "batch_date": "2026-10-29",
+  "consolidated_at": "2026-11-25T09:47:53.514853+00:00",
+  "path_base": "repository_root_for_images; batch_directory_for_captions",
+  "posts": [
+    {
+      "id": "P01",
+      "title": "Tiempo 8 — bốn phối màu",
+      "caption_file": "captions/P01.md",
+      "caption_sha256": "5fa1159b6fc1fba49b1e63fdb58720957a96913a38007a893d4e115fe2702c3e",
+      "caption_basis": "historical_publication_caption_hash_match",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/do-den/01-mat-ngoai.png",
+          "sha256": "70d9b778b5e608ff4b00a03ae310161f71fb7335c68adfd5b93cace2534b129e",
+          "asset_id": "SRC-0121"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/trang-vang/01-mat-ngoai.png",
+          "sha256": "14f60c6424438642e73173a099605d60c8c3bb8b8fb76f01df47876aa004c0bf",
+          "asset_id": "SRC-0125"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/xanh-dam/01-mat-ngoai.png",
+          "sha256": "583cb907ea9517755132d0440aa24658f1bb7b32877c67a1f341c6c994585fa1",
+          "asset_id": "SRC-0129"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/xanh-nhat-chanh/01-mat-ngoai.png",
+          "sha256": "c13bd8727ad023c1061a7dcf0f40db27b9e0bcd97be4c3c8cee53a134faf3bf6",
+          "asset_id": "SRC-0133"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1434023575610250",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1434023575610250",
+          "status_at_observation": "published",
+          "observed_local": "29/10/2026 10:22:25",
+          "source": "stored_29_October_publication_record",
+          "readback_verified": true,
+          "photo_ids_in_order": [
+            "1434023342276940",
+            "1434023418943599",
+            "1434023478943593",
+            "1434023525610255"
+          ],
+          "later_report": {
+            "status": "reported_deleted_by_Dung",
+            "reported_on": "2026-11-08",
+            "independently_verified": false
+          },
+          "historical_caption_sha256": "8136b4cbd5b3b1d8ca13140f41d243559e967174babb18eb4e91b1b32724b1b8",
+          "caption_hash_matches_retained_text": true
+        }
+      ],
+      "internal_notes": "- CTA chính: nhắn tin cho chính Page đăng bài; không dẫn Messenger sang Page khác.\n- Website là link xem thêm, không đổi đích quảng cáo thành website. Khi dựng quảng cáo chọn Messenger/nút Gửi tin nhắn và kiểm tra khả năng dùng bài có sẵn.\n- Không hứa hàng sẵn hoặc nhận trong ba ngày; kiểm tra mẫu–màu trước khi xác nhận đơn."
+    },
+    {
+      "id": "P02",
+      "title": "Vapor — bốn phối màu",
+      "caption_file": "captions/P02.md",
+      "caption_sha256": "f2585c6fd474eb92dac4c8b12832cf769f2c605cee6ca4b2d57a5ee03f50fb9e",
+      "caption_basis": "historical_publication_caption_hash_match",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-vapor-tf/do/01-mat-ngoai.png",
+          "sha256": "0247fd96444e6f60bbdb5f4ed819dc4f00b1332db555dfacc5e72b33a6cb759e",
+          "asset_id": "SRC-0153"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-vapor-tf/hong/01-mat-ngoai.png",
+          "sha256": "7f083eb8301afd9ffbf4aad412af1ee6cce6ee29e34eb8831d8a6ea0fbf2c595",
+          "asset_id": "SRC-0158"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-vapor-tf/trang-vang/01-mat-ngoai.png",
+          "sha256": "6f99283ce1a2bff402b2ecab91c0c915752a7181f40c0316171e827ad5e3a92e",
+          "asset_id": "SRC-0163"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-vapor-tf/xanh-ngoc/01-mat-ngoai.png",
+          "sha256": "17955cf9923dae5450ce53246af5de2ed0c6739da02120209357c1a3eb342977",
+          "asset_id": "SRC-0168"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1434024315610176",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1434024315610176",
+          "status_at_observation": "published",
+          "observed_local": "29/10/2026 10:22:53",
+          "source": "stored_29_October_publication_record",
+          "readback_verified": true,
+          "photo_ids_in_order": [
+            "1434024032276871",
+            "1434024112276863",
+            "1434024165610191",
+            "1434024258943515"
+          ],
+          "later_report": {
+            "status": "reported_deleted_by_Dung",
+            "reported_on": "2026-11-08",
+            "independently_verified": false
+          },
+          "historical_caption_sha256": "7f943a76dc81194d90617c14b910892106748c8f36d076efcfd0a97e45fca3e9",
+          "caption_hash_matches_retained_text": true
+        }
+      ],
+      "internal_notes": "- CTA chính: nhắn tin cho chính Page đăng bài; không dẫn Messenger sang Page khác.\n- Website là link xem thêm, không đổi đích quảng cáo thành website. Khi dựng quảng cáo chọn Messenger/nút Gửi tin nhắn và kiểm tra khả năng dùng bài có sẵn.\n- Không hứa hàng sẵn hoặc nhận trong ba ngày; kiểm tra mẫu–màu trước khi xác nhận đơn."
+    },
+    {
+      "id": "P03",
+      "title": "Toni 11 Pro — bốn phối màu",
+      "caption_file": "captions/P03.md",
+      "caption_sha256": "ae97458c69a5aab95a7c078bb9463270415e5295145d9c2f62be92298176326c",
+      "caption_basis": "historical_publication_caption_hash_match",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-toni-11-pro/do-trang/01-mat-ngoai.png",
+          "sha256": "eaf0fb9b671e93edfc4e92f3ad2e887407d60d640896c122b5f7346d179ca897",
+          "asset_id": "SRC-0137"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-toni-11-pro/trang-vang/01-mat-ngoai.png",
+          "sha256": "8d1ec705bd89cad6873ed332a7486ed82c86df7c8aee2785d15a961ec0f7e085",
+          "asset_id": "SRC-0141"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-toni-11-pro/trang-xanh/01-mat-ngoai.png",
+          "sha256": "a8db8124699fb20eaca9132265babf8da5fd20ab752238611914bb173ea4d01a",
+          "asset_id": "SRC-0145"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-toni-11-pro/xanh-chanh/01-mat-ngoai.png",
+          "sha256": "34fdb16514b05cea751f51b4dfe3d465a4cfeb2fa4d96f347ce4f4cffe7fbeb3",
+          "asset_id": "SRC-0149"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1434025205610087",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1434025205610087",
+          "status_at_observation": "published",
+          "observed_local": "29/10/2026 10:23:22",
+          "source": "stored_29_October_publication_record",
+          "readback_verified": true,
+          "photo_ids_in_order": [
+            "1434024862276788",
+            "1434024992276775",
+            "1434025058943435",
+            "1434025148943426"
+          ],
+          "later_report": {
+            "status": "reported_deleted_by_Dung",
+            "reported_on": "2026-11-08",
+            "independently_verified": false
+          },
+          "historical_caption_sha256": "f75b532ac581aed5aa1f6e1ce5a281cb7d0a684f9dc9d3ee0842764031e43d61",
+          "caption_hash_matches_retained_text": true
+        }
+      ],
+      "internal_notes": "- CTA chính: nhắn tin cho chính Page đăng bài; không dẫn Messenger sang Page khác.\n- Website là link xem thêm, không đổi đích quảng cáo thành website. Khi dựng quảng cáo chọn Messenger/nút Gửi tin nhắn và kiểm tra khả năng dùng bài có sẵn.\n- Không hứa hàng sẵn hoặc nhận trong ba ngày; kiểm tra mẫu–màu trước khi xác nhận đơn."
+    },
+    {
+      "id": "P04",
+      "title": "Messi — bảy phối màu",
+      "caption_file": "captions/P04.md",
+      "caption_sha256": "c2810a78034238010518c05e59473975fe72b7b1b4276be0a718ed4859ac19c7",
+      "caption_basis": "historical_publication_caption_hash_match",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/bac/01-mat-ngoai.png",
+          "sha256": "6951e7bfb5cbf83d74e0fd8bc289059b38766856924d6e009cfffdc0a0bc76db",
+          "asset_id": "SRC-0093"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/cam/01-mat-ngoai.png",
+          "sha256": "7d58465128e9156d2d699c9f7a565ac4b0e5181726b5a116f29e8a3c07e6d918",
+          "asset_id": "SRC-0097"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/black-yellow/02-outside.png",
+          "sha256": "9a2bd319e8b223689659bb39b58d52f0e448ffeef51e45cb0e483a9d2ca330ce",
+          "asset_id": "SRC-0101"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/red-white/02-outside.png",
+          "sha256": "47f6475f96eebca42f7cebbe9b628a9f032023dc57d8673a4d00a002c489f265",
+          "asset_id": "SRC-0105"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/trang-hong/01-mat-ngoai.png",
+          "sha256": "4e8c648bb42aa59ce133983493717eb9c78daafc148e014f81b4117e854f8931",
+          "asset_id": "SRC-0109"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/xanh-duong/01-mat-ngoai.png",
+          "sha256": "d46b6ffd56c0ffc123b4bc5b63220ea679cc6df588f75907f6695f66f0e3924a",
+          "asset_id": "SRC-0113"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-campaign/2026-11-08-12-posts-v01/messi/navy-silver-orange/02-outside.png",
+          "sha256": "695253745c1fb9c4a89711439bfc5ca51082224eccac9a72f2b3c1733cdeba5a",
+          "asset_id": "SRC-0117"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1434026242276650",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1434026242276650",
+          "status_at_observation": "published",
+          "observed_local": "29/10/2026 10:23:58",
+          "source": "stored_29_October_publication_record",
+          "readback_verified": true,
+          "photo_ids_in_order": [
+            "1434025805610027",
+            "1434025875610020",
+            "1434025932276681",
+            "1434026022276672",
+            "1434026065610001",
+            "1434026122276662",
+            "1434026188943322"
+          ],
+          "later_report": {
+            "status": "reported_deleted_by_Dung",
+            "reported_on": "2026-11-08",
+            "independently_verified": false
+          },
+          "historical_caption_sha256": "b8e2254f013988dba91ef69791913c7ba040a30ac51cd66f0cb00026585c53d2",
+          "caption_hash_matches_retained_text": true
+        }
+      ],
+      "internal_notes": "- CTA chính: nhắn tin cho chính Page đăng bài; không dẫn Messenger sang Page khác.\n- Website là link xem thêm, không đổi đích quảng cáo thành website. Khi dựng quảng cáo chọn Messenger/nút Gửi tin nhắn và kiểm tra khả năng dùng bài có sẵn.\n- Không hứa hàng sẵn hoặc nhận trong ba ngày; kiểm tra mẫu–màu trước khi xác nhận đơn."
+    },
+    {
+      "id": "P05",
+      "title": "Winbro Tia — tám phối màu",
+      "caption_file": "captions/P05.md",
+      "caption_sha256": "2834712c24186d0e2f370c167130c58c5bc85f096a3d5ab744dee13a1d12e72d",
+      "caption_basis": "historical_publication_caption_hash_match",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-ba01-tf/wb01-trang-xanh-hong-soc-den/01-than-ngang.png",
+          "sha256": "5ec469bc8d1127b809d64f16b57e16eaa2fc2f2c1a2de367009911d60efd04cf",
+          "asset_id": "SRC-0033"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/04-WORKSPACE/sources/posting-derivatives/2026-10-29/p05/image-02.png",
+          "sha256": "0c785139d1c40ad14e8eca0ad8cc03f308db07e4c1404d2a2dc140edc6bb108a",
+          "asset_id": "SRC-0414"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/04-WORKSPACE/sources/posting-derivatives/2026-10-29/p05/image-03.png",
+          "sha256": "3cfe87be9e1df58bb9f2516538cad40f558c2d968b181043c0c4abfa9fed8310",
+          "asset_id": "SRC-0415"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-ba01-tf/wb05-do-soc-den/01-than-ngang.png",
+          "sha256": "6b6de7a0a56cbc10da8abdfe297cd3dec17345008ec74a34b934e8454940583c",
+          "asset_id": "SRC-0037"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-ba01-tf/wb06-xanh-duong-soc-hong/01-than-ngang.png",
+          "sha256": "fe610d2e32eaab09af38772e2ad9fe0eb16761dc58ffbc5a433bea23c09686d0",
+          "asset_id": "SRC-0041"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-ba01-tf/wb09-chanh-soc-den-vien-cam/01-than-ngang.png",
+          "sha256": "7cb579cffbdc0c31542fc7bc56ff47bfa8236d31818c1a558af7d93b691be72d",
+          "asset_id": "SRC-0045"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-ba01-tf/wb10-xanh-ngoc-soc-den/01-than-ngang.png",
+          "sha256": "4cd10d1c52b074bd2f47ca0d328242f4a0d80db3d57307ed7e48c3879934cb30",
+          "asset_id": "SRC-0049"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/04-WORKSPACE/sources/posting-derivatives/2026-10-29/p05/image-08.png",
+          "sha256": "a7f471d21d39b3fbe04009cb8aab3aa5ea6c5bb8d0672fbca30c1e9477590349",
+          "asset_id": "SRC-0416"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1434027335609874",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1434027335609874",
+          "status_at_observation": "published",
+          "observed_local": "29/10/2026 10:24:34",
+          "source": "stored_29_October_publication_record",
+          "readback_verified": true,
+          "photo_ids_in_order": [
+            "1434026742276600",
+            "1434026848943256",
+            "1434026932276581",
+            "1434026988943242",
+            "1434027065609901",
+            "1434027138943227",
+            "1434027195609888",
+            "1434027268943214"
+          ],
+          "later_report": {
+            "status": "reported_deleted_by_Dung",
+            "reported_on": "2026-11-08",
+            "independently_verified": false
+          },
+          "historical_caption_sha256": "06b993ce965ebea0bd329f1a72648248d1e6c88b5a4d42b80cca99bfad5c3d8f",
+          "caption_hash_matches_retained_text": true
+        }
+      ],
+      "internal_notes": "- CTA chính: nhắn tin cho chính Page đăng bài; không dẫn Messenger sang Page khác.\n- Website là link xem thêm, không đổi đích quảng cáo thành website. Khi dựng quảng cáo chọn Messenger/nút Gửi tin nhắn và kiểm tra khả năng dùng bài có sẵn.\n- Không hứa hàng sẵn hoặc nhận trong ba ngày; kiểm tra mẫu–màu trước khi xác nhận đơn.\n- Link master hiện vẫn có WB04 giá388.080đ; bài này chỉ giới thiệu tám phối291.200đ trong ảnh. Có thể bỏ link khỏi caption nếu muốn giữ phạm vi bài thật gọn."
+    },
+    {
+      "id": "P06",
+      "title": "Winbro dòng móc — bảy phối màu",
+      "caption_file": "captions/P06.md",
+      "caption_sha256": "24c820f5787b91fc596ca261f705a097a4b579c15f3c978c7b882bae019ba2dc",
+      "caption_basis": "historical_publication_caption_hash_match",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-az01-tf/wb15-trang-moc-tim-got-xanh/01-than-ngang.png",
+          "sha256": "6a043d4ffa4eef4484d925450d27001b3add50d7664bb201f7d6733131f5c7e5",
+          "asset_id": "SRC-0005"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/04-WORKSPACE/sources/posting-derivatives/2026-10-29/p06/image-02.png",
+          "sha256": "a788d23a7b5fc201d82d33ea9bfdbbfdbb0642538e3cdea2959c15047ea27a5b",
+          "asset_id": "SRC-0417"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/04-WORKSPACE/sources/posting-derivatives/2026-10-29/p06/image-03.png",
+          "sha256": "f6d79cb685502a010c243cc388904675d3c7314b6f5012928362ec5a40827ac2",
+          "asset_id": "SRC-0418"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-az01-tf/wb23-xanh-ngoc-moc-tim/01-than-ngang.png",
+          "sha256": "b07e2ebe0da326488f758391cf8a6ca5acd9ac7dcf582df2614017b6394358b8",
+          "asset_id": "SRC-0017"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/04-WORKSPACE/sources/posting-derivatives/2026-10-29/p06/image-05.png",
+          "sha256": "cc35a4b83ed88aef44c60bc7aa17f0ac7af942963677725d1669b32720c79fe2",
+          "asset_id": "SRC-0419"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-az03-tf/wb26-xam-moc-tim-got-hong/01-than-ngang.png",
+          "sha256": "a4a72fa80b1f68dcc1d4def309e6aacd950f88f98d0d1bf2281d6d1778b0aac7",
+          "asset_id": "SRC-0025"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-az03-tf/wb27-xam-moc-den-got-cam/01-than-ngang.png",
+          "sha256": "69c19c6b3135a38226c7fb67ea8e2856d0f7312af725c2a67af2181b549763a8",
+          "asset_id": "SRC-0029"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1434028335609774",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1434028335609774",
+          "status_at_observation": "published",
+          "observed_local": "29/10/2026 10:25:10",
+          "source": "stored_29_October_publication_record",
+          "readback_verified": true,
+          "photo_ids_in_order": [
+            "1434027868943154",
+            "1434027945609813",
+            "1434028018943139",
+            "1434028095609798",
+            "1434028158943125",
+            "1434028218943119",
+            "1434028295609778"
+          ],
+          "later_report": {
+            "status": "reported_deleted_by_Dung",
+            "reported_on": "2026-11-08",
+            "independently_verified": false
+          },
+          "historical_caption_sha256": "d8b6c6998bf1224d9185f2a2df602387e97fd5c8b39f443b02018588e37e2e38",
+          "caption_hash_matches_retained_text": true
+        }
+      ],
+      "internal_notes": "- CTA chính: nhắn tin cho chính Page đăng bài; không dẫn Messenger sang Page khác.\n- Website là link xem thêm, không đổi đích quảng cáo thành website. Khi dựng quảng cáo chọn Messenger/nút Gửi tin nhắn và kiểm tra khả năng dùng bài có sẵn.\n- Không hứa hàng sẵn hoặc nhận trong ba ngày; kiểm tra mẫu–màu trước khi xác nhận đơn.\n- Bộ ảnh gom ba master; website dẫn về bộ sưu tập chung. Có thể bỏ link khỏi caption và gửi đúng link pack trong inbox."
+    },
+    {
+      "id": "P07",
+      "title": "Tiempo 8 trắng–vàng",
+      "caption_file": "captions/P07.md",
+      "caption_sha256": "cef67f0d5ae80a251240833777a930896ed3d0be53826f9764edc95ffa81c894",
+      "caption_basis": "historical_publication_caption_hash_match",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/trang-vang/01-mat-ngoai.png",
+          "sha256": "14f60c6424438642e73173a099605d60c8c3bb8b8fb76f01df47876aa004c0bf",
+          "asset_id": "SRC-0125"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/trang-vang/02-doi-goc-cheo.png",
+          "sha256": "0c881db925a8fc11c3ac407f7a6301ba654bd080ce826c379c197ab28c924ae7",
+          "asset_id": "SRC-0126"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/trang-vang/03-nhin-tu-tren.png",
+          "sha256": "8e4ab3cfcfa6bcfccb97deaf159864687309ade90da505b15b6f9a4476b5d800",
+          "asset_id": "SRC-0127"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/trang-vang/04-can-chi-tiet.png",
+          "sha256": "fb8ec58bcadb1c9b8ebd178f0e872b89a28d78dff31006c56ac3df7089659e46",
+          "asset_id": "SRC-0128"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1434027748943166",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1434027748943166",
+          "status_at_observation": "published",
+          "observed_local": "29/10/2026 10:24:48",
+          "source": "stored_29_October_publication_record",
+          "readback_verified": true,
+          "photo_ids_in_order": [
+            "1434027422276532",
+            "1434027555609852",
+            "1434027608943180",
+            "1434027672276507"
+          ],
+          "later_report": {
+            "status": "reported_deleted_by_Dung",
+            "reported_on": "2026-11-08",
+            "independently_verified": false
+          },
+          "historical_caption_sha256": "99e9a40fad916d73ce6f5262cf3485cbeaef3d0afc502f7c15fe2f6fade1c48d",
+          "caption_hash_matches_retained_text": true
+        }
+      ],
+      "internal_notes": "- CTA chính: nhắn tin cho chính Page đăng bài; không dẫn Messenger sang Page khác.\n- Website là link xem thêm, không đổi đích quảng cáo thành website. Khi dựng quảng cáo chọn Messenger/nút Gửi tin nhắn và kiểm tra khả năng dùng bài có sẵn.\n- Không hứa hàng sẵn hoặc nhận trong ba ngày; kiểm tra mẫu–màu trước khi xác nhận đơn."
+    },
+    {
+      "id": "P08",
+      "title": "Messi trắng–hồng",
+      "caption_file": "captions/P08.md",
+      "caption_sha256": "56e563f3b7d1cb35cefbd98dfc8922a9b366ccc2f43877a895553b0204efa70e",
+      "caption_basis": "historical_publication_caption_hash_match",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/trang-hong/01-mat-ngoai.png",
+          "sha256": "4e8c648bb42aa59ce133983493717eb9c78daafc148e014f81b4117e854f8931",
+          "asset_id": "SRC-0109"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/trang-hong/02-doi-goc-cheo.png",
+          "sha256": "84481966b69b7c7f806c3f8ba37c1611143fff6cd5291d16505eadcf1f81a7ee",
+          "asset_id": "SRC-0110"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/trang-hong/03-nhin-tu-tren.png",
+          "sha256": "d72773b249496daa2bbcd31ba1b32e922de8fd0057cead6abeb71352ece174f6",
+          "asset_id": "SRC-0111"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/trang-hong/04-can-chat-lieu.png",
+          "sha256": "3842f5c87f58e5e5e21259dfd09c80bae45025ce3e25096f7e6846cca1d61597",
+          "asset_id": "SRC-0112"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1434023932276881",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1434023932276881",
+          "status_at_observation": "published",
+          "observed_local": "29/10/2026 10:22:38",
+          "source": "stored_29_October_publication_record",
+          "readback_verified": true,
+          "photo_ids_in_order": [
+            "1434023685610239",
+            "1434023738943567",
+            "1434023822276892",
+            "1434023885610219"
+          ],
+          "later_report": {
+            "status": "reported_deleted_by_Dung",
+            "reported_on": "2026-11-08",
+            "independently_verified": false
+          },
+          "historical_caption_sha256": "cd995ab0ce32a6f213eea7cdd0a1f837245e6e43b16402d46cd4e6fa258703ac",
+          "caption_hash_matches_retained_text": true
+        }
+      ],
+      "internal_notes": "- CTA chính: nhắn tin cho chính Page đăng bài; không dẫn Messenger sang Page khác.\n- Website là link xem thêm, không đổi đích quảng cáo thành website. Khi dựng quảng cáo chọn Messenger/nút Gửi tin nhắn và kiểm tra khả năng dùng bài có sẵn.\n- Không hứa hàng sẵn hoặc nhận trong ba ngày; kiểm tra mẫu–màu trước khi xác nhận đơn."
+    },
+    {
+      "id": "P09",
+      "title": "Toni 11 Pro trắng–vàng",
+      "caption_file": "captions/P09.md",
+      "caption_sha256": "9d6167fbcbeba114b6fa1643d58e9682a0455cdc6b1a8d7b6417aa87d8001c43",
+      "caption_basis": "historical_publication_caption_hash_match",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-toni-11-pro/trang-vang/01-mat-ngoai.png",
+          "sha256": "8d1ec705bd89cad6873ed332a7486ed82c86df7c8aee2785d15a961ec0f7e085",
+          "asset_id": "SRC-0141"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-toni-11-pro/trang-vang/02-doi-goc-cheo.png",
+          "sha256": "57d00924baf3cec839bfb6bf9a6cfd78961bac65cdcf7b5bda723d6bed96e959",
+          "asset_id": "SRC-0142"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-toni-11-pro/trang-vang/03-nhin-tu-tren.png",
+          "sha256": "11110e9c7b003dec2c049b2859fdbe76b59b373dca18371e31e10f5c0a5512fb",
+          "asset_id": "SRC-0143"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-toni-11-pro/trang-vang/04-can-chi-tiet.png",
+          "sha256": "29225e22c93713f4be96ffaa9cfa6976af1fdae9ec5164c2d42d103b1d100fd2",
+          "asset_id": "SRC-0144"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1434024675610140",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1434024675610140",
+          "status_at_observation": "published",
+          "observed_local": "29/10/2026 10:23:07",
+          "source": "stored_29_October_publication_record",
+          "readback_verified": true,
+          "photo_ids_in_order": [
+            "1434024425610165",
+            "1434024498943491",
+            "1434024565610151",
+            "1434024632276811"
+          ],
+          "later_report": {
+            "status": "reported_deleted_by_Dung",
+            "reported_on": "2026-11-08",
+            "independently_verified": false
+          },
+          "historical_caption_sha256": "9af432f886ae59b0eb883a5f79978ab4fde2b873a8091d1e73c5b27565b9ca42",
+          "caption_hash_matches_retained_text": true
+        }
+      ],
+      "internal_notes": "- CTA chính: nhắn tin cho chính Page đăng bài; không dẫn Messenger sang Page khác.\n- Website là link xem thêm, không đổi đích quảng cáo thành website. Khi dựng quảng cáo chọn Messenger/nút Gửi tin nhắn và kiểm tra khả năng dùng bài có sẵn.\n- Không hứa hàng sẵn hoặc nhận trong ba ngày; kiểm tra mẫu–màu trước khi xác nhận đơn."
+    },
+    {
+      "id": "P10",
+      "title": "Winbro WB17 xanh dương–hồng",
+      "caption_file": "captions/P10.md",
+      "caption_sha256": "af7fa7cd0ec9896dcbd824fa38877f28ee01196a9426896827050833cf3711e4",
+      "caption_basis": "historical_publication_caption_hash_match",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-az02-tf/wb17-xanh-duong-moc-hong/01-than-goc-cheo.png",
+          "sha256": "0cc44ac6bd41389de63dab384ec82fa399cae30294430ab691c2365ec90887cb",
+          "asset_id": "SRC-0021"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-az02-tf/wb17-xanh-duong-moc-hong/02-doi-goc-cheo.png",
+          "sha256": "b53cadd0b2d76756c142de831a76f3be6ac52b1a42129c90a74c9243d0c83fdf",
+          "asset_id": "SRC-0022"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-az02-tf/wb17-xanh-duong-moc-hong/03-doi-goc-cheo-thap.png",
+          "sha256": "e995f49d5c8ee2b5d13e661b1f9a9bfeb701ef0641af1a23f141cef19daf6312",
+          "asset_id": "SRC-0023"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-az02-tf/wb17-xanh-duong-moc-hong/04-can-than.png",
+          "sha256": "73d796637f8d438c5d88ce784e32c9ae50cd52edce74fd5d2b17dc2bf36d42d3",
+          "asset_id": "SRC-0024"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1434025708943370",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1434025708943370",
+          "status_at_observation": "published",
+          "observed_local": "29/10/2026 10:23:36",
+          "source": "stored_29_October_publication_record",
+          "readback_verified": true,
+          "photo_ids_in_order": [
+            "1434025345610073",
+            "1434025438943397",
+            "1434025532276721",
+            "1434025588943382"
+          ],
+          "later_report": {
+            "status": "reported_deleted_by_Dung",
+            "reported_on": "2026-11-08",
+            "independently_verified": false
+          },
+          "historical_caption_sha256": "579176a513d487b42a29d52892e0ef63afd25e3889959270a1d60fa99b6c5224",
+          "caption_hash_matches_retained_text": true
+        }
+      ],
+      "internal_notes": "- CTA chính: nhắn tin cho chính Page đăng bài; không dẫn Messenger sang Page khác.\n- Website là link xem thêm, không đổi đích quảng cáo thành website. Khi dựng quảng cáo chọn Messenger/nút Gửi tin nhắn và kiểm tra khả năng dùng bài có sẵn.\n- Không hứa hàng sẵn hoặc nhận trong ba ngày; kiểm tra mẫu–màu trước khi xác nhận đơn."
+    },
+    {
+      "id": "P11",
+      "title": "Winbro WB04 trắng–đỏ, sọc xanh",
+      "caption_file": "captions/P11.md",
+      "caption_sha256": "87de84d18afe53e6423315756ca4945b0c591cb0d76eadcba423476198c8f97d",
+      "caption_basis": "historical_publication_caption_hash_match",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/wb04-trang-do-soc-xanh/01-than-ngang.png",
+          "sha256": "f5b49489d1680b248dcf74c0e6e2dcf5b1f3f831b9f85ebb0cb16cb815b68a4e",
+          "asset_id": "SRC-0001"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/wb04-trang-do-soc-xanh/02-doi-goc-cheo.png",
+          "sha256": "3f60095f02b10276db5c33a45edaa3e98fd80686c7f9efe59001b0416b71ff39",
+          "asset_id": "SRC-0002"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/wb04-trang-do-soc-xanh/03-doi-lo-de.png",
+          "sha256": "558e098151e7243ca1837e0f2c8648176018ec39f06c61c508174ea7ea6b3515",
+          "asset_id": "SRC-0003"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/wb04-trang-do-soc-xanh/04-can-than.png",
+          "sha256": "a7c0e797cda06b70a969026a4f3604109b13a5382efad4cbe16f4f27643080bf",
+          "asset_id": "SRC-0004"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1434026642276610",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1434026642276610",
+          "status_at_observation": "published",
+          "observed_local": "29/10/2026 10:24:11",
+          "source": "stored_29_October_publication_record",
+          "readback_verified": true,
+          "photo_ids_in_order": [
+            "1434026398943301",
+            "1434026462276628",
+            "1434026535609954",
+            "1434026585609949"
+          ],
+          "later_report": {
+            "status": "reported_deleted_by_Dung",
+            "reported_on": "2026-11-08",
+            "independently_verified": false
+          },
+          "historical_caption_sha256": "f04d7c37b3602a70357fc1d5ef9cce285bde0b643a1be218e226790fb46370e2",
+          "caption_hash_matches_retained_text": true
+        }
+      ],
+      "internal_notes": "- CTA chính: nhắn tin cho chính Page đăng bài; không dẫn Messenger sang Page khác.\n- Website là link xem thêm, không đổi đích quảng cáo thành website. Khi dựng quảng cáo chọn Messenger/nút Gửi tin nhắn và kiểm tra khả năng dùng bài có sẵn.\n- Không hứa hàng sẵn hoặc nhận trong ba ngày; kiểm tra mẫu–màu trước khi xác nhận đơn."
+    },
+    {
+      "id": "P12",
+      "title": "Winbro WB13 xanh lá–đen",
+      "caption_file": "captions/P12.md",
+      "caption_sha256": "a634e0a816393f5782b2eb45ff11a0536147821d1ff594a49d6ef60206197e68",
+      "caption_basis": "historical_publication_caption_hash_match",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-ba01-tf/wb13-xanh-la-soc-den/01-than-ngang.png",
+          "sha256": "a0d32eb1bc87d2e31e5efde2c801e46c7db3dccb325b9571fd0598f66ee2ff5f",
+          "asset_id": "SRC-0057"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-ba01-tf/wb13-xanh-la-soc-den/02-doi-goc-cheo.png",
+          "sha256": "d6525da0d1388c0be600ed257e2891452b26ceeb6000b08f2142cda5bbfc5398",
+          "asset_id": "SRC-0058"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-ba01-tf/wb13-xanh-la-soc-den/03-doi-lo-de.png",
+          "sha256": "713a2565ccded2828cd6a02fa5ca1a92dbe50de6438273f5b2b6b05c0a76bb8b",
+          "asset_id": "SRC-0059"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/04-WORKSPACE/sources/legacy-ai/Winbro/winbro-ba01-tf/wb13-xanh-la-soc-den/04-can-than.png",
+          "sha256": "6035779277093b0415333bbe63a13794d32de9bc6ac92cb4748f340be2db1f5d",
+          "asset_id": "SRC-0060"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1434028808943060",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1434028808943060",
+          "status_at_observation": "published",
+          "observed_local": "29/10/2026 10:25:25",
+          "source": "stored_29_October_publication_record",
+          "readback_verified": true,
+          "photo_ids_in_order": [
+            "1434028525609755",
+            "1434028602276414",
+            "1434028662276408",
+            "1434028728943068"
+          ],
+          "later_report": {
+            "status": "reported_deleted_by_Dung",
+            "reported_on": "2026-11-08",
+            "independently_verified": false
+          },
+          "historical_caption_sha256": "b58187f07c91fb8a20609eae2ab388395ad9c1ddaf41137a22ff80bd95682522",
+          "caption_hash_matches_retained_text": true
+        }
+      ],
+      "internal_notes": "- CTA chính: nhắn tin cho chính Page đăng bài; không dẫn Messenger sang Page khác.\n- Website là link xem thêm, không đổi đích quảng cáo thành website. Khi dựng quảng cáo chọn Messenger/nút Gửi tin nhắn và kiểm tra khả năng dùng bài có sẵn.\n- Không hứa hàng sẵn hoặc nhận trong ba ngày; kiểm tra mẫu–màu trước khi xác nhận đơn."
+    }
+  ]
+}

@@ -1,0 +1,1312 @@
+{
+  "schema_version": 1,
+  "batch_date": "2026-11-15",
+  "consolidated_at": "2026-11-25T09:47:53.514853+00:00",
+  "path_base": "repository_root_for_images; batch_directory_for_captions",
+  "posts": [
+    {
+      "id": "V01",
+      "title": "Vapor Elite 17 — Trắng–vàng",
+      "caption_file": "captions/V01.md",
+      "caption_sha256": "a9fa6fe1e5b75450a500c754fab6a43788200b82307f69024e9eb14f2461d5fe",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/01-pair-top-v02.png",
+          "sha256": "f45e1c5a94fd41b298184287d0c64c2bceba0ae2f0d9f60dc48fca35a34201c1",
+          "image_id": "IMG-PILOT-009"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/02-diagonal-silhouette-v01.png",
+          "sha256": "d2524f39673d954c30422bba0998211cd2370d10428e2c95a9340ee5d153b912",
+          "image_id": "IMG-PILOT-002"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/03-inner-side-v01.png",
+          "sha256": "71682e7da68ec3b7054a1262b3d17d5b4a2cf0f175644ad45fe8bec857a11ca7",
+          "image_id": "IMG-PILOT-003"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/04-sole-and-upper-v01.png",
+          "sha256": "d874e77e771f7150766b90141d2534a1549a774ffdc6955f2bf92426826bdde6",
+          "image_id": "IMG-PILOT-006"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/05-full-sole-v02.png",
+          "sha256": "357d7dc4c00988a35fbfd57808db5d62b7eafcbb47dc6d71e02839110a4dffd1",
+          "image_id": "IMG-PILOT-011"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/06-heel-v02.png",
+          "sha256": "b8d7ec1deab49f88da6fd564e58d2d4d592930b68530fe130afa6ee2ccc7a389",
+          "image_id": "IMG-PILOT-010"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/07-toe-detail-v02.png",
+          "sha256": "cfe3baae89568b6e78b4810777f2edbfbf062d903ce5c59c3bce9b337e822062",
+          "image_id": "IMG-PILOT-012"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/08-tongue-collar-v02.png",
+          "sha256": "35c691c6758d5ee2dc0891bcdccf06431bd4ea9199d8107ae89296f11d4d3ec6",
+          "image_id": "IMG-PILOT-013"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1451611273851480",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1451611273851480",
+          "created_time": "2026-11-15T06:25:18+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1450437637196904",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1450437637196904",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "e57b0c12-86bb-4822-9a1a-77f59531bdac",
+          "photo_ids_in_order": [
+            "1450436967196971",
+            "1450437030530298",
+            "1450437097196958",
+            "1450437167196951",
+            "1450437343863600",
+            "1450437467196921",
+            "1450437537196914",
+            "1450437590530242"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1450437637196904"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1785734780221790",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1785734780221790",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "42aa18d9-797a-4d74-b2a7-29d58d8aa515",
+          "photo_ids_in_order": [
+            "1785734260221842",
+            "1785734316888503",
+            "1785734383555163",
+            "1785734433555158",
+            "1785734500221818",
+            "1785734560221812",
+            "1785734626888472",
+            "1785734693555132"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1785734780221790"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1454697230086724",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1454697230086724",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "0a1822b9-66da-4109-81ec-f84994762a77",
+          "photo_ids_in_order": [
+            "1454696686753445",
+            "1454696753420105",
+            "1454696800086767",
+            "1454696870086760",
+            "1454696956753418",
+            "1454697046753409",
+            "1454697110086736",
+            "1454697176753396"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1454697230086724"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1694482339049014",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1694482339049014",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "20bd9fdf-19e7-4816-a709-552d5eb7dee2",
+          "photo_ids_in_order": [
+            "1694481705715744",
+            "1694481762382405",
+            "1694481822382399",
+            "1694481879049060",
+            "1694481942382387",
+            "1694481999049048",
+            "1694482095715705",
+            "1694482259049022"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1694482339049014"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "V01 - Vapor Elite 17 - Trắng–vàng",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/01-pair-top-v02.png",
+            "sha256": "f45e1c5a94fd41b298184287d0c64c2bceba0ae2f0d9f60dc48fca35a34201c1",
+            "handoff_filename": "01-01-pair-top-v02.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/02-diagonal-silhouette-v01.png",
+            "sha256": "d2524f39673d954c30422bba0998211cd2370d10428e2c95a9340ee5d153b912",
+            "handoff_filename": "02-02-diagonal-silhouette-v01.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/03-inner-side-v01.png",
+            "sha256": "71682e7da68ec3b7054a1262b3d17d5b4a2cf0f175644ad45fe8bec857a11ca7",
+            "handoff_filename": "03-03-inner-side-v01.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/04-sole-and-upper-v01.png",
+            "sha256": "d874e77e771f7150766b90141d2534a1549a774ffdc6955f2bf92426826bdde6",
+            "handoff_filename": "04-04-sole-and-upper-v01.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/05-full-sole-v02.png",
+            "sha256": "357d7dc4c00988a35fbfd57808db5d62b7eafcbb47dc6d71e02839110a4dffd1",
+            "handoff_filename": "05-05-full-sole-v02.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/06-heel-v02.png",
+            "sha256": "b8d7ec1deab49f88da6fd564e58d2d4d592930b68530fe130afa6ee2ccc7a389",
+            "handoff_filename": "06-06-heel-v02.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/07-toe-detail-v02.png",
+            "sha256": "cfe3baae89568b6e78b4810777f2edbfbf062d903ce5c59c3bce9b337e822062",
+            "handoff_filename": "07-07-toe-detail-v02.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/08-tongue-collar-v02.png",
+            "sha256": "35c691c6758d5ee2dc0891bcdccf06431bd4ea9199d8107ae89296f11d4d3ec6",
+            "handoff_filename": "08-08-tongue-collar-v02.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      }
+    },
+    {
+      "id": "V02",
+      "title": "Vapor Elite 17 — Hồng–đen",
+      "caption_file": "captions/V02.md",
+      "caption_sha256": "a33e5cc73f14a040d73f9d2fa541410cb9fc7a3e3fbbf000ee5276b167b78cb9",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/01-pair-top-v01.png",
+          "sha256": "f8037f48bc6e3839f51fd14cb8475c667c1844c7d59ce9e6165f7727b7448038",
+          "image_id": "IMG-BATCH-arrow-pink-black-01"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/02-outer-silhouette-v01.png",
+          "sha256": "c808778db2e33445a8443fec132e9309a50393e549f7536681965e38bd47d62a",
+          "image_id": "IMG-BATCH-arrow-pink-black-02"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/03-inner-side-v01.png",
+          "sha256": "c8c9e670e8860a650bb8b7ba9a66def2705d56b8b7146d5903b36bf3812fd0a1",
+          "image_id": "IMG-BATCH-arrow-pink-black-03"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/04-sole-and-upper-v01.png",
+          "sha256": "f1ae39144b8e8f12ee3c3b8d17ddf78d64a32f2d811f935cdf0dbad80580ea84",
+          "image_id": "IMG-BATCH-arrow-pink-black-04"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/05-full-sole-v01.png",
+          "sha256": "29fa5104ad08fa0688ba097f2a1c98a3fc018851940545002aa5d1a9c535f78f",
+          "image_id": "IMG-BATCH-arrow-pink-black-05"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/06-heel-v02.png",
+          "sha256": "847133981a34c35fad66ba0572c0312767a14d1577620b97ddba35e3bd5b128f",
+          "image_id": "IMG-BATCH-arrow-pink-black-06-v02"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/07-toe-detail-v01.png",
+          "sha256": "b3f380afbd5e9756175aec7e592a7063b7ae4114c0324e2e0a8c1def9debe469",
+          "image_id": "IMG-BATCH-arrow-pink-black-07"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/08-tongue-collar-v01.png",
+          "sha256": "a0c396168ee02a84a446d0a3bef7e979573a4985183cbc10c569d290a1533690",
+          "image_id": "IMG-BATCH-arrow-pink-black-08"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1451612587184682",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1451612587184682",
+          "created_time": "2026-11-15T06:26:21+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1450438490530152",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1450438490530152",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "471a2cd4-78da-4c4a-b4e7-9ecf6ac13407",
+          "photo_ids_in_order": [
+            "1450437813863553",
+            "1450437913863543",
+            "1450437963863538",
+            "1450438040530197",
+            "1450438170530184",
+            "1450438243863510",
+            "1450438320530169",
+            "1450438393863495"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1450438490530152"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1785735793555022",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1785735793555022",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "027971e6-da33-4ac5-b9fe-8a670a9070a2",
+          "photo_ids_in_order": [
+            "1785735093555092",
+            "1785735173555084",
+            "1785735236888411",
+            "1785735336888401",
+            "1785735396888395",
+            "1785735520221716",
+            "1785735666888368",
+            "1785735740221694"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1785735793555022"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1454698120086635",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1454698120086635",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "fc3d1378-b76a-4606-9541-77b4e1e2ca70",
+          "photo_ids_in_order": [
+            "1454697486753365",
+            "1454697620086685",
+            "1454697690086678",
+            "1454697763420004",
+            "1454697850086662",
+            "1454697920086655",
+            "1454698000086647",
+            "1454698060086641"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1454698120086635"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1694483029048945",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1694483029048945",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "58980431-c420-4c5c-8c24-47640307f10c",
+          "photo_ids_in_order": [
+            "1694482485715666",
+            "1694482535715661",
+            "1694482605715654",
+            "1694482662382315",
+            "1694482725715642",
+            "1694482812382300",
+            "1694482885715626",
+            "1694482962382285"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1694483029048945"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "V02 - Vapor Elite 17 - Hồng–đen",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/01-pair-top-v01.png",
+            "sha256": "f8037f48bc6e3839f51fd14cb8475c667c1844c7d59ce9e6165f7727b7448038",
+            "handoff_filename": "01-01-pair-top-v01.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/02-outer-silhouette-v01.png",
+            "sha256": "c808778db2e33445a8443fec132e9309a50393e549f7536681965e38bd47d62a",
+            "handoff_filename": "02-02-outer-silhouette-v01.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/03-inner-side-v01.png",
+            "sha256": "c8c9e670e8860a650bb8b7ba9a66def2705d56b8b7146d5903b36bf3812fd0a1",
+            "handoff_filename": "03-03-inner-side-v01.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/04-sole-and-upper-v01.png",
+            "sha256": "f1ae39144b8e8f12ee3c3b8d17ddf78d64a32f2d811f935cdf0dbad80580ea84",
+            "handoff_filename": "04-04-sole-and-upper-v01.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/05-full-sole-v01.png",
+            "sha256": "29fa5104ad08fa0688ba097f2a1c98a3fc018851940545002aa5d1a9c535f78f",
+            "handoff_filename": "05-05-full-sole-v01.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/06-heel-v02.png",
+            "sha256": "847133981a34c35fad66ba0572c0312767a14d1577620b97ddba35e3bd5b128f",
+            "handoff_filename": "06-06-heel-v02.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/07-toe-detail-v01.png",
+            "sha256": "b3f380afbd5e9756175aec7e592a7063b7ae4114c0324e2e0a8c1def9debe469",
+            "handoff_filename": "07-07-toe-detail-v01.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/08-tongue-collar-v01.png",
+            "sha256": "a0c396168ee02a84a446d0a3bef7e979573a4985183cbc10c569d290a1533690",
+            "handoff_filename": "08-08-tongue-collar-v01.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      }
+    },
+    {
+      "id": "V03",
+      "title": "Vapor Elite 17 — Xanh ngọc–tím",
+      "caption_file": "captions/V03.md",
+      "caption_sha256": "ff120c9e3af46d193df32dcf49992deb5fe155b9853192a14c4dda6533e8b777",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/01-pair-top-v01.png",
+          "sha256": "d11e19de0e2e15516311d2b98435446a2ba657d8e45c924ad396e1f2f34b4db8",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-01"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/02-outer-silhouette-v01.png",
+          "sha256": "8fee89cf5010f00f20dcbbad55146f443bc02131381cb144874e8052cf2e76ae",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-02"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/03-inner-side-v01.png",
+          "sha256": "a88348fc40d94ca04d76ed67ede0e75ad3fabf5ac687345061ae39ccb23ff2f9",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-03"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/04-sole-and-upper-v01.png",
+          "sha256": "d4f4c2e0d2ec9166534574a4797fb6a47797a234ad309703b379450f12332832",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-04"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/05-full-sole-v01.png",
+          "sha256": "50ae3d24ae4455943f29be1a18af8c16670924a4389cb20438cf6e0b0044c045",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-05"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/06-heel-v01.png",
+          "sha256": "b49c92fb46cf7103cfcf3117ba5ab31a20fd1adc0d896b875a01047ea43caedf",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-06"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/07-toe-detail-v01.png",
+          "sha256": "b6e44dd39d90d57412b9e4c393d8e40f14f990ee96f8b406ae9056cf51abe72a",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-07"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/08-tongue-collar-v01.png",
+          "sha256": "afd5d090d555148ef1f199f73747817c2fa1ae8a0e2075dbf40dc64ff2fd8c81",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-08"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1451613303851277",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1451613303851277",
+          "created_time": "2026-11-15T06:26:47+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1450439283863406",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1450439283863406",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "506fb5a5-61ec-4cd9-8e95-ad89662c17da",
+          "photo_ids_in_order": [
+            "1450438647196803",
+            "1450438763863458",
+            "1450438820530119",
+            "1450438903863444",
+            "1450438970530104",
+            "1450439033863431",
+            "1450439113863423",
+            "1450439217196746"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1450439283863406"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1785736583554943",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1785736583554943",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "51377152-2807-40db-85eb-1469cdaeb596",
+          "photo_ids_in_order": [
+            "1785735980221670",
+            "1785736116888323",
+            "1785736190221649",
+            "1785736266888308",
+            "1785736320221636",
+            "1785736380221630",
+            "1785736450221623",
+            "1785736520221616"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1785736583554943"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1454698933419887",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1454698933419887",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "412296d5-fe97-4026-8605-a573bfda7b57",
+          "photo_ids_in_order": [
+            "1454698286753285",
+            "1454698366753277",
+            "1454698520086595",
+            "1454698593419921",
+            "1454698660086581",
+            "1454698736753240",
+            "1454698813419899",
+            "1454698893419891"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1454698933419887"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1694483839048864",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1694483839048864",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "5c4194e8-a304-462c-bde6-785bb60a6d46",
+          "photo_ids_in_order": [
+            "1694483222382259",
+            "1694483332382248",
+            "1694483412382240",
+            "1694483472382234",
+            "1694483555715559",
+            "1694483619048886",
+            "1694483699048878",
+            "1694483762382205"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1694483839048864"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "V03 - Vapor Elite 17 - Xanh ngọc–tím",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/01-pair-top-v01.png",
+            "sha256": "d11e19de0e2e15516311d2b98435446a2ba657d8e45c924ad396e1f2f34b4db8",
+            "handoff_filename": "01-01-pair-top-v01.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/02-outer-silhouette-v01.png",
+            "sha256": "8fee89cf5010f00f20dcbbad55146f443bc02131381cb144874e8052cf2e76ae",
+            "handoff_filename": "02-02-outer-silhouette-v01.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/03-inner-side-v01.png",
+            "sha256": "a88348fc40d94ca04d76ed67ede0e75ad3fabf5ac687345061ae39ccb23ff2f9",
+            "handoff_filename": "03-03-inner-side-v01.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/04-sole-and-upper-v01.png",
+            "sha256": "d4f4c2e0d2ec9166534574a4797fb6a47797a234ad309703b379450f12332832",
+            "handoff_filename": "04-04-sole-and-upper-v01.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/05-full-sole-v01.png",
+            "sha256": "50ae3d24ae4455943f29be1a18af8c16670924a4389cb20438cf6e0b0044c045",
+            "handoff_filename": "05-05-full-sole-v01.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/06-heel-v01.png",
+            "sha256": "b49c92fb46cf7103cfcf3117ba5ab31a20fd1adc0d896b875a01047ea43caedf",
+            "handoff_filename": "06-06-heel-v01.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/07-toe-detail-v01.png",
+            "sha256": "b6e44dd39d90d57412b9e4c393d8e40f14f990ee96f8b406ae9056cf51abe72a",
+            "handoff_filename": "07-07-toe-detail-v01.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/08-tongue-collar-v01.png",
+            "sha256": "afd5d090d555148ef1f199f73747817c2fa1ae8a0e2075dbf40dc64ff2fd8c81",
+            "handoff_filename": "08-08-tongue-collar-v01.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      }
+    },
+    {
+      "id": "V04",
+      "title": "Vapor Elite 17 — Đỏ–trắng",
+      "caption_file": "captions/V04.md",
+      "caption_sha256": "668205118553f960f6ffc6757497cc4e84b102b326941f67b386d269e382696e",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/01-pair-top-v01.png",
+          "sha256": "93d252cc54d9138c3c3d499a34e248193baab8d6d34237d596a89fe3c5a38ffd",
+          "image_id": "IMG-BATCH-arrow-red-white-01"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/02-outer-silhouette-v01.png",
+          "sha256": "3bdaaeeb623efb9e0f13c95d3e94f163319f61e52e6b46bdb891a85975c16437",
+          "image_id": "IMG-BATCH-arrow-red-white-02"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/03-inner-side-v01.png",
+          "sha256": "38f9fd817e359f079aad080dcafafc4ab971747385bfc1302582cb54f8c1adf0",
+          "image_id": "IMG-BATCH-arrow-red-white-03"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/04-sole-and-upper-v01.png",
+          "sha256": "7efc58cfd4ce9b82f5055316525f666603017196f575bda50be334e1dcf457e0",
+          "image_id": "IMG-BATCH-arrow-red-white-04"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/05-full-sole-v01.png",
+          "sha256": "6eb476944749710af647f7b2fc7ca2059f8db042851dd98d26126aa69b62e489",
+          "image_id": "IMG-BATCH-arrow-red-white-05"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/06-heel-v01.png",
+          "sha256": "8b32f99a8c5d304043d8ca683efd77b0446a36bde6ffff6c86fa28ef75c9b64d",
+          "image_id": "IMG-BATCH-arrow-red-white-06"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/07-toe-detail-v01.png",
+          "sha256": "f9fcd3d90c7d6afb739d77c12422602acbe89091b2dbb8b07905e2f236425bd6",
+          "image_id": "IMG-BATCH-arrow-red-white-07"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/08-tongue-collar-v01.png",
+          "sha256": "340c8d1be3df414fa78ea8422b31edc0a383ffc84d58632667ff0289d57b0539",
+          "image_id": "IMG-BATCH-arrow-red-white-08"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1451614123851195",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1451614123851195",
+          "created_time": "2026-11-15T06:27:14+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1450440223863312",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1450440223863312",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "855ab93a-8ae9-43a1-ba06-0bd150989d30",
+          "photo_ids_in_order": [
+            "1450439433863391",
+            "1450439523863382",
+            "1450439613863373",
+            "1450439723863362",
+            "1450439813863353",
+            "1450439917196676",
+            "1450440013863333",
+            "1450440157196652"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1450440223863312"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1785737383554863",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1785737383554863",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "57ac1512-78ca-4d9b-ace9-e82df6e0bbb9",
+          "photo_ids_in_order": [
+            "1785736743554927",
+            "1785736806888254",
+            "1785736883554913",
+            "1785736966888238",
+            "1785737020221566",
+            "1785737106888224",
+            "1785737246888210",
+            "1785737320221536"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1785737383554863"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1454699776753136",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1454699776753136",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "fbab28ea-da05-4948-a021-d841cc4eddd9",
+          "photo_ids_in_order": [
+            "1454699083419872",
+            "1454699136753200",
+            "1454699230086524",
+            "1454699320086515",
+            "1454699410086506",
+            "1454699493419831",
+            "1454699576753156",
+            "1454699660086481"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1454699776753136"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1694484669048781",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1694484669048781",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "e3c5a752-e6f9-4746-967b-2e6ebac8c674",
+          "photo_ids_in_order": [
+            "1694484039048844",
+            "1694484145715500",
+            "1694484212382160",
+            "1694484332382148",
+            "1694484419048806",
+            "1694484495715465",
+            "1694484565715458",
+            "1694484625715452"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1694484669048781"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "V04 - Vapor Elite 17 - Đỏ–trắng",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/01-pair-top-v01.png",
+            "sha256": "93d252cc54d9138c3c3d499a34e248193baab8d6d34237d596a89fe3c5a38ffd",
+            "handoff_filename": "01-01-pair-top-v01.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/02-outer-silhouette-v01.png",
+            "sha256": "3bdaaeeb623efb9e0f13c95d3e94f163319f61e52e6b46bdb891a85975c16437",
+            "handoff_filename": "02-02-outer-silhouette-v01.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/03-inner-side-v01.png",
+            "sha256": "38f9fd817e359f079aad080dcafafc4ab971747385bfc1302582cb54f8c1adf0",
+            "handoff_filename": "03-03-inner-side-v01.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/04-sole-and-upper-v01.png",
+            "sha256": "7efc58cfd4ce9b82f5055316525f666603017196f575bda50be334e1dcf457e0",
+            "handoff_filename": "04-04-sole-and-upper-v01.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/05-full-sole-v01.png",
+            "sha256": "6eb476944749710af647f7b2fc7ca2059f8db042851dd98d26126aa69b62e489",
+            "handoff_filename": "05-05-full-sole-v01.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/06-heel-v01.png",
+            "sha256": "8b32f99a8c5d304043d8ca683efd77b0446a36bde6ffff6c86fa28ef75c9b64d",
+            "handoff_filename": "06-06-heel-v01.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/07-toe-detail-v01.png",
+            "sha256": "f9fcd3d90c7d6afb739d77c12422602acbe89091b2dbb8b07905e2f236425bd6",
+            "handoff_filename": "07-07-toe-detail-v01.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/08-tongue-collar-v01.png",
+            "sha256": "340c8d1be3df414fa78ea8422b31edc0a383ffc84d58632667ff0289d57b0539",
+            "handoff_filename": "08-08-tongue-collar-v01.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      }
+    },
+    {
+      "id": "V05",
+      "title": "Vapor Elite 17 — Gom 4 màu",
+      "caption_file": "captions/V05.md",
+      "caption_sha256": "2b0007c0affabbdc6abfa586753d48774ecf48b53e45bf0e253a4d234657c754",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/01-pair-top-v02.png",
+          "sha256": "f45e1c5a94fd41b298184287d0c64c2bceba0ae2f0d9f60dc48fca35a34201c1",
+          "image_id": "IMG-PILOT-009"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/01-pair-top-v01.png",
+          "sha256": "f8037f48bc6e3839f51fd14cb8475c667c1844c7d59ce9e6165f7727b7448038",
+          "image_id": "IMG-BATCH-arrow-pink-black-01"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/01-pair-top-v01.png",
+          "sha256": "d11e19de0e2e15516311d2b98435446a2ba657d8e45c924ad396e1f2f34b4db8",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-01"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/01-pair-top-v01.png",
+          "sha256": "93d252cc54d9138c3c3d499a34e248193baab8d6d34237d596a89fe3c5a38ffd",
+          "image_id": "IMG-BATCH-arrow-red-white-01"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1451614887184452",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1451614887184452",
+          "created_time": "2026-11-15T06:27:44+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1450440667196601",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1450440667196601",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "59bc569a-1e6c-49b7-844c-e55dff22831a",
+          "photo_ids_in_order": [
+            "1450440390529962",
+            "1450440443863290",
+            "1450440510529950",
+            "1450440617196606"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 4,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1450440667196601"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1785738006888134",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1785738006888134",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "53df6bb9-1e88-4b51-b84e-0e157032c2c1",
+          "photo_ids_in_order": [
+            "1785737596888175",
+            "1785737696888165",
+            "1785737826888152",
+            "1785737890221479"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 4,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1785738006888134"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1454700163419764",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1454700163419764",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "f75c0072-096f-404a-9381-3af6951a38ef",
+          "photo_ids_in_order": [
+            "1454699900086457",
+            "1454699970086450",
+            "1454700046753109",
+            "1454700110086436"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 4,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1454700163419764"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1694485135715401",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1694485135715401",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "7606fe63-e69e-4279-9c2d-4a6b7c4d0df5",
+          "photo_ids_in_order": [
+            "1694484819048766",
+            "1694484895715425",
+            "1694485002382081",
+            "1694485072382074"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 4,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1694485135715401"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "V05 - Vapor Elite 17 - Gom 4 màu",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/01-pair-top-v02.png",
+            "sha256": "f45e1c5a94fd41b298184287d0c64c2bceba0ae2f0d9f60dc48fca35a34201c1",
+            "handoff_filename": "01-01-pair-top-v02.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/01-pair-top-v01.png",
+            "sha256": "f8037f48bc6e3839f51fd14cb8475c667c1844c7d59ce9e6165f7727b7448038",
+            "handoff_filename": "02-01-pair-top-v01.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/01-pair-top-v01.png",
+            "sha256": "d11e19de0e2e15516311d2b98435446a2ba657d8e45c924ad396e1f2f34b4db8",
+            "handoff_filename": "03-01-pair-top-v01.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/01-pair-top-v01.png",
+            "sha256": "93d252cc54d9138c3c3d499a34e248193baab8d6d34237d596a89fe3c5a38ffd",
+            "handoff_filename": "04-01-pair-top-v01.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      }
+    },
+    {
+      "id": "M01",
+      "title": "Messi — Trắng–hồng",
+      "caption_file": "captions/M01.md",
+      "caption_sha256": "21882cb630b0144e05ad1e9abdc84c15aa6714955a941ea6cb1827e3ed6b137b",
+      "caption_basis": "live_main_Page",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/01-pair-top-v01.png",
+          "sha256": "aeb9b4145f28dda326e6bb1fd44be505235cc3ce81df80b57b6c811579b72ed0",
+          "image_id": "IMG-BATCH-messi-white-pink-01"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/02-outer-silhouette-v01.png",
+          "sha256": "d160a0983ae5c9539e73b9943f8f859c81cb83741021dfa5b822416faec8e5f5",
+          "image_id": "IMG-BATCH-messi-white-pink-02"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/03-inner-side-v01.png",
+          "sha256": "be2a07f7edd3c6dacb03f6451b1eca50fd28bdebce668de8761c9513a40aa20d",
+          "image_id": "IMG-BATCH-messi-white-pink-03"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/04-sole-and-upper-v01.png",
+          "sha256": "e080b0838936ce4565c9f495e18dc066c59291d90331a260e9fb6cd86deac7a4",
+          "image_id": "IMG-BATCH-messi-white-pink-04"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/05-full-sole-v01.png",
+          "sha256": "bcad197deb30e9553e611aafa3c2e7419b9fe372d1cdb95a823c5de5b6de897a",
+          "image_id": "IMG-BATCH-messi-white-pink-05"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/06-heel-v01.png",
+          "sha256": "e40dc1a229b04d96399af4fcb12e452b067f299927aaf282fa7c4196e573a76b",
+          "image_id": "IMG-BATCH-messi-white-pink-06"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/07-toe-detail-v01.png",
+          "sha256": "45f5cd68bdee207adacfa0be6959c80f322d1ce2789c8e29cd08b41ec002b794",
+          "image_id": "IMG-BATCH-messi-white-pink-07"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/08-tongue-collar-v01.png",
+          "sha256": "45a7f5fe554bb55426ec77d37b8d47b89b50fc5239a7b62608d4fff44e0fdec3",
+          "image_id": "IMG-BATCH-messi-white-pink-08"
+        }
+      ],
+      "image_order_basis": "prepared_local_selection",
+      "publications": [
+        {
+          "page_id": "693218564214489",
+          "post_id": "693218564214489_1451610047184936",
+          "permalink": "https://www.facebook.com/1036915915321020/posts/1451610047184936",
+          "created_time": "2026-11-15T06:24:18+0000",
+          "status_at_observation": "listed_on_live_page",
+          "observed_at": "2026-11-25T09:36:57+00:00",
+          "source": "live_Meta_Page_posts_via_MCP",
+          "verification_scope": "caption_and_permalink; local_image_selection_is_separate"
+        },
+        {
+          "page_id": "108626009782537",
+          "post_id": "108626009782537_1450441603863174",
+          "permalink": "https://www.facebook.com/1193015669605770/posts/1450441603863174",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "a19a8e1d-c57a-4eb4-be23-6d677f3f5167",
+          "photo_ids_in_order": [
+            "1450440797196588",
+            "1450440863863248",
+            "1450441017196566",
+            "1450441103863224",
+            "1450441160529885",
+            "1450441317196536",
+            "1450441397196528",
+            "1450441540529847"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1193015669605770/posts/1450441603863174"
+          }
+        },
+        {
+          "page_id": "1237400956302616",
+          "post_id": "1237400956302616_1785738676888067",
+          "permalink": "https://www.facebook.com/1402032001925405/posts/1785738676888067",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "a3c30b8a-074e-4505-a33c-bc7cd5691a49",
+          "photo_ids_in_order": [
+            "1785738143554787",
+            "1785738210221447",
+            "1785738263554775",
+            "1785738343554767",
+            "1785738406888094",
+            "1785738496888085",
+            "1785738563554745",
+            "1785738623554739"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1402032001925405/posts/1785738676888067"
+          }
+        },
+        {
+          "page_id": "198202053855881",
+          "post_id": "198202053855881_1454700933419687",
+          "permalink": "https://www.facebook.com/1039380378285080/posts/1454700933419687",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "7ebbce15-aed6-4676-b23d-a88f6cf74641",
+          "photo_ids_in_order": [
+            "1454700300086417",
+            "1454700370086410",
+            "1454700453419735",
+            "1454700520086395",
+            "1454700640086383",
+            "1454700753419705",
+            "1454700823419698",
+            "1454700873419693"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1039380378285080/posts/1454700933419687"
+          }
+        },
+        {
+          "page_id": "860646054138534",
+          "post_id": "860646054138534_1694485905715324",
+          "permalink": "https://www.facebook.com/1428616198968964/posts/1694485905715324",
+          "status_at_observation": "published",
+          "observed_on": "2026-11-15",
+          "source": "stored_MCP_publication_receipt",
+          "operation_id": "3474f062-d25a-4153-a678-47e1ba814907",
+          "photo_ids_in_order": [
+            "1694485299048718",
+            "1694485429048705",
+            "1694485509048697",
+            "1694485609048687",
+            "1694485665715348",
+            "1694485719048676",
+            "1694485799048668",
+            "1694485859048662"
+          ],
+          "verification": {
+            "caption_matches": true,
+            "photo_ids_and_order_match": true,
+            "photo_count": 8,
+            "is_published": true,
+            "permalink_url": "https://www.facebook.com/1428616198968964/posts/1694485905715324"
+          }
+        }
+      ],
+      "desktop_handoff": {
+        "original_folder": "M01 - Messi - Trắng–hồng",
+        "images": [
+          {
+            "position": 1,
+            "path": "photo-workshop/03-READY/By-product/messi/white-pink/01-pair-top-v01.png",
+            "sha256": "aeb9b4145f28dda326e6bb1fd44be505235cc3ce81df80b57b6c811579b72ed0",
+            "handoff_filename": "01-01-pair-top-v01.png"
+          },
+          {
+            "position": 2,
+            "path": "photo-workshop/03-READY/By-product/messi/white-pink/02-outer-silhouette-v01.png",
+            "sha256": "d160a0983ae5c9539e73b9943f8f859c81cb83741021dfa5b822416faec8e5f5",
+            "handoff_filename": "02-02-outer-silhouette-v01.png"
+          },
+          {
+            "position": 3,
+            "path": "photo-workshop/03-READY/By-product/messi/white-pink/03-inner-side-v01.png",
+            "sha256": "be2a07f7edd3c6dacb03f6451b1eca50fd28bdebce668de8761c9513a40aa20d",
+            "handoff_filename": "03-03-inner-side-v01.png"
+          },
+          {
+            "position": 4,
+            "path": "photo-workshop/03-READY/By-product/messi/white-pink/04-sole-and-upper-v01.png",
+            "sha256": "e080b0838936ce4565c9f495e18dc066c59291d90331a260e9fb6cd86deac7a4",
+            "handoff_filename": "04-04-sole-and-upper-v01.png"
+          },
+          {
+            "position": 5,
+            "path": "photo-workshop/03-READY/By-product/messi/white-pink/05-full-sole-v01.png",
+            "sha256": "bcad197deb30e9553e611aafa3c2e7419b9fe372d1cdb95a823c5de5b6de897a",
+            "handoff_filename": "05-05-full-sole-v01.png"
+          },
+          {
+            "position": 6,
+            "path": "photo-workshop/03-READY/By-product/messi/white-pink/06-heel-v01.png",
+            "sha256": "e40dc1a229b04d96399af4fcb12e452b067f299927aaf282fa7c4196e573a76b",
+            "handoff_filename": "06-06-heel-v01.png"
+          },
+          {
+            "position": 7,
+            "path": "photo-workshop/03-READY/By-product/messi/white-pink/07-toe-detail-v01.png",
+            "sha256": "45f5cd68bdee207adacfa0be6959c80f322d1ce2789c8e29cd08b41ec002b794",
+            "handoff_filename": "07-07-toe-detail-v01.png"
+          },
+          {
+            "position": 8,
+            "path": "photo-workshop/03-READY/By-product/messi/white-pink/08-tongue-collar-v01.png",
+            "sha256": "45a7f5fe554bb55426ec77d37b8d47b89b50fc5239a7b62608d4fff44e0fdec3",
+            "handoff_filename": "08-08-tongue-collar-v01.png"
+          }
+        ],
+        "order_basis": "filename_order_at_consolidation; not_proof_of_actual_Meta_order"
+      }
+    }
+  ]
+}
