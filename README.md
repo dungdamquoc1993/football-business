@@ -32,10 +32,10 @@ nhiệm vụ riêng, không thực hiện trong repo này.
 
 ## File làm việc và dữ liệu riêng
 
-- `.work/`: nguồn riêng của các lượt nhập cũ và bản làm việc local, có dữ liệu khách,
-  Git bỏ qua. Nguồn nhập hàng đã chuyển lên production và kiểm tra ngày25/11;
-  giữ bản cũ để đối chiếu, tiếp tục công việc qua Admin MCP, không suy file trên
-  máy này là trạng thái server.
+- `.work/<việc>/`: file tạm, Git bỏ qua; dọn sau khi kiểm chứng và lưu kết quả
+  theo [quy ước agent](AGENTS.md). Dữ liệu nhập hàng đã chuyển lên production;
+  tiếp tục qua Admin MCP, không dùng bản local cũ làm trạng thái hiện hành.
+  File chưa thể dọn phải có lý do trong `.work/README.md`.
 - Facebook: dữ liệu/bản nhớ hiện hành thuộc server, truy cập qua MCP theo skill
   Facebook. Thư mục Messenger/SQLite cũ đã xoá theo yêu cầu 06/11.
 - Credentials và cache riêng giữ ngoài Git; không chép vào tài liệu hoặc log.

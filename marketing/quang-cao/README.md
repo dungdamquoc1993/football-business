@@ -21,7 +21,7 @@ Ads đã xác nhận đúng từng link pfbid Dũng gửi qua Page API:
 
 - Dũng chốt đổi nhóm tương tác sáu bài `120252937293610732` trên tài khoản phụ sang 100.000đ/ngày và chạy không ngày kết thúc. Dũng yêu cầu dùng Marketing API qua `META_ADS_USER_ACCESS_TOKEN`.
 - Sau khi Dũng thay token, Meta từ chối đổi loại ngân sách trực tiếp (100/1885256). Đã tạo ad set `120252944848170732` trong cùng campaign `120252937293170732`, dùng lại đúng sáu creative và targeting, tạm dừng ad set cũ rồi bật ad set mới.
-- Đọc lại qua API xác nhận campaign và ad set mới ACTIVE, ngân sách 100.000đ/ngày, không có ngày kết thúc. Sáu ads đang xử lý hoặc chờ duyệt. Insights hôm nay chưa có dòng chi tiêu tại lần kiểm tra sau khi bật. Receipt lưu riêng trong `.work/ads-migrate-20261121/engagement-daily-receipt.json`.
+- Đọc lại qua API xác nhận campaign và ad set mới ACTIVE, ngân sách 100.000đ/ngày, không có ngày kết thúc. Sáu ads đang xử lý hoặc chờ duyệt. Insights hôm nay chưa có dòng chi tiêu tại lần kiểm tra sau khi bật. Tra các ID Meta ở trên để đọc trạng thái hiện hành; receipt local của lượt dựng đã dọn.
 
 ## Định hướng tài khoản quảng cáo — 21/11/2026
 
@@ -32,7 +32,7 @@ Ads đã xác nhận đúng từng link pfbid Dũng gửi qua Page API:
 ## Rà nhu cầu trước khi chia ngân sách — 21/11/2026
 
 - Dũng muốn dựa vào ý định mua thật trước khi chốt ngân sách theo dòng giày, loại quảng cáo và sau đó mới chia giữa hai tài khoản. Phương án đang bàn là 75% Tiempo và 25% dùng chung cho Messi/Vapor, tách riêng màu khi có nhu cầu lặp lại và đủ hàng.
-- Messenger Page chính từ 10:20 ngày 17/11 đến 12:00 ngày 21/11 ghi nhận khách xác nhận 24 đôi Tiempo, 4 Messi và 4 Vapor. Hai đôi Tiempo trong số này chuyển từ ý định kỳ trước sang đã chốt. Số tích lũy theo lựa chọn cuối từ 29/10 là 66/15/4 đôi; đây là xác nhận mua trong chat, bao gồm ca thiếu size, đổi/trả hoặc chưa rõ giao. Vapor kỳ cũ rà theo tên mẫu và ID quảng cáo đã biết. Bằng chứng và phạm vi lưu riêng ở `.work/ads-intent/2026-11-21/summary.json`.
+- Messenger Page chính từ 10:20 ngày 17/11 đến 12:00 ngày 21/11 ghi nhận khách xác nhận 24 đôi Tiempo, 4 Messi và 4 Vapor. Hai đôi Tiempo trong số này chuyển từ ý định kỳ trước sang đã chốt. Số tích lũy theo lựa chọn cuối từ 29/10 là 66/15/4 đôi; đây là xác nhận mua trong chat, bao gồm ca thiếu size, đổi/trả hoặc chưa rõ giao. Vapor kỳ cũ rà theo tên mẫu và ID quảng cáo đã biết. Phạm vi gồm 530 hội thoại nền và 216 hội thoại kỳ mới, giao nhau 42; 145 hội thoại kỳ mới có lịch sử chưa đầy đủ. Bản xuất local đã dọn; tin gốc tra Facebook MCP.
 - Admin ngày 21/11: Tiempo 86 đôi, Messi 46 đôi, Vapor 19 đôi tồn vật lý. Tiempo xanh nhạt móc chanh có 11 lượt chốt kỳ mới và 31 đôi tồn. Vapor đỏ/hồng có hai lượt chốt mỗi màu, cả hai đang thiếu size 41 và mỗi màu còn thiếu thêm một size trong 40–42.
 - Đề xuất lấy 75/25 làm mốc thử cho ngân sách Messenger, dùng nhóm tương tác khi có mục tiêu riêng và khoản thử hữu hạn. Cần chi tiêu theo ad cùng kỳ và số đơn hoặc lượt muốn mua có thể gắn nguồn để đo hiệu quả. Chưa chốt ngân sách hay chỉnh quảng cáo.
 
@@ -50,7 +50,7 @@ Ads đã xác nhận đúng từng link pfbid Dũng gửi qua Page API:
 - Dũng đã đăng sáu bài và giao dựng ads trên tài khoản phụ `1554033896044468`. Tài khoản chính chỉ dùng làm nguồn đọc. Đã xác nhận đủ sáu bài mới trên Page chính qua API.
 - Messenger Messi/Vapor `120252937280520732`, ad set `120252937281760732`, 150.000đ/ngày, 12 ads gồm bài Messi tổng hợp mới `693218564214489_1458069663205641`. Targeting và mẫu mở Messenger khớp nguồn live. Meta từ chối cửa sổ ghi nhận cũ; ad set mới dùng 1 ngày sau nhấp theo yêu cầu API.
 - Tương tác `120252937293170732`, ad set `120252937293610732`, 300.000đ trọn đời, sáu ads dùng lại đúng bài mới, targeting như nguồn live. Lịch 13:32:23 ngày 21/11 đến 13:32:23 ngày 24/11, giờ Việt Nam.
-- Đã đọc lại đủ 18 ads. Cả hai campaign đang PAUSED, quảng cáo đang xử lý hoặc chờ duyệt. Chưa dựng Messenger Tiempo 450.000đ của giai đoạn tiếp theo. Cấu hình và receipt riêng tại `.work/ads-migrate-20261121/`.
+- Đã đọc lại đủ 18 ads. Cả hai campaign đang PAUSED, quảng cáo đang xử lý hoặc chờ duyệt. Chưa dựng Messenger Tiempo 450.000đ của giai đoạn tiếp theo. Đây là trạng thái lúc dựng ngày 21/11; các ID campaign/ad set ở trên dùng để tra Meta, không phụ thuộc script hoặc receipt local.
 
 ## Tra cứu lịch sử set ads
 

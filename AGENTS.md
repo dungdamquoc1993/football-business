@@ -32,6 +32,14 @@ Năm skill chuẩn nằm ở `.agents/skills/` tại gốc workspace; không t�
 Giữ credentials, dữ liệu khách xuất riêng, `.work`, runtime và backup ngoài Git.
 Không in secret khi kiểm tra cấu hình. `outputs/` chỉ dành bản giao phù hợp để lưu
 trong repo, không thêm dữ liệu khách hoặc bản xuất vận hành riêng vào đây.
+
+`.work/<việc>/` chỉ dùng tạm. Trước khi báo xong, kiểm chứng và lưu kết quả cần
+giữ vào hệ thống sở hữu, rồi xoá script dùng một lần, JSON trung gian, bản xuất
+hội thoại, log và ảnh thử; không gom sang archive. Phần tái dùng phải thành
+tooling hoặc tài liệu được duy trì. Việc chưa xong chỉ giữ file cần để tiếp tục
+và ghi lý do. Không xoá nguồn duy nhất, bản giao Dũng yêu cầu, credentials,
+runtime hoặc backup còn cần dùng chỉ vì chúng nằm trong `.work` hay bị ignore.
+
 Repo này không chạy Compose/deploy; đó là nhiệm vụ phần mềm riêng.
 Đổi mã nguồn/push không đồng nghĩa được yêu cầu deploy hoặc tạo giao dịch thử.
 
