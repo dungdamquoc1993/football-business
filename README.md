@@ -11,14 +11,19 @@ repo phần mềm nằm cạnh bên hoặc đọc docs của repo khác. Remote:
 
 Dữ liệu khách, đơn, kho, vận đơn và kế hoạch nhập hàng hiện hành thuộc server,
 đọc/ghi qua MCP đã cấu hình. Repo và bản xuất local không thay database.
-Máy khác chỉ cần bộ skills cùng quyền MCP cho công việc vận hành; không cần
-lấy `.work` hoặc credentials từ máy Mac. Deploy và phát triển ứng dụng là
-nhiệm vụ riêng, không thực hiện trong repo này.
+Các nghiệp vụ đã có hướng dẫn và tools MCP dùng bộ skills cùng quyền MCP;
+không cần lấy `.work` hoặc provider credentials từ máy Mac. Chính sách chưa
+có trong skill/MCP cần được cung cấp khi giao việc liên quan. Deploy và phát
+triển ứng dụng là nhiệm vụ riêng, không thực hiện trong repo này.
 
 Mục tiêu Dũng nêu ngày 25/11/2026: hơn 90% thao tác vận hành số thường xuyên
 có thể giao cho agent hoàn thành bằng bộ skills và MCP được cấp quyền, không
 cần đọc code hoặc lấy file làm việc từ máy cũ. Đây là mục tiêu, chưa phải tỷ lệ
 đã đo. Đánh giá theo lượt việc thực tế hoàn thành, không theo số lượng tools.
+
+Phạm vi Dũng chốt cùng ngày: đăng bài và làm ads tiếp tục mở repo này, dùng
+tài sản local và credentials trong `.env`; chưa yêu cầu các việc đó chạy chỉ
+bằng skills + MCP. Chưa có quyết định đưa toàn bộ tài liệu hoặc tài sản lên server.
 
 ## Mở theo việc
 
