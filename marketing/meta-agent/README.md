@@ -9,8 +9,8 @@
 
 Hai file là bản nguồn Dũng biên soạn. Khi sắp xếp chỉ đổi vị trí/tên, giữ nguyên
 nội dung; sửa câu chữ hoặc cách tư vấn là việc riêng. Các phần chính sách cần
-nhất quán với [chính sách bán hàng](../../chinh_sach_ban_hang.md) và
-[quy trình làm việc](../../quy_trinh_lam_viec.md).
+nhất quán với [chính sách bán hàng](../../handbook/chinh_sach_ban_hang.md) và
+[quy trình làm việc](../../handbook/quy_trinh_lam_viec.md).
 
 Chỉnh file không tự cập nhật Meta. Chỉ ghi đã áp dụng khi thực sự lưu trên Meta
 và có kết quả xác minh. Lịch sử phiên bản dùng Git. Bản tách theo ngày/màu để

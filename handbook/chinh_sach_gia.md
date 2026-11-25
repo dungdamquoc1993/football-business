@@ -72,6 +72,6 @@ ROAS tốt hoặc nhiều đơn chốt là bằng chứng lợi nhuận nếu ch
 để cột “giá từ” không giữ mức cũ. Không thay tồn, giá vốn thực nhập hoặc snapshot
 giá của đơn đã đặt. Không tự sửa giá trị phiếu nhập thành giá C1 chỉ để định giá.
 
-[Skill Admin](.agents/skills/admin-workspace/SKILL.md) hướng dẫn đọc giá, phiếu kho
+[Skill Admin](../.agents/skills/admin-workspace/SKILL.md) hướng dẫn đọc giá, phiếu kho
 và preview/apply catalog qua MCP. Tài liệu này sở hữu quyết định thương mại và
 các ngoại lệ; catalog giữ giá bán thực tế, phiếu kho giữ giá mua thực nhập.

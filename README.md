@@ -1,6 +1,6 @@
 # Football Business — Yêu Bóng Đá Shop
 
-**Trước khi định giá hàng mới hoặc đổi giá:** đọc [chính sách giá](chinh_sach_gia.md) — mặc định chi phí phục vụ theo C1 ×1,8; giữ ngoại lệ và giá chốt riêng của Dũng.
+**Trước khi định giá hàng mới hoặc đổi giá:** đọc [chính sách giá](handbook/chinh_sach_gia.md) — mặc định chi phí phục vụ theo C1 ×1,8; giữ ngoại lệ và giá chốt riêng của Dũng.
 
 ## Phạm vi và nguồn dữ liệu
 
@@ -27,12 +27,13 @@ bằng skills + MCP. Chưa có quyết định đưa toàn bộ tài liệu ho�
 
 ## Mở theo việc
 
-- **Ba tài liệu nền tảng:** [Chính sách bán hàng](chinh_sach_ban_hang.md), [Quy trình làm việc hằng ngày và phát sinh](quy_trinh_lam_viec.md), [Meta Agent](marketing/meta-agent/README.md). Hiện Dũng vận hành toàn bộ; quy trình chia theo đầu việc để có thể bàn giao về sau.
+- **Sổ tay kinh doanh:** [Chính sách bán hàng](handbook/chinh_sach_ban_hang.md), [Chính sách giá](handbook/chinh_sach_gia.md), [Quy trình làm việc hằng ngày và phát sinh](handbook/quy_trinh_lam_viec.md). Hiện Dũng vận hành toàn bộ; quy trình chia theo đầu việc để có thể bàn giao về sau.
+- **Meta Agent:** [hướng dẫn và mô tả sản phẩm](marketing/meta-agent/README.md).
 - **Nhập hàng hằng tuần:** [skill lập kế hoạch và xuất Excel đặt xưởng](.agents/skills/weekly-replenishment/SKILL.md),
   dùng dữ liệu server qua Admin MCP. Nguồn nhập hàng cũ đã được import và kiểm tra
   luồng đọc/ghi production ngày 25/11/2026; tiếp tục công việc từ server.
 - **Ảnh sản phẩm:** [Photo workshop](photo-workshop/README.md) — bỏ ảnh vào, xem duyệt, lấy bộ đã duyệt; hồ sơ nguồn/prompt ở hậu trường.
-- **Giá và nguồn hàng:** [supplier quotes](supplier-quotes/README.md) — báo giá và ghi chú xưởng. Sản phẩm và tồn hiện hành tra Admin MCP.
+- **Nhà cung cấp:** [suppliers](suppliers/README.md) — báo giá, ghi chú sản phẩm và điều khoản xưởng. Sản phẩm và tồn hiện hành tra Admin MCP.
 - **Bài Facebook:** [fanpage-posts](marketing/fanpage-posts/README.md) — caption, metadata và lịch sử từng đợt; ảnh tra workshop.
 - **Quảng cáo và nhận diện:** [ads](marketing/ads/README.md), [logo và ảnh bìa](marketing/nhan-dien/README.md).
 - **Messenger và Facebook:** [skill Facebook](.agents/skills/facebook-workspace/SKILL.md).
