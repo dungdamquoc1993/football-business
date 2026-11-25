@@ -1,0 +1,260 @@
+[
+  {
+    "color": "red-black",
+    "order": 1,
+    "view": "hero-pair",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2977.jpg",
+    "asset_id": "SRC-0378",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/red-black/studio-batch-v01/01-hero-pair.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2977.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (red body and sole, white heel panel, black outer arrow with red edging). Keep the diagonal pair pose and exposed outsole, preserving both shoes and their actual overlap. Give the hero a little extra directional modeling. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Keep the pose and give the shoe a tidy silhouette and punchy but natural contrast. Smooth only minor sample wrinkles, preserve all construction details.",
+    "reuse": "T8-STUDIO-01",
+    "reuse_path": "photo-workshop/02-REVIEW/tiempo-8/red-black/studio-pilot-relight-v01/01-hero-pair.png",
+    "image_id": "IMG-T8-STUDIO-01"
+  },
+  {
+    "color": "red-black",
+    "order": 2,
+    "view": "top-pair",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2976.jpg",
+    "asset_id": "SRC-0380",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/red-black/studio-batch-v01/02-top-pair.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2976.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (red body and sole, white heel panel, black outer arrow with red edging). Preserve the true overhead pair arrangement and spacing, both toes, openings and lace patterns. Keep the shoes parallel if shown parallel; a whole-frame rotation is allowed to point both toes toward the bottom of the square. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "red-black",
+    "order": 3,
+    "view": "outer-side",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2974.jpg",
+    "asset_id": "SRC-0381",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/red-black/studio-batch-v01/03-outer-side.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2974.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (red body and sole, white heel panel, black outer arrow with red edging). Keep the true side profile and toe direction. Preserve the exact outer graphic, heel panel, seams, toe shape and sole outline. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "red-black",
+    "order": 4,
+    "view": "inner-side",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2973.jpg",
+    "asset_id": "SRC-0382",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/red-black/studio-batch-v01/04-inner-side.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2973.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (red body and sole, white heel panel, black outer arrow with red edging). Keep the true inner side, toe direction and single-shoe position. Preserve the panel layout and any visible small graphics exactly. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "red-black",
+    "order": 5,
+    "view": "full-outsole",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2978.jpg",
+    "asset_id": "SRC-0383",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/red-black/studio-batch-v01/05-full-outsole.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2978.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (red body and sole, white heel panel, black outer arrow with red edging). Preserve the original single-outsole viewing angle. Treat tread, every stud shape and position, channels and lettering as immutable source detail. Frame the entire sole without accidental tilt or crop. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "red-black",
+    "order": 6,
+    "view": "straight-heel",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2975.jpg",
+    "asset_id": "SRC-0384",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/red-black/studio-batch-v01/06-straight-heel.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2975.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (red body and sole, white heel panel, black outer arrow with red edging). Keep the straight-on two-heel pose and spacing. Preserve the exact appearance, spelling, placement and number of all heel and sticker markings visible in the source. Keep rear construction and stitching intact. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "red-black",
+    "order": 7,
+    "view": "collar-and-insole",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2980.jpg",
+    "asset_id": "SRC-0385",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/red-black/studio-batch-v01/07-collar-and-insole.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2980.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (red body and sole, white heel panel, black outer arrow with red edging). Keep the photographed close-up, inner opening outline, lace and tongue placement, and the exact visible XSTARS wordmark inside. Keep original crop intent; no invented shoe area and do not reveal hidden details. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "royal-blue-silver",
+    "order": 1,
+    "view": "hero-pair",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2991.jpg",
+    "asset_id": "SRC-0386",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver/studio-batch-v01/01-hero-pair.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2991.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (royal-blue upper, silver outer arrow, white laces and outsole). Keep the diagonal pair pose and exposed outsole, preserving both shoes and their actual overlap. Give the hero a little extra directional modeling. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Keep the pose and give the shoe a tidy silhouette and punchy but natural contrast. Smooth only minor sample wrinkles, preserve all construction details."
+  },
+  {
+    "color": "royal-blue-silver",
+    "order": 2,
+    "view": "top-pair",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2988.jpg",
+    "asset_id": "SRC-0387",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver/studio-batch-v01/02-top-pair.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2988.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (royal-blue upper, silver outer arrow, white laces and outsole). Preserve the true overhead pair arrangement and spacing, both toes, openings and lace patterns. Keep the shoes parallel if shown parallel; a whole-frame rotation is allowed to point both toes toward the bottom of the square. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "royal-blue-silver",
+    "order": 3,
+    "view": "outer-side",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2984.jpg",
+    "asset_id": "SRC-0388",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver/studio-batch-v01/03-outer-side.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2984.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (royal-blue upper, silver outer arrow, white laces and outsole). Keep the true side profile and toe direction. Preserve the exact outer graphic, heel panel, seams, toe shape and sole outline. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "royal-blue-silver",
+    "order": 4,
+    "view": "inner-side",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2985.jpg",
+    "asset_id": "SRC-0389",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver/studio-batch-v01/04-inner-side.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2985.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (royal-blue upper, silver outer arrow, white laces and outsole). Keep the true inner side, toe direction and single-shoe position. Preserve the panel layout and any visible small graphics exactly. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "royal-blue-silver",
+    "order": 5,
+    "view": "full-outsole",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2986.jpg",
+    "asset_id": "SRC-0390",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver/studio-batch-v01/05-full-outsole.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2986.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (royal-blue upper, silver outer arrow, white laces and outsole). Preserve the original single-outsole viewing angle. Treat tread, every stud shape and position, channels and lettering as immutable source detail. Frame the entire sole without accidental tilt or crop. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "royal-blue-silver",
+    "order": 6,
+    "view": "straight-heel",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2987.jpg",
+    "asset_id": "SRC-0391",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver/studio-batch-v01/06-straight-heel.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2987.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (royal-blue upper, silver outer arrow, white laces and outsole). Keep the straight-on two-heel pose and spacing. Preserve the exact appearance, spelling, placement and number of all heel and sticker markings visible in the source. Keep rear construction and stitching intact. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "royal-blue-silver",
+    "order": 7,
+    "view": "collar-and-insole",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2992.jpg",
+    "asset_id": "SRC-0392",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver/studio-batch-v01/07-collar-and-insole.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2992.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (royal-blue upper, silver outer arrow, white laces and outsole). Keep the photographed close-up, inner opening outline, lace and tongue placement, and the exact visible XSTARS wordmark inside. Keep original crop intent; no invented shoe area and do not reveal hidden details. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "white-gold",
+    "order": 1,
+    "view": "hero-pair",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_3001.jpg",
+    "asset_id": "SRC-0379",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/white-gold/studio-batch-v01/01-hero-pair.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_3001.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (white upper, gold outer arrow with black edging, yellow outsole). Keep the diagonal pair pose and exposed outsole, preserving both shoes and their actual overlap. Give the hero a little extra directional modeling. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Keep the pose and give the shoe a tidy silhouette and punchy but natural contrast. Smooth only minor sample wrinkles, preserve all construction details.",
+    "reuse": "T8-STUDIO-04",
+    "reuse_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold/studio-pilot-relight-v02/01-hero-pair.png",
+    "image_id": "IMG-T8-STUDIO-04"
+  },
+  {
+    "color": "white-gold",
+    "order": 2,
+    "view": "top-pair",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2997.jpg",
+    "asset_id": "SRC-0393",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/white-gold/studio-batch-v01/02-top-pair.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2997.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (white upper, gold outer arrow with black edging, yellow outsole). Preserve the true overhead pair arrangement and spacing, both toes, openings and lace patterns. Keep the shoes parallel if shown parallel; a whole-frame rotation is allowed to point both toes toward the bottom of the square. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "white-gold",
+    "order": 3,
+    "view": "outer-side",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2993.jpg",
+    "asset_id": "SRC-0394",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/white-gold/studio-batch-v01/03-outer-side.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2993.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (white upper, gold outer arrow with black edging, yellow outsole). Keep the true side profile and toe direction. Preserve the exact outer graphic, heel panel, seams, toe shape and sole outline. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "white-gold",
+    "order": 4,
+    "view": "inner-side",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2994.jpg",
+    "asset_id": "SRC-0395",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/white-gold/studio-batch-v01/04-inner-side.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2994.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (white upper, gold outer arrow with black edging, yellow outsole). Keep the true inner side, toe direction and single-shoe position. Preserve the panel layout and any visible small graphics exactly. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "white-gold",
+    "order": 5,
+    "view": "full-outsole",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2995.jpg",
+    "asset_id": "SRC-0396",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/white-gold/studio-batch-v01/05-full-outsole.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2995.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (white upper, gold outer arrow with black edging, yellow outsole). Preserve the original single-outsole viewing angle. Treat tread, every stud shape and position, channels and lettering as immutable source detail. Frame the entire sole without accidental tilt or crop. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "white-gold",
+    "order": 6,
+    "view": "straight-heel",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_2996.jpg",
+    "asset_id": "SRC-0397",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/white-gold/studio-batch-v01/06-straight-heel.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_2996.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (white upper, gold outer arrow with black edging, yellow outsole). Keep the straight-on two-heel pose and spacing. Preserve the exact appearance, spelling, placement and number of all heel and sticker markings visible in the source. Keep rear construction and stitching intact. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "white-gold",
+    "order": 7,
+    "view": "collar-and-insole",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_3002.jpg",
+    "asset_id": "SRC-0398",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/white-gold/studio-batch-v01/07-collar-and-insole.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_3002.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (white upper, gold outer arrow with black edging, yellow outsole). Keep the photographed close-up, inner opening outline, lace and tongue placement, and the exact visible XSTARS wordmark inside. Keep original crop intent; no invented shoe area and do not reveal hidden details. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "sky-blue-lime",
+    "order": 1,
+    "view": "hero-pair",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_3012.jpg",
+    "asset_id": "SRC-0399",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime/studio-batch-v01/01-hero-pair.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_3012.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (sky-blue upper and outsole, white heel, and lime details). Keep the diagonal pair pose and exposed outsole, preserving both shoes and their actual overlap. Give the hero a little extra directional modeling. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Keep the pose and give the shoe a tidy silhouette and punchy but natural contrast. Smooth only minor sample wrinkles, preserve all construction details."
+  },
+  {
+    "color": "sky-blue-lime",
+    "order": 2,
+    "view": "top-pair",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_3011.jpg",
+    "asset_id": "SRC-0400",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime/studio-batch-v01/02-top-pair.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_3011.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (sky-blue upper and outsole, white heel, and lime details). Preserve the true overhead pair arrangement and spacing, both toes, openings and lace patterns. Keep the shoes parallel if shown parallel; a whole-frame rotation is allowed to point both toes toward the bottom of the square. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "sky-blue-lime",
+    "order": 3,
+    "view": "outer-side",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_3003.jpg",
+    "asset_id": "SRC-0401",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime/studio-batch-v01/03-outer-side.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_3003.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (sky-blue upper and outsole, white heel, and lime details). Keep the true side profile and toe direction. Preserve the exact outer graphic, heel panel, seams, toe shape and sole outline. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "sky-blue-lime",
+    "order": 4,
+    "view": "inner-side",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_3004.jpg",
+    "asset_id": "SRC-0402",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime/studio-batch-v01/04-inner-side.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_3004.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (sky-blue upper and outsole, white heel, and lime details). Keep the true inner side, toe direction and single-shoe position. Preserve the panel layout and any visible small graphics exactly. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "sky-blue-lime",
+    "order": 5,
+    "view": "full-outsole",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_3006.jpg",
+    "asset_id": "SRC-0403",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime/studio-batch-v01/05-full-outsole.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_3006.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (sky-blue upper and outsole, white heel, and lime details). Preserve the original single-outsole viewing angle. Treat tread, every stud shape and position, channels and lettering as immutable source detail. Frame the entire sole without accidental tilt or crop. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "sky-blue-lime",
+    "order": 6,
+    "view": "straight-heel",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_3007.jpg",
+    "asset_id": "SRC-0404",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime/studio-batch-v01/06-straight-heel.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_3007.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (sky-blue upper and outsole, white heel, and lime details). Keep the straight-on two-heel pose and spacing. Preserve the exact appearance, spelling, placement and number of all heel and sticker markings visible in the source. Keep rear construction and stitching intact. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  },
+  {
+    "color": "sky-blue-lime",
+    "order": 7,
+    "view": "collar-and-insole",
+    "source": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-21-tiempo-8/IMG_3008.jpg",
+    "asset_id": "SRC-0405",
+    "output": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime/studio-batch-v01/07-collar-and-insole.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied real IMG_3008.jpg. It is the sole source for the exact product and camera view. Square footwear retail photo of this exact Tiempo 8 sample (sky-blue upper and outsole, white heel, and lime details). Keep the photographed close-up, inner opening outline, lace and tongue placement, and the exact visible XSTARS wordmark inside. Keep original crop intent; no invented shoe area and do not reveal hidden details. Replace the balcony and all concrete, cables and structures with a clean bright neutral-white seamless studio and a matte neutral-white floor where the floor would be in view. A large softbox high to camera-left and weaker white bounce from camera-right, with gentle coherent shadows and natural white highlights where appropriate. Keep white shoe contours and visible fabric texture distinct. Retain exact construction, factual colors, repeating surface geometry, seams, graphic shapes, letterforms, laces and shape as photographed. Preserve the source shoe pixels wherever possible, only balance color, gently adjust exposure and sharpen real local texture. Keep the entire intended subject in frame with clean margins. No props, added branding, text, graphic overlays or glossy reflections. Make the photo readable for someone verifying what they will buy. Do not reshape the shoe or reconstruct small product details."
+  }
+]

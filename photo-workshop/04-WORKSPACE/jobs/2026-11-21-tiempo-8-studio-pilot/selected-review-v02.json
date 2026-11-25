@@ -1,0 +1,418 @@
+{
+  "recorded_at": "2026-11-21T11:45:15+07:00",
+  "status": "awaiting_user_review",
+  "images": [
+    {
+      "color": "red-black",
+      "order": 1,
+      "view": "hero-pair",
+      "run_id": "T8-BATCH-red-black-01",
+      "image_id": "IMG-T8-STUDIO-01",
+      "source_asset_id": "SRC-0378",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-01-hero-pair.png",
+      "sha256": "256c20c609451383575b994b6647c1f964199105c8b0ef63223e65b8b94d40bd",
+      "notes": [
+        "Preferred studio pilot copied byte-for-byte."
+      ]
+    },
+    {
+      "color": "red-black",
+      "order": 2,
+      "view": "top-pair",
+      "run_id": "T8-BATCH-red-black-02",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-02",
+      "source_asset_id": "SRC-0380",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-02-top-pair.png",
+      "sha256": "f33c9497c122be0e058ac2a2cb6e2e12443887aff85e03d69f14ed72fb26c8ea",
+      "notes": []
+    },
+    {
+      "color": "red-black",
+      "order": 3,
+      "view": "outer-side",
+      "run_id": "T8-BATCH-red-black-03",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-03",
+      "source_asset_id": "SRC-0381",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-03-outer-side.png",
+      "sha256": "b3c64e7417b4936ae14858bd0064f5d944083e6ef6586126e41bc56fcfae001d",
+      "notes": []
+    },
+    {
+      "color": "red-black",
+      "order": 4,
+      "view": "inner-side",
+      "run_id": "T8-BATCH-red-black-04",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-04",
+      "source_asset_id": "SRC-0382",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-04-inner-side.png",
+      "sha256": "a4066b698a929035a4621afea31e177ec1a2c463b8f15af2aa37fb44b06d83a8",
+      "notes": []
+    },
+    {
+      "color": "red-black",
+      "order": 5,
+      "view": "full-outsole",
+      "run_id": "T8-BATCH-red-black-05",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-05",
+      "source_asset_id": "SRC-0383",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-05-full-outsole.png",
+      "sha256": "ff5949759d2539c673212512804c72173b315a23d7880f7e03e661d1e6d61014",
+      "notes": [
+        "AI redrew some fine tread edges and grooves compared with the source."
+      ]
+    },
+    {
+      "color": "red-black",
+      "order": 6,
+      "view": "straight-heel",
+      "run_id": "T8-BATCH-red-black-06",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-06",
+      "source_asset_id": "SRC-0384",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-06-straight-heel.png",
+      "sha256": "5dbef1bba152eb42b8b7f856632ed85a95b506239fa41e5e31e53f2c0a4d9a33",
+      "notes": [
+        "TIEMPO and sample size 41 are readable; very small heel graphics and stitching may vary."
+      ]
+    },
+    {
+      "color": "red-black",
+      "order": 7,
+      "view": "collar-and-insole",
+      "run_id": "T8-BATCH-red-black-07",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-07",
+      "source_asset_id": "SRC-0385",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-07-collar-and-insole.png",
+      "sha256": "97798334af82e75fd66ab5692c164273faa165a87847b342708f7521b4420ffa",
+      "notes": []
+    },
+    {
+      "color": "red-black",
+      "order": 8,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-red-black-08",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-08",
+      "source_asset_id": "SRC-0406",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-08-alternate-pair.png",
+      "sha256": "e36834cd3b6bbdbc09059027634c376eb4acbdf95dea1189278b7b8792b8f355"
+    },
+    {
+      "color": "red-black",
+      "order": 9,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-red-black-09",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-09",
+      "source_asset_id": "SRC-0407",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-09-alternate-pair.png",
+      "sha256": "6eb70344bcfc7542836e1d52fe06adfc244a96d332657b65f582e8af2907581e"
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 1,
+      "view": "hero-pair",
+      "run_id": "T8-BATCH-royal-blue-silver-01",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-01",
+      "source_asset_id": "SRC-0386",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-01-hero-pair.png",
+      "sha256": "32eb57756e8bae638e408839f0a19aa8777b7abebdfda02fd63696e3a4c4b013",
+      "notes": []
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 2,
+      "view": "top-pair",
+      "run_id": "T8-BATCH-royal-blue-silver-02",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-02",
+      "source_asset_id": "SRC-0387",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-02-top-pair.png",
+      "sha256": "bbf55d8b102fbf8b8affda8f8a92da3e771948a1f1fbd7723437a82d06324fdf",
+      "notes": [
+        "Horizontal layout follows the supplied camera orientation."
+      ]
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 3,
+      "view": "outer-side",
+      "run_id": "T8-BATCH-royal-blue-silver-03",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-03",
+      "source_asset_id": "SRC-0388",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-03-outer-side.png",
+      "sha256": "69dd986ddd3567270c905a3dff357decc18d65c2cdf1b965f42b1d8dfaf0cd8a",
+      "notes": []
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 4,
+      "view": "inner-side",
+      "run_id": "T8-BATCH-royal-blue-silver-04",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-04",
+      "source_asset_id": "SRC-0389",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-04-inner-side.png",
+      "sha256": "ad7b72ebeed2d0487aea8adf7d77fe9b422394db89f14458f5653c9100a42459",
+      "notes": []
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 5,
+      "view": "full-outsole",
+      "run_id": "T8-BATCH-royal-blue-silver-05",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-05",
+      "source_asset_id": "SRC-0390",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-05-full-outsole.png",
+      "sha256": "a9c1fd8a2916bf1ec0cd9953f0de21ddcb6ceb441c2b175b6fff049fd2de3690",
+      "notes": [
+        "AI redrew some fine tread edges and grooves compared with the source."
+      ]
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 6,
+      "view": "straight-heel",
+      "run_id": "T8-BATCH-royal-blue-silver-06",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-06",
+      "source_asset_id": "SRC-0391",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-06-straight-heel.png",
+      "sha256": "7d26355ae48b2be0ca6c157e18a4ba8cec93b773f466f1d0c5ca352e5a14233e",
+      "notes": [
+        "TIEMPO and sample size 41 are readable; very small heel graphics and stitching may vary."
+      ]
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 7,
+      "view": "collar-and-insole",
+      "run_id": "T8-BATCH-royal-blue-silver-07",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-07",
+      "source_asset_id": "SRC-0392",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-07-collar-and-insole.png",
+      "sha256": "37487dd20bdaea2e3cff91e9b2c84f5c68fafc4fe14503bb5db0ac4fef9c4954",
+      "notes": [
+        "Horizontal layout follows the supplied camera orientation."
+      ]
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 8,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-royal-blue-silver-08",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-08",
+      "source_asset_id": "SRC-0408",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-08-alternate-pair.png",
+      "sha256": "ab8b9f00b9010368c42b7124cfd43e3156442098d840fd3d01d3fd05bb4bca30"
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 9,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-royal-blue-silver-09",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-09",
+      "source_asset_id": "SRC-0409",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-09-alternate-pair.png",
+      "sha256": "71744f15ea0316acf787e64de109189cb325b3540bf224be76d26dc4ae7bf8d2"
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 1,
+      "view": "hero-pair",
+      "run_id": "T8-BATCH-sky-blue-lime-01",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-01",
+      "source_asset_id": "SRC-0399",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-01-hero-pair.png",
+      "sha256": "e9ed8f448912212ffaf3c238b6f6143d4e48e86598d45c9141074ab9affe01ff",
+      "notes": []
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 2,
+      "view": "top-pair",
+      "run_id": "T8-BATCH-sky-blue-lime-02",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-02",
+      "source_asset_id": "SRC-0400",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-02-top-pair.png",
+      "sha256": "89c68544740991603c1c30d49c8d8b277885da4cab2e09bc7eecb7da65da07ac",
+      "notes": []
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 3,
+      "view": "outer-side",
+      "run_id": "T8-BATCH-sky-blue-lime-03",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-03",
+      "source_asset_id": "SRC-0401",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-03-outer-side.png",
+      "sha256": "c1fec03209ab45bb93742f47864ac9a4c780157a008d2e7ba41eff2e9ae8fccb",
+      "notes": []
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 4,
+      "view": "inner-side",
+      "run_id": "T8-BATCH-sky-blue-lime-04",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-04",
+      "source_asset_id": "SRC-0402",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-04-inner-side.png",
+      "sha256": "0a0d0ada4a793f759cbe2f3bda3e4ee27173760841d527de4b08891f470a5c86",
+      "notes": []
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 5,
+      "view": "full-outsole",
+      "run_id": "T8-BATCH-sky-blue-lime-05",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-05",
+      "source_asset_id": "SRC-0403",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-05-full-outsole.png",
+      "sha256": "02f3241bf9bcf77653310fb42298564a53896ad46d730e9ada03096429a24285",
+      "notes": [
+        "AI redrew some fine tread edges and grooves compared with the source."
+      ]
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 6,
+      "view": "straight-heel",
+      "run_id": "T8-BATCH-sky-blue-lime-06",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-06",
+      "source_asset_id": "SRC-0404",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-06-straight-heel.png",
+      "sha256": "aa8c7765a8fd3cc3e2dfd476b7086e7bdd7c579d1fa951ae645779bb2c3ca947",
+      "notes": [
+        "TIEMPO and sample size 41 are readable; very small heel graphics and stitching may vary."
+      ]
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 7,
+      "view": "collar-and-insole",
+      "run_id": "T8-BATCH-sky-blue-lime-07",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-07",
+      "source_asset_id": "SRC-0405",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-07-collar-and-insole.png",
+      "sha256": "f349069f5f3f9129ef9818b686ea88ea7924f2757e7cf5caa23807f055dccce8",
+      "notes": []
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 8,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-sky-blue-lime-08",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-08",
+      "source_asset_id": "SRC-0412",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-08-alternate-pair.png",
+      "sha256": "60f5e55bc2689061b6d1a1e93162998c437c3be0bca2889486a2da431f4e9a19"
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 9,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-sky-blue-lime-09",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-09",
+      "source_asset_id": "SRC-0413",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-09-alternate-pair.png",
+      "sha256": "bbc847e9f5288ba92cfe9487e616a446b62ad2c00143c6f50bb782e8dcb10ebc"
+    },
+    {
+      "color": "white-gold",
+      "order": 1,
+      "view": "hero-pair",
+      "run_id": "T8-BATCH-white-gold-01",
+      "image_id": "IMG-T8-STUDIO-04",
+      "source_asset_id": "SRC-0379",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-01-hero-pair.png",
+      "sha256": "f1f7b9fcdf19960c5733c062280c0da463b18879352bf11bc1b2dc6e2fcabd3d",
+      "notes": [
+        "Preferred studio pilot copied byte-for-byte."
+      ]
+    },
+    {
+      "color": "white-gold",
+      "order": 2,
+      "view": "top-pair",
+      "run_id": "T8-BATCH-white-gold-02",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-02",
+      "source_asset_id": "SRC-0393",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-02-top-pair.png",
+      "sha256": "7b76b01ceeecb6e65bf3319681ad9cfc71c7375eaa26511ead0734f1c803741d",
+      "notes": []
+    },
+    {
+      "color": "white-gold",
+      "order": 3,
+      "view": "outer-side",
+      "run_id": "T8-BATCH-white-gold-03",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-03",
+      "source_asset_id": "SRC-0394",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-03-outer-side.png",
+      "sha256": "27a55eab8461bb282095b7338af249130c5e98cb97cdb4acadf64395655b7dd5",
+      "notes": []
+    },
+    {
+      "color": "white-gold",
+      "order": 4,
+      "view": "inner-side",
+      "run_id": "T8-BATCH-white-gold-04",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-04",
+      "source_asset_id": "SRC-0395",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-04-inner-side.png",
+      "sha256": "37ec5f3bea959dae356497a417632d101cf0cd38605267e35af4402014e4e5e7",
+      "notes": []
+    },
+    {
+      "color": "white-gold",
+      "order": 5,
+      "view": "full-outsole",
+      "run_id": "T8-BATCH-white-gold-05",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-05",
+      "source_asset_id": "SRC-0396",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-05-full-outsole.png",
+      "sha256": "e7927b6a0e9b4f897af9dba1f569895b4b9842827d6aa41f28e59a4075fe8a6e",
+      "notes": [
+        "AI redrew some fine tread edges and grooves compared with the source."
+      ]
+    },
+    {
+      "color": "white-gold",
+      "order": 6,
+      "view": "straight-heel",
+      "run_id": "T8-BATCH-white-gold-06",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-06",
+      "source_asset_id": "SRC-0397",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-06-straight-heel.png",
+      "sha256": "ce03efa767c325f5d2db339e484f6fcca863b472e113e3d73c806642671da9f8",
+      "notes": [
+        "TIEMPO and sample size 41 are readable; very small heel graphics and stitching may vary."
+      ]
+    },
+    {
+      "color": "white-gold",
+      "order": 7,
+      "view": "collar-and-insole",
+      "run_id": "T8-BATCH-white-gold-07",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-07",
+      "source_asset_id": "SRC-0398",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-07-collar-and-insole.png",
+      "sha256": "d24afa0ff083770936230b92194bee3cbc2917e0d4a2146b581c8ed118d3f012",
+      "notes": []
+    },
+    {
+      "color": "white-gold",
+      "order": 8,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-white-gold-08",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-08",
+      "source_asset_id": "SRC-0410",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-08-alternate-pair.png",
+      "sha256": "785cf6183af4f6be826c5cdb9cc68206200d4287d9c537e2ac4a402df7495ba3"
+    },
+    {
+      "color": "white-gold",
+      "order": 9,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-white-gold-09",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-09",
+      "source_asset_id": "SRC-0411",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-09-alternate-pair.png",
+      "sha256": "b093ceb704df840537ed683c4f42122d54b47be2c46cdbde76048035dd5b1ee0"
+    }
+  ]
+}

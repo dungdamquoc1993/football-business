@@ -1,0 +1,324 @@
+{
+  "date": "2026-11-15",
+  "status": "user_approved_for_secondary_publication",
+  "publication_status": "published_on_four_secondary_pages_main_page_manual",
+  "scope": "5 Vapor Elite 17 posts and 1 Messi white-pink post",
+  "price_verification": {
+    "source": "production Admin MCP admin_status + admin_product",
+    "date": "2026-11-15",
+    "variant_unit_prices": {
+      "xstars-vapor-elite-17": 327534,
+      "xstars-messi": 291462
+    }
+  },
+  "image_release_id": "REL-2026-11-15-EIGHT-COLORS-01",
+  "posts": [
+    {
+      "id": "V01",
+      "title": "Vapor Elite 17 — Trắng–vàng",
+      "caption": "Thích giày trắng nhưng vẫn muốn có điểm nhấn mỗi lần ra sân? Phối trắng–vàng này đáng để anh em xem thử.\n\nXStars Vapor Elite 17 — thân trắng, móc vàng viền đỏ, cổ và đế đỏ. Nhìn sáng mà vẫn nổi, phối cùng bộ đồ đá bóng tông trắng hoặc đen đều đẹp.\nGiá: 327.534đ/đôi.\n\nƯng màu này thì nhắn shop mẫu và size đôi đang đi, kèm chân bè hay thon. Shop tư vấn để mình chọn size trước khi chốt nhé ⚽",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/01-pair-top-v02.png",
+          "sha256": "f45e1c5a94fd41b298184287d0c64c2bceba0ae2f0d9f60dc48fca35a34201c1",
+          "image_id": "IMG-PILOT-009"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/02-diagonal-silhouette-v01.png",
+          "sha256": "d2524f39673d954c30422bba0998211cd2370d10428e2c95a9340ee5d153b912",
+          "image_id": "IMG-PILOT-002"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/03-inner-side-v01.png",
+          "sha256": "71682e7da68ec3b7054a1262b3d17d5b4a2cf0f175644ad45fe8bec857a11ca7",
+          "image_id": "IMG-PILOT-003"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/04-sole-and-upper-v01.png",
+          "sha256": "d874e77e771f7150766b90141d2534a1549a774ffdc6955f2bf92426826bdde6",
+          "image_id": "IMG-PILOT-006"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/05-full-sole-v02.png",
+          "sha256": "357d7dc4c00988a35fbfd57808db5d62b7eafcbb47dc6d71e02839110a4dffd1",
+          "image_id": "IMG-PILOT-011"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/06-heel-v02.png",
+          "sha256": "b8d7ec1deab49f88da6fd564e58d2d4d592930b68530fe130afa6ee2ccc7a389",
+          "image_id": "IMG-PILOT-010"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/07-toe-detail-v02.png",
+          "sha256": "cfe3baae89568b6e78b4810777f2edbfbf062d903ce5c59c3bce9b337e822062",
+          "image_id": "IMG-PILOT-012"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/08-tongue-collar-v02.png",
+          "sha256": "35c691c6758d5ee2dc0891bcdccf06431bd4ea9199d8107ae89296f11d4d3ec6",
+          "image_id": "IMG-PILOT-013"
+        }
+      ]
+    },
+    {
+      "id": "V02",
+      "title": "Vapor Elite 17 — Hồng–đen",
+      "caption": "Có anh em nào chọn giày là phải chọn màu thật nổi mới thấy đã không?\n\nXStars Vapor Elite 17 hồng–đen: nền hồng rực, móc đen viền xanh ngọc, phần gót chuyển sang trắng. Một đôi hợp để làm điểm nhấn khi anh em mặc bộ đồ đá bóng tông đen hoặc trắng.\nGiá: 327.534đ/đôi.\n\nThích phối hồng này, gửi shop size và mẫu giày đang mang. Chân bè hay thon cứ nói thêm để shop tư vấn trước khi đặt ⚽",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/01-pair-top-v01.png",
+          "sha256": "f8037f48bc6e3839f51fd14cb8475c667c1844c7d59ce9e6165f7727b7448038",
+          "image_id": "IMG-BATCH-arrow-pink-black-01"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/02-outer-silhouette-v01.png",
+          "sha256": "c808778db2e33445a8443fec132e9309a50393e549f7536681965e38bd47d62a",
+          "image_id": "IMG-BATCH-arrow-pink-black-02"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/03-inner-side-v01.png",
+          "sha256": "c8c9e670e8860a650bb8b7ba9a66def2705d56b8b7146d5903b36bf3812fd0a1",
+          "image_id": "IMG-BATCH-arrow-pink-black-03"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/04-sole-and-upper-v01.png",
+          "sha256": "f1ae39144b8e8f12ee3c3b8d17ddf78d64a32f2d811f935cdf0dbad80580ea84",
+          "image_id": "IMG-BATCH-arrow-pink-black-04"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/05-full-sole-v01.png",
+          "sha256": "29fa5104ad08fa0688ba097f2a1c98a3fc018851940545002aa5d1a9c535f78f",
+          "image_id": "IMG-BATCH-arrow-pink-black-05"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/06-heel-v02.png",
+          "sha256": "847133981a34c35fad66ba0572c0312767a14d1577620b97ddba35e3bd5b128f",
+          "image_id": "IMG-BATCH-arrow-pink-black-06-v02"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/07-toe-detail-v01.png",
+          "sha256": "b3f380afbd5e9756175aec7e592a7063b7ae4114c0324e2e0a8c1def9debe469",
+          "image_id": "IMG-BATCH-arrow-pink-black-07"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/08-tongue-collar-v01.png",
+          "sha256": "a0c396168ee02a84a446d0a3bef7e979573a4985183cbc10c569d290a1533690",
+          "image_id": "IMG-BATCH-arrow-pink-black-08"
+        }
+      ]
+    },
+    {
+      "id": "V03",
+      "title": "Vapor Elite 17 — Xanh ngọc–tím",
+      "caption": "Đôi giày lần này muốn đổi sang một màu nhìn mát mắt hơn? Thử xem phối xanh ngọc–tím này nhé.\n\nXStars Vapor Elite 17 — thân xanh ngọc, móc tím, phần gót chuyển trắng cùng dây trắng. Phối cùng đồ đá bóng tông trắng hoặc xanh đậm là có thêm một lựa chọn mới cho buổi ra sân.\nGiá: 327.534đ/đôi.\n\nAnh em ưng phối này cứ nhắn shop mẫu giày và size đang đi. Shop cùng mình xem size trước khi chốt nhé ⚽",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/01-pair-top-v01.png",
+          "sha256": "d11e19de0e2e15516311d2b98435446a2ba657d8e45c924ad396e1f2f34b4db8",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-01"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/02-outer-silhouette-v01.png",
+          "sha256": "8fee89cf5010f00f20dcbbad55146f443bc02131381cb144874e8052cf2e76ae",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-02"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/03-inner-side-v01.png",
+          "sha256": "a88348fc40d94ca04d76ed67ede0e75ad3fabf5ac687345061ae39ccb23ff2f9",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-03"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/04-sole-and-upper-v01.png",
+          "sha256": "d4f4c2e0d2ec9166534574a4797fb6a47797a234ad309703b379450f12332832",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-04"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/05-full-sole-v01.png",
+          "sha256": "50ae3d24ae4455943f29be1a18af8c16670924a4389cb20438cf6e0b0044c045",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-05"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/06-heel-v01.png",
+          "sha256": "b49c92fb46cf7103cfcf3117ba5ab31a20fd1adc0d896b875a01047ea43caedf",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-06"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/07-toe-detail-v01.png",
+          "sha256": "b6e44dd39d90d57412b9e4c393d8e40f14f990ee96f8b406ae9056cf51abe72a",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-07"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/08-tongue-collar-v01.png",
+          "sha256": "afd5d090d555148ef1f199f73747817c2fa1ae8a0e2075dbf40dc64ff2fd8c81",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-08"
+        }
+      ]
+    },
+    {
+      "id": "V04",
+      "title": "Vapor Elite 17 — Đỏ–trắng",
+      "caption": "Bộ đồ đi đá đã có rồi, còn thiếu một đôi giày đỏ cho thật đúng gu?\n\nXStars Vapor Elite 17 đỏ–trắng — thân, dây và đế cùng tông đỏ, nổi lên là móc trắng viền đen và mảng trắng ở gót. Anh em thích phối đồ đen–đỏ hoặc trắng–đỏ có thể ngắm kỹ đôi này.\nGiá: 327.534đ/đôi.\n\nGửi shop size đôi đang mang và cho biết chân bè hay thon. Chọn được màu ưng rồi, mình cùng xem size cho phù hợp nhé ⚽",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/01-pair-top-v01.png",
+          "sha256": "93d252cc54d9138c3c3d499a34e248193baab8d6d34237d596a89fe3c5a38ffd",
+          "image_id": "IMG-BATCH-arrow-red-white-01"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/02-outer-silhouette-v01.png",
+          "sha256": "3bdaaeeb623efb9e0f13c95d3e94f163319f61e52e6b46bdb891a85975c16437",
+          "image_id": "IMG-BATCH-arrow-red-white-02"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/03-inner-side-v01.png",
+          "sha256": "38f9fd817e359f079aad080dcafafc4ab971747385bfc1302582cb54f8c1adf0",
+          "image_id": "IMG-BATCH-arrow-red-white-03"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/04-sole-and-upper-v01.png",
+          "sha256": "7efc58cfd4ce9b82f5055316525f666603017196f575bda50be334e1dcf457e0",
+          "image_id": "IMG-BATCH-arrow-red-white-04"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/05-full-sole-v01.png",
+          "sha256": "6eb476944749710af647f7b2fc7ca2059f8db042851dd98d26126aa69b62e489",
+          "image_id": "IMG-BATCH-arrow-red-white-05"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/06-heel-v01.png",
+          "sha256": "8b32f99a8c5d304043d8ca683efd77b0446a36bde6ffff6c86fa28ef75c9b64d",
+          "image_id": "IMG-BATCH-arrow-red-white-06"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/07-toe-detail-v01.png",
+          "sha256": "f9fcd3d90c7d6afb739d77c12422602acbe89091b2dbb8b07905e2f236425bd6",
+          "image_id": "IMG-BATCH-arrow-red-white-07"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/08-tongue-collar-v01.png",
+          "sha256": "340c8d1be3df414fa78ea8422b31edc0a383ffc84d58632667ff0289d57b0539",
+          "image_id": "IMG-BATCH-arrow-red-white-08"
+        }
+      ]
+    },
+    {
+      "id": "V05",
+      "title": "Vapor Elite 17 — Gom 4 màu",
+      "caption": "Muốn đổi giày trong tầm dưới 350k mà vẫn đang phân vân chọn màu? Xem đủ bốn phối Vapor Elite 17 rồi hãy chọn nhé.\n\nThích nền trắng có trắng–vàng phối đỏ; thích thật nổi có hồng–đen hoặc đỏ–trắng; muốn một tông nhìn mát mắt hơn thì xem xanh ngọc–tím.\nXStars Vapor Elite 17 — 327.534đ/đôi.\n\nAnh em chấm phối nào? Gửi shop ảnh màu đó cùng mẫu giày và size đang đi. Shop kiểm tra size rồi tư vấn để mình dễ chọn hơn ⚽",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/white-gold/01-pair-top-v02.png",
+          "sha256": "f45e1c5a94fd41b298184287d0c64c2bceba0ae2f0d9f60dc48fca35a34201c1",
+          "image_id": "IMG-PILOT-009"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/pink-black/01-pair-top-v01.png",
+          "sha256": "f8037f48bc6e3839f51fd14cb8475c667c1844c7d59ce9e6165f7727b7448038",
+          "image_id": "IMG-BATCH-arrow-pink-black-01"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/aqua-purple/01-pair-top-v01.png",
+          "sha256": "d11e19de0e2e15516311d2b98435446a2ba657d8e45c924ad396e1f2f34b4db8",
+          "image_id": "IMG-BATCH-arrow-aqua-purple-01"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-product/vapor-elite-17/red-white/01-pair-top-v01.png",
+          "sha256": "93d252cc54d9138c3c3d499a34e248193baab8d6d34237d596a89fe3c5a38ffd",
+          "image_id": "IMG-BATCH-arrow-red-white-01"
+        }
+      ]
+    },
+    {
+      "id": "M01",
+      "title": "Messi — Trắng–hồng",
+      "caption": "Muốn thử giày hồng nhưng vẫn thích một đôi có nền trắng? Phối Messi này có thể đúng gu anh em đấy.\n\nXStars Messi trắng–hồng — thân trắng điểm những nét hồng, ba sọc bạc và phần đế hồng nổi bật. Mang cùng đồ đá bóng tông trắng hoặc đen là đôi giày đã có điểm nhấn riêng.\nGiá: 291.462đ/đôi.\n\nƯng phối này thì gửi shop mẫu và size đôi đang đi, kèm chân bè hay thon. Shop tư vấn size trước khi mình đặt nhé ⚽",
+      "images": [
+        {
+          "position": 1,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/01-pair-top-v01.png",
+          "sha256": "aeb9b4145f28dda326e6bb1fd44be505235cc3ce81df80b57b6c811579b72ed0",
+          "image_id": "IMG-BATCH-messi-white-pink-01"
+        },
+        {
+          "position": 2,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/02-outer-silhouette-v01.png",
+          "sha256": "d160a0983ae5c9539e73b9943f8f859c81cb83741021dfa5b822416faec8e5f5",
+          "image_id": "IMG-BATCH-messi-white-pink-02"
+        },
+        {
+          "position": 3,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/03-inner-side-v01.png",
+          "sha256": "be2a07f7edd3c6dacb03f6451b1eca50fd28bdebce668de8761c9513a40aa20d",
+          "image_id": "IMG-BATCH-messi-white-pink-03"
+        },
+        {
+          "position": 4,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/04-sole-and-upper-v01.png",
+          "sha256": "e080b0838936ce4565c9f495e18dc066c59291d90331a260e9fb6cd86deac7a4",
+          "image_id": "IMG-BATCH-messi-white-pink-04"
+        },
+        {
+          "position": 5,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/05-full-sole-v01.png",
+          "sha256": "bcad197deb30e9553e611aafa3c2e7419b9fe372d1cdb95a823c5de5b6de897a",
+          "image_id": "IMG-BATCH-messi-white-pink-05"
+        },
+        {
+          "position": 6,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/06-heel-v01.png",
+          "sha256": "e40dc1a229b04d96399af4fcb12e452b067f299927aaf282fa7c4196e573a76b",
+          "image_id": "IMG-BATCH-messi-white-pink-06"
+        },
+        {
+          "position": 7,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/07-toe-detail-v01.png",
+          "sha256": "45f5cd68bdee207adacfa0be6959c80f322d1ce2789c8e29cd08b41ec002b794",
+          "image_id": "IMG-BATCH-messi-white-pink-07"
+        },
+        {
+          "position": 8,
+          "path": "photo-workshop/03-READY/By-product/messi/white-pink/08-tongue-collar-v01.png",
+          "sha256": "45a7f5fe554bb55426ec77d37b8d47b89b50fc5239a7b62608d4fff44e0fdec3",
+          "image_id": "IMG-BATCH-messi-white-pink-08"
+        }
+      ]
+    }
+  ],
+  "publication_record": "publication-state.json"
+}

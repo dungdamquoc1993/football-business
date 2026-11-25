@@ -1,0 +1,5 @@
+{"date": "2026-11-15", "source": "user", "decision": "Complete all remaining seven samples in one run using real captures, convert HEIC as needed; white already done."}
+{"date": "2026-11-15", "source": "assistant", "decision": "Nike pink lacks front and heel; use real rear-side crop for slot 06. Messi black-yellow lacks pair overhead; use real single overhead in slot 01. No invented hidden geometry."}
+{"date": "2026-11-15", "source": "user", "decision": "All missing images supplied during active generation. New pair-overhead Messi black-yellow and straight heel Nike pink supersede missing-view fallbacks."}
+{"date": "2026-11-15", "source": "user", "decision": "Consolidate white real-photo sources with current own-photos batch for all eight colors. User will review before later cleanup; preserve all other files for now."}
+{"date": "2026-11-15", "source": "user", "decision": "All eight current color sets approved; release and cleanup authorized. Canonical release owned by 2026-11-15-eight-color-release/release-v01.json."}

@@ -1,0 +1,826 @@
+{
+  "release_id": "2026-11-21-tiempo-8-studio-v01",
+  "released_at": "2026-11-21T11:59:02+07:00",
+  "approval_reference": "user-approval-2026-11-21-all-36",
+  "approval_source": "User: ok xong rồi nhé mình duyệt hết bạn dọn dẹp và đưa bọn chúng vào nơi chờ chuẩn bị được dùng nhé",
+  "review_package": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review",
+  "entries": [
+    {
+      "color": "red-black",
+      "order": 1,
+      "view": "hero-pair",
+      "run_id": "T8-BATCH-red-black-01",
+      "image_id": "IMG-T8-STUDIO-01",
+      "source_asset_id": "SRC-0378",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-01-hero-pair.png",
+      "sha256": "256c20c609451383575b994b6647c1f964199105c8b0ef63223e65b8b94d40bd",
+      "notes": [
+        "Preferred studio pilot copied byte-for-byte."
+      ],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/red-black-01-hero-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/01-hero-pair-v02.png"
+    },
+    {
+      "color": "red-black",
+      "order": 2,
+      "view": "top-pair",
+      "run_id": "T8-BATCH-red-black-02",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-02",
+      "source_asset_id": "SRC-0380",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-02-top-pair.png",
+      "sha256": "f33c9497c122be0e058ac2a2cb6e2e12443887aff85e03d69f14ed72fb26c8ea",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/red-black-02-top-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/02-top-pair-v02.png"
+    },
+    {
+      "color": "red-black",
+      "order": 3,
+      "view": "outer-side",
+      "run_id": "T8-BATCH-red-black-03",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-03",
+      "source_asset_id": "SRC-0381",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-03-outer-side.png",
+      "sha256": "b3c64e7417b4936ae14858bd0064f5d944083e6ef6586126e41bc56fcfae001d",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/red-black-03-outer-side.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/03-outer-side-v02.png"
+    },
+    {
+      "color": "red-black",
+      "order": 4,
+      "view": "inner-side",
+      "run_id": "T8-BATCH-red-black-04",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-04",
+      "source_asset_id": "SRC-0382",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-04-inner-side.png",
+      "sha256": "a4066b698a929035a4621afea31e177ec1a2c463b8f15af2aa37fb44b06d83a8",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/red-black-04-inner-side.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/04-inner-side-v02.png"
+    },
+    {
+      "color": "red-black",
+      "order": 5,
+      "view": "full-outsole",
+      "run_id": "T8-BATCH-red-black-05",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-05",
+      "source_asset_id": "SRC-0383",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-05-full-outsole.png",
+      "sha256": "ff5949759d2539c673212512804c72173b315a23d7880f7e03e661d1e6d61014",
+      "notes": [
+        "AI redrew some fine tread edges and grooves compared with the source."
+      ],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/red-black-05-full-outsole.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/05-full-outsole-v02.png"
+    },
+    {
+      "color": "red-black",
+      "order": 6,
+      "view": "straight-heel",
+      "run_id": "T8-BATCH-red-black-06",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-06",
+      "source_asset_id": "SRC-0384",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-06-straight-heel.png",
+      "sha256": "5dbef1bba152eb42b8b7f856632ed85a95b506239fa41e5e31e53f2c0a4d9a33",
+      "notes": [
+        "TIEMPO and sample size 41 are readable; very small heel graphics and stitching may vary."
+      ],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/red-black-06-straight-heel.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/06-straight-heel-v02.png"
+    },
+    {
+      "color": "red-black",
+      "order": 7,
+      "view": "collar-and-insole",
+      "run_id": "T8-BATCH-red-black-07",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-07",
+      "source_asset_id": "SRC-0385",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-07-collar-and-insole.png",
+      "sha256": "97798334af82e75fd66ab5692c164273faa165a87847b342708f7521b4420ffa",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/red-black-07-collar-and-insole.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/07-collar-and-insole-v02.png"
+    },
+    {
+      "color": "red-black",
+      "order": 8,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-red-black-08",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-08",
+      "source_asset_id": "SRC-0406",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-08-alternate-pair.png",
+      "sha256": "e36834cd3b6bbdbc09059027634c376eb4acbdf95dea1189278b7b8792b8f355",
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/red-black-08-alternate-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/08-alternate-pair-v02.png"
+    },
+    {
+      "color": "red-black",
+      "order": 9,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-red-black-09",
+      "image_id": "IMG-T8-BATCH-RED-BLACK-09",
+      "source_asset_id": "SRC-0407",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/red-black-09-alternate-pair.png",
+      "sha256": "6eb70344bcfc7542836e1d52fe06adfc244a96d332657b65f582e8af2907581e",
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/red-black-09-alternate-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/09-alternate-pair-v02.png"
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 1,
+      "view": "hero-pair",
+      "run_id": "T8-BATCH-royal-blue-silver-01-source-retouch",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-01-SOURCE-RETOUCH",
+      "source_asset_id": "SRC-0386",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-01-hero-pair.png",
+      "sha256": "9b13b3aea33e4649355c1368ac7504817883e8e85f8a25e11826d31d2f28736a",
+      "notes": [
+        "Original photograph used as product base; white-gold hero used for studio treatment only."
+      ],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/royal-blue-silver-01-hero-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/01-hero-pair-v02.png"
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 2,
+      "view": "top-pair",
+      "run_id": "T8-BATCH-royal-blue-silver-02",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-02",
+      "source_asset_id": "SRC-0387",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-02-top-pair.png",
+      "sha256": "bbf55d8b102fbf8b8affda8f8a92da3e771948a1f1fbd7723437a82d06324fdf",
+      "notes": [
+        "Horizontal layout follows the supplied camera orientation."
+      ],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/royal-blue-silver-02-top-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/02-top-pair-v02.png"
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 3,
+      "view": "outer-side",
+      "run_id": "T8-BATCH-royal-blue-silver-03",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-03",
+      "source_asset_id": "SRC-0388",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-03-outer-side.png",
+      "sha256": "69dd986ddd3567270c905a3dff357decc18d65c2cdf1b965f42b1d8dfaf0cd8a",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/royal-blue-silver-03-outer-side.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/03-outer-side-v02.png"
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 4,
+      "view": "inner-side",
+      "run_id": "T8-BATCH-royal-blue-silver-04",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-04",
+      "source_asset_id": "SRC-0389",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-04-inner-side.png",
+      "sha256": "ad7b72ebeed2d0487aea8adf7d77fe9b422394db89f14458f5653c9100a42459",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/royal-blue-silver-04-inner-side.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/04-inner-side-v02.png"
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 5,
+      "view": "full-outsole",
+      "run_id": "T8-BATCH-royal-blue-silver-05",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-05",
+      "source_asset_id": "SRC-0390",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-05-full-outsole.png",
+      "sha256": "a9c1fd8a2916bf1ec0cd9953f0de21ddcb6ceb441c2b175b6fff049fd2de3690",
+      "notes": [
+        "AI redrew some fine tread edges and grooves compared with the source."
+      ],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/royal-blue-silver-05-full-outsole.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/05-full-outsole-v02.png"
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 6,
+      "view": "straight-heel",
+      "run_id": "T8-BATCH-royal-blue-silver-06",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-06",
+      "source_asset_id": "SRC-0391",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-06-straight-heel.png",
+      "sha256": "7d26355ae48b2be0ca6c157e18a4ba8cec93b773f466f1d0c5ca352e5a14233e",
+      "notes": [
+        "TIEMPO and sample size 41 are readable; very small heel graphics and stitching may vary."
+      ],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/royal-blue-silver-06-straight-heel.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/06-straight-heel-v02.png"
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 7,
+      "view": "collar-and-insole",
+      "run_id": "T8-BATCH-royal-blue-silver-07",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-07",
+      "source_asset_id": "SRC-0392",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-07-collar-and-insole.png",
+      "sha256": "37487dd20bdaea2e3cff91e9b2c84f5c68fafc4fe14503bb5db0ac4fef9c4954",
+      "notes": [
+        "Horizontal layout follows the supplied camera orientation."
+      ],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/royal-blue-silver-07-collar-and-insole.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/07-collar-and-insole-v02.png"
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 8,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-royal-blue-silver-08",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-08",
+      "source_asset_id": "SRC-0408",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-08-alternate-pair.png",
+      "sha256": "ab8b9f00b9010368c42b7124cfd43e3156442098d840fd3d01d3fd05bb4bca30",
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/royal-blue-silver-08-alternate-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/08-alternate-pair-v02.png"
+    },
+    {
+      "color": "royal-blue-silver",
+      "order": 9,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-royal-blue-silver-09",
+      "image_id": "IMG-T8-BATCH-ROYAL-BLUE-SILVER-09",
+      "source_asset_id": "SRC-0409",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/royal-blue-silver-09-alternate-pair.png",
+      "sha256": "71744f15ea0316acf787e64de109189cb325b3540bf224be76d26dc4ae7bf8d2",
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/royal-blue-silver-09-alternate-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/09-alternate-pair-v02.png"
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 1,
+      "view": "hero-pair",
+      "run_id": "T8-BATCH-sky-blue-lime-01",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-01",
+      "source_asset_id": "SRC-0399",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-01-hero-pair.png",
+      "sha256": "e9ed8f448912212ffaf3c238b6f6143d4e48e86598d45c9141074ab9affe01ff",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/sky-blue-lime-01-hero-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/01-hero-pair-v02.png"
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 2,
+      "view": "top-pair",
+      "run_id": "T8-BATCH-sky-blue-lime-02",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-02",
+      "source_asset_id": "SRC-0400",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-02-top-pair.png",
+      "sha256": "89c68544740991603c1c30d49c8d8b277885da4cab2e09bc7eecb7da65da07ac",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/sky-blue-lime-02-top-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/02-top-pair-v02.png"
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 3,
+      "view": "outer-side",
+      "run_id": "T8-BATCH-sky-blue-lime-03",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-03",
+      "source_asset_id": "SRC-0401",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-03-outer-side.png",
+      "sha256": "c1fec03209ab45bb93742f47864ac9a4c780157a008d2e7ba41eff2e9ae8fccb",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/sky-blue-lime-03-outer-side.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/03-outer-side-v02.png"
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 4,
+      "view": "inner-side",
+      "run_id": "T8-BATCH-sky-blue-lime-04",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-04",
+      "source_asset_id": "SRC-0402",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-04-inner-side.png",
+      "sha256": "0a0d0ada4a793f759cbe2f3bda3e4ee27173760841d527de4b08891f470a5c86",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/sky-blue-lime-04-inner-side.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/04-inner-side-v02.png"
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 5,
+      "view": "full-outsole",
+      "run_id": "T8-BATCH-sky-blue-lime-05",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-05",
+      "source_asset_id": "SRC-0403",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-05-full-outsole.png",
+      "sha256": "02f3241bf9bcf77653310fb42298564a53896ad46d730e9ada03096429a24285",
+      "notes": [
+        "AI redrew some fine tread edges and grooves compared with the source."
+      ],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/sky-blue-lime-05-full-outsole.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/05-full-outsole-v02.png"
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 6,
+      "view": "straight-heel",
+      "run_id": "T8-BATCH-sky-blue-lime-06",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-06",
+      "source_asset_id": "SRC-0404",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-06-straight-heel.png",
+      "sha256": "aa8c7765a8fd3cc3e2dfd476b7086e7bdd7c579d1fa951ae645779bb2c3ca947",
+      "notes": [
+        "TIEMPO and sample size 41 are readable; very small heel graphics and stitching may vary."
+      ],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/sky-blue-lime-06-straight-heel.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/06-straight-heel-v02.png"
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 7,
+      "view": "collar-and-insole",
+      "run_id": "T8-BATCH-sky-blue-lime-07",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-07",
+      "source_asset_id": "SRC-0405",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-07-collar-and-insole.png",
+      "sha256": "f349069f5f3f9129ef9818b686ea88ea7924f2757e7cf5caa23807f055dccce8",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/sky-blue-lime-07-collar-and-insole.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/07-collar-and-insole-v02.png"
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 8,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-sky-blue-lime-08",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-08",
+      "source_asset_id": "SRC-0412",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-08-alternate-pair.png",
+      "sha256": "60f5e55bc2689061b6d1a1e93162998c437c3be0bca2889486a2da431f4e9a19",
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/sky-blue-lime-08-alternate-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/08-alternate-pair-v02.png"
+    },
+    {
+      "color": "sky-blue-lime",
+      "order": 9,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-sky-blue-lime-09",
+      "image_id": "IMG-T8-BATCH-SKY-BLUE-LIME-09",
+      "source_asset_id": "SRC-0413",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/sky-blue-lime-09-alternate-pair.png",
+      "sha256": "bbc847e9f5288ba92cfe9487e616a446b62ad2c00143c6f50bb782e8dcb10ebc",
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/sky-blue-lime-09-alternate-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/09-alternate-pair-v02.png"
+    },
+    {
+      "color": "white-gold",
+      "order": 1,
+      "view": "hero-pair",
+      "run_id": "T8-BATCH-white-gold-01",
+      "image_id": "IMG-T8-STUDIO-04",
+      "source_asset_id": "SRC-0379",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-01-hero-pair.png",
+      "sha256": "f1f7b9fcdf19960c5733c062280c0da463b18879352bf11bc1b2dc6e2fcabd3d",
+      "notes": [
+        "Preferred studio pilot copied byte-for-byte."
+      ],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/white-gold-01-hero-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/01-hero-pair-v02.png"
+    },
+    {
+      "color": "white-gold",
+      "order": 2,
+      "view": "top-pair",
+      "run_id": "T8-BATCH-white-gold-02",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-02",
+      "source_asset_id": "SRC-0393",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-02-top-pair.png",
+      "sha256": "7b76b01ceeecb6e65bf3319681ad9cfc71c7375eaa26511ead0734f1c803741d",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/white-gold-02-top-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/02-top-pair-v02.png"
+    },
+    {
+      "color": "white-gold",
+      "order": 3,
+      "view": "outer-side",
+      "run_id": "T8-BATCH-white-gold-03",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-03",
+      "source_asset_id": "SRC-0394",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-03-outer-side.png",
+      "sha256": "27a55eab8461bb282095b7338af249130c5e98cb97cdb4acadf64395655b7dd5",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/white-gold-03-outer-side.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/03-outer-side-v02.png"
+    },
+    {
+      "color": "white-gold",
+      "order": 4,
+      "view": "inner-side",
+      "run_id": "T8-BATCH-white-gold-04",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-04",
+      "source_asset_id": "SRC-0395",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-04-inner-side.png",
+      "sha256": "37ec5f3bea959dae356497a417632d101cf0cd38605267e35af4402014e4e5e7",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/white-gold-04-inner-side.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/04-inner-side-v02.png"
+    },
+    {
+      "color": "white-gold",
+      "order": 5,
+      "view": "full-outsole",
+      "run_id": "T8-BATCH-white-gold-05",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-05",
+      "source_asset_id": "SRC-0396",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-05-full-outsole.png",
+      "sha256": "e7927b6a0e9b4f897af9dba1f569895b4b9842827d6aa41f28e59a4075fe8a6e",
+      "notes": [
+        "AI redrew some fine tread edges and grooves compared with the source."
+      ],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/white-gold-05-full-outsole.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/05-full-outsole-v02.png"
+    },
+    {
+      "color": "white-gold",
+      "order": 6,
+      "view": "straight-heel",
+      "run_id": "T8-BATCH-white-gold-06",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-06",
+      "source_asset_id": "SRC-0397",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-06-straight-heel.png",
+      "sha256": "ce03efa767c325f5d2db339e484f6fcca863b472e113e3d73c806642671da9f8",
+      "notes": [
+        "TIEMPO and sample size 41 are readable; very small heel graphics and stitching may vary."
+      ],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/white-gold-06-straight-heel.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/06-straight-heel-v02.png"
+    },
+    {
+      "color": "white-gold",
+      "order": 7,
+      "view": "collar-and-insole",
+      "run_id": "T8-BATCH-white-gold-07",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-07",
+      "source_asset_id": "SRC-0398",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-07-collar-and-insole.png",
+      "sha256": "d24afa0ff083770936230b92194bee3cbc2917e0d4a2146b581c8ed118d3f012",
+      "notes": [],
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/white-gold-07-collar-and-insole.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/07-collar-and-insole-v02.png"
+    },
+    {
+      "color": "white-gold",
+      "order": 8,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-white-gold-08",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-08",
+      "source_asset_id": "SRC-0410",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-08-alternate-pair.png",
+      "sha256": "785cf6183af4f6be826c5cdb9cc68206200d4287d9c537e2ac4a402df7495ba3",
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/white-gold-08-alternate-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/08-alternate-pair-v02.png"
+    },
+    {
+      "color": "white-gold",
+      "order": 9,
+      "view": "alternate-pair",
+      "run_id": "T8-BATCH-white-gold-09",
+      "image_id": "IMG-T8-BATCH-WHITE-GOLD-09",
+      "source_asset_id": "SRC-0411",
+      "review_path": "photo-workshop/02-REVIEW/tiempo-8/white-gold-09-alternate-pair.png",
+      "sha256": "b093ceb704df840537ed683c4f42122d54b47be2c46cdbde76048035dd5b1ee0",
+      "product": "tiempo-8",
+      "approved_review_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/approved-review/white-gold-09-alternate-pair.png",
+      "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/09-alternate-pair-v02.png"
+    }
+  ],
+  "superseded_release": {
+    "release_id": "2026-11-08-12-colors-v01",
+    "release_record": "photo-workshop/04-WORKSPACE/jobs/2026-11-08-12-color-refresh/release-v01.json",
+    "retained_root": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8",
+    "entries": [
+      {
+        "product": "tiempo-8",
+        "color": "red-black",
+        "image_id": "IMG-tiempo-8-red-black-complete-v01-01-hero-pair",
+        "sha256": "3916190a4ce50c811d36a65b9ac21a68d6abde1d329d86a927795a9d9d502524",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/red-black/01-hero-pair.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/01-hero-pair.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/red-black/01-hero-pair.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "red-black",
+        "image_id": "IMG-TIEMPO-V02-3",
+        "sha256": "fcfca704fc2a5bfa154320da6f3646bc74e2669354e74257b8012ef9dc3982e6",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/red-black/02-outside.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/02-outside.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/red-black/02-outside.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "red-black",
+        "image_id": "IMG-tiempo-8-red-black-complete-v01-03-top-pair",
+        "sha256": "ccfc181332f77fbb86bd6bae33834f9e9806a5877a9e92b1e2bbf73035701030",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/red-black/03-top-pair.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/03-top-pair.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/red-black/03-top-pair.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "red-black",
+        "image_id": "IMG-tiempo-8-red-black-complete-v01-04-forefoot-detail",
+        "sha256": "98c71ca694e5ea529c95c1887035277004c02cfb47d11736b74086f0cb05366a",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/red-black/04-forefoot-detail.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/04-forefoot-detail.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/red-black/04-forefoot-detail.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "red-black",
+        "image_id": "IMG-TIEMPO-V02-2",
+        "sha256": "d92c6928fe2ef5e1f20563db2c6413a734f7ebb6a5f8059ff28e88d50c31a01f",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/red-black/05-rear.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/05-rear.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/red-black/05-rear.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "red-black",
+        "image_id": "IMG-tiempo-8-red-black-complete-v01-06-outsole",
+        "sha256": "882e8201af18cdba493db307fe145596d8a73d8612dabffb781cc4e7ce23f97d",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/red-black/06-outsole.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/06-outsole.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/red-black/06-outsole.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "red-black",
+        "image_id": "IMG-tiempo-8-red-black-complete-v01-07-inner-side",
+        "sha256": "a03345ef4ec39f1ebbfcd9a352e23cf72995e882ec18122449d3e9a6885d3bc7",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/red-black/07-inner-side.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/07-inner-side.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/red-black/07-inner-side.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "red-black",
+        "image_id": "IMG-tiempo-8-red-black-complete-v01-08-rear-three-quarter",
+        "sha256": "1e9e885d6414f8e3e62b88bdb746199b93d54defbc4159341fd05d4dbd4a0977",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/red-black/08-rear-three-quarter.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/red-black/08-rear-three-quarter.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/red-black/08-rear-three-quarter.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "royal-blue-silver",
+        "image_id": "IMG-tiempo-8-royal-blue-silver-complete-v01-01-hero-pair",
+        "sha256": "f98cf106a228456f726d2be677720c97248749ec403c384883d7a58bba564391",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/01-hero-pair.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/01-hero-pair.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/01-hero-pair.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "royal-blue-silver",
+        "image_id": "IMG-tiempo-8-royal-blue-silver-corrected-v02-02-outside",
+        "sha256": "bd414b7b89fbc8229618efc4d482e158d51695778634e6d70a1bf60e62cb2fd3",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/02-outside.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/02-outside.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/02-outside.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "royal-blue-silver",
+        "image_id": "IMG-tiempo-8-royal-blue-silver-complete-v01-03-top-pair",
+        "sha256": "d5528106b9124aff068a31d19194b83c06eec307e60d4d0654d4c97615711488",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/03-top-pair.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/03-top-pair.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/03-top-pair.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "royal-blue-silver",
+        "image_id": "IMG-tiempo-8-royal-blue-silver-corrected-v02-04-detail",
+        "sha256": "1520fa97255e1d362f0fed0c6fdc11508ed08852fc89b90b93bd6ea3923a51f3",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/04-detail.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/04-detail.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/04-detail.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "royal-blue-silver",
+        "image_id": "IMG-tiempo-8-royal-blue-silver-complete-v01-05-rear",
+        "sha256": "9438b66f8cbcc616d69891dfd48822251d413e4ffae26203dff6d3eedfc5bf36",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/05-rear.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/05-rear.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/05-rear.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "royal-blue-silver",
+        "image_id": "IMG-tiempo-8-royal-blue-silver-complete-v01-06-outsole",
+        "sha256": "65d0303600e2f0f850195735626cf710541a8eb393f2273a29868dba95125320",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/06-outsole.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/06-outsole.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/06-outsole.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "royal-blue-silver",
+        "image_id": "IMG-tiempo-8-royal-blue-silver-complete-v01-07-inner-side",
+        "sha256": "4d389483ff14949e28f783c5fd7a2624e8476e406204d6037db682b99cac292e",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/07-inner-side.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/07-inner-side.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/07-inner-side.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "royal-blue-silver",
+        "image_id": "IMG-tiempo-8-royal-blue-silver-complete-v01-08-heel-detail",
+        "sha256": "45e1edf89cdd26f50635dfbfdfafbe533498be2c886d14e85240ac93fe003b17",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/08-heel-detail.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/royal-blue-silver/08-heel-detail.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/royal-blue-silver/08-heel-detail.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "sky-blue-lime",
+        "image_id": "IMG-tiempo-8-sky-blue-lime-complete-v01-01-hero-pair",
+        "sha256": "042c7392055d07e4cbb8325769890800010e82bcd550162d2f81ed48c4e52070",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/01-hero-pair.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/01-hero-pair.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/01-hero-pair.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "sky-blue-lime",
+        "image_id": "IMG-tiempo-8-sky-blue-lime-corrected-v02-02-outside",
+        "sha256": "a800ec6c9c7fd5c7283f8d0c705d9485188c1dd41e44bed36adf7c1576c2cf3c",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/02-outside.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/02-outside.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/02-outside.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "sky-blue-lime",
+        "image_id": "IMG-tiempo-8-sky-blue-lime-complete-v01-03-top-pair",
+        "sha256": "b6ddccd36b66dc6d494f999c9e0cb65af75833aa0d618460042364bf6a238191",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/03-top-pair.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/03-top-pair.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/03-top-pair.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "sky-blue-lime",
+        "image_id": "IMG-tiempo-8-sky-blue-lime-corrected-v02-04-detail",
+        "sha256": "47f0e17671bc1a7bd3bb9c4794d1856ea498eae0d6757d605007aec6fd5d5c8d",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/04-detail.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/04-detail.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/04-detail.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "sky-blue-lime",
+        "image_id": "IMG-tiempo-8-sky-blue-lime-complete-v01-05-rear",
+        "sha256": "111cc69b7d95ed878747b8ea169d951740ad182876d4175ab79e86a2622377ef",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/05-rear.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/05-rear.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/05-rear.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "sky-blue-lime",
+        "image_id": "IMG-tiempo-8-sky-blue-lime-complete-v01-06-outsole",
+        "sha256": "7b344e015631a11f5dfd1910233be948d871687d757e23e875354f009b34253d",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/06-outsole.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/06-outsole.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/06-outsole.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "sky-blue-lime",
+        "image_id": "IMG-tiempo-8-sky-blue-lime-complete-v01-07-inner-side",
+        "sha256": "2eb73ea12b1b87dcd1baf198ca2621a06e436d873fee9640e6199704f3517513",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/07-inner-side.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/07-inner-side.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/07-inner-side.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "sky-blue-lime",
+        "image_id": "IMG-tiempo-8-sky-blue-lime-complete-v01-08-heel-detail",
+        "sha256": "c6cd8e701236d8a8b7f71206addee905f5eb308c42b84e81b3dcc23df579bb50",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/08-heel-detail.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/sky-blue-lime/08-heel-detail.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/sky-blue-lime/08-heel-detail.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "white-gold",
+        "image_id": "IMG-tiempo-8-white-gold-corrected-v02-01-hero-pair",
+        "sha256": "388eee84669645f0c76e808a1a029e0975d565876d946085c52f216608530cba",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/white-gold/01-hero-pair.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/01-hero-pair.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/white-gold/01-hero-pair.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "white-gold",
+        "image_id": "IMG-tiempo-8-white-gold-corrected-v02-02-outside",
+        "sha256": "0219d33ef4df1219b6da9a734471a78a9674b04caa50db27a24279bfd6fc6386",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/white-gold/02-outside.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/02-outside.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/white-gold/02-outside.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "white-gold",
+        "image_id": "IMG-tiempo-8-white-gold-complete-v01-03-top-pair",
+        "sha256": "4611a9a85b9afd19b3d557141a9b358f5504e9dd085b935ec07da12db53a30b9",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/white-gold/03-top-pair.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/03-top-pair.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/white-gold/03-top-pair.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "white-gold",
+        "image_id": "IMG-tiempo-8-white-gold-corrected-v03-04-detail",
+        "sha256": "4fdd6abca5a1f451d31ce941a94b24cb94cb424f6bfb770be0607af10a53c707",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/white-gold/04-detail.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/04-detail.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/white-gold/04-detail.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "white-gold",
+        "image_id": "IMG-tiempo-8-white-gold-complete-v01-05-rear",
+        "sha256": "76ebd3c2ce9fd46ec96f9c89996708ab7f60d360bf247d0cf2005f2d581c37a3",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/white-gold/05-rear.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/05-rear.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/white-gold/05-rear.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "white-gold",
+        "image_id": "IMG-tiempo-8-white-gold-corrected-v02-06-lacing-detail",
+        "sha256": "d6f16dee689423f6678bccd9e93bfdcc814cd1aff6e14a43ac412f6464f698f1",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/white-gold/06-lacing-detail.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/06-lacing-detail.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/white-gold/06-lacing-detail.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "white-gold",
+        "image_id": "IMG-tiempo-8-white-gold-corrected-v02-07-inner-side",
+        "sha256": "d55171ff2082007f18be296a840016c24a9c69da09979e6ad5610b5fc941b9a1",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/white-gold/07-inner-side.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/07-inner-side.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/white-gold/07-inner-side.png"
+      },
+      {
+        "product": "tiempo-8",
+        "color": "white-gold",
+        "image_id": "IMG-tiempo-8-white-gold-corrected-v03-08-heel-detail",
+        "sha256": "ae1167d6eb4c76148ef17770996eb333989dc073da188b20b976f92f9a760c43",
+        "review_path": "photo-workshop/02-REVIEW/2026-11-08-12-colors-v01/tiempo-8/white-gold/08-heel-detail.png",
+        "ready_path": "photo-workshop/03-READY/By-product/tiempo-8/white-gold/08-heel-detail.png",
+        "retained_path": "photo-workshop/04-WORKSPACE/jobs/2026-11-21-tiempo-8-studio-pilot/retained-releases/2026-11-08-12-colors-v01/tiempo-8/white-gold/08-heel-detail.png"
+      }
+    ]
+  }
+}

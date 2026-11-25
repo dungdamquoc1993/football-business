@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-08",
+  "verified_files": 291,
+  "verification": "SHA-256 before and after move; original filenames retained; old paths preserved as compatibility symlinks.",
+  "moves": {
+    "Winbro": "legacy-ai/Winbro",
+    "Xstars": "legacy-ai/Xstars",
+    "ảnh tôi tự chụp": "own-photos/2026-11-08",
+    "ảnh lấy bên xưởng": "supplier-photos/2026-11-08"
+  },
+  "active_references_updated": [
+    "san-pham/catalog/catalog.json",
+    "marketing/bai-dang/danh-sach-anh.json"
+  ],
+  "follow_up_refactor": {
+    "date": "2026-11-08",
+    "removed": "san-pham folder and four compatibility symlinks",
+    "moves": {
+      "san-pham/catalog": "kinh-doanh/catalog-imports/2026-10-28",
+      "san-pham/bao-gia": "kinh-doanh/supplier-quotes"
+    },
+    "note": "Original migration fields above describe the first step. Old source-index original_path values and historical narratives intentionally remain as provenance. Current asset location is path.",
+    "preserved_files": [
+      {
+        "old_path": "san-pham/catalog/README.md",
+        "path": "kinh-doanh/catalog-imports/2026-10-28/README.md",
+        "sha256_before": "2f397b0bf1da77a562e69fbbda930921af441cff1be09e8d42aaedd0dc5ec705"
+      },
+      {
+        "old_path": "san-pham/catalog/catalog.json",
+        "path": "kinh-doanh/catalog-imports/2026-10-28/catalog.json",
+        "sha256_before": "a837309fbf811a7786a8c9d308dedc1b8e4f1a1642f29a9daa0abd696a3ac1d2"
+      },
+      {
+        "old_path": "san-pham/catalog/pricing-source.json",
+        "path": "kinh-doanh/catalog-imports/2026-10-28/pricing-source.json",
+        "sha256_before": "da2a9eeb7f9d78a085a623049af3667ff3475317f2ba825bf6800d075b27ffd5"
+      },
+      {
+        "old_path": "san-pham/bao-gia/Bảng báo giá giày  - XSTARS mắc.pdf",
+        "path": "kinh-doanh/supplier-quotes/Bảng báo giá giày  - XSTARS mắc.pdf",
+        "sha256_before": "d8af224e48e61c5be154a0edd0132ecd18055c2bcc6c605b477e70b9ae87e766"
+      },
+      {
+        "old_path": "san-pham/bao-gia/Bảng báo giá Đại lí cấp 1   - XSTARS.pdf",
+        "path": "kinh-doanh/supplier-quotes/Bảng báo giá Đại lí cấp 1   - XSTARS.pdf",
+        "sha256_before": "28b3b3e90d8505e2c2c0b1b4409e309abd5153354296af29f120a49116f78504"
+      },
+      {
+        "old_path": "san-pham/bao-gia/Xstars/Bata_Air_Zoom/Gia_va_mo_ta.md",
+        "path": "kinh-doanh/supplier-quotes/Xstars/Bata_Air_Zoom/Gia_va_mo_ta.md",
+        "sha256_before": "135dfd6488d35f2e815e5f790824afedaf7d3e2ac06be457cee2cbca15e77820"
+      },
+      {
+        "old_path": "san-pham/bao-gia/Xstars/Messi/Gia_va_mo_ta.md",
+        "path": "kinh-doanh/supplier-quotes/Xstars/Messi/Gia_va_mo_ta.md",
+        "sha256_before": "ea6775b5a23ed4a578d6eaa81f46cc1e9ff31317aa50148566b1bd994b7d78b2"
+      },
+      {
+        "old_path": "san-pham/bao-gia/Xstars/Tiempo/Gia_va_mo_ta.md",
+        "path": "kinh-doanh/supplier-quotes/Xstars/Tiempo/Gia_va_mo_ta.md",
+        "sha256_before": "920712f8832f84fa64f101a555bcf492dd0c7851311d94eeabf073dbf693d8b6"
+      },
+      {
+        "old_path": "san-pham/bao-gia/Xstars/Tiempo_8/Gia_va_mo_ta.md",
+        "path": "kinh-doanh/supplier-quotes/Xstars/Tiempo_8/Gia_va_mo_ta.md",
+        "sha256_before": "d39b15c3abf2a5c3d31779ca6937cf1f7c2a2a7dff8798733719d2ae19063f8f"
+      },
+      {
+        "old_path": "san-pham/bao-gia/Xstars/Toni_11_Pro/Gia_va_mo_ta.md",
+        "path": "kinh-doanh/supplier-quotes/Xstars/Toni_11_Pro/Gia_va_mo_ta.md",
+        "sha256_before": "9d9a9f049e4ace4d8c82cb5db73d2e75e4e26e8558a775664a2966abb52b5854"
+      },
+      {
+        "old_path": "san-pham/bao-gia/Xstars/Vapor_17/Gia_va_mo_ta.md",
+        "path": "kinh-doanh/supplier-quotes/Xstars/Vapor_17/Gia_va_mo_ta.md",
+        "sha256_before": "e393f5a2c7fa9cbaed2cdab40148414ba3e233092faf2dbf2d39c34465071b80"
+      },
+      {
+        "old_path": "san-pham/bao-gia/Xstars/Victory/Gia_va_mo_ta.md",
+        "path": "kinh-doanh/supplier-quotes/Xstars/Victory/Gia_va_mo_ta.md",
+        "sha256_before": "83caaf69334d2d0d3a5c28267e92634f056b4082ffdc20aa2f4bfe6a60fc97e6"
+      }
+    ]
+  }
+}

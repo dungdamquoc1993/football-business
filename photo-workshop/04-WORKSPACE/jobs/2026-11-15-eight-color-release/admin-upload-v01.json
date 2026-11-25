@@ -1,0 +1,669 @@
+{
+  "plan_id": "d7fb810c-d566-4759-9956-c5a955ae581c",
+  "state": "applied and verified",
+  "target": "be.yeubongda.shop",
+  "release_id": "REL-2026-11-15-EIGHT-COLORS-01",
+  "date": "2026-11-15",
+  "products": [
+    {
+      "slug": "xstars-vapor-elite-17",
+      "product_id": "209c8ca6-776e-4352-b3fa-8e5d0890daa2",
+      "new_images": 32,
+      "total_gallery_images": 40,
+      "updated_at": "2026-11-15 06:07:32.411693+00:00",
+      "existing_media_preserved": true,
+      "variants_prices_stock_unchanged": true
+    },
+    {
+      "slug": "xstars-messi",
+      "product_id": "c772e5ba-209d-423d-a9dd-bcb65c696865",
+      "new_images": 32,
+      "total_gallery_images": 83,
+      "updated_at": "2026-11-15 06:07:34.051814+00:00",
+      "existing_media_preserved": true,
+      "variants_prices_stock_unchanged": true
+    }
+  ],
+  "images": [
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-pink-black-01",
+      "color": "pink-black",
+      "position": 1,
+      "media_id": "e9c496a1-10d8-4b84-9e77-773d30d4e3b1",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/e9c496a1-10d8-4b84-9e77-773d30d4e3b1.png",
+      "sha256": "f8037f48bc6e3839f51fd14cb8475c667c1844c7d59ce9e6165f7727b7448038",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-pink-black-02",
+      "color": "pink-black",
+      "position": 2,
+      "media_id": "3f295d4f-1be0-4b3e-8ab6-b69bc444ac09",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/3f295d4f-1be0-4b3e-8ab6-b69bc444ac09.png",
+      "sha256": "c808778db2e33445a8443fec132e9309a50393e549f7536681965e38bd47d62a",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-pink-black-03",
+      "color": "pink-black",
+      "position": 3,
+      "media_id": "13ab1055-2a4b-458b-b08e-fe8e78a65bb6",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/13ab1055-2a4b-458b-b08e-fe8e78a65bb6.png",
+      "sha256": "c8c9e670e8860a650bb8b7ba9a66def2705d56b8b7146d5903b36bf3812fd0a1",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-pink-black-04",
+      "color": "pink-black",
+      "position": 4,
+      "media_id": "1b0a00ff-607d-4d6b-9869-d218cc34de41",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/1b0a00ff-607d-4d6b-9869-d218cc34de41.png",
+      "sha256": "f1ae39144b8e8f12ee3c3b8d17ddf78d64a32f2d811f935cdf0dbad80580ea84",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-pink-black-05",
+      "color": "pink-black",
+      "position": 5,
+      "media_id": "3abb47a9-8741-4442-bec4-7191f46898bb",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/3abb47a9-8741-4442-bec4-7191f46898bb.png",
+      "sha256": "29fa5104ad08fa0688ba097f2a1c98a3fc018851940545002aa5d1a9c535f78f",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-pink-black-06-v02",
+      "color": "pink-black",
+      "position": 6,
+      "media_id": "480cd059-bbd2-4979-9ae8-8f3d5001aaed",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/480cd059-bbd2-4979-9ae8-8f3d5001aaed.png",
+      "sha256": "847133981a34c35fad66ba0572c0312767a14d1577620b97ddba35e3bd5b128f",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-pink-black-07",
+      "color": "pink-black",
+      "position": 7,
+      "media_id": "07718949-059d-4385-9a3e-7ee7dee7f0b0",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/07718949-059d-4385-9a3e-7ee7dee7f0b0.png",
+      "sha256": "b3f380afbd5e9756175aec7e592a7063b7ae4114c0324e2e0a8c1def9debe469",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-pink-black-08",
+      "color": "pink-black",
+      "position": 8,
+      "media_id": "77826370-2782-4309-8964-1a9e70360e50",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/77826370-2782-4309-8964-1a9e70360e50.png",
+      "sha256": "a0c396168ee02a84a446d0a3bef7e979573a4985183cbc10c569d290a1533690",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-aqua-purple-01",
+      "color": "aqua-purple",
+      "position": 1,
+      "media_id": "b8439cd1-bd09-4516-8661-27701a8cba9d",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/b8439cd1-bd09-4516-8661-27701a8cba9d.png",
+      "sha256": "d11e19de0e2e15516311d2b98435446a2ba657d8e45c924ad396e1f2f34b4db8",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-aqua-purple-02",
+      "color": "aqua-purple",
+      "position": 2,
+      "media_id": "2328823d-81f2-4006-b030-30afd1a9d726",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/2328823d-81f2-4006-b030-30afd1a9d726.png",
+      "sha256": "8fee89cf5010f00f20dcbbad55146f443bc02131381cb144874e8052cf2e76ae",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-aqua-purple-03",
+      "color": "aqua-purple",
+      "position": 3,
+      "media_id": "5f210493-e7ff-4e58-a06e-1ae48adba735",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/5f210493-e7ff-4e58-a06e-1ae48adba735.png",
+      "sha256": "a88348fc40d94ca04d76ed67ede0e75ad3fabf5ac687345061ae39ccb23ff2f9",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-aqua-purple-04",
+      "color": "aqua-purple",
+      "position": 4,
+      "media_id": "68db3c33-49de-498a-8da4-b0da2b566e09",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/68db3c33-49de-498a-8da4-b0da2b566e09.png",
+      "sha256": "d4f4c2e0d2ec9166534574a4797fb6a47797a234ad309703b379450f12332832",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-aqua-purple-05",
+      "color": "aqua-purple",
+      "position": 5,
+      "media_id": "57441676-244d-4394-b857-d756ac78978f",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/57441676-244d-4394-b857-d756ac78978f.png",
+      "sha256": "50ae3d24ae4455943f29be1a18af8c16670924a4389cb20438cf6e0b0044c045",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-aqua-purple-06",
+      "color": "aqua-purple",
+      "position": 6,
+      "media_id": "cdb84976-ec85-47e3-b97e-bfb3b6ac59f0",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/cdb84976-ec85-47e3-b97e-bfb3b6ac59f0.png",
+      "sha256": "b49c92fb46cf7103cfcf3117ba5ab31a20fd1adc0d896b875a01047ea43caedf",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-aqua-purple-07",
+      "color": "aqua-purple",
+      "position": 7,
+      "media_id": "1c008076-d696-4f6d-84cf-5cf61f93af38",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/1c008076-d696-4f6d-84cf-5cf61f93af38.png",
+      "sha256": "b6e44dd39d90d57412b9e4c393d8e40f14f990ee96f8b406ae9056cf51abe72a",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-aqua-purple-08",
+      "color": "aqua-purple",
+      "position": 8,
+      "media_id": "b53238b8-4f5b-404f-a130-49b370af0fc8",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/b53238b8-4f5b-404f-a130-49b370af0fc8.png",
+      "sha256": "afd5d090d555148ef1f199f73747817c2fa1ae8a0e2075dbf40dc64ff2fd8c81",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-red-white-01",
+      "color": "red-white",
+      "position": 1,
+      "media_id": "99cb05c1-c089-40fc-b136-72c85f4cf371",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/99cb05c1-c089-40fc-b136-72c85f4cf371.png",
+      "sha256": "93d252cc54d9138c3c3d499a34e248193baab8d6d34237d596a89fe3c5a38ffd",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-red-white-02",
+      "color": "red-white",
+      "position": 2,
+      "media_id": "cc37f7b1-08c7-41ab-8752-79c0dfb4a77b",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/cc37f7b1-08c7-41ab-8752-79c0dfb4a77b.png",
+      "sha256": "3bdaaeeb623efb9e0f13c95d3e94f163319f61e52e6b46bdb891a85975c16437",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-red-white-03",
+      "color": "red-white",
+      "position": 3,
+      "media_id": "978def0d-af1c-4dc6-b567-fa2c4a499053",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/978def0d-af1c-4dc6-b567-fa2c4a499053.png",
+      "sha256": "38f9fd817e359f079aad080dcafafc4ab971747385bfc1302582cb54f8c1adf0",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-red-white-04",
+      "color": "red-white",
+      "position": 4,
+      "media_id": "ca969f14-bc36-4fb4-9a3d-d0942e308be3",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/ca969f14-bc36-4fb4-9a3d-d0942e308be3.png",
+      "sha256": "7efc58cfd4ce9b82f5055316525f666603017196f575bda50be334e1dcf457e0",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-red-white-05",
+      "color": "red-white",
+      "position": 5,
+      "media_id": "5cb3abfb-6494-4c9a-8f43-26af395cc6c9",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/5cb3abfb-6494-4c9a-8f43-26af395cc6c9.png",
+      "sha256": "6eb476944749710af647f7b2fc7ca2059f8db042851dd98d26126aa69b62e489",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-red-white-06",
+      "color": "red-white",
+      "position": 6,
+      "media_id": "81b9e9fc-c4a0-495b-8e83-7237043796dc",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/81b9e9fc-c4a0-495b-8e83-7237043796dc.png",
+      "sha256": "8b32f99a8c5d304043d8ca683efd77b0446a36bde6ffff6c86fa28ef75c9b64d",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-red-white-07",
+      "color": "red-white",
+      "position": 7,
+      "media_id": "c93d0f5f-e708-4772-89cb-e614969ebe9c",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/c93d0f5f-e708-4772-89cb-e614969ebe9c.png",
+      "sha256": "f9fcd3d90c7d6afb739d77c12422602acbe89091b2dbb8b07905e2f236425bd6",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-BATCH-arrow-red-white-08",
+      "color": "red-white",
+      "position": 8,
+      "media_id": "1a7dd2ad-ea26-4e6d-ad62-e8335fcecce2",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/1a7dd2ad-ea26-4e6d-ad62-e8335fcecce2.png",
+      "sha256": "340c8d1be3df414fa78ea8422b31edc0a383ffc84d58632667ff0289d57b0539",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-PILOT-009",
+      "color": "white-gold",
+      "position": 1,
+      "media_id": "4c7f50f7-2e6e-4af8-b243-40c3c7cea3b9",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/4c7f50f7-2e6e-4af8-b243-40c3c7cea3b9.png",
+      "sha256": "f45e1c5a94fd41b298184287d0c64c2bceba0ae2f0d9f60dc48fca35a34201c1",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-PILOT-002",
+      "color": "white-gold",
+      "position": 2,
+      "media_id": "ca316525-40aa-4c0c-bb24-683b9459b8cb",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/ca316525-40aa-4c0c-bb24-683b9459b8cb.png",
+      "sha256": "d2524f39673d954c30422bba0998211cd2370d10428e2c95a9340ee5d153b912",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-PILOT-003",
+      "color": "white-gold",
+      "position": 3,
+      "media_id": "e776b547-7c3b-401c-9375-fd2103f3208f",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/e776b547-7c3b-401c-9375-fd2103f3208f.png",
+      "sha256": "71682e7da68ec3b7054a1262b3d17d5b4a2cf0f175644ad45fe8bec857a11ca7",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-PILOT-006",
+      "color": "white-gold",
+      "position": 4,
+      "media_id": "0cf65bd4-0851-429b-93ea-c29bc0f0c009",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/0cf65bd4-0851-429b-93ea-c29bc0f0c009.png",
+      "sha256": "d874e77e771f7150766b90141d2534a1549a774ffdc6955f2bf92426826bdde6",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-PILOT-011",
+      "color": "white-gold",
+      "position": 5,
+      "media_id": "b9d21bc6-f32b-4f51-aad1-dbd63bacd078",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/b9d21bc6-f32b-4f51-aad1-dbd63bacd078.png",
+      "sha256": "357d7dc4c00988a35fbfd57808db5d62b7eafcbb47dc6d71e02839110a4dffd1",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-PILOT-010",
+      "color": "white-gold",
+      "position": 6,
+      "media_id": "1aa7f76b-3548-4e14-a10e-57ad011c1b33",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/1aa7f76b-3548-4e14-a10e-57ad011c1b33.png",
+      "sha256": "b8d7ec1deab49f88da6fd564e58d2d4d592930b68530fe130afa6ee2ccc7a389",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-PILOT-012",
+      "color": "white-gold",
+      "position": 7,
+      "media_id": "326e1366-fd13-4a48-9353-b4dc4d5cffbe",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/326e1366-fd13-4a48-9353-b4dc4d5cffbe.png",
+      "sha256": "cfe3baae89568b6e78b4810777f2edbfbf062d903ce5c59c3bce9b337e822062",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-vapor-elite-17",
+      "image_id": "IMG-PILOT-013",
+      "color": "white-gold",
+      "position": 8,
+      "media_id": "817d25ef-6926-4f63-8672-424dac5cc888",
+      "media_url": "https://media.yeubongda.shop/products/209c8ca6-776e-4352-b3fa-8e5d0890daa2/817d25ef-6926-4f63-8672-424dac5cc888.png",
+      "sha256": "35c691c6758d5ee2dc0891bcdccf06431bd4ea9199d8107ae89296f11d4d3ec6",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-black-yellow-01-v02",
+      "color": "black-yellow",
+      "position": 1,
+      "media_id": "04a3f971-e1cb-4be2-a53e-0800d650a877",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/04a3f971-e1cb-4be2-a53e-0800d650a877.png",
+      "sha256": "5f17c69e661ee2d70bfc409521bd0168af4c3a6f839d63f5a3c2b95d83b79064",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-black-yellow-02",
+      "color": "black-yellow",
+      "position": 2,
+      "media_id": "b1393093-5c5d-4056-8e67-124778525181",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/b1393093-5c5d-4056-8e67-124778525181.png",
+      "sha256": "eb010916ee8f5864dbac8f7e96cb597a1087cc6d672379e6f23632ebdc94c98e",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-black-yellow-03",
+      "color": "black-yellow",
+      "position": 3,
+      "media_id": "6590aa4e-fb89-4ca0-9334-b08517bee06e",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/6590aa4e-fb89-4ca0-9334-b08517bee06e.png",
+      "sha256": "634dbf33c12416bcb47250f25812a00f067559dd2178ab25e12e8c0261b2dc8f",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-black-yellow-04",
+      "color": "black-yellow",
+      "position": 4,
+      "media_id": "2ba87a4a-bec6-4a36-9bc3-ae579d15e347",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/2ba87a4a-bec6-4a36-9bc3-ae579d15e347.png",
+      "sha256": "300f3ae20b9eb89ea7e2380f6623742d9f1d2a6c9c6da1d86d22485e81f50368",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-black-yellow-05",
+      "color": "black-yellow",
+      "position": 5,
+      "media_id": "f59186a7-03ea-46ce-bc2e-88e9c28ef4fc",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/f59186a7-03ea-46ce-bc2e-88e9c28ef4fc.png",
+      "sha256": "a1410c98f95187f8ef60736949a3886928c84046fe217660cff9d919f658a209",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-black-yellow-06",
+      "color": "black-yellow",
+      "position": 6,
+      "media_id": "0b479c5b-f14f-4759-894f-464eb381b979",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/0b479c5b-f14f-4759-894f-464eb381b979.png",
+      "sha256": "c6d0ed205810460a029c5cff9ea7a93c1ca58003459ee483b7de4dafb95c8774",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-black-yellow-07",
+      "color": "black-yellow",
+      "position": 7,
+      "media_id": "c7422c96-00df-4c74-8bd6-8852c92313f8",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/c7422c96-00df-4c74-8bd6-8852c92313f8.png",
+      "sha256": "418efc7f366d979346c4e1208d82949d8037433a0160cc2e96494ef240d7cf12",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-black-yellow-08",
+      "color": "black-yellow",
+      "position": 8,
+      "media_id": "3a804b92-260a-43fb-88b2-6081afe5d074",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/3a804b92-260a-43fb-88b2-6081afe5d074.png",
+      "sha256": "bf49173d223962ff819bcf518e6c506eb79880b4240ee36f6a1665545332d33d",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-navy-orange-01",
+      "color": "navy-silver-orange",
+      "position": 1,
+      "media_id": "0fad0523-388f-477c-87e0-823e9dd9284c",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/0fad0523-388f-477c-87e0-823e9dd9284c.png",
+      "sha256": "de17a793908ad828f027b517571233fccfc063a64d7ece8a601573c45da7f81a",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-navy-orange-02",
+      "color": "navy-silver-orange",
+      "position": 2,
+      "media_id": "b0c539b9-edc6-468b-9c77-d7f7e658b8ad",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/b0c539b9-edc6-468b-9c77-d7f7e658b8ad.png",
+      "sha256": "d58640647ace1bf7777dee493d0852f4751d7743c0bde615c0b57e86083fe9bf",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-navy-orange-03",
+      "color": "navy-silver-orange",
+      "position": 3,
+      "media_id": "ce48f070-9461-423c-96c4-c4d8a98a1479",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/ce48f070-9461-423c-96c4-c4d8a98a1479.png",
+      "sha256": "89f5ecef5afe912d2c4dbb58737d045e04ed13dd710cc6dccba5ff1c5956c992",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-navy-orange-04",
+      "color": "navy-silver-orange",
+      "position": 4,
+      "media_id": "435e5b95-908e-4b69-bc0b-bc3b047af92b",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/435e5b95-908e-4b69-bc0b-bc3b047af92b.png",
+      "sha256": "c3f72ed34683804d46c69d3f76a0b50688c1a2a304a7898f180092ff232a0976",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-navy-orange-05",
+      "color": "navy-silver-orange",
+      "position": 5,
+      "media_id": "9158b7fe-daff-4b46-8f58-c41deb9141bb",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/9158b7fe-daff-4b46-8f58-c41deb9141bb.png",
+      "sha256": "b271d1a092552627210e4038125ad050202000fefef0140585c39198e9c6e19d",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-navy-orange-06",
+      "color": "navy-silver-orange",
+      "position": 6,
+      "media_id": "91434f15-b175-400f-ae9e-67bfe76ae678",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/91434f15-b175-400f-ae9e-67bfe76ae678.png",
+      "sha256": "6347e9ac971cc600f1de4754446fa8be2a72bd280471886e41ca6d79bcef75df",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-navy-orange-07",
+      "color": "navy-silver-orange",
+      "position": 7,
+      "media_id": "77a19816-5737-4896-907a-f2e348480d5d",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/77a19816-5737-4896-907a-f2e348480d5d.png",
+      "sha256": "fc5db03508a62088f0657deefb7a83d7ab03794391f72ae4503650e3cbd6cceb",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-navy-orange-08",
+      "color": "navy-silver-orange",
+      "position": 8,
+      "media_id": "78ea7dec-1a87-4187-8ee8-c2954b4f735b",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/78ea7dec-1a87-4187-8ee8-c2954b4f735b.png",
+      "sha256": "87eac0bcad44b145cd1eb672f2bd8d308595d6a4c84b15f80b9b817b1dfdef84",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-red-white-01",
+      "color": "red-white",
+      "position": 1,
+      "media_id": "b543c7fa-6e6e-44c4-a9a8-fbfacd049d93",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/b543c7fa-6e6e-44c4-a9a8-fbfacd049d93.png",
+      "sha256": "10e15dd99f7f1899f5c02d132b5e6d0de3165c026e158023cd618598b8d63dca",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-red-white-02",
+      "color": "red-white",
+      "position": 2,
+      "media_id": "66841d5a-cb4e-45fc-bc2a-61cc09f12c55",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/66841d5a-cb4e-45fc-bc2a-61cc09f12c55.png",
+      "sha256": "dccf065ae725c4fed75d529046136ed2cc7bdf6b62ac5380172cef597a46f39c",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-red-white-03",
+      "color": "red-white",
+      "position": 3,
+      "media_id": "ab15c7d9-0b8e-483b-bf30-be3b5da4f8fe",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/ab15c7d9-0b8e-483b-bf30-be3b5da4f8fe.png",
+      "sha256": "119bbebb53f692f2a6039240dddf49dcc5374a6e6194b584d5192b496cb24a96",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-red-white-04",
+      "color": "red-white",
+      "position": 4,
+      "media_id": "5369e353-9921-40ef-8386-362e448a892f",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/5369e353-9921-40ef-8386-362e448a892f.png",
+      "sha256": "c35d73f136dbf5612a73c010b6f621e3624e131ab25f59b58b4cffd92887d6fa",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-red-white-05",
+      "color": "red-white",
+      "position": 5,
+      "media_id": "0af94bad-08ff-44d0-b678-9668c1a7f898",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/0af94bad-08ff-44d0-b678-9668c1a7f898.png",
+      "sha256": "763d1935b4293d6efb45fb5a25c77dfe109dc4ddd38ef4b4285a17d906b05b2c",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-red-white-06",
+      "color": "red-white",
+      "position": 6,
+      "media_id": "8b6d2323-c0b7-44d1-852e-e907c1ca26fb",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/8b6d2323-c0b7-44d1-852e-e907c1ca26fb.png",
+      "sha256": "a5b90bcf038db3b22dc832e34854d1fe148f055837ebca78cf0118adfa2417c8",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-red-white-07",
+      "color": "red-white",
+      "position": 7,
+      "media_id": "9f9e7cb1-184c-44de-8ea9-aab8a7933473",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/9f9e7cb1-184c-44de-8ea9-aab8a7933473.png",
+      "sha256": "585f389769ba4a13cefbb48e2c86794f58f9d8f5f95b14ac5e8c16a97e494c22",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-red-white-08",
+      "color": "red-white",
+      "position": 8,
+      "media_id": "41074f65-0dba-49e4-afc9-5c23b0696fc3",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/41074f65-0dba-49e4-afc9-5c23b0696fc3.png",
+      "sha256": "412e1967b99497c3b8a8c6a9e8a03b2d1b9bfddcd35565964772a3d8e2bb32fe",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-white-pink-01",
+      "color": "white-pink",
+      "position": 1,
+      "media_id": "e8e4c8f1-663d-49ea-8f57-8d1ce352597e",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/e8e4c8f1-663d-49ea-8f57-8d1ce352597e.png",
+      "sha256": "aeb9b4145f28dda326e6bb1fd44be505235cc3ce81df80b57b6c811579b72ed0",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-white-pink-02",
+      "color": "white-pink",
+      "position": 2,
+      "media_id": "957289eb-a47c-428c-a912-bb111ee644d2",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/957289eb-a47c-428c-a912-bb111ee644d2.png",
+      "sha256": "d160a0983ae5c9539e73b9943f8f859c81cb83741021dfa5b822416faec8e5f5",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-white-pink-03",
+      "color": "white-pink",
+      "position": 3,
+      "media_id": "c405827a-9ad0-4390-9ba3-16106dbb9256",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/c405827a-9ad0-4390-9ba3-16106dbb9256.png",
+      "sha256": "be2a07f7edd3c6dacb03f6451b1eca50fd28bdebce668de8761c9513a40aa20d",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-white-pink-04",
+      "color": "white-pink",
+      "position": 4,
+      "media_id": "a11845e4-3c86-4af8-aeab-2577d1ca847d",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/a11845e4-3c86-4af8-aeab-2577d1ca847d.png",
+      "sha256": "e080b0838936ce4565c9f495e18dc066c59291d90331a260e9fb6cd86deac7a4",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-white-pink-05",
+      "color": "white-pink",
+      "position": 5,
+      "media_id": "fe86378f-9ce9-4629-a5c6-9d584ed9f258",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/fe86378f-9ce9-4629-a5c6-9d584ed9f258.png",
+      "sha256": "bcad197deb30e9553e611aafa3c2e7419b9fe372d1cdb95a823c5de5b6de897a",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-white-pink-06",
+      "color": "white-pink",
+      "position": 6,
+      "media_id": "ab0fc32a-bf1d-4ac6-98f7-f0def2c24630",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/ab0fc32a-bf1d-4ac6-98f7-f0def2c24630.png",
+      "sha256": "e40dc1a229b04d96399af4fcb12e452b067f299927aaf282fa7c4196e573a76b",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-white-pink-07",
+      "color": "white-pink",
+      "position": 7,
+      "media_id": "7d7f8924-653b-47f7-a12e-ac484190ebd5",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/7d7f8924-653b-47f7-a12e-ac484190ebd5.png",
+      "sha256": "45f5cd68bdee207adacfa0be6959c80f322d1ce2789c8e29cd08b41ec002b794",
+      "remote_bytes_verified": true
+    },
+    {
+      "product_slug": "xstars-messi",
+      "image_id": "IMG-BATCH-messi-white-pink-08",
+      "color": "white-pink",
+      "position": 8,
+      "media_id": "f72b720b-dd23-4aa3-ac51-247c52ff3cfa",
+      "media_url": "https://media.yeubongda.shop/products/c772e5ba-209d-423d-a9dd-bcb65c696865/f72b720b-dd23-4aa3-ac51-247c52ff3cfa.png",
+      "sha256": "45a7f5fe554bb55426ec77d37b8d47b89b50fc5239a7b62608d4fff44e0fdec3",
+      "remote_bytes_verified": true
+    }
+  ]
+}

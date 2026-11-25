@@ -1,0 +1,72 @@
+[
+  {
+    "asset_id": "SRC-0298",
+    "original": "anh tu chup 15 nov/nike trắng/IMG_2845.jpg",
+    "current_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-seven-colors/nike trắng/IMG_2845.jpg",
+    "previous_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2845.jpg",
+    "sha256": "2a191c4934327aa2d5f67c27b2b22b5a4b5ad87691adbedf66c72421d7985d3e"
+  },
+  {
+    "asset_id": "SRC-0299",
+    "original": "anh tu chup 15 nov/nike trắng/IMG_2847.jpg",
+    "current_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-seven-colors/nike trắng/IMG_2847.jpg",
+    "previous_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2847.jpg",
+    "sha256": "fcc5a151730fdd3c2abe325d5f23fb5e6a27c81ca93d144e0907d7a123624edb"
+  },
+  {
+    "asset_id": "SRC-0300",
+    "original": "anh tu chup 15 nov/nike trắng/IMG_2848.jpg",
+    "current_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-seven-colors/nike trắng/IMG_2848.jpg",
+    "previous_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2848.jpg",
+    "sha256": "0f0c9efd836adc1bb47d8d539b9e769bc9332dbf002f2e68a0a2460567ac01ee"
+  },
+  {
+    "asset_id": "SRC-0301",
+    "original": "anh tu chup 15 nov/nike trắng/IMG_2849.jpg",
+    "current_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-seven-colors/nike trắng/IMG_2849.jpg",
+    "previous_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2849.jpg",
+    "sha256": "fdd96b1f7102d08d33911175b2a85c0bfdd1fe8a6c567ae1b2f3b4e58a4a5bdb"
+  },
+  {
+    "asset_id": "SRC-0302",
+    "original": "anh tu chup 15 nov/nike trắng/IMG_2850.jpg",
+    "current_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-seven-colors/nike trắng/IMG_2850.jpg",
+    "previous_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2850.jpg",
+    "sha256": "d7ed6b1061fbd7027ff368dbda6a4db9932a6c280a9b27c71fe2384c3fd0eb17"
+  },
+  {
+    "asset_id": "SRC-0303",
+    "original": "anh tu chup 15 nov/nike trắng/IMG_2851.jpg",
+    "current_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-seven-colors/nike trắng/IMG_2851.jpg",
+    "previous_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2851.jpg",
+    "sha256": "99341aa0f8751b9cf34d5e32d77f61dda6c55d9c623ef4d88eefd6a102cc845d"
+  },
+  {
+    "asset_id": "SRC-0304",
+    "original": "anh tu chup 15 nov/nike trắng/IMG_2852.jpg",
+    "current_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-seven-colors/nike trắng/IMG_2852.jpg",
+    "previous_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2852.jpg",
+    "sha256": "b50e3aebf1944959b7ba6dadae8f2e17d8053c99a8ca6d9a9b2202f80c3c4993"
+  },
+  {
+    "asset_id": "SRC-0305",
+    "original": "anh tu chup 15 nov/nike trắng/IMG_2853.jpg",
+    "current_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-seven-colors/nike trắng/IMG_2853.jpg",
+    "previous_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2853.jpg",
+    "sha256": "40f1bb6150de6e2057ecdd92eac6616a479057993cd9f5995984b5fcf7796488"
+  },
+  {
+    "asset_id": "SRC-0306",
+    "original": "anh tu chup 15 nov/nike trắng/before_1.jpg",
+    "current_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-seven-colors/nike trắng/before_1.jpg",
+    "previous_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/before_1.jpg",
+    "sha256": "3845a94c5ad947a56909f31ed19a749a70aef04c7a4cabb37db0591c2af3fc72"
+  },
+  {
+    "asset_id": "SRC-0307",
+    "original": "anh tu chup 15 nov/nike trắng/before_3.jpg",
+    "current_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-seven-colors/nike trắng/before_3.jpg",
+    "previous_path": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/before_3.jpg",
+    "sha256": "32226bf30d1e878c6764b953f26d0dceb8811aed4145ccedcd5bb74cb100b08c"
+  }
+]

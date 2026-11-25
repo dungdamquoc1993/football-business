@@ -1,0 +1,77 @@
+{
+  "release_id": "accessories-temporary-v01",
+  "approved_on": "2026-11-13",
+  "approval": "User requested using these attachments temporarily and publishing",
+  "source_assets": [
+    {
+      "asset_id": "SRC-0292",
+      "original_path": "conversation-attachment:2026-11-13:1",
+      "path": "photo-workshop/04-WORKSPACE/sources/user-provided/2026-11-13-accessories/nike-socks-mixed-colors.jpg",
+      "sha256": "fa7c6c5fc6e08f161a91eb34b3e3d1b462b45a563764e1ff54db129cf65ef6db",
+      "bytes": 169907,
+      "source_type": "user-provided",
+      "product_color": null,
+      "visual_review": "reviewed",
+      "provenance_note": "User supplied and approved temporary catalog publication on 2026-11-13. Mixed models/colors; not evidence of stock."
+    },
+    {
+      "asset_id": "SRC-0293",
+      "original_path": "conversation-attachment:2026-11-13:2",
+      "path": "photo-workshop/04-WORKSPACE/sources/user-provided/2026-11-13-accessories/socks-mixed-models.jpg",
+      "sha256": "6c8a4a0c35d6ed638f4e2396466a6d027eb31493f42b790cc45f5cfef5227d98",
+      "bytes": 163461,
+      "source_type": "user-provided",
+      "product_color": null,
+      "visual_review": "reviewed",
+      "provenance_note": "User supplied and approved temporary catalog publication on 2026-11-13. Mixed models/colors; not evidence of stock."
+    },
+    {
+      "asset_id": "SRC-0294",
+      "original_path": "conversation-attachment:2026-11-13:3",
+      "path": "photo-workshop/04-WORKSPACE/sources/user-provided/2026-11-13-accessories/drawstring-bags-mixed-models.jpg",
+      "sha256": "08bb794434fb59f684bd788d2810caed34a85384a1978a42052657581f8ee28b",
+      "bytes": 231371,
+      "source_type": "user-provided",
+      "product_color": null,
+      "visual_review": "reviewed",
+      "provenance_note": "User supplied and approved temporary catalog publication on 2026-11-13. Mixed models/colors; not evidence of stock."
+    }
+  ],
+  "catalog_plan_id": "af72c3a0-76fb-464d-9a69-6d9c15be622d",
+  "verified_products": [
+    {
+      "slug": "tat-nike",
+      "product_id": "1de98257-488c-4103-bb69-498c2c3d5ff5",
+      "media_count": 2,
+      "variants": [
+        {
+          "sku": "TAT_NIKE_BLACK"
+        },
+        {
+          "sku": "TAT_NIKE_WHITE"
+        }
+      ]
+    },
+    {
+      "slug": "tat-adidas",
+      "product_id": "d5ce0a75-cf27-44ea-8812-c81859e17383",
+      "media_count": 1,
+      "variants": [
+        {
+          "sku": "TAT_ADIDAS_BLACK"
+        }
+      ]
+    },
+    {
+      "slug": "tui-rut-adidas",
+      "product_id": "2e676451-c881-4165-bea2-a6c29ac009a0",
+      "media_count": 1,
+      "variants": [
+        {
+          "sku": "TUI_RUT_ADIDAS_BLACK"
+        }
+      ]
+    }
+  ],
+  "limitations": "Mixed model/color source photos; Adidas sock photo shows white while sale variant is black. Descriptions disclose this."
+}

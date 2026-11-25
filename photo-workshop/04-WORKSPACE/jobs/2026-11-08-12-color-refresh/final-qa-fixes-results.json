@@ -1,0 +1,79 @@
+[
+  {
+    "product": "bata",
+    "color": "white-silver",
+    "name": "05-outsole.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-a7fde8bc-638f-4929-b5c8-54acbdf0651b.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2793.JPG",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2773.jpg"
+    ],
+    "limitations": [
+      "Supplier-only color: outsole color from group photo; shared molded pattern guided by photographed turquoise sample."
+    ],
+    "prompt": "Precise local edit of image1: remove EVERY small punched ventilation hole on grey suede toe cap; actual supplier toe cap is smooth unperforated suede. Restore continuous soft suede material in these tiny spots. Keep exact composition, form, lighting, silver side stripes, white woven upper and off-white sole; no other changes. One square product photo.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-5f4c112a-868c-4ef2-9230-ed0b648c7222.png"
+  },
+  {
+    "product": "bata",
+    "color": "white-silver",
+    "name": "06-toe-front.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-102f71c2-8cdf-4568-818e-7b967f1fc712.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2420.JPG"
+    ],
+    "prompt": "Precise local edit of image1: remove EVERY small punched ventilation hole on grey suede toe cap; actual supplier toe cap is smooth unperforated suede. Restore continuous soft suede material in these tiny spots. Keep exact composition, form, lighting, silver side stripes, white woven upper and off-white sole; no other changes. One square product photo.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-0ad988e8-d790-4ee7-b4b4-5c37cd762473.png"
+  },
+  {
+    "product": "bata",
+    "color": "white-silver",
+    "name": "08-side-seam-detail.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-e322f78d-0e34-40a2-9362-89e795cd5962.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2420.JPG"
+    ],
+    "prompt": "Precise local edit of image1: remove EVERY small punched ventilation hole on grey suede toe cap; actual supplier toe cap is smooth unperforated suede. Restore continuous soft suede material in these tiny spots. Keep exact composition, form, lighting, silver side stripes, white woven upper and off-white sole; no other changes. One square product photo.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-e09cd36e-cea7-4112-883e-f0f9c5658732.png"
+  },
+  {
+    "product": "bata",
+    "color": "white-turquoise",
+    "name": "07-lacing-detail.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-a270e04a-3cb5-4401-b013-b67f3d46b783.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2420.JPG",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2774.jpg"
+    ],
+    "prompt": "Reframe image1 as a TIGHT medium close-up of ONE shoe's white lace crossings, eyelet rims, tongue edge and forefoot seam only. No full pair, no whole shoe, heel excluded. Maintain same actual construction, white/grey canvas/suede colors, existing colored overlays at edge and grey studio lighting. No invented branding or perforations.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-731a3fa7-8e7c-4a47-bf3c-09dcfa8579c8.png"
+  },
+  {
+    "product": "bata",
+    "color": "white-silver",
+    "name": "07-lacing-detail.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-1d7fbca9-b733-4d16-9beb-c14bcd722a65.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2420.JPG"
+    ],
+    "prompt": "Reframe image1 as a TIGHT medium close-up of ONE shoe's white lace crossings, eyelet rims, tongue edge and forefoot seam only. No full pair, no whole shoe, heel excluded. Maintain same actual construction, white/grey canvas/suede colors, existing colored overlays at edge and grey studio lighting. No invented branding or perforations.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-217f1f91-b011-4984-a98b-b0b0b045a57d.png"
+  },
+  {
+    "product": "messi",
+    "color": "black-yellow",
+    "name": "05-material-detail.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/den-vang/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2790.JPG"
+    ],
+    "prompt": "Product-only studio photograph, no people or athletes. Create a tasteful close-up of this black-and-gold synthetic turf shoe's embossed toe chevrons and transition into the orange striped side panel. Reference 1 sets exact existing successful form, color, material and pale grey studio background. Reference 2 is supplier product-only corroboration. Preserve all product details, black laces, gold fine lines, yellow rubber sole edge. No extra typography, graphics, celebrity likeness or props. One square image.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-bfcbf637-db15-4bc4-b4f6-1f7f7ecb69fc.png"
+  }
+]

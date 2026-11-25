@@ -1,0 +1,61 @@
+[
+  {
+    "slot": 1,
+    "name": "01-hero-pair.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/do-den/02-doi-goc-cheo.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/jobs/2026-11-08-12-color-refresh/rejected/tiempo-v02-arrowhead/01-rejected-arrowhead.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2710.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2704.jpg"
+    ],
+    "prompt": "Precise edit. Image 1 is existing hero pair edit target; preserve its composition, form, color and lighting. Image 2 is accepted exterior correction reference: match its side mark including short angular tip. Image 3 actual pair and image 4 actual INNER face prove asymmetry: only outer face has large black swoosh; inner face is red forefoot and plain white rear with small black/red tail at heel, NO large swoosh. Keep front shoe showing outer face, change rear shoe's facing side to this correct inner face. Remove false folded tongue straps on BOTH shoes, leaving simple short tongues and existing laces. Do not rebuild whole photo. Exact product is Xstars Tiempo 8 red/black. Keep successful legacy studio style: clean bright red forefoot with raised triangular texture, white rear quarter, black heel midsole, red short rubber turf outsole, pale cool-grey seamless background and soft grounded shadows. Preserve attractive healthy legacy proportions, not shipping compression. Actual shoe has NO tongue pull-loop, NO upright strap/tab; ordinary loose lace strands are not pull loops. No invented construction, no copy overlays or new branding. Product details must follow actual evidence. One square photographic image, not a collage."
+  },
+  {
+    "slot": 3,
+    "name": "03-top-pair.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/do-den/03-nhin-tu-tren.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2709.jpg"
+    ],
+    "prompt": "Precise edit of image 1 top-down pair. Keep composition, healthy form, bright red, forefoot pattern, lighting and background. Image 2 actual top pair establishes simple red tongues, NO stitched pull-loop/long tongue ribbon and red insoles with black XSTARS wordmark. Correct only false long tongue ribbon to simple short fabric tongue and show red insole with XSTARS where visible, matching real goods. Do not invent extra lacing or side logos; preserve plausible outer-only swooshes. Exact product is Xstars Tiempo 8 red/black. Keep successful legacy studio style: clean bright red forefoot with raised triangular texture, white rear quarter, black heel midsole, red short rubber turf outsole, pale cool-grey seamless background and soft grounded shadows. Preserve attractive healthy legacy proportions, not shipping compression. Actual shoe has NO tongue pull-loop, NO upright strap/tab; ordinary loose lace strands are not pull loops. No invented construction, no copy overlays or new branding. Product details must follow actual evidence. One square photographic image, not a collage."
+  },
+  {
+    "slot": 4,
+    "name": "04-forefoot-detail.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/do-den/04-can-chi-tiet.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/jobs/2026-11-08-12-color-refresh/rejected/tiempo-v02-arrowhead/01-rejected-arrowhead.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2700.jpg"
+    ],
+    "prompt": "Precise edit image 1, preserve existing close three-quarter pose and crop, colors, dimensional bright red texture, white panel and lighting. Remove false folded tongue pull ribbon. Correct side mark to image 2 accepted mark, corroborated by actual image 3. Do not alter other details or turn this into extreme macro. Exact product is Xstars Tiempo 8 red/black. Keep successful legacy studio style: clean bright red forefoot with raised triangular texture, white rear quarter, black heel midsole, red short rubber turf outsole, pale cool-grey seamless background and soft grounded shadows. Preserve attractive healthy legacy proportions, not shipping compression. Actual shoe has NO tongue pull-loop, NO upright strap/tab; ordinary loose lace strands are not pull loops. No invented construction, no copy overlays or new branding. Product details must follow actual evidence. One square photographic image, not a collage."
+  },
+  {
+    "slot": 6,
+    "name": "06-outsole.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2707.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/do-den/01-mat-ngoai.png"
+    ],
+    "prompt": "Use actual outsole image 1 as geometric edit target, retain exact red rubber stud pattern and sole outline: rectangular short studs, diagonal molded grooves and small texture; do not invent hexagonal studs. Replace table/wall with clean pale-grey seamless studio background matching image 2, clean up exposure to match bright red of image 2. Position complete outsole horizontally centered, comfortably within frame, minimal supporting upper visible, soft floor shadow. Preserve actual construction and all grooves. Exact product is Xstars Tiempo 8 red/black. Keep successful legacy studio style: clean bright red forefoot with raised triangular texture, white rear quarter, black heel midsole, red short rubber turf outsole, pale cool-grey seamless background and soft grounded shadows. Preserve attractive healthy legacy proportions, not shipping compression. Actual shoe has NO tongue pull-loop, NO upright strap/tab; ordinary loose lace strands are not pull loops. No invented construction, no copy overlays or new branding. Product details must follow actual evidence. One square photographic image, not a collage."
+  },
+  {
+    "slot": 7,
+    "name": "07-inner-side.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/do-den/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2704.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2703.jpg"
+    ],
+    "prompt": "Create companion INNER-side profile. Image 1 sets exact healthy silhouette, attractive color and studio presentation. Images 2 and 3 are actual inner-side evidence. Show shoe toe toward left like image 2. Inner face has red triangular forefoot, plain dimpled white rear panel WITHOUT large black swoosh. Only small black narrow arrow-tail edged red wraps from back heel onto inner white panel; TIEMPO marking wraps on back, black midsole beneath heel, red sole. Preserve actual diagonal red/white panel boundary. Simple red tongue no pull loop. Match existing set's scale and photographic look. Exact product is Xstars Tiempo 8 red/black. Keep successful legacy studio style: clean bright red forefoot with raised triangular texture, white rear quarter, black heel midsole, red short rubber turf outsole, pale cool-grey seamless background and soft grounded shadows. Preserve attractive healthy legacy proportions, not shipping compression. Actual shoe has NO tongue pull-loop, NO upright strap/tab; ordinary loose lace strands are not pull loops. No invented construction, no copy overlays or new branding. Product details must follow actual evidence. One square photographic image, not a collage."
+  },
+  {
+    "slot": 8,
+    "name": "08-rear-three-quarter.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/do-den/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2703.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2702.jpg"
+    ],
+    "prompt": "Create companion LOW rear-inner-three-quarter photograph following image 2 exact view (heel foreground right, toe receding left). Image 1 gives successful legacy studio form/style. Actual images 2 and 3 establish rear anatomy and TIEMPO lettering, size 44 sample label, black band and red rubber sole. Plain white inner side, only small red-bordered black tail near heel, NO large inner-face swoosh. Keep camera low enough that rear heel occludes distant tongue, no visible invented pull loop. Entire shoe in frame, confident healthy silhouette, cool grey studio backdrop. Exact product is Xstars Tiempo 8 red/black. Keep successful legacy studio style: clean bright red forefoot with raised triangular texture, white rear quarter, black heel midsole, red short rubber turf outsole, pale cool-grey seamless background and soft grounded shadows. Preserve attractive healthy legacy proportions, not shipping compression. Actual shoe has NO tongue pull-loop, NO upright strap/tab; ordinary loose lace strands are not pull loops. No invented construction, no copy overlays or new branding. Product details must follow actual evidence. One square photographic image, not a collage."
+  }
+]

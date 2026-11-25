@@ -1,0 +1,730 @@
+[
+  {
+    "image_id": "IMG-BATCH-arrow-aqua-purple-01",
+    "run_id": "arrow-aqua-purple-01-v01",
+    "label": "Nike aqua-purple",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-aqua-purple/v01/01-pair-top-v01.png",
+    "sha256": "d11e19de0e2e15516311d2b98435446a2ba657d8e45c924ad396e1f2f34b4db8",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike xanh/IMG_2858.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-aqua-purple-02",
+    "run_id": "arrow-aqua-purple-02-v01",
+    "label": "Nike aqua-purple",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-aqua-purple/v01/02-outer-silhouette-v01.png",
+    "sha256": "8fee89cf5010f00f20dcbbad55146f443bc02131381cb144874e8052cf2e76ae",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike xanh/IMG_2860.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-aqua-purple-03",
+    "run_id": "arrow-aqua-purple-03-v01",
+    "label": "Nike aqua-purple",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-aqua-purple/v01/03-inner-side-v01.png",
+    "sha256": "a88348fc40d94ca04d76ed67ede0e75ad3fabf5ac687345061ae39ccb23ff2f9",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike xanh/IMG_2861.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-aqua-purple-04",
+    "run_id": "arrow-aqua-purple-04-v01",
+    "label": "Nike aqua-purple",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-aqua-purple/v01/04-sole-and-upper-v01.png",
+    "sha256": "d4f4c2e0d2ec9166534574a4797fb6a47797a234ad309703b379450f12332832",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike xanh/IMG_2859.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-aqua-purple-05",
+    "run_id": "arrow-aqua-purple-05-v01",
+    "label": "Nike aqua-purple",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-aqua-purple/v01/05-full-sole-v01.png",
+    "sha256": "50ae3d24ae4455943f29be1a18af8c16670924a4389cb20438cf6e0b0044c045",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike xanh/IMG_2866.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-aqua-purple-06",
+    "run_id": "arrow-aqua-purple-06-v01",
+    "label": "Nike aqua-purple",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-aqua-purple/v01/06-heel-v01.png",
+    "sha256": "b49c92fb46cf7103cfcf3117ba5ab31a20fd1adc0d896b875a01047ea43caedf",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike xanh/IMG_2864.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-aqua-purple-07",
+    "run_id": "arrow-aqua-purple-07-v01",
+    "label": "Nike aqua-purple",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-aqua-purple/v01/07-toe-detail-v01.png",
+    "sha256": "b6e44dd39d90d57412b9e4c393d8e40f14f990ee96f8b406ae9056cf51abe72a",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike xanh/IMG_2867.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-aqua-purple-08",
+    "run_id": "arrow-aqua-purple-08-v01",
+    "label": "Nike aqua-purple",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-aqua-purple/v01/08-tongue-collar-v01.png",
+    "sha256": "afd5d090d555148ef1f199f73747817c2fa1ae8a0e2075dbf40dc64ff2fd8c81",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike xanh/IMG_2868.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-red-white-01",
+    "run_id": "arrow-red-white-01-v01",
+    "label": "Nike red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-red-white/v01/01-pair-top-v01.png",
+    "sha256": "93d252cc54d9138c3c3d499a34e248193baab8d6d34237d596a89fe3c5a38ffd",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike do/IMG_2869.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-red-white-02",
+    "run_id": "arrow-red-white-02-v01",
+    "label": "Nike red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-red-white/v01/02-outer-silhouette-v01.png",
+    "sha256": "3bdaaeeb623efb9e0f13c95d3e94f163319f61e52e6b46bdb891a85975c16437",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike do/IMG_2871.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-red-white-03",
+    "run_id": "arrow-red-white-03-v01",
+    "label": "Nike red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-red-white/v01/03-inner-side-v01.png",
+    "sha256": "38f9fd817e359f079aad080dcafafc4ab971747385bfc1302582cb54f8c1adf0",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike do/IMG_2872.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-red-white-04",
+    "run_id": "arrow-red-white-04-v01",
+    "label": "Nike red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-red-white/v01/04-sole-and-upper-v01.png",
+    "sha256": "7efc58cfd4ce9b82f5055316525f666603017196f575bda50be334e1dcf457e0",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike do/IMG_2870.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-red-white-05",
+    "run_id": "arrow-red-white-05-v01",
+    "label": "Nike red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-red-white/v01/05-full-sole-v01.png",
+    "sha256": "6eb476944749710af647f7b2fc7ca2059f8db042851dd98d26126aa69b62e489",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike do/IMG_2876.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-red-white-06",
+    "run_id": "arrow-red-white-06-v01",
+    "label": "Nike red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-red-white/v01/06-heel-v01.png",
+    "sha256": "8b32f99a8c5d304043d8ca683efd77b0446a36bde6ffff6c86fa28ef75c9b64d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike do/IMG_2874.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-red-white-07",
+    "run_id": "arrow-red-white-07-v01",
+    "label": "Nike red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-red-white/v01/07-toe-detail-v01.png",
+    "sha256": "f9fcd3d90c7d6afb739d77c12422602acbe89091b2dbb8b07905e2f236425bd6",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike do/IMG_2877.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-red-white-08",
+    "run_id": "arrow-red-white-08-v01",
+    "label": "Nike red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-red-white/v01/08-tongue-collar-v01.png",
+    "sha256": "340c8d1be3df414fa78ea8422b31edc0a383ffc84d58632667ff0289d57b0539",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike do/IMG_2878.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-pink-black-01",
+    "run_id": "arrow-pink-black-01-v01",
+    "label": "Nike pink-black",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-pink-black/v01/01-pair-top-v01.png",
+    "sha256": "f8037f48bc6e3839f51fd14cb8475c667c1844c7d59ce9e6165f7727b7448038",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike hong/IMG_2879.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-pink-black-02",
+    "run_id": "arrow-pink-black-02-v01",
+    "label": "Nike pink-black",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-pink-black/v01/02-outer-silhouette-v01.png",
+    "sha256": "c808778db2e33445a8443fec132e9309a50393e549f7536681965e38bd47d62a",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike hong/IMG_2881.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-pink-black-03",
+    "run_id": "arrow-pink-black-03-v01",
+    "label": "Nike pink-black",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-pink-black/v01/03-inner-side-v01.png",
+    "sha256": "c8c9e670e8860a650bb8b7ba9a66def2705d56b8b7146d5903b36bf3812fd0a1",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike hong/IMG_2882.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-pink-black-04",
+    "run_id": "arrow-pink-black-04-v01",
+    "label": "Nike pink-black",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-pink-black/v01/04-sole-and-upper-v01.png",
+    "sha256": "f1ae39144b8e8f12ee3c3b8d17ddf78d64a32f2d811f935cdf0dbad80580ea84",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike hong/IMG_2880.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-pink-black-05",
+    "run_id": "arrow-pink-black-05-v01",
+    "label": "Nike pink-black",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-pink-black/v01/05-full-sole-v01.png",
+    "sha256": "29fa5104ad08fa0688ba097f2a1c98a3fc018851940545002aa5d1a9c535f78f",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike hong/IMG_2884.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-pink-black-06-v02",
+    "run_id": "arrow-pink-black-06-v02",
+    "label": "Nike pink-black",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-pink-black/v01/06-heel-v02.png",
+    "sha256": "847133981a34c35fad66ba0572c0312767a14d1577620b97ddba35e3bd5b128f",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike hong/IMG_2934.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-pink-black-07",
+    "run_id": "arrow-pink-black-07-v01",
+    "label": "Nike pink-black",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-pink-black/v01/07-toe-detail-v01.png",
+    "sha256": "b3f380afbd5e9756175aec7e592a7063b7ae4114c0324e2e0a8c1def9debe469",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike hong/IMG_2885.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-arrow-pink-black-08",
+    "run_id": "arrow-pink-black-08-v01",
+    "label": "Nike pink-black",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/arrow-pink-black/v01/08-tongue-collar-v01.png",
+    "sha256": "a0c396168ee02a84a446d0a3bef7e979573a4985183cbc10c569d290a1533690",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/nike hong/IMG_2886.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-white-pink-01",
+    "run_id": "messi-white-pink-01-v01",
+    "label": "Messi white-pink",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-white-pink/v01/01-pair-top-v01.png",
+    "sha256": "aeb9b4145f28dda326e6bb1fd44be505235cc3ce81df80b57b6c811579b72ed0",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi hong/IMG_2888.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-white-pink-02",
+    "run_id": "messi-white-pink-02-v01",
+    "label": "Messi white-pink",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-white-pink/v01/02-outer-silhouette-v01.png",
+    "sha256": "d160a0983ae5c9539e73b9943f8f859c81cb83741021dfa5b822416faec8e5f5",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi hong/IMG_2890.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-white-pink-03",
+    "run_id": "messi-white-pink-03-v01",
+    "label": "Messi white-pink",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-white-pink/v01/03-inner-side-v01.png",
+    "sha256": "be2a07f7edd3c6dacb03f6451b1eca50fd28bdebce668de8761c9513a40aa20d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi hong/IMG_2891.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-white-pink-04",
+    "run_id": "messi-white-pink-04-v01",
+    "label": "Messi white-pink",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-white-pink/v01/04-sole-and-upper-v01.png",
+    "sha256": "e080b0838936ce4565c9f495e18dc066c59291d90331a260e9fb6cd86deac7a4",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi hong/IMG_2889.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-white-pink-05",
+    "run_id": "messi-white-pink-05-v01",
+    "label": "Messi white-pink",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-white-pink/v01/05-full-sole-v01.png",
+    "sha256": "bcad197deb30e9553e611aafa3c2e7419b9fe372d1cdb95a823c5de5b6de897a",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi hong/IMG_2895.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-white-pink-06",
+    "run_id": "messi-white-pink-06-v01",
+    "label": "Messi white-pink",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-white-pink/v01/06-heel-v01.png",
+    "sha256": "e40dc1a229b04d96399af4fcb12e452b067f299927aaf282fa7c4196e573a76b",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi hong/IMG_2893.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-white-pink-07",
+    "run_id": "messi-white-pink-07-v01",
+    "label": "Messi white-pink",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-white-pink/v01/07-toe-detail-v01.png",
+    "sha256": "45f5cd68bdee207adacfa0be6959c80f322d1ce2789c8e29cd08b41ec002b794",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi hong/IMG_2896.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-white-pink-08",
+    "run_id": "messi-white-pink-08-v01",
+    "label": "Messi white-pink",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-white-pink/v01/08-tongue-collar-v01.png",
+    "sha256": "45a7f5fe554bb55426ec77d37b8d47b89b50fc5239a7b62608d4fff44e0fdec3",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi hong/IMG_2898.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-black-yellow-01-v02",
+    "run_id": "messi-black-yellow-01-v02",
+    "label": "Messi black-yellow",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-black-yellow/v01/01-pair-top-v02.png",
+    "sha256": "5f17c69e661ee2d70bfc409521bd0168af4c3a6f839d63f5a3c2b95d83b79064",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi den vang/IMG_2900.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-black-yellow-02",
+    "run_id": "messi-black-yellow-02-v01",
+    "label": "Messi black-yellow",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-black-yellow/v01/02-outer-silhouette-v01.png",
+    "sha256": "eb010916ee8f5864dbac8f7e96cb597a1087cc6d672379e6f23632ebdc94c98e",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi den vang/IMG_2902.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-black-yellow-03",
+    "run_id": "messi-black-yellow-03-v01",
+    "label": "Messi black-yellow",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-black-yellow/v01/03-inner-side-v01.png",
+    "sha256": "634dbf33c12416bcb47250f25812a00f067559dd2178ab25e12e8c0261b2dc8f",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi den vang/IMG_2903.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-black-yellow-04",
+    "run_id": "messi-black-yellow-04-v01",
+    "label": "Messi black-yellow",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-black-yellow/v01/04-sole-and-upper-v01.png",
+    "sha256": "300f3ae20b9eb89ea7e2380f6623742d9f1d2a6c9c6da1d86d22485e81f50368",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi den vang/IMG_2901.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-black-yellow-05",
+    "run_id": "messi-black-yellow-05-v01",
+    "label": "Messi black-yellow",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-black-yellow/v01/05-full-sole-v01.png",
+    "sha256": "a1410c98f95187f8ef60736949a3886928c84046fe217660cff9d919f658a209",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi den vang/IMG_2907.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-black-yellow-06",
+    "run_id": "messi-black-yellow-06-v01",
+    "label": "Messi black-yellow",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-black-yellow/v01/06-heel-v01.png",
+    "sha256": "c6d0ed205810460a029c5cff9ea7a93c1ca58003459ee483b7de4dafb95c8774",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi den vang/IMG_2905.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-black-yellow-07",
+    "run_id": "messi-black-yellow-07-v01",
+    "label": "Messi black-yellow",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-black-yellow/v01/07-toe-detail-v01.png",
+    "sha256": "418efc7f366d979346c4e1208d82949d8037433a0160cc2e96494ef240d7cf12",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi den vang/IMG_2908.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-black-yellow-08",
+    "run_id": "messi-black-yellow-08-v01",
+    "label": "Messi black-yellow",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-black-yellow/v01/08-tongue-collar-v01.png",
+    "sha256": "bf49173d223962ff819bcf518e6c506eb79880b4240ee36f6a1665545332d33d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi den vang/IMG_2909.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-red-white-01",
+    "run_id": "messi-red-white-01-v01",
+    "label": "Messi red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-red-white/v01/01-pair-top-v01.png",
+    "sha256": "10e15dd99f7f1899f5c02d132b5e6d0de3165c026e158023cd618598b8d63dca",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi do/IMG_2910.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-red-white-02",
+    "run_id": "messi-red-white-02-v01",
+    "label": "Messi red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-red-white/v01/02-outer-silhouette-v01.png",
+    "sha256": "dccf065ae725c4fed75d529046136ed2cc7bdf6b62ac5380172cef597a46f39c",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi do/IMG_2912.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-red-white-03",
+    "run_id": "messi-red-white-03-v01",
+    "label": "Messi red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-red-white/v01/03-inner-side-v01.png",
+    "sha256": "119bbebb53f692f2a6039240dddf49dcc5374a6e6194b584d5192b496cb24a96",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi do/IMG_2913.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-red-white-04",
+    "run_id": "messi-red-white-04-v01",
+    "label": "Messi red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-red-white/v01/04-sole-and-upper-v01.png",
+    "sha256": "c35d73f136dbf5612a73c010b6f621e3624e131ab25f59b58b4cffd92887d6fa",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi do/IMG_2911.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-red-white-05",
+    "run_id": "messi-red-white-05-v01",
+    "label": "Messi red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-red-white/v01/05-full-sole-v01.png",
+    "sha256": "763d1935b4293d6efb45fb5a25c77dfe109dc4ddd38ef4b4285a17d906b05b2c",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi do/IMG_2917.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-red-white-06",
+    "run_id": "messi-red-white-06-v01",
+    "label": "Messi red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-red-white/v01/06-heel-v01.png",
+    "sha256": "a5b90bcf038db3b22dc832e34854d1fe148f055837ebca78cf0118adfa2417c8",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi do/IMG_2915.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-red-white-07",
+    "run_id": "messi-red-white-07-v01",
+    "label": "Messi red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-red-white/v01/07-toe-detail-v01.png",
+    "sha256": "585f389769ba4a13cefbb48e2c86794f58f9d8f5f95b14ac5e8c16a97e494c22",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi do/IMG_2918.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-red-white-08",
+    "run_id": "messi-red-white-08-v01",
+    "label": "Messi red-white",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-red-white/v01/08-tongue-collar-v01.png",
+    "sha256": "412e1967b99497c3b8a8c6a9e8a03b2d1b9bfddcd35565964772a3d8e2bb32fe",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi do/IMG_2919.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-navy-orange-01",
+    "run_id": "messi-navy-orange-01-v01",
+    "label": "Messi navy-orange",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-navy-orange/v01/01-pair-top-v01.png",
+    "sha256": "de17a793908ad828f027b517571233fccfc063a64d7ece8a601573c45da7f81a",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi xanh than cam/IMG_2921.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-navy-orange-02",
+    "run_id": "messi-navy-orange-02-v01",
+    "label": "Messi navy-orange",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-navy-orange/v01/02-outer-silhouette-v01.png",
+    "sha256": "d58640647ace1bf7777dee493d0852f4751d7743c0bde615c0b57e86083fe9bf",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi xanh than cam/IMG_2923.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-navy-orange-03",
+    "run_id": "messi-navy-orange-03-v01",
+    "label": "Messi navy-orange",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-navy-orange/v01/03-inner-side-v01.png",
+    "sha256": "89f5ecef5afe912d2c4dbb58737d045e04ed13dd710cc6dccba5ff1c5956c992",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi xanh than cam/IMG_2924.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-navy-orange-04",
+    "run_id": "messi-navy-orange-04-v01",
+    "label": "Messi navy-orange",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-navy-orange/v01/04-sole-and-upper-v01.png",
+    "sha256": "c3f72ed34683804d46c69d3f76a0b50688c1a2a304a7898f180092ff232a0976",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi xanh than cam/IMG_2922.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-navy-orange-05",
+    "run_id": "messi-navy-orange-05-v01",
+    "label": "Messi navy-orange",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-navy-orange/v01/05-full-sole-v01.png",
+    "sha256": "b271d1a092552627210e4038125ad050202000fefef0140585c39198e9c6e19d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi xanh than cam/IMG_2930.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-navy-orange-06",
+    "run_id": "messi-navy-orange-06-v01",
+    "label": "Messi navy-orange",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-navy-orange/v01/06-heel-v01.png",
+    "sha256": "6347e9ac971cc600f1de4754446fa8be2a72bd280471886e41ca6d79bcef75df",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi xanh than cam/IMG_2927.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-navy-orange-07",
+    "run_id": "messi-navy-orange-07-v01",
+    "label": "Messi navy-orange",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-navy-orange/v01/07-toe-detail-v01.png",
+    "sha256": "fc5db03508a62088f0657deefb7a83d7ab03794391f72ae4503650e3cbd6cceb",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi xanh than cam/IMG_2931.jpg",
+    "approval": "pending user review"
+  },
+  {
+    "image_id": "IMG-BATCH-messi-navy-orange-08",
+    "run_id": "messi-navy-orange-08-v01",
+    "label": "Messi navy-orange",
+    "path": "photo-workshop/02-REVIEW/2026-11-15-seven-colors/messi-navy-orange/v01/08-tongue-collar-v01.png",
+    "sha256": "87eac0bcad44b145cd1eb672f2bd8d308595d6a4c84b15f80b9b817b1dfdef84",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "source": ".work/seven-color-inputs/messi xanh than cam/IMG_2932.jpg",
+    "approval": "pending user review"
+  }
+]

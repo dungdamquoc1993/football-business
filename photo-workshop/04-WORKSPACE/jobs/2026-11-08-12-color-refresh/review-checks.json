@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-08",
+  "selected_images": 96,
+  "sets": 12,
+  "unchanged_legacy": 16,
+  "accepted_pilots": 2,
+  "edited_or_additional_selected": 78,
+  "source_files_hash_verified": 291,
+  "review_method": "All generated outputs inspected through review sheets; targeted source/output files inspected individually. This is a visual review, not exact pixel fidelity certification.",
+  "corrections_completed": [
+    "Tiempo invented tongue loops/branding removed where evidenced",
+    "Tiempo actual laces and insole colors restored",
+    "Tiempo inner faces added; unsupported white/gold outsole replaced with lacing detail",
+    "Messi silver/blue painted sole zigzags restored; unsupported tongue emblems removed",
+    "Bata silver invented toe holes removed; turquoise suede/eyelet details corrected"
+  ],
+  "remaining_limits": [
+    "Five supplier-only colors lack direct held-goods verification.",
+    "Bata supplier-only outsole shared mold is guided by photographed turquoise sample.",
+    "Some marks, small typography, seams and texture remain AI interpretations; no exact pixel match claimed.",
+    "Rear size labels depict actual photographed sample sizes.",
+    "Full sets pending user review; not published or uploaded."
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "path": "photo-workshop/02-REVIEW/Xstars-unverified/white-red-gold/v02/01-pair-top-v02.png",
+    "sha256": "f45e1c5a94fd41b298184287d0c64c2bceba0ae2f0d9f60dc48fca35a34201c1",
+    "approval": "pending explicit image approval"
+  },
+  {
+    "path": "photo-workshop/02-REVIEW/Xstars-unverified/white-red-gold/v02/02-diagonal-silhouette-v01.png",
+    "sha256": "d2524f39673d954c30422bba0998211cd2370d10428e2c95a9340ee5d153b912",
+    "approval": "retained by user"
+  },
+  {
+    "path": "photo-workshop/02-REVIEW/Xstars-unverified/white-red-gold/v02/03-inner-side-v01.png",
+    "sha256": "71682e7da68ec3b7054a1262b3d17d5b4a2cf0f175644ad45fe8bec857a11ca7",
+    "approval": "retained by user"
+  },
+  {
+    "path": "photo-workshop/02-REVIEW/Xstars-unverified/white-red-gold/v02/04-sole-and-upper-v01.png",
+    "sha256": "d874e77e771f7150766b90141d2534a1549a774ffdc6955f2bf92426826bdde6",
+    "approval": "retained by user"
+  },
+  {
+    "path": "photo-workshop/02-REVIEW/Xstars-unverified/white-red-gold/v02/05-full-sole-v02.png",
+    "sha256": "357d7dc4c00988a35fbfd57808db5d62b7eafcbb47dc6d71e02839110a4dffd1",
+    "approval": "pending explicit image approval"
+  },
+  {
+    "path": "photo-workshop/02-REVIEW/Xstars-unverified/white-red-gold/v02/06-heel-v02.png",
+    "sha256": "b8d7ec1deab49f88da6fd564e58d2d4d592930b68530fe130afa6ee2ccc7a389",
+    "approval": "pending explicit image approval"
+  },
+  {
+    "path": "photo-workshop/02-REVIEW/Xstars-unverified/white-red-gold/v02/07-toe-detail-v02.png",
+    "sha256": "cfe3baae89568b6e78b4810777f2edbfbf062d903ce5c59c3bce9b337e822062",
+    "approval": "pending explicit image approval"
+  },
+  {
+    "path": "photo-workshop/02-REVIEW/Xstars-unverified/white-red-gold/v02/08-tongue-collar-v02.png",
+    "sha256": "35c691c6758d5ee2dc0891bcdccf06431bd4ea9199d8107ae89296f11d4d3ec6",
+    "approval": "pending explicit image approval"
+  }
+]

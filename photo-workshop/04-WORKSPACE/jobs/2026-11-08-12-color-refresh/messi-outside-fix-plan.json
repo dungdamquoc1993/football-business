@@ -1,0 +1,24 @@
+[
+  {
+    "product": "messi",
+    "color": "silver",
+    "name": "02-outside.png",
+    "revision": "corrected-v02",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/bac/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2763.jpg"
+    ],
+    "prompt": "Precise localized correction on image1. Actual photo2 shows tongue has NO M logo. Remove only the black M logo printed on tongue, replace with same plain tongue material/color. Keep heel M symbol, black outer stripes, seams, silver/blue upper, exact healthy form and all legacy color, lighting, grey background, sole and pose unchanged. Do not add loops or rebuild image. One square photo."
+  },
+  {
+    "product": "messi",
+    "color": "sky-blue",
+    "name": "02-outside.png",
+    "revision": "corrected-v02",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/xanh-duong/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2752.jpg"
+    ],
+    "prompt": "Precise localized correction on image1. Actual photo2 shows tongue has NO M logo. Remove only the black M logo printed on tongue, replace with same plain tongue material/color. Keep heel M symbol, black outer stripes, seams, silver/blue upper, exact healthy form and all legacy color, lighting, grey background, sole and pose unchanged. Do not add loops or rebuild image. One square photo."
+  }
+]

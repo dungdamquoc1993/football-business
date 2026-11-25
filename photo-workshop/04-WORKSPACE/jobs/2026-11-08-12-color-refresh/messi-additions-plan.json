@@ -1,0 +1,202 @@
+[
+  {
+    "product": "messi",
+    "color": "silver",
+    "name": "05-material-detail.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/bac/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2787.JPG"
+    ],
+    "prompt": "Companion controlled close-up of the visible toe embossed chevrons and transition into lace/outer band panel. Derive from legacy image 1; supplier image2 corroborates identity. Keep material and ridge depth unchanged, crop/reframe rather than redesign. No new construction visible. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette silver upper, white-grey printed lace panel, black outer bands, white-grey outsole, white laces, dark grey collar. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "silver",
+    "name": "06-outsole.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/bac/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2762.jpg"
+    ],
+    "prompt": "Create matching outsole photograph: image 2 is authoritative actual or supplier outsole evidence. Match its exact short turf stud layout, molded grooves, color and paint, no substitute sole. Full sole horizontal within frame, simple soft-grey studio ground with contact shadow matching image1. Keep upper mostly hidden. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette silver upper, white-grey printed lace panel, black outer bands, white-grey outsole, white laces, dark grey collar. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "silver",
+    "name": "07-inner-side.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/bac/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2758.jpg"
+    ],
+    "prompt": "New matching INNER side profile. Actual image2 establishes printed pattern and MESSI lettering toward heel. No black outer stripes on inner side. Match actual panel joins and lettering while preserving legacy form and attractive finish from image1. Plain grey studio setting. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette silver upper, white-grey printed lace panel, black outer bands, white-grey outsole, white laces, dark grey collar. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "silver",
+    "name": "08-rear.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/bac/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2760.jpg"
+    ],
+    "prompt": "New matching LOW straight rear photograph, actual image2 establishes precise heel motif/lettering, seams, collar and sole colors. Rear heel must occlude tongue and unknown front structures. Keep actual existing vertical heel emblem but no invented new typography. Healthy form from image1. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette silver upper, white-grey printed lace panel, black outer bands, white-grey outsole, white laces, dark grey collar. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "sky-blue",
+    "name": "05-material-detail.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/xanh-duong/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2791.JPG"
+    ],
+    "prompt": "Companion controlled close-up of the visible toe embossed chevrons and transition into lace/outer band panel. Derive from legacy image 1; supplier image2 corroborates identity. Keep material and ridge depth unchanged, crop/reframe rather than redesign. No new construction visible. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette sky-blue upper, silver-white printed panel, black outer bands, blue outsole with white zigzag paint, white laces, blue-grey collar. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "sky-blue",
+    "name": "06-outsole.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/xanh-duong/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2751.jpg"
+    ],
+    "prompt": "Create matching outsole photograph: image 2 is authoritative actual or supplier outsole evidence. Match its exact short turf stud layout, molded grooves, color and paint, no substitute sole. Full sole horizontal within frame, simple soft-grey studio ground with contact shadow matching image1. Keep upper mostly hidden. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette sky-blue upper, silver-white printed panel, black outer bands, blue outsole with white zigzag paint, white laces, blue-grey collar. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "sky-blue",
+    "name": "07-inner-side.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/xanh-duong/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2747.jpg"
+    ],
+    "prompt": "New matching INNER side profile. Actual image2 establishes printed pattern and MESSI lettering toward heel. No black outer stripes on inner side. Match actual panel joins and lettering while preserving legacy form and attractive finish from image1. Plain grey studio setting. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette sky-blue upper, silver-white printed panel, black outer bands, blue outsole with white zigzag paint, white laces, blue-grey collar. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "sky-blue",
+    "name": "08-rear.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/xanh-duong/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2749.jpg"
+    ],
+    "prompt": "New matching LOW straight rear photograph, actual image2 establishes precise heel motif/lettering, seams, collar and sole colors. Rear heel must occlude tongue and unknown front structures. Keep actual existing vertical heel emblem but no invented new typography. Healthy form from image1. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette sky-blue upper, silver-white printed panel, black outer bands, blue outsole with white zigzag paint, white laces, blue-grey collar. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "black-yellow",
+    "name": "05-material-detail.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/den-vang/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2790.JPG"
+    ],
+    "prompt": "Companion controlled close-up of the visible toe embossed chevrons and transition into lace/outer band panel. Derive from legacy image 1; supplier image2 corroborates identity. Keep material and ridge depth unchanged, crop/reframe rather than redesign. No new construction visible. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette black upper with fine gold lines, orange outer bands, black laces and collar, yellow outsole. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "black-yellow",
+    "name": "06-outsole.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/den-vang/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2790.JPG"
+    ],
+    "prompt": "Create matching outsole photograph: image 2 is authoritative actual or supplier outsole evidence. Match its exact short turf stud layout, molded grooves, color and paint, no substitute sole. Full sole horizontal within frame, simple soft-grey studio ground with contact shadow matching image1. Keep upper mostly hidden. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette black upper with fine gold lines, orange outer bands, black laces and collar, yellow outsole. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "black-yellow",
+    "name": "07-outer-three-quarter.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/den-vang/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2790.JPG"
+    ],
+    "prompt": "Companion low front-OUTER-three-quarter of one shoe, use view and visible outer details supported by supplier image2. Preserve exact bands, toe ridges and heel symbol from image1, no hidden inner-side claims. Entire shoe fits frame with breathing room. Match legacy presentation. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette black upper with fine gold lines, orange outer bands, black laces and collar, yellow outsole. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "black-yellow",
+    "name": "08-outer-band-detail.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/den-vang/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2790.JPG"
+    ],
+    "prompt": "Companion medium close detail of visible outer side bands and their seams, lacing edge and silver/gold printed panel where present. Use supported exterior only, crop from same side as image1. Preserve materials; no extreme macro or invented heel/inner detail. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette black upper with fine gold lines, orange outer bands, black laces and collar, yellow outsole. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "red-white",
+    "name": "05-material-detail.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/do/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2789.JPG"
+    ],
+    "prompt": "Companion controlled close-up of the visible toe embossed chevrons and transition into lace/outer band panel. Derive from legacy image 1; supplier image2 corroborates identity. Keep material and ridge depth unchanged, crop/reframe rather than redesign. No new construction visible. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette red upper and red outsole, white printed panel, black outer bands, red laces and collar. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "red-white",
+    "name": "06-outsole.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/do/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2789.JPG"
+    ],
+    "prompt": "Create matching outsole photograph: image 2 is authoritative actual or supplier outsole evidence. Match its exact short turf stud layout, molded grooves, color and paint, no substitute sole. Full sole horizontal within frame, simple soft-grey studio ground with contact shadow matching image1. Keep upper mostly hidden. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette red upper and red outsole, white printed panel, black outer bands, red laces and collar. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "red-white",
+    "name": "07-outer-three-quarter.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/do/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2789.JPG"
+    ],
+    "prompt": "Companion low front-OUTER-three-quarter of one shoe, use view and visible outer details supported by supplier image2. Preserve exact bands, toe ridges and heel symbol from image1, no hidden inner-side claims. Entire shoe fits frame with breathing room. Match legacy presentation. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette red upper and red outsole, white printed panel, black outer bands, red laces and collar. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "red-white",
+    "name": "08-outer-band-detail.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/do/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2789.JPG"
+    ],
+    "prompt": "Companion medium close detail of visible outer side bands and their seams, lacing edge and silver/gold printed panel where present. Use supported exterior only, crop from same side as image1. Preserve materials; no extreme macro or invented heel/inner detail. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette red upper and red outsole, white printed panel, black outer bands, red laces and collar. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "navy-silver-orange",
+    "name": "05-material-detail.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/xanh-than-cam/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2788.JPG"
+    ],
+    "prompt": "Companion controlled close-up of the visible toe embossed chevrons and transition into lace/outer band panel. Derive from legacy image 1; supplier image2 corroborates identity. Keep material and ridge depth unchanged, crop/reframe rather than redesign. No new construction visible. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette navy upper, silver printed lace panel, orange outer bands and laces, grey collar, white outsole. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "navy-silver-orange",
+    "name": "06-outsole.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/xanh-than-cam/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2788.JPG"
+    ],
+    "prompt": "Create matching outsole photograph: image 2 is authoritative actual or supplier outsole evidence. Match its exact short turf stud layout, molded grooves, color and paint, no substitute sole. Full sole horizontal within frame, simple soft-grey studio ground with contact shadow matching image1. Keep upper mostly hidden. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette navy upper, silver printed lace panel, orange outer bands and laces, grey collar, white outsole. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "navy-silver-orange",
+    "name": "07-outer-three-quarter.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/xanh-than-cam/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2788.JPG"
+    ],
+    "prompt": "Companion low front-OUTER-three-quarter of one shoe, use view and visible outer details supported by supplier image2. Preserve exact bands, toe ridges and heel symbol from image1, no hidden inner-side claims. Entire shoe fits frame with breathing room. Match legacy presentation. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette navy upper, silver printed lace panel, orange outer bands and laces, grey collar, white outsole. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  },
+  {
+    "product": "messi",
+    "color": "navy-silver-orange",
+    "name": "08-outer-band-detail.png",
+    "refs": [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-messi/xanh-than-cam/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/supplier-photos/2026-11-08/IMG_2788.JPG"
+    ],
+    "prompt": "Companion medium close detail of visible outer side bands and their seams, lacing edge and silver/gold printed panel where present. Use supported exterior only, crop from same side as image1. Preserve materials; no extreme macro or invented heel/inner detail. Preserve the successful legacy photo appearance from image 1: exact healthy silhouette, color and silver shine where applicable, grey seamless background, soft studio lighting. Do NOT reconstruct the entire shoe from home photos. Exact palette navy upper, silver printed lace panel, orange outer bands and laces, grey collar, white outsole. Side bands only on OUTER side, MESSI lettering on INNER side. No added microtext, logos, pull loops, claims or props. Moderate crispness, no exaggerated pores or emboss. One square image."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "tool": "image_gen.imagegen",
+  "model": null,
+  "prompts": [
+    "Precise product image correction, not a redesign. Image 1 is the edit target. Preserve its exact square composition, shoe silhouette, color, exposure, light-grey background, all red geometric forefoot, white side panel and black/red sole. Image 2 is actual-product construction evidence only, facing opposite direction.\nMake TWO local corrections:\n(1) Remove the fake red folded ribbon/pull loop sticking up above the tongue near the top center. Actual shoe has NO tongue pull loop, NO strap, NO hook, NO upright tab. Replace ONLY this false loop with the short simple rounded red fabric tongue edge shown in actual image 2, naturally tucked behind upper lace crossings. Keep all other laces.\n(2) Transfer the ACTUAL swoosh contour from image 2, reflected into target orientation. Do not substitute the familiar standard Nike swoosh. Actual hook is short, stocky and blunt at the upward head: its tip has a small angular triangular notch, the lower belly is broad and rounded, the long tail tapers around the heel. Match the relative hook height/width and the inner concave curve from image 2. Use actual outline as evidence, not verbal stereotypes. Narrow red border, black diagonally ribbed fill. Keep the existing white panel and overall attractive original form. No global restyling or extra sharpness. One square photo, no text overlays or collage.",
+    "Precise revision of image 1 rear-view studio product photograph. Image 2 is actual heel evidence. Preserve the rear white heel, TIEMPO lettering, size 44 label, black/red wraparound band, black midsole and red turf sole, cool light-grey background, soft studio light and clean commercial rendering.\nChange camera to a STRICT STRAIGHT REAR view at the height of the heel's lettering, slightly LOW rather than elevated; use the actual rear occlusion in image 2. The nearer white back heel and its red top lip must completely occlude the distant tongue and laces: NO tongue visible above heel, NO tall front collar rising behind it, NO red upright pull tab/loop/ribbon anywhere. Actual shoe does not have a tongue pull tab. Show only one gently curved red fabric edge along the white rear heel's upper silhouette, as in image 2. Do not expose the deep collar interior or invent unseen construction. Do not solve by shrinking the whole shoe or changing heel anatomy. Keep product centered and grounded, entire heel and sole in frame, enough surrounding breathing room. Slightly reduce exaggerated grain on white surface to match real goods. One square photograph, no collage, no added graphics."
+  ],
+  "references": [
+    [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/do-den/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2700.jpg"
+    ],
+    [
+      "/Users/dung/Desktop/football-business/photo-workshop/02-REVIEW/tiempo-8/red-black/v01/05-rear-view-size-44-sample-v01.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2702.jpg"
+    ]
+  ],
+  "generated_files": [
+    "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-7af9d4f8-149f-46a2-b1e7-7cbc71d40ad9.png",
+    "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-98781b16-326b-4bf4-8560-d3b72e69d74a.png"
+  ],
+  "retry": {
+    "prompt": "Edit image 1 minimally. Preserve all existing product form, colors, background, lighting, sole and laces. Remove its false red folded tongue pull-loop completely, leave a simple short red fabric tongue under upper laces, NO loop or tab. Correct the black side swoosh outline to the actual shape in image 2, reflected horizontally into image 1 orientation. Trace the ACTUAL contour from image 2 rather than inventing a logo: the rising end has a short blunt plain tip, NOT an arrowhead, NO notch, NO triangle, NO separate ornament. The inner concave curve and rounded lower belly must follow image 2; preserve narrow red outline and black ribbed fill. Only these two edits; retain all other appearance from image 1. One square product photo.",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-708b1f8c-6b53-48aa-bcd5-4cb540f07f5f.png",
+    "reason": "First outside revision invented an arrowhead; reject it."
+  }
+}

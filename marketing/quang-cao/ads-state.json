@@ -1,0 +1,1290 @@
+{
+  "account_id": "act_814094494973387",
+  "page_id": "693218564214489",
+  "campaigns": {
+    "multi": {
+      "id": "120254476314060057",
+      "payload": {
+        "name": "YBDS | 2026-10-29 | Nhieu-mau | Tuong-tac",
+        "objective": "OUTCOME_ENGAGEMENT",
+        "status": "PAUSED",
+        "special_ad_categories": [],
+        "buying_type": "AUCTION",
+        "is_adset_budget_sharing_enabled": false
+      }
+    },
+    "single": {
+      "id": "120254476321520057",
+      "payload": {
+        "name": "YBDS | 2026-10-29 | Mot-mau | Tuong-tac",
+        "objective": "OUTCOME_ENGAGEMENT",
+        "status": "PAUSED",
+        "special_ad_categories": [],
+        "buying_type": "AUCTION",
+        "is_adset_budget_sharing_enabled": false
+      }
+    }
+  },
+  "adsets": {
+    "multi-engagement": {
+      "id": "120254476314180057",
+      "payload": {
+        "name": "Nhieu-mau | Tuong-tac-bai | 100k",
+        "campaign_id": "120254476314060057",
+        "daily_budget": 100000,
+        "billing_event": "IMPRESSIONS",
+        "optimization_goal": "POST_ENGAGEMENT",
+        "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+        "status": "PAUSED",
+        "targeting": {
+          "geo_locations": {
+            "countries": [
+              "VN"
+            ]
+          },
+          "genders": [
+            1
+          ],
+          "age_min": 18,
+          "age_max": 44,
+          "publisher_platforms": [
+            "facebook"
+          ],
+          "facebook_positions": [
+            "feed"
+          ],
+          "targeting_automation": {
+            "advantage_audience": 0
+          }
+        },
+        "promoted_object": {
+          "page_id": "693218564214489"
+        },
+        "destination_type": "ON_POST"
+      }
+    },
+    "multi-messenger": {
+      "id": "120254476317410057",
+      "payload": {
+        "name": "Nhieu-mau | Messenger | 200k",
+        "campaign_id": "120254476314060057",
+        "daily_budget": 200000,
+        "billing_event": "IMPRESSIONS",
+        "optimization_goal": "CONVERSATIONS",
+        "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+        "status": "PAUSED",
+        "targeting": {
+          "geo_locations": {
+            "countries": [
+              "VN"
+            ]
+          },
+          "genders": [
+            1
+          ],
+          "age_min": 18,
+          "age_max": 44,
+          "publisher_platforms": [
+            "facebook"
+          ],
+          "facebook_positions": [
+            "feed"
+          ],
+          "targeting_automation": {
+            "advantage_audience": 0
+          }
+        },
+        "promoted_object": {
+          "page_id": "693218564214489"
+        },
+        "destination_type": "MESSENGER"
+      }
+    },
+    "single-engagement": {
+      "id": "120254476321760057",
+      "payload": {
+        "name": "Mot-mau | Tuong-tac-bai | 100k",
+        "campaign_id": "120254476321520057",
+        "daily_budget": 100000,
+        "billing_event": "IMPRESSIONS",
+        "optimization_goal": "POST_ENGAGEMENT",
+        "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+        "status": "PAUSED",
+        "targeting": {
+          "geo_locations": {
+            "countries": [
+              "VN"
+            ]
+          },
+          "genders": [
+            1
+          ],
+          "age_min": 18,
+          "age_max": 44,
+          "publisher_platforms": [
+            "facebook"
+          ],
+          "facebook_positions": [
+            "feed"
+          ],
+          "targeting_automation": {
+            "advantage_audience": 0
+          }
+        },
+        "promoted_object": {
+          "page_id": "693218564214489"
+        },
+        "destination_type": "ON_POST"
+      }
+    },
+    "single-messenger": {
+      "id": "120254476340700057",
+      "payload": {
+        "name": "Mot-mau | Messenger | 200k",
+        "campaign_id": "120254476321520057",
+        "daily_budget": 200000,
+        "billing_event": "IMPRESSIONS",
+        "optimization_goal": "CONVERSATIONS",
+        "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+        "status": "PAUSED",
+        "targeting": {
+          "geo_locations": {
+            "countries": [
+              "VN"
+            ]
+          },
+          "genders": [
+            1
+          ],
+          "age_min": 18,
+          "age_max": 44,
+          "publisher_platforms": [
+            "facebook"
+          ],
+          "facebook_positions": [
+            "feed"
+          ],
+          "targeting_automation": {
+            "advantage_audience": 0
+          }
+        },
+        "promoted_object": {
+          "page_id": "693218564214489"
+        },
+        "destination_type": "MESSENGER"
+      }
+    }
+  },
+  "creatives": {
+    "engagement-01-Nhieu-mau-Xstars-Tiempo-8": {
+      "id": "1429934248644054",
+      "payload": {
+        "name": "YBDS | 01-Nhieu-mau-Xstars-Tiempo-8 | engagement",
+        "object_story_id": "693218564214489_1434023575610250"
+      }
+    },
+    "engagement-02-Nhieu-mau-Xstars-Vapor": {
+      "id": "1760002238443865",
+      "payload": {
+        "name": "YBDS | 02-Nhieu-mau-Xstars-Vapor | engagement",
+        "object_story_id": "693218564214489_1434024315610176"
+      }
+    },
+    "engagement-03-Nhieu-mau-Xstars-Toni-11-Pro": {
+      "id": "1674847984348695",
+      "payload": {
+        "name": "YBDS | 03-Nhieu-mau-Xstars-Toni-11-Pro | engagement",
+        "object_story_id": "693218564214489_1434025205610087"
+      }
+    },
+    "engagement-04-Nhieu-mau-Xstars-Messi": {
+      "id": "40142948051963005",
+      "payload": {
+        "name": "YBDS | 04-Nhieu-mau-Xstars-Messi | engagement",
+        "object_story_id": "693218564214489_1434026242276650"
+      }
+    },
+    "engagement-05-Nhieu-mau-Winbro-Tia-155k": {
+      "id": "1473468228106286",
+      "payload": {
+        "name": "YBDS | 05-Nhieu-mau-Winbro-Tia-155k | engagement",
+        "object_story_id": "693218564214489_1434027335609874"
+      }
+    },
+    "engagement-06-Nhieu-mau-Winbro-Moc-225k": {
+      "id": "1677177777253664",
+      "payload": {
+        "name": "YBDS | 06-Nhieu-mau-Winbro-Moc-225k | engagement",
+        "object_story_id": "693218564214489_1434028335609774"
+      }
+    },
+    "engagement-07-Don-Tiempo-8-Trang-vang": {
+      "id": "1708237827577038",
+      "payload": {
+        "name": "YBDS | 07-Don-Tiempo-8-Trang-vang | engagement",
+        "object_story_id": "693218564214489_1434027748943166"
+      }
+    },
+    "engagement-08-Don-Messi-Trang-hong": {
+      "id": "3187252401482369",
+      "payload": {
+        "name": "YBDS | 08-Don-Messi-Trang-hong | engagement",
+        "object_story_id": "693218564214489_1434023932276881"
+      }
+    },
+    "engagement-09-Don-Toni-11-Pro-Trang-vang": {
+      "id": "1096296506626502",
+      "payload": {
+        "name": "YBDS | 09-Don-Toni-11-Pro-Trang-vang | engagement",
+        "object_story_id": "693218564214489_1434024675610140"
+      }
+    },
+    "engagement-10-Don-WB17-Xanh-duong-moc-hong": {
+      "id": "2357383841667070",
+      "payload": {
+        "name": "YBDS | 10-Don-WB17-Xanh-duong-moc-hong | engagement",
+        "object_story_id": "693218564214489_1434025708943370"
+      }
+    },
+    "engagement-11-Don-WB04-Trang-do-soc-xanh": {
+      "id": "1171567842198607",
+      "payload": {
+        "name": "YBDS | 11-Don-WB04-Trang-do-soc-xanh | engagement",
+        "object_story_id": "693218564214489_1434026642276610"
+      }
+    },
+    "engagement-12-Don-WB13-Xanh-la-soc-den": {
+      "id": "2714843765710088",
+      "payload": {
+        "name": "YBDS | 12-Don-WB13-Xanh-la-soc-den | engagement",
+        "object_story_id": "693218564214489_1434028808943060"
+      }
+    },
+    "messenger-12-Don-WB13-Xanh-la-soc-den": {
+      "id": "2346612419214866",
+      "ui_configured": true,
+      "payload": {
+        "source_facebook_post_id": "1434028808943060"
+      }
+    }
+  },
+  "ads": {
+    "multi-engagement-01-Nhieu-mau-Xstars-Tiempo-8": {
+      "id": "120254476314650057",
+      "payload": {
+        "name": "01-Nhieu-mau-Xstars-Tiempo-8 | engagement",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "creative_id": "1429934248644054"
+        },
+        "status": "PAUSED"
+      },
+      "verified": {
+        "id": "120254476314650057",
+        "name": "01-Nhieu-mau-Xstars-Tiempo-8 | engagement",
+        "status": "PAUSED",
+        "effective_status": "PAUSED",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "id": "1429934248644054",
+          "object_story_id": "693218564214489_1434023575610250",
+          "effective_object_story_id": "693218564214489_1434023575610250"
+        }
+      }
+    },
+    "multi-engagement-02-Nhieu-mau-Xstars-Vapor": {
+      "id": "120254476315140057",
+      "payload": {
+        "name": "02-Nhieu-mau-Xstars-Vapor | engagement",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "creative_id": "1760002238443865"
+        },
+        "status": "PAUSED"
+      },
+      "verified": {
+        "id": "120254476315140057",
+        "name": "02-Nhieu-mau-Xstars-Vapor | engagement",
+        "status": "PAUSED",
+        "effective_status": "PAUSED",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "id": "1760002238443865",
+          "object_story_id": "693218564214489_1434024315610176",
+          "effective_object_story_id": "693218564214489_1434024315610176"
+        }
+      }
+    },
+    "multi-engagement-03-Nhieu-mau-Xstars-Toni-11-Pro": {
+      "id": "120254476315490057",
+      "payload": {
+        "name": "03-Nhieu-mau-Xstars-Toni-11-Pro | engagement",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "creative_id": "1674847984348695"
+        },
+        "status": "PAUSED"
+      },
+      "verified": {
+        "id": "120254476315490057",
+        "name": "03-Nhieu-mau-Xstars-Toni-11-Pro | engagement",
+        "status": "PAUSED",
+        "effective_status": "PAUSED",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "id": "1674847984348695",
+          "object_story_id": "693218564214489_1434025205610087",
+          "effective_object_story_id": "693218564214489_1434025205610087"
+        }
+      }
+    },
+    "multi-engagement-04-Nhieu-mau-Xstars-Messi": {
+      "id": "120254476316090057",
+      "payload": {
+        "name": "04-Nhieu-mau-Xstars-Messi | engagement",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "creative_id": "40142948051963005"
+        },
+        "status": "PAUSED"
+      },
+      "verified": {
+        "id": "120254476316090057",
+        "name": "04-Nhieu-mau-Xstars-Messi | engagement",
+        "status": "PAUSED",
+        "effective_status": "PAUSED",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "id": "40142948051963005",
+          "object_story_id": "693218564214489_1434026242276650",
+          "effective_object_story_id": "693218564214489_1434026242276650"
+        }
+      }
+    },
+    "multi-engagement-05-Nhieu-mau-Winbro-Tia-155k": {
+      "id": "120254476316660057",
+      "payload": {
+        "name": "05-Nhieu-mau-Winbro-Tia-155k | engagement",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "creative_id": "1473468228106286"
+        },
+        "status": "PAUSED"
+      },
+      "verified": {
+        "id": "120254476316660057",
+        "name": "05-Nhieu-mau-Winbro-Tia-155k | engagement",
+        "status": "PAUSED",
+        "effective_status": "PAUSED",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "id": "1473468228106286",
+          "object_story_id": "693218564214489_1434027335609874",
+          "effective_object_story_id": "693218564214489_1434027335609874"
+        }
+      }
+    },
+    "multi-engagement-06-Nhieu-mau-Winbro-Moc-225k": {
+      "id": "120254476317200057",
+      "payload": {
+        "name": "06-Nhieu-mau-Winbro-Moc-225k | engagement",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "creative_id": "1677177777253664"
+        },
+        "status": "PAUSED"
+      },
+      "verified": {
+        "id": "120254476317200057",
+        "name": "06-Nhieu-mau-Winbro-Moc-225k | engagement",
+        "status": "PAUSED",
+        "effective_status": "PAUSED",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "id": "1677177777253664",
+          "object_story_id": "693218564214489_1434028335609774",
+          "effective_object_story_id": "693218564214489_1434028335609774"
+        }
+      }
+    },
+    "single-engagement-07-Don-Tiempo-8-Trang-vang": {
+      "id": "120254476322300057",
+      "payload": {
+        "name": "07-Don-Tiempo-8-Trang-vang | engagement",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "creative_id": "1708237827577038"
+        },
+        "status": "PAUSED"
+      },
+      "verified": {
+        "id": "120254476322300057",
+        "name": "07-Don-Tiempo-8-Trang-vang | engagement",
+        "status": "PAUSED",
+        "effective_status": "PAUSED",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "id": "1708237827577038",
+          "object_story_id": "693218564214489_1434027748943166",
+          "effective_object_story_id": "693218564214489_1434027748943166"
+        }
+      }
+    },
+    "single-engagement-08-Don-Messi-Trang-hong": {
+      "id": "120254476322790057",
+      "payload": {
+        "name": "08-Don-Messi-Trang-hong | engagement",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "creative_id": "3187252401482369"
+        },
+        "status": "PAUSED"
+      },
+      "verified": {
+        "id": "120254476322790057",
+        "name": "08-Don-Messi-Trang-hong | engagement",
+        "status": "PAUSED",
+        "effective_status": "PAUSED",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "id": "3187252401482369",
+          "object_story_id": "693218564214489_1434023932276881",
+          "effective_object_story_id": "693218564214489_1434023932276881"
+        }
+      }
+    },
+    "single-engagement-09-Don-Toni-11-Pro-Trang-vang": {
+      "id": "120254476323240057",
+      "payload": {
+        "name": "09-Don-Toni-11-Pro-Trang-vang | engagement",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "creative_id": "1096296506626502"
+        },
+        "status": "PAUSED"
+      },
+      "verified": {
+        "id": "120254476323240057",
+        "name": "09-Don-Toni-11-Pro-Trang-vang | engagement",
+        "status": "PAUSED",
+        "effective_status": "PAUSED",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "id": "1096296506626502",
+          "object_story_id": "693218564214489_1434024675610140",
+          "effective_object_story_id": "693218564214489_1434024675610140"
+        }
+      }
+    },
+    "single-engagement-10-Don-WB17-Xanh-duong-moc-hong": {
+      "id": "120254476323900057",
+      "payload": {
+        "name": "10-Don-WB17-Xanh-duong-moc-hong | engagement",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "creative_id": "2357383841667070"
+        },
+        "status": "PAUSED"
+      },
+      "verified": {
+        "id": "120254476323900057",
+        "name": "10-Don-WB17-Xanh-duong-moc-hong | engagement",
+        "status": "PAUSED",
+        "effective_status": "PAUSED",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "id": "2357383841667070",
+          "object_story_id": "693218564214489_1434025708943370",
+          "effective_object_story_id": "693218564214489_1434025708943370"
+        }
+      }
+    },
+    "single-engagement-11-Don-WB04-Trang-do-soc-xanh": {
+      "id": "120254476324490057",
+      "payload": {
+        "name": "11-Don-WB04-Trang-do-soc-xanh | engagement",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "creative_id": "1171567842198607"
+        },
+        "status": "PAUSED"
+      },
+      "verified": {
+        "id": "120254476324490057",
+        "name": "11-Don-WB04-Trang-do-soc-xanh | engagement",
+        "status": "PAUSED",
+        "effective_status": "PAUSED",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "id": "1171567842198607",
+          "object_story_id": "693218564214489_1434026642276610",
+          "effective_object_story_id": "693218564214489_1434026642276610"
+        }
+      }
+    },
+    "single-engagement-12-Don-WB13-Xanh-la-soc-den": {
+      "id": "120254476324660057",
+      "payload": {
+        "name": "12-Don-WB13-Xanh-la-soc-den | engagement",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "creative_id": "2714843765710088"
+        },
+        "status": "PAUSED"
+      },
+      "verified": {
+        "id": "120254476324660057",
+        "name": "12-Don-WB13-Xanh-la-soc-den | engagement",
+        "status": "PAUSED",
+        "effective_status": "PAUSED",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "id": "2714843765710088",
+          "object_story_id": "693218564214489_1434028808943060",
+          "effective_object_story_id": "693218564214489_1434028808943060"
+        }
+      }
+    },
+    "single-messenger-12-Don-WB13-Xanh-la-soc-den": {
+      "id": "120254476609120057",
+      "payload": {
+        "name": "12-Don-WB13-Xanh-la-soc-den | messenger",
+        "adset_id": "120254476340700057",
+        "creative": {
+          "creative_id": "1687270153102845"
+        },
+        "status": "PAUSED"
+      },
+      "ui_configured": true,
+      "verified": {
+        "id": "120254476609120057",
+        "status": "PAUSED",
+        "creative": {
+          "id": "1687270153102845",
+          "object_story_id": "693218564214489_1434091015603506",
+          "effective_object_story_id": "693218564214489_1434091015603506",
+          "page_welcome_message": "{\"auto_follow_up\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\"}, \"auto_follow_up_disabled\": true, \"reengagement\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\", \"include_products\": false}, \"reengagement_disabled\": true, \"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\", \"text_format\": {\"customer_action_type\": \"ice_breakers\", \"message\": {\"ice_breakers\": [{\"title\": \"Shop tư vấn giúp mình một đôi phù hợp nhé?\", \"response\": null}, {\"title\": \"Ship về chỗ mình có được miễn phí không?\", \"response\": null}, {\"title\": \"Shop có tư vấn thật lòng, kể cả khi tôi không mua không?\", \"response\": null}], \"quick_replies\": [], \"text\": \"Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽\"}}, \"image_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"template\", \"payload\": {\"template_type\": \"generic\", \"elements\": [{\"title\": \"\", \"buttons\": [], \"image_hash\": \"\"}]}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"video_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"video\", \"payload\": {\"attachment_id\": \"\"}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"user_edit\": true, \"surface\": \"visual_editor_new\", \"ai_generated_icebreaker_toggle_enabled\": false, \"ai_gen_conversation_model_version\": \"IBV4\", \"ai_gen_welcome_message_model_version\": null, \"ai_gen_nudge_model_version\": null, \"nudge_was_ai_generated\": false, \"is_eligible_for_customized_greeting\": false, \"is_user_editing\": false, \"is_eligible_for_leveraging_inbox_faqs\": false}"
+        }
+      },
+      "message_template": "YBDS — Tư vấn cởi mở — 29.10.2026"
+    },
+    "multi-messenger-01-Nhieu-mau-Xstars-Tiempo-8": {
+      "id": "120254476659970057",
+      "payload": {
+        "name": "01-Nhieu-mau-Xstars-Tiempo-8 | messenger",
+        "adset_id": "120254476317410057",
+        "creative": {
+          "creative_id": "2120841295188504"
+        },
+        "status": "PAUSED"
+      },
+      "ui_configured": true,
+      "verified": {
+        "id": "120254476659970057",
+        "status": "PAUSED",
+        "creative": {
+          "id": "2120841295188504",
+          "object_story_id": "693218564214489_1434096825602925",
+          "effective_object_story_id": "693218564214489_1434096825602925",
+          "page_welcome_message": "{\"auto_follow_up\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\"}, \"auto_follow_up_disabled\": true, \"reengagement\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\", \"include_products\": false}, \"reengagement_disabled\": true, \"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\", \"text_format\": {\"customer_action_type\": \"ice_breakers\", \"message\": {\"ice_breakers\": [{\"title\": \"Shop tư vấn giúp mình một đôi phù hợp nhé?\", \"response\": null}, {\"title\": \"Ship về chỗ mình có được miễn phí không?\", \"response\": null}, {\"title\": \"Shop có tư vấn thật lòng, kể cả khi tôi không mua không?\", \"response\": null}], \"quick_replies\": [], \"text\": \"Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽\"}}, \"image_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"template\", \"payload\": {\"template_type\": \"generic\", \"elements\": [{\"title\": \"\", \"buttons\": [], \"image_hash\": \"\"}]}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"video_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"video\", \"payload\": {\"attachment_id\": \"\"}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"user_edit\": true, \"surface\": \"visual_editor_new\", \"ai_generated_icebreaker_toggle_enabled\": false, \"ai_gen_conversation_model_version\": \"IBV4\", \"ai_gen_welcome_message_model_version\": null, \"ai_gen_nudge_model_version\": null, \"nudge_was_ai_generated\": false, \"is_eligible_for_customized_greeting\": false, \"is_user_editing\": false, \"is_eligible_for_leveraging_inbox_faqs\": false}"
+        }
+      },
+      "message_template": "YBDS — Tư vấn cởi mở — 29.10.2026"
+    },
+    "multi-messenger-02-Nhieu-mau-Xstars-Vapor": {
+      "id": "120254476686080057",
+      "payload": {
+        "name": "02-Nhieu-mau-Xstars-Vapor | messenger",
+        "adset_id": "120254476317410057",
+        "creative": {
+          "creative_id": "1106322545535586"
+        },
+        "status": "PAUSED"
+      },
+      "ui_configured": true,
+      "verified": {
+        "id": "120254476686080057",
+        "status": "PAUSED",
+        "creative": {
+          "id": "1106322545535586",
+          "object_story_id": "693218564214489_1434098892269385",
+          "effective_object_story_id": "693218564214489_1434098892269385",
+          "page_welcome_message": "{\"auto_follow_up\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\"}, \"auto_follow_up_disabled\": true, \"reengagement\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\", \"include_products\": false}, \"reengagement_disabled\": true, \"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\", \"text_format\": {\"customer_action_type\": \"ice_breakers\", \"message\": {\"ice_breakers\": [{\"title\": \"Shop tư vấn giúp mình một đôi phù hợp nhé?\", \"response\": null}, {\"title\": \"Ship về chỗ mình có được miễn phí không?\", \"response\": null}, {\"title\": \"Shop có tư vấn thật lòng, kể cả khi tôi không mua không?\", \"response\": null}], \"quick_replies\": [], \"text\": \"Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽\"}}, \"image_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"template\", \"payload\": {\"template_type\": \"generic\", \"elements\": [{\"title\": \"\", \"buttons\": [], \"image_hash\": \"\"}]}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"video_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"video\", \"payload\": {\"attachment_id\": \"\"}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"user_edit\": true, \"surface\": \"visual_editor_new\", \"ai_generated_icebreaker_toggle_enabled\": false, \"ai_gen_conversation_model_version\": \"IBV4\", \"ai_gen_welcome_message_model_version\": null, \"ai_gen_nudge_model_version\": null, \"nudge_was_ai_generated\": false, \"is_eligible_for_customized_greeting\": false, \"is_user_editing\": false, \"is_eligible_for_leveraging_inbox_faqs\": false}"
+        }
+      },
+      "message_template": "YBDS — Tư vấn cởi mở — 29.10.2026"
+    },
+    "multi-messenger-03-Nhieu-mau-Xstars-Toni-11-Pro": {
+      "id": "120254476686730057",
+      "payload": {
+        "name": "03-Nhieu-mau-Xstars-Toni-11-Pro | messenger",
+        "adset_id": "120254476317410057",
+        "creative": {
+          "creative_id": "29002410116109649"
+        },
+        "status": "PAUSED"
+      },
+      "ui_configured": true,
+      "verified": {
+        "id": "120254476686730057",
+        "status": "PAUSED",
+        "creative": {
+          "id": "29002410116109649",
+          "object_story_id": "693218564214489_1434100175602590",
+          "effective_object_story_id": "693218564214489_1434100175602590",
+          "page_welcome_message": "{\"auto_follow_up\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\"}, \"auto_follow_up_disabled\": true, \"reengagement\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\", \"include_products\": false}, \"reengagement_disabled\": true, \"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\", \"text_format\": {\"customer_action_type\": \"ice_breakers\", \"message\": {\"ice_breakers\": [{\"title\": \"Shop tư vấn giúp mình một đôi phù hợp nhé?\", \"response\": null}, {\"title\": \"Ship về chỗ mình có được miễn phí không?\", \"response\": null}, {\"title\": \"Shop có tư vấn thật lòng, kể cả khi tôi không mua không?\", \"response\": null}], \"quick_replies\": [], \"text\": \"Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽\"}}, \"image_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"template\", \"payload\": {\"template_type\": \"generic\", \"elements\": [{\"title\": \"\", \"buttons\": [], \"image_hash\": \"\"}]}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"video_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"video\", \"payload\": {\"attachment_id\": \"\"}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"user_edit\": true, \"surface\": \"visual_editor_new\", \"ai_generated_icebreaker_toggle_enabled\": false, \"ai_gen_conversation_model_version\": \"IBV4\", \"ai_gen_welcome_message_model_version\": null, \"ai_gen_nudge_model_version\": null, \"nudge_was_ai_generated\": false, \"is_eligible_for_customized_greeting\": false, \"is_user_editing\": false, \"is_eligible_for_leveraging_inbox_faqs\": false}"
+        }
+      },
+      "message_template": "YBDS — Tư vấn cởi mở — 29.10.2026"
+    },
+    "multi-messenger-04-Nhieu-mau-Xstars-Messi": {
+      "id": "120254476686840057",
+      "payload": {
+        "name": "04-Nhieu-mau-Xstars-Messi | messenger",
+        "adset_id": "120254476317410057",
+        "creative": {
+          "creative_id": "1681797090235259"
+        },
+        "status": "PAUSED"
+      },
+      "ui_configured": true,
+      "verified": {
+        "id": "120254476686840057",
+        "status": "PAUSED",
+        "creative": {
+          "id": "1681797090235259",
+          "object_story_id": "693218564214489_1434101468935794",
+          "effective_object_story_id": "693218564214489_1434101468935794",
+          "page_welcome_message": "{\"auto_follow_up\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\"}, \"auto_follow_up_disabled\": true, \"reengagement\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\", \"include_products\": false}, \"reengagement_disabled\": true, \"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\", \"text_format\": {\"customer_action_type\": \"ice_breakers\", \"message\": {\"ice_breakers\": [{\"title\": \"Shop tư vấn giúp mình một đôi phù hợp nhé?\", \"response\": null}, {\"title\": \"Ship về chỗ mình có được miễn phí không?\", \"response\": null}, {\"title\": \"Shop có tư vấn thật lòng, kể cả khi tôi không mua không?\", \"response\": null}], \"quick_replies\": [], \"text\": \"Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽\"}}, \"image_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"template\", \"payload\": {\"template_type\": \"generic\", \"elements\": [{\"title\": \"\", \"buttons\": [], \"image_hash\": \"\"}]}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"video_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"video\", \"payload\": {\"attachment_id\": \"\"}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"user_edit\": true, \"surface\": \"visual_editor_new\", \"ai_generated_icebreaker_toggle_enabled\": false, \"ai_gen_conversation_model_version\": \"IBV4\", \"ai_gen_welcome_message_model_version\": null, \"ai_gen_nudge_model_version\": null, \"nudge_was_ai_generated\": false, \"is_eligible_for_customized_greeting\": false, \"is_user_editing\": false, \"is_eligible_for_leveraging_inbox_faqs\": false}"
+        }
+      },
+      "message_template": "YBDS — Tư vấn cởi mở — 29.10.2026"
+    },
+    "multi-messenger-05-Nhieu-mau-Winbro-Tia-155k": {
+      "id": "120254476686880057",
+      "payload": {
+        "name": "05-Nhieu-mau-Winbro-Tia-155k | messenger",
+        "adset_id": "120254476317410057",
+        "creative": {
+          "creative_id": "992689443879248"
+        },
+        "status": "PAUSED"
+      },
+      "ui_configured": true,
+      "verified": {
+        "id": "120254476686880057",
+        "status": "PAUSED",
+        "creative": {
+          "id": "992689443879248",
+          "object_story_id": "693218564214489_1434102968935644",
+          "effective_object_story_id": "693218564214489_1434102968935644",
+          "page_welcome_message": "{\"auto_follow_up\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\"}, \"auto_follow_up_disabled\": true, \"reengagement\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\", \"include_products\": false}, \"reengagement_disabled\": true, \"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\", \"text_format\": {\"customer_action_type\": \"ice_breakers\", \"message\": {\"ice_breakers\": [{\"title\": \"Shop tư vấn giúp mình một đôi phù hợp nhé?\", \"response\": null}, {\"title\": \"Ship về chỗ mình có được miễn phí không?\", \"response\": null}, {\"title\": \"Shop có tư vấn thật lòng, kể cả khi tôi không mua không?\", \"response\": null}], \"quick_replies\": [], \"text\": \"Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽\"}}, \"image_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"template\", \"payload\": {\"template_type\": \"generic\", \"elements\": [{\"title\": \"\", \"buttons\": [], \"image_hash\": \"\"}]}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"video_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"video\", \"payload\": {\"attachment_id\": \"\"}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"user_edit\": true, \"surface\": \"visual_editor_new\", \"ai_generated_icebreaker_toggle_enabled\": false, \"ai_gen_conversation_model_version\": \"IBV4\", \"ai_gen_welcome_message_model_version\": null, \"ai_gen_nudge_model_version\": null, \"nudge_was_ai_generated\": false, \"is_eligible_for_customized_greeting\": false, \"is_user_editing\": false, \"is_eligible_for_leveraging_inbox_faqs\": false}"
+        }
+      },
+      "message_template": "YBDS — Tư vấn cởi mở — 29.10.2026"
+    },
+    "multi-messenger-06-Nhieu-mau-Winbro-Moc-225k": {
+      "id": "120254476687350057",
+      "payload": {
+        "name": "06-Nhieu-mau-Winbro-Moc-225k | messenger",
+        "adset_id": "120254476317410057",
+        "creative": {
+          "creative_id": "2627067041070005"
+        },
+        "status": "PAUSED"
+      },
+      "ui_configured": true,
+      "verified": {
+        "id": "120254476687350057",
+        "status": "PAUSED",
+        "creative": {
+          "id": "2627067041070005",
+          "object_story_id": "693218564214489_1434104238935517",
+          "effective_object_story_id": "693218564214489_1434104238935517",
+          "page_welcome_message": "{\"auto_follow_up\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\"}, \"auto_follow_up_disabled\": true, \"reengagement\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\", \"include_products\": false}, \"reengagement_disabled\": true, \"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\", \"text_format\": {\"customer_action_type\": \"ice_breakers\", \"message\": {\"ice_breakers\": [{\"title\": \"Shop tư vấn giúp mình một đôi phù hợp nhé?\", \"response\": null}, {\"title\": \"Ship về chỗ mình có được miễn phí không?\", \"response\": null}, {\"title\": \"Shop có tư vấn thật lòng, kể cả khi tôi không mua không?\", \"response\": null}], \"quick_replies\": [], \"text\": \"Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽\"}}, \"image_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"template\", \"payload\": {\"template_type\": \"generic\", \"elements\": [{\"title\": \"\", \"buttons\": [], \"image_hash\": \"\"}]}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"video_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"video\", \"payload\": {\"attachment_id\": \"\"}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"user_edit\": true, \"surface\": \"visual_editor_new\", \"ai_generated_icebreaker_toggle_enabled\": false, \"ai_gen_conversation_model_version\": \"IBV4\", \"ai_gen_welcome_message_model_version\": null, \"ai_gen_nudge_model_version\": null, \"nudge_was_ai_generated\": false, \"is_eligible_for_customized_greeting\": false, \"is_user_editing\": false, \"is_eligible_for_leveraging_inbox_faqs\": false}"
+        }
+      },
+      "message_template": "YBDS — Tư vấn cởi mở — 29.10.2026"
+    },
+    "single-messenger-07-Don-Tiempo-8-Trang-vang": {
+      "id": "120254476687850057",
+      "payload": {
+        "name": "07-Don-Tiempo-8-Trang-vang | messenger",
+        "adset_id": "120254476340700057",
+        "creative": {
+          "creative_id": "1655043002695314"
+        },
+        "status": "PAUSED"
+      },
+      "ui_configured": true,
+      "verified": {
+        "id": "120254476687850057",
+        "status": "PAUSED",
+        "creative": {
+          "id": "1655043002695314",
+          "object_story_id": "693218564214489_1434105412268733",
+          "effective_object_story_id": "693218564214489_1434105412268733",
+          "page_welcome_message": "{\"auto_follow_up\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\"}, \"auto_follow_up_disabled\": true, \"reengagement\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\", \"include_products\": false}, \"reengagement_disabled\": true, \"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\", \"text_format\": {\"customer_action_type\": \"ice_breakers\", \"message\": {\"ice_breakers\": [{\"title\": \"Shop tư vấn giúp mình một đôi phù hợp nhé?\", \"response\": null}, {\"title\": \"Ship về chỗ mình có được miễn phí không?\", \"response\": null}, {\"title\": \"Shop có tư vấn thật lòng, kể cả khi tôi không mua không?\", \"response\": null}], \"quick_replies\": [], \"text\": \"Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽\"}}, \"image_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"template\", \"payload\": {\"template_type\": \"generic\", \"elements\": [{\"title\": \"\", \"buttons\": [], \"image_hash\": \"\"}]}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"video_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"video\", \"payload\": {\"attachment_id\": \"\"}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"user_edit\": true, \"surface\": \"visual_editor_new\", \"ai_generated_icebreaker_toggle_enabled\": false, \"ai_gen_conversation_model_version\": \"IBV4\", \"ai_gen_welcome_message_model_version\": null, \"ai_gen_nudge_model_version\": null, \"nudge_was_ai_generated\": false, \"is_eligible_for_customized_greeting\": false, \"is_user_editing\": false, \"is_eligible_for_leveraging_inbox_faqs\": false}"
+        }
+      },
+      "message_template": "YBDS — Tư vấn cởi mở — 29.10.2026"
+    },
+    "single-messenger-08-Don-Messi-Trang-hong": {
+      "id": "120254476688030057",
+      "payload": {
+        "name": "08-Don-Messi-Trang-hong | messenger",
+        "adset_id": "120254476340700057",
+        "creative": {
+          "creative_id": "1039418172452365"
+        },
+        "status": "PAUSED"
+      },
+      "ui_configured": true,
+      "verified": {
+        "id": "120254476688030057",
+        "status": "PAUSED",
+        "creative": {
+          "id": "1039418172452365",
+          "object_story_id": "693218564214489_1434106615601946",
+          "effective_object_story_id": "693218564214489_1434106615601946",
+          "page_welcome_message": "{\"auto_follow_up\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\"}, \"auto_follow_up_disabled\": true, \"reengagement\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\", \"include_products\": false}, \"reengagement_disabled\": true, \"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\", \"text_format\": {\"customer_action_type\": \"ice_breakers\", \"message\": {\"ice_breakers\": [{\"title\": \"Shop tư vấn giúp mình một đôi phù hợp nhé?\", \"response\": null}, {\"title\": \"Ship về chỗ mình có được miễn phí không?\", \"response\": null}, {\"title\": \"Shop có tư vấn thật lòng, kể cả khi tôi không mua không?\", \"response\": null}], \"quick_replies\": [], \"text\": \"Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽\"}}, \"image_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"template\", \"payload\": {\"template_type\": \"generic\", \"elements\": [{\"title\": \"\", \"buttons\": [], \"image_hash\": \"\"}]}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"video_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"video\", \"payload\": {\"attachment_id\": \"\"}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"user_edit\": true, \"surface\": \"visual_editor_new\", \"ai_generated_icebreaker_toggle_enabled\": false, \"ai_gen_conversation_model_version\": \"IBV4\", \"ai_gen_welcome_message_model_version\": null, \"ai_gen_nudge_model_version\": null, \"nudge_was_ai_generated\": false, \"is_eligible_for_customized_greeting\": false, \"is_user_editing\": false, \"is_eligible_for_leveraging_inbox_faqs\": false}"
+        }
+      },
+      "message_template": "YBDS — Tư vấn cởi mở — 29.10.2026"
+    },
+    "single-messenger-09-Don-Toni-11-Pro-Trang-vang": {
+      "id": "120254476688410057",
+      "payload": {
+        "name": "09-Don-Toni-11-Pro-Trang-vang | messenger",
+        "adset_id": "120254476340700057",
+        "creative": {
+          "creative_id": "2685015955283631"
+        },
+        "status": "PAUSED"
+      },
+      "ui_configured": true,
+      "verified": {
+        "id": "120254476688410057",
+        "status": "PAUSED",
+        "creative": {
+          "id": "2685015955283631",
+          "object_story_id": "693218564214489_1434107722268502",
+          "effective_object_story_id": "693218564214489_1434107722268502",
+          "page_welcome_message": "{\"auto_follow_up\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\"}, \"auto_follow_up_disabled\": true, \"reengagement\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\", \"include_products\": false}, \"reengagement_disabled\": true, \"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\", \"text_format\": {\"customer_action_type\": \"ice_breakers\", \"message\": {\"ice_breakers\": [{\"title\": \"Shop tư vấn giúp mình một đôi phù hợp nhé?\", \"response\": null}, {\"title\": \"Ship về chỗ mình có được miễn phí không?\", \"response\": null}, {\"title\": \"Shop có tư vấn thật lòng, kể cả khi tôi không mua không?\", \"response\": null}], \"quick_replies\": [], \"text\": \"Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽\"}}, \"image_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"template\", \"payload\": {\"template_type\": \"generic\", \"elements\": [{\"title\": \"\", \"buttons\": [], \"image_hash\": \"\"}]}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"video_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"video\", \"payload\": {\"attachment_id\": \"\"}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"user_edit\": true, \"surface\": \"visual_editor_new\", \"ai_generated_icebreaker_toggle_enabled\": false, \"ai_gen_conversation_model_version\": \"IBV4\", \"ai_gen_welcome_message_model_version\": null, \"ai_gen_nudge_model_version\": null, \"nudge_was_ai_generated\": false, \"is_eligible_for_customized_greeting\": false, \"is_user_editing\": false, \"is_eligible_for_leveraging_inbox_faqs\": false}"
+        }
+      },
+      "message_template": "YBDS — Tư vấn cởi mở — 29.10.2026"
+    },
+    "single-messenger-10-Don-WB17-Xanh-duong-moc-hong": {
+      "id": "120254476688610057",
+      "payload": {
+        "name": "10-Don-WB17-Xanh-duong-moc-hong | messenger",
+        "adset_id": "120254476340700057",
+        "creative": {
+          "creative_id": "1091405090568717"
+        },
+        "status": "PAUSED"
+      },
+      "ui_configured": true,
+      "verified": {
+        "id": "120254476688610057",
+        "status": "PAUSED",
+        "creative": {
+          "id": "1091405090568717",
+          "object_story_id": "693218564214489_1434108832268391",
+          "effective_object_story_id": "693218564214489_1434108832268391",
+          "page_welcome_message": "{\"auto_follow_up\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\"}, \"auto_follow_up_disabled\": true, \"reengagement\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\", \"include_products\": false}, \"reengagement_disabled\": true, \"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\", \"text_format\": {\"customer_action_type\": \"ice_breakers\", \"message\": {\"ice_breakers\": [{\"title\": \"Shop tư vấn giúp mình một đôi phù hợp nhé?\", \"response\": null}, {\"title\": \"Ship về chỗ mình có được miễn phí không?\", \"response\": null}, {\"title\": \"Shop có tư vấn thật lòng, kể cả khi tôi không mua không?\", \"response\": null}], \"quick_replies\": [], \"text\": \"Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽\"}}, \"image_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"template\", \"payload\": {\"template_type\": \"generic\", \"elements\": [{\"title\": \"\", \"buttons\": [], \"image_hash\": \"\"}]}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"video_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"video\", \"payload\": {\"attachment_id\": \"\"}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"user_edit\": true, \"surface\": \"visual_editor_new\", \"ai_generated_icebreaker_toggle_enabled\": false, \"ai_gen_conversation_model_version\": \"IBV4\", \"ai_gen_welcome_message_model_version\": null, \"ai_gen_nudge_model_version\": null, \"nudge_was_ai_generated\": false, \"is_eligible_for_customized_greeting\": false, \"is_user_editing\": false, \"is_eligible_for_leveraging_inbox_faqs\": false}"
+        }
+      },
+      "message_template": "YBDS — Tư vấn cởi mở — 29.10.2026"
+    },
+    "single-messenger-11-Don-WB04-Trang-do-soc-xanh": {
+      "id": "120254476689110057",
+      "payload": {
+        "name": "11-Don-WB04-Trang-do-soc-xanh | messenger",
+        "adset_id": "120254476340700057",
+        "creative": {
+          "creative_id": "1555266599964024"
+        },
+        "status": "PAUSED"
+      },
+      "ui_configured": true,
+      "verified": {
+        "id": "120254476689110057",
+        "status": "PAUSED",
+        "creative": {
+          "id": "1555266599964024",
+          "object_story_id": "693218564214489_1434109715601636",
+          "effective_object_story_id": "693218564214489_1434109715601636",
+          "page_welcome_message": "{\"auto_follow_up\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\"}, \"auto_follow_up_disabled\": true, \"reengagement\": {\"text\": \"Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?\", \"include_products\": false}, \"reengagement_disabled\": true, \"type\": \"VISUAL_EDITOR\", \"version\": 2, \"landing_screen_type\": \"welcome_message\", \"media_type\": \"text\", \"text_format\": {\"customer_action_type\": \"ice_breakers\", \"message\": {\"ice_breakers\": [{\"title\": \"Shop tư vấn giúp mình một đôi phù hợp nhé?\", \"response\": null}, {\"title\": \"Ship về chỗ mình có được miễn phí không?\", \"response\": null}, {\"title\": \"Shop có tư vấn thật lòng, kể cả khi tôi không mua không?\", \"response\": null}], \"quick_replies\": [], \"text\": \"Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽\"}}, \"image_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"template\", \"payload\": {\"template_type\": \"generic\", \"elements\": [{\"title\": \"\", \"buttons\": [], \"image_hash\": \"\"}]}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"video_format\": {\"customer_action_type\": \"quick_replies\", \"message\": {\"attachment\": {\"type\": \"video\", \"payload\": {\"attachment_id\": \"\"}}, \"quick_replies\": [{\"title\": \"I'd like to learn more\", \"content_type\": \"text\", \"response_type\": \"text\"}], \"text\": \"Hi, {{user_first_name}}! Please let us know how we can help you.\"}}, \"user_edit\": true, \"surface\": \"visual_editor_new\", \"ai_generated_icebreaker_toggle_enabled\": false, \"ai_gen_conversation_model_version\": \"IBV4\", \"ai_gen_welcome_message_model_version\": null, \"ai_gen_nudge_model_version\": null, \"nudge_was_ai_generated\": false, \"is_eligible_for_customized_greeting\": false, \"is_user_editing\": false, \"is_eligible_for_leveraging_inbox_faqs\": false}"
+        }
+      },
+      "message_template": "YBDS — Tư vấn cởi mở — 29.10.2026"
+    }
+  },
+  "attempts": [
+    {
+      "collection": "campaigns",
+      "key": "multi",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 2026-10-29 | Nhieu-mau | Tuong-tac",
+        "objective": "OUTCOME_ENGAGEMENT",
+        "status": "PAUSED",
+        "special_ad_categories": [],
+        "buying_type": "AUCTION",
+        "is_adset_budget_sharing_enabled": false
+      },
+      "id": "120254476314060057"
+    },
+    {
+      "collection": "adsets",
+      "key": "multi-engagement",
+      "status": "created",
+      "payload": {
+        "name": "Nhieu-mau | Tuong-tac-bai | 100k",
+        "campaign_id": "120254476314060057",
+        "daily_budget": 100000,
+        "billing_event": "IMPRESSIONS",
+        "optimization_goal": "POST_ENGAGEMENT",
+        "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+        "status": "PAUSED",
+        "targeting": {
+          "geo_locations": {
+            "countries": [
+              "VN"
+            ]
+          },
+          "genders": [
+            1
+          ],
+          "age_min": 18,
+          "age_max": 44,
+          "publisher_platforms": [
+            "facebook"
+          ],
+          "facebook_positions": [
+            "feed"
+          ],
+          "targeting_automation": {
+            "advantage_audience": 0
+          }
+        },
+        "promoted_object": {
+          "page_id": "693218564214489"
+        },
+        "destination_type": "ON_POST"
+      },
+      "id": "120254476314180057"
+    },
+    {
+      "collection": "creatives",
+      "key": "engagement-01-Nhieu-mau-Xstars-Tiempo-8",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 01-Nhieu-mau-Xstars-Tiempo-8 | engagement",
+        "object_story_id": "693218564214489_1434023575610250"
+      },
+      "id": "1429934248644054"
+    },
+    {
+      "collection": "ads",
+      "key": "multi-engagement-01-Nhieu-mau-Xstars-Tiempo-8",
+      "status": "created",
+      "payload": {
+        "name": "01-Nhieu-mau-Xstars-Tiempo-8 | engagement",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "creative_id": "1429934248644054"
+        },
+        "status": "PAUSED"
+      },
+      "id": "120254476314650057"
+    },
+    {
+      "collection": "creatives",
+      "key": "engagement-02-Nhieu-mau-Xstars-Vapor",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 02-Nhieu-mau-Xstars-Vapor | engagement",
+        "object_story_id": "693218564214489_1434024315610176"
+      },
+      "id": "1760002238443865"
+    },
+    {
+      "collection": "ads",
+      "key": "multi-engagement-02-Nhieu-mau-Xstars-Vapor",
+      "status": "created",
+      "payload": {
+        "name": "02-Nhieu-mau-Xstars-Vapor | engagement",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "creative_id": "1760002238443865"
+        },
+        "status": "PAUSED"
+      },
+      "id": "120254476315140057"
+    },
+    {
+      "collection": "creatives",
+      "key": "engagement-03-Nhieu-mau-Xstars-Toni-11-Pro",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 03-Nhieu-mau-Xstars-Toni-11-Pro | engagement",
+        "object_story_id": "693218564214489_1434025205610087"
+      },
+      "id": "1674847984348695"
+    },
+    {
+      "collection": "ads",
+      "key": "multi-engagement-03-Nhieu-mau-Xstars-Toni-11-Pro",
+      "status": "created",
+      "payload": {
+        "name": "03-Nhieu-mau-Xstars-Toni-11-Pro | engagement",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "creative_id": "1674847984348695"
+        },
+        "status": "PAUSED"
+      },
+      "id": "120254476315490057"
+    },
+    {
+      "collection": "creatives",
+      "key": "engagement-04-Nhieu-mau-Xstars-Messi",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 04-Nhieu-mau-Xstars-Messi | engagement",
+        "object_story_id": "693218564214489_1434026242276650"
+      },
+      "id": "40142948051963005"
+    },
+    {
+      "collection": "ads",
+      "key": "multi-engagement-04-Nhieu-mau-Xstars-Messi",
+      "status": "created",
+      "payload": {
+        "name": "04-Nhieu-mau-Xstars-Messi | engagement",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "creative_id": "40142948051963005"
+        },
+        "status": "PAUSED"
+      },
+      "id": "120254476316090057"
+    },
+    {
+      "collection": "creatives",
+      "key": "engagement-05-Nhieu-mau-Winbro-Tia-155k",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 05-Nhieu-mau-Winbro-Tia-155k | engagement",
+        "object_story_id": "693218564214489_1434027335609874"
+      },
+      "id": "1473468228106286"
+    },
+    {
+      "collection": "ads",
+      "key": "multi-engagement-05-Nhieu-mau-Winbro-Tia-155k",
+      "status": "created",
+      "payload": {
+        "name": "05-Nhieu-mau-Winbro-Tia-155k | engagement",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "creative_id": "1473468228106286"
+        },
+        "status": "PAUSED"
+      },
+      "id": "120254476316660057"
+    },
+    {
+      "collection": "creatives",
+      "key": "engagement-06-Nhieu-mau-Winbro-Moc-225k",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 06-Nhieu-mau-Winbro-Moc-225k | engagement",
+        "object_story_id": "693218564214489_1434028335609774"
+      },
+      "id": "1677177777253664"
+    },
+    {
+      "collection": "ads",
+      "key": "multi-engagement-06-Nhieu-mau-Winbro-Moc-225k",
+      "status": "created",
+      "payload": {
+        "name": "06-Nhieu-mau-Winbro-Moc-225k | engagement",
+        "adset_id": "120254476314180057",
+        "creative": {
+          "creative_id": "1677177777253664"
+        },
+        "status": "PAUSED"
+      },
+      "id": "120254476317200057"
+    },
+    {
+      "collection": "adsets",
+      "key": "multi-messenger",
+      "status": "created",
+      "payload": {
+        "name": "Nhieu-mau | Messenger | 200k",
+        "campaign_id": "120254476314060057",
+        "daily_budget": 200000,
+        "billing_event": "IMPRESSIONS",
+        "optimization_goal": "CONVERSATIONS",
+        "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+        "status": "PAUSED",
+        "targeting": {
+          "geo_locations": {
+            "countries": [
+              "VN"
+            ]
+          },
+          "genders": [
+            1
+          ],
+          "age_min": 18,
+          "age_max": 44,
+          "publisher_platforms": [
+            "facebook"
+          ],
+          "facebook_positions": [
+            "feed"
+          ],
+          "targeting_automation": {
+            "advantage_audience": 0
+          }
+        },
+        "promoted_object": {
+          "page_id": "693218564214489"
+        },
+        "destination_type": "MESSENGER"
+      },
+      "id": "120254476317410057"
+    },
+    {
+      "collection": "creatives",
+      "key": "messenger-01-Nhieu-mau-Xstars-Tiempo-8",
+      "status": "rejected",
+      "payload": {
+        "name": "YBDS | 01-Nhieu-mau-Xstars-Tiempo-8 | messenger",
+        "object_story_id": "693218564214489_1434023575610250",
+        "call_to_action": {
+          "type": "MESSAGE_PAGE",
+          "value": {
+            "app_destination": "MESSENGER"
+          }
+        }
+      },
+      "response": {
+        "error": {
+          "message": "Invalid parameter",
+          "type": "OAuthException",
+          "code": 100,
+          "error_subcode": 1487390,
+          "is_transient": false,
+          "error_user_title": "Advert creative creation failed",
+          "error_user_msg": "The advert creative creation failed for the following reason: Something went wrong. Please try again later",
+          "fbtrace_id": "AQZls3JlebSidXna8nt-blN"
+        }
+      }
+    },
+    {
+      "collection": "campaigns",
+      "key": "single",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 2026-10-29 | Mot-mau | Tuong-tac",
+        "objective": "OUTCOME_ENGAGEMENT",
+        "status": "PAUSED",
+        "special_ad_categories": [],
+        "buying_type": "AUCTION",
+        "is_adset_budget_sharing_enabled": false
+      },
+      "id": "120254476321520057"
+    },
+    {
+      "collection": "adsets",
+      "key": "single-engagement",
+      "status": "created",
+      "payload": {
+        "name": "Mot-mau | Tuong-tac-bai | 100k",
+        "campaign_id": "120254476321520057",
+        "daily_budget": 100000,
+        "billing_event": "IMPRESSIONS",
+        "optimization_goal": "POST_ENGAGEMENT",
+        "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+        "status": "PAUSED",
+        "targeting": {
+          "geo_locations": {
+            "countries": [
+              "VN"
+            ]
+          },
+          "genders": [
+            1
+          ],
+          "age_min": 18,
+          "age_max": 44,
+          "publisher_platforms": [
+            "facebook"
+          ],
+          "facebook_positions": [
+            "feed"
+          ],
+          "targeting_automation": {
+            "advantage_audience": 0
+          }
+        },
+        "promoted_object": {
+          "page_id": "693218564214489"
+        },
+        "destination_type": "ON_POST"
+      },
+      "id": "120254476321760057"
+    },
+    {
+      "collection": "creatives",
+      "key": "engagement-07-Don-Tiempo-8-Trang-vang",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 07-Don-Tiempo-8-Trang-vang | engagement",
+        "object_story_id": "693218564214489_1434027748943166"
+      },
+      "id": "1708237827577038"
+    },
+    {
+      "collection": "ads",
+      "key": "single-engagement-07-Don-Tiempo-8-Trang-vang",
+      "status": "created",
+      "payload": {
+        "name": "07-Don-Tiempo-8-Trang-vang | engagement",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "creative_id": "1708237827577038"
+        },
+        "status": "PAUSED"
+      },
+      "id": "120254476322300057"
+    },
+    {
+      "collection": "creatives",
+      "key": "engagement-08-Don-Messi-Trang-hong",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 08-Don-Messi-Trang-hong | engagement",
+        "object_story_id": "693218564214489_1434023932276881"
+      },
+      "id": "3187252401482369"
+    },
+    {
+      "collection": "ads",
+      "key": "single-engagement-08-Don-Messi-Trang-hong",
+      "status": "created",
+      "payload": {
+        "name": "08-Don-Messi-Trang-hong | engagement",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "creative_id": "3187252401482369"
+        },
+        "status": "PAUSED"
+      },
+      "id": "120254476322790057"
+    },
+    {
+      "collection": "creatives",
+      "key": "engagement-09-Don-Toni-11-Pro-Trang-vang",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 09-Don-Toni-11-Pro-Trang-vang | engagement",
+        "object_story_id": "693218564214489_1434024675610140"
+      },
+      "id": "1096296506626502"
+    },
+    {
+      "collection": "ads",
+      "key": "single-engagement-09-Don-Toni-11-Pro-Trang-vang",
+      "status": "created",
+      "payload": {
+        "name": "09-Don-Toni-11-Pro-Trang-vang | engagement",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "creative_id": "1096296506626502"
+        },
+        "status": "PAUSED"
+      },
+      "id": "120254476323240057"
+    },
+    {
+      "collection": "creatives",
+      "key": "engagement-10-Don-WB17-Xanh-duong-moc-hong",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 10-Don-WB17-Xanh-duong-moc-hong | engagement",
+        "object_story_id": "693218564214489_1434025708943370"
+      },
+      "id": "2357383841667070"
+    },
+    {
+      "collection": "ads",
+      "key": "single-engagement-10-Don-WB17-Xanh-duong-moc-hong",
+      "status": "created",
+      "payload": {
+        "name": "10-Don-WB17-Xanh-duong-moc-hong | engagement",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "creative_id": "2357383841667070"
+        },
+        "status": "PAUSED"
+      },
+      "id": "120254476323900057"
+    },
+    {
+      "collection": "creatives",
+      "key": "engagement-11-Don-WB04-Trang-do-soc-xanh",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 11-Don-WB04-Trang-do-soc-xanh | engagement",
+        "object_story_id": "693218564214489_1434026642276610"
+      },
+      "id": "1171567842198607"
+    },
+    {
+      "collection": "ads",
+      "key": "single-engagement-11-Don-WB04-Trang-do-soc-xanh",
+      "status": "created",
+      "payload": {
+        "name": "11-Don-WB04-Trang-do-soc-xanh | engagement",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "creative_id": "1171567842198607"
+        },
+        "status": "PAUSED"
+      },
+      "id": "120254476324490057"
+    },
+    {
+      "collection": "creatives",
+      "key": "engagement-12-Don-WB13-Xanh-la-soc-den",
+      "status": "created",
+      "payload": {
+        "name": "YBDS | 12-Don-WB13-Xanh-la-soc-den | engagement",
+        "object_story_id": "693218564214489_1434028808943060"
+      },
+      "id": "2714843765710088"
+    },
+    {
+      "collection": "ads",
+      "key": "single-engagement-12-Don-WB13-Xanh-la-soc-den",
+      "status": "created",
+      "payload": {
+        "name": "12-Don-WB13-Xanh-la-soc-den | engagement",
+        "adset_id": "120254476321760057",
+        "creative": {
+          "creative_id": "2714843765710088"
+        },
+        "status": "PAUSED"
+      },
+      "id": "120254476324660057"
+    }
+  ]
+}

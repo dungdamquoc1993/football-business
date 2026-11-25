@@ -1,0 +1,478 @@
+{
+  "date": "2026-11-15",
+  "authorization": "User approved all and requested cleanup",
+  "relocations": [
+    {
+      "from": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-seven-colors",
+      "to": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors"
+    },
+    {
+      "from": "photo-workshop/02-REVIEW/2026-11-15-seven-colors",
+      "to": "photo-workshop/04-WORKSPACE/jobs/2026-11-15-eight-color-release/approved-review/seven-colors"
+    },
+    {
+      "from": "photo-workshop/02-REVIEW/Xstars-unverified/white-red-gold/v02",
+      "to": "photo-workshop/04-WORKSPACE/jobs/2026-11-15-eight-color-release/approved-review/white-pilot"
+    }
+  ],
+  "removed_verified_duplicate_copies": [
+    {
+      "duplicate": "anh tu chup 15 nov/messi den vang/IMG_2900.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi den vang/IMG_2900.HEIC",
+      "sha256": "26a71134fc744e08f523b8eff8edf3db099085d36d10e580d889df3467e245b9"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi den vang/IMG_2901.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi den vang/IMG_2901.HEIC",
+      "sha256": "c37300b7d4398b4738ea84d1038a398d7942b815cb35c91dfa2fc55e4cc1e38c"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi den vang/IMG_2902.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi den vang/IMG_2902.HEIC",
+      "sha256": "63948f373a3c749923aee642b419118d29ada4db31f0acaaf576ecf13818b764"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi den vang/IMG_2903.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi den vang/IMG_2903.HEIC",
+      "sha256": "c46a9c82e887a374a3e030727eadcf2998353a7ee50d2b54bd1aa6f6e907cd0d"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi den vang/IMG_2904.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi den vang/IMG_2904.HEIC",
+      "sha256": "67e768b556cf0f1be3122cbbca807ac2e56dfacdbd686b674bd73b5909cc10ae"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi den vang/IMG_2905.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi den vang/IMG_2905.HEIC",
+      "sha256": "d49e3929ef8f2dfa137667ecb490b2f5b89e5f4fb03974118c801d2c48b29a10"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi den vang/IMG_2906.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi den vang/IMG_2906.HEIC",
+      "sha256": "2b06ad36cbf22610cd0e6e3b7460a88a8a9a25ca90e146cd4583305e704f3813"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi den vang/IMG_2907.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi den vang/IMG_2907.HEIC",
+      "sha256": "c76de6e4faffe0282106c5f7dfe5ba32856f3d98a038c1632152c305cceb0a70"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi den vang/IMG_2908.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi den vang/IMG_2908.HEIC",
+      "sha256": "fc1672798201bddeaaab0dbf29842807afcfdefdde62152b53585a79d64c4496"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi den vang/IMG_2909.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi den vang/IMG_2909.HEIC",
+      "sha256": "e2ae2d1d5fd2936c0e269ce3f961841c40569c9852b2d5e535ef6e594aaa6524"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi do/IMG_2910.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi do/IMG_2910.HEIC",
+      "sha256": "2d9685e01de9d6f5410be8f9e5da96fc7e88843b0ad1ff972899c425b2547573"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi do/IMG_2911.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi do/IMG_2911.HEIC",
+      "sha256": "94316abc4953ddb6c96487b2da4b012fa88dc8251f9ce5ca60278a59809ed88f"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi do/IMG_2912.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi do/IMG_2912.HEIC",
+      "sha256": "a712b7d54873b0f7d4250ce7b152f5caf8d980c2739102e062c6c354676da64f"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi do/IMG_2913.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi do/IMG_2913.HEIC",
+      "sha256": "a44c8ac4e54ba2e5d441697fb3ba60c2d8a04b8534836e9770ec67703233bee6"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi do/IMG_2914.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi do/IMG_2914.HEIC",
+      "sha256": "af8d4ee956afcda7a832855e50aab89f5bbc1de4b66e252fbf60baa9df1a182a"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi do/IMG_2915.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi do/IMG_2915.HEIC",
+      "sha256": "428c97225372360add6a42e29c3df91f583ad366731d2441f8491d1325c5928b"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi do/IMG_2916.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi do/IMG_2916.HEIC",
+      "sha256": "5e05092e840f7f86f9265a4cde8622118bee4fd4c22a6d7985806b85f2d2a018"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi do/IMG_2917.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi do/IMG_2917.HEIC",
+      "sha256": "f1aa0a24f8a8da872c190667ef9aab59875cadab63ccc2b1aea3570331f59efa"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi do/IMG_2918.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi do/IMG_2918.HEIC",
+      "sha256": "c256e4f85b11410f81b4d6cffd6624786b51c15c683d3127d123dffcd762c7f6"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi do/IMG_2919.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi do/IMG_2919.HEIC",
+      "sha256": "986718906cdbba82b06907d01be21ea13c9926a75f28e22691af1e4d72fa979c"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi hong/IMG_2888.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi hong/IMG_2888.HEIC",
+      "sha256": "dfeaf81698bd5223a9fc042f2f411cc3e39ffaa7b3c9269056c60563211b0d68"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi hong/IMG_2889.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi hong/IMG_2889.HEIC",
+      "sha256": "fa6e5e0857ba2fc69ba5011403ea6bd64befde745a6872cf5793ba857212f6b9"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi hong/IMG_2890.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi hong/IMG_2890.HEIC",
+      "sha256": "014834c13b429fb88380cfe81a0380d68cac939873938c8b6ca2cdfcc1b6a561"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi hong/IMG_2891.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi hong/IMG_2891.HEIC",
+      "sha256": "24c857b86cfe5eeaf415cfa738a5d6a9d34de8adb84e0d75703ff41e91c76d4c"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi hong/IMG_2892.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi hong/IMG_2892.HEIC",
+      "sha256": "f4f15f61b5536d719dae2e991a88e8eff9bb6c9edd26f460a9b96c3edb3036d9"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi hong/IMG_2893.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi hong/IMG_2893.HEIC",
+      "sha256": "96d121507a308ebbea833c99e879421e297aa75cd5502f3fc8b1445741db7556"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi hong/IMG_2894.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi hong/IMG_2894.HEIC",
+      "sha256": "5bb54de6c50b637552e323e8ea055ca1f3ab1a504dc3b32f7258ec6654502d61"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi hong/IMG_2895.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi hong/IMG_2895.HEIC",
+      "sha256": "d16465535d1e223c5ac86a2b8cd9e2a1cafc13e87a9943111c3d5f233bab7a2c"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi hong/IMG_2896.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi hong/IMG_2896.HEIC",
+      "sha256": "5c9522198532a0558c1e172832010b058c01221f9dbcb624c536dac0fd351eed"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi hong/IMG_2898.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi hong/IMG_2898.HEIC",
+      "sha256": "2aa33a56f3def3b282b6120249ace93f74f66b346106997d5745cae203faf489"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi xanh than cam/IMG_2921.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi xanh than cam/IMG_2921.HEIC",
+      "sha256": "2a7ce7c9b33cd9e2d2730e654d64760dc36c8cde01f46226d8b4e70eb8b255ae"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi xanh than cam/IMG_2922.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi xanh than cam/IMG_2922.HEIC",
+      "sha256": "e99d38675e5b04754a22aa5828a1ce6db9a3c87bd81cf2f2a902bc35ba7869b9"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi xanh than cam/IMG_2923.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi xanh than cam/IMG_2923.HEIC",
+      "sha256": "a79c658573c535dae03bba1ded31e7faba99f41b7b04ebeaeafbc1b07955f4b5"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi xanh than cam/IMG_2924.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi xanh than cam/IMG_2924.HEIC",
+      "sha256": "90c86ee95df8762ae22aa33fab618bc372f457bb9960e58b52f7a6f236120ca7"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi xanh than cam/IMG_2926.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi xanh than cam/IMG_2926.HEIC",
+      "sha256": "c4bb390619b856cda73efec16c5e334c90ed3ddd997f1fbaeb73844608e15ea7"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi xanh than cam/IMG_2927.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi xanh than cam/IMG_2927.HEIC",
+      "sha256": "7010f3a3e9cf9dc3baab7c93a3d36de00f3c3263fe0d850b04a4b5f98028068f"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi xanh than cam/IMG_2928.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi xanh than cam/IMG_2928.HEIC",
+      "sha256": "794d17a9ba20440652f8b1011edc0bc015a4283c3a70f67754ae88a4700a4979"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi xanh than cam/IMG_2930.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi xanh than cam/IMG_2930.HEIC",
+      "sha256": "dbdc9bac81d878d7c9d81f8f416a34ea169df8deff4edc8703ce8a075f12c493"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi xanh than cam/IMG_2931.heic",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi xanh than cam/IMG_2931.heic",
+      "sha256": "13e2abb574f5e44833dbc64d7c40f9d89b7f326a9b3ce9b20863f12d8459d3ae"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/messi xanh than cam/IMG_2932.heic",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/messi xanh than cam/IMG_2932.heic",
+      "sha256": "76eab8fdc93856f3d8a4e8085dd5909f798503f952f52728f3cd9a52d78babf6"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike do/IMG_2869.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike do/IMG_2869.HEIC",
+      "sha256": "a82596682acde0202f5dfe2851ee301c1e927de87dfe7bf14b8283be650f3b48"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike do/IMG_2870.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike do/IMG_2870.HEIC",
+      "sha256": "32af9278c14432ad784d2c0807878e84e2ca1fe7a89b5013aa289d92a3f63721"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike do/IMG_2871.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike do/IMG_2871.HEIC",
+      "sha256": "d7322fadb067d2b929da2cda90e72294f38f72095d22dcaf3bfa83c4bd871e37"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike do/IMG_2872.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike do/IMG_2872.HEIC",
+      "sha256": "2c71ed62708026b80966759edce81621d5f7894675ab836eb38a0b0798a655f7"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike do/IMG_2873.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike do/IMG_2873.HEIC",
+      "sha256": "6cfc90e46df5f51070fd07277fd1eecaa6512b00fa06c8dbe4b4854bda5a1b25"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike do/IMG_2874.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike do/IMG_2874.HEIC",
+      "sha256": "72e4e5bf36a8b19f3606cc21b5d883c2fce557c6c4578987d7ee911ea8acc272"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike do/IMG_2875.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike do/IMG_2875.HEIC",
+      "sha256": "25aa7ff3886a809e46be06d88fafd26c9b6c0d888b5abd8a07cffef009fd4165"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike do/IMG_2876.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike do/IMG_2876.HEIC",
+      "sha256": "c548ab24ef4d7fa36f848d5df938b3a05913b641be5747c942413a77fb3e4382"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike do/IMG_2877.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike do/IMG_2877.HEIC",
+      "sha256": "7b30b6a142f2a0183621c058b3caaa362b80f4ec0ab0328a4824d7e66caf6281"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike do/IMG_2878.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike do/IMG_2878.HEIC",
+      "sha256": "37ac781af84cd045fbed030e0cc360a2af9027ce929714d8e6c1e50ebd7db6dc"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike hong/IMG_2879.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike hong/IMG_2879.HEIC",
+      "sha256": "d4ebb86230dd5434ee2cf8408097315ba579866895a2e4118c5621758dcc44b4"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike hong/IMG_2880.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike hong/IMG_2880.HEIC",
+      "sha256": "9c9b9237fb90d40991e08adcebcd8f82ec75316af5bf925c454b7d71fa4541f4"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike hong/IMG_2881.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike hong/IMG_2881.HEIC",
+      "sha256": "d1e960eecbbd1d4d3ff525d8962e51ff6ffd888cb5dbf558e51eaac53e965fa4"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike hong/IMG_2882.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike hong/IMG_2882.HEIC",
+      "sha256": "69c4d72e1b73c43519e9a930f5c9ff23ad9a2ac83f86dba35e50c8eac9a16e60"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike hong/IMG_2883.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike hong/IMG_2883.HEIC",
+      "sha256": "fb0fa57b4b3b27bd12aef4222d97cf84c4b5ada04b906a0e2c85707810f5e3ff"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike hong/IMG_2884.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike hong/IMG_2884.HEIC",
+      "sha256": "a68d9d87487e41023588db7253ce2b29064b3461f1a73fee2f7285f3262aa084"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike hong/IMG_2885.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike hong/IMG_2885.HEIC",
+      "sha256": "434f02dc6099086ba771adbe8eaa2ae91aa1f9e650cb18d4c161561733f6808a"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike hong/IMG_2886.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike hong/IMG_2886.HEIC",
+      "sha256": "b5de26db689539c698afa9d955ddc88d98ee6478d7c2f4bde216496ad7689914"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike hong/IMG_2933.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike hong/IMG_2933.HEIC",
+      "sha256": "6246c25eafbedfe32d24314fedfe9d8ae3ca1263ee2ad3bc8d4a4b2ef88562ed"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike hong/IMG_2934.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike hong/IMG_2934.HEIC",
+      "sha256": "f7406f1c562c84b3573f698d84eb66febd7c8269d96becaaffb839cc66fab084"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike trắng/IMG_2845.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2845.jpg",
+      "sha256": "2a191c4934327aa2d5f67c27b2b22b5a4b5ad87691adbedf66c72421d7985d3e"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike trắng/IMG_2847.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2847.jpg",
+      "sha256": "fcc5a151730fdd3c2abe325d5f23fb5e6a27c81ca93d144e0907d7a123624edb"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike trắng/IMG_2848.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2848.jpg",
+      "sha256": "0f0c9efd836adc1bb47d8d539b9e769bc9332dbf002f2e68a0a2460567ac01ee"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike trắng/IMG_2849.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2849.jpg",
+      "sha256": "fdd96b1f7102d08d33911175b2a85c0bfdd1fe8a6c567ae1b2f3b4e58a4a5bdb"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike trắng/IMG_2850.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2850.jpg",
+      "sha256": "d7ed6b1061fbd7027ff368dbda6a4db9932a6c280a9b27c71fe2384c3fd0eb17"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike trắng/IMG_2851.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2851.jpg",
+      "sha256": "99341aa0f8751b9cf34d5e32d77f61dda6c55d9c623ef4d88eefd6a102cc845d"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike trắng/IMG_2852.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2852.jpg",
+      "sha256": "b50e3aebf1944959b7ba6dadae8f2e17d8053c99a8ca6d9a9b2202f80c3c4993"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike trắng/IMG_2853.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2853.jpg",
+      "sha256": "40f1bb6150de6e2057ecdd92eac6616a479057993cd9f5995984b5fcf7796488"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike trắng/before_1.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/before_1.jpg",
+      "sha256": "3845a94c5ad947a56909f31ed19a749a70aef04c7a4cabb37db0591c2af3fc72"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike trắng/before_3.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/before_3.jpg",
+      "sha256": "32226bf30d1e878c6764b953f26d0dceb8811aed4145ccedcd5bb74cb100b08c"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike xanh/IMG_2858.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike xanh/IMG_2858.HEIC",
+      "sha256": "11efa9ba806054a4223d8639b37f7b97f3a3a40991374b2d7bde91ef05cc72a5"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike xanh/IMG_2859.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike xanh/IMG_2859.HEIC",
+      "sha256": "8d6c9adc82e429889e542bfcf191edc34e851185aac67837b16e7906c4106856"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike xanh/IMG_2860.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike xanh/IMG_2860.HEIC",
+      "sha256": "284206b0b2ac6ebd28feca556e5b2f68d491ac55cd96a6fa314da099784c9dda"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike xanh/IMG_2861.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike xanh/IMG_2861.HEIC",
+      "sha256": "474d38e8e902e470ca6bd7ffcc72dd9e22266b04a4e11cef61909834a7e5601b"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike xanh/IMG_2862.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike xanh/IMG_2862.HEIC",
+      "sha256": "9da7903cd0f21a4a3452dfc2963de332023bcdc1a6d3bb7a40a0bfd991ff9ed1"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike xanh/IMG_2864.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike xanh/IMG_2864.HEIC",
+      "sha256": "4e2bedc5047e2ca078cb11b9261a51a4cf752f86abba66c7efd0eb9483f9100f"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike xanh/IMG_2865.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike xanh/IMG_2865.HEIC",
+      "sha256": "e54fa32c7805bed0fe0d7e643adaa4a5f5d95cf9894e12847e77212a90457faa"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike xanh/IMG_2866.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike xanh/IMG_2866.HEIC",
+      "sha256": "a6436b4f6c457e5c57163b448a8c5d64616a6b65328463251ad8d2bde01d940f"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike xanh/IMG_2867.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike xanh/IMG_2867.HEIC",
+      "sha256": "accf3a66863df9995693c5d2f4dd19ae77441e5d701534bb09e78cdbd9662956"
+    },
+    {
+      "duplicate": "anh tu chup 15 nov/nike xanh/IMG_2868.HEIC",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike xanh/IMG_2868.HEIC",
+      "sha256": "b5aabc18d77e9312a14c503d4b1f8a77c28f6e25031ba0c753fee43d65d7a201"
+    },
+    {
+      "duplicate": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2845.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2845.jpg",
+      "sha256": "2a191c4934327aa2d5f67c27b2b22b5a4b5ad87691adbedf66c72421d7985d3e"
+    },
+    {
+      "duplicate": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2847.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2847.jpg",
+      "sha256": "fcc5a151730fdd3c2abe325d5f23fb5e6a27c81ca93d144e0907d7a123624edb"
+    },
+    {
+      "duplicate": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2848.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2848.jpg",
+      "sha256": "0f0c9efd836adc1bb47d8d539b9e769bc9332dbf002f2e68a0a2460567ac01ee"
+    },
+    {
+      "duplicate": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2849.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2849.jpg",
+      "sha256": "fdd96b1f7102d08d33911175b2a85c0bfdd1fe8a6c567ae1b2f3b4e58a4a5bdb"
+    },
+    {
+      "duplicate": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2850.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2850.jpg",
+      "sha256": "d7ed6b1061fbd7027ff368dbda6a4db9932a6c280a9b27c71fe2384c3fd0eb17"
+    },
+    {
+      "duplicate": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2851.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2851.jpg",
+      "sha256": "99341aa0f8751b9cf34d5e32d77f61dda6c55d9c623ef4d88eefd6a102cc845d"
+    },
+    {
+      "duplicate": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2852.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2852.jpg",
+      "sha256": "b50e3aebf1944959b7ba6dadae8f2e17d8053c99a8ca6d9a9b2202f80c3c4993"
+    },
+    {
+      "duplicate": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/IMG_2853.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/IMG_2853.jpg",
+      "sha256": "40f1bb6150de6e2057ecdd92eac6616a479057993cd9f5995984b5fcf7796488"
+    },
+    {
+      "duplicate": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/before_1.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/before_1.jpg",
+      "sha256": "3845a94c5ad947a56909f31ed19a749a70aef04c7a4cabb37db0591c2af3fc72"
+    },
+    {
+      "duplicate": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-image-pilot/before_3.jpg",
+      "canonical": "photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-15-eight-colors/nike trắng/before_3.jpg",
+      "sha256": "32226bf30d1e878c6764b953f26d0dceb8811aed4145ccedcd5bb74cb100b08c"
+    }
+  ],
+  "preserved": "Canonical originals, prompts, generated runs, submitted revisions and prior approved releases",
+  "removed_reproducible_derivative_directories": [
+    ".work/photo-reference-preview",
+    ".work/pilot-previews",
+    ".work/seven-color-previews",
+    ".work/seven-color-qa",
+    ".work/seven-color-inputs"
+  ]
+}

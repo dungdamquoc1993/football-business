@@ -1,0 +1,10 @@
+{
+  "time": "2026-11-08T12:50:01.213971+07:00",
+  "actor": "assistant",
+  "type": "post_approval_cleanup",
+  "removed_verified_review_images": 96,
+  "removed_temporary_contact_sheets": 22,
+  "preview_path": "photo-workshop/03-READY/Preview",
+  "preserved": "Original sources, meaningful generated revisions, prompts, approvals and released images.",
+  "historical_path_resolution": "review-relocations.json"
+}

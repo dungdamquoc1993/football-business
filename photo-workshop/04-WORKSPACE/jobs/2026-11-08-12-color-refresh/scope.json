@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "tiempo-8",
+      "colors": [
+        "red-black",
+        "royal-blue-silver",
+        "white-gold",
+        "sky-blue-lime"
+      ]
+    },
+    {
+      "id": "messi",
+      "colors": [
+        "silver",
+        "sky-blue",
+        "black-yellow",
+        "red-white",
+        "navy-silver-orange"
+      ]
+    },
+    {
+      "id": "bata",
+      "colors": [
+        "white-turquoise",
+        "white-red",
+        "white-silver"
+      ]
+    }
+  ],
+  "target_images_per_color": 8,
+  "status": "production_in_progress",
+  "availability_basis": "User reports seven stocked and five supplier-only; not live stock verification."
+}

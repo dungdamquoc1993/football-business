@@ -1,0 +1,179 @@
+{
+  "status": "unpublished_ui_drafts",
+  "account_id": "814094494973387",
+  "created_on": "2026-11-08",
+  "method": "Chrome Ads Manager UI for unpublished drafts; local ads token verified with account access 2026-11-09 (private audit)",
+  "published": false,
+  "delivery_started": false,
+  "campaigns": {
+    "engagement": {
+      "id": "120254658331440057",
+      "name": "YBDS | 2026-11-08 | Tuong tac | 100k x 3 ngay",
+      "toggle": "off",
+      "adsets": [
+        {
+          "id": "120254658331430057",
+          "daily_budget_vnd": 100000,
+          "ad_count": 12,
+          "optimization": "Interactions",
+          "start": "2026-11-09T17:02:00+07:00",
+          "end": "2026-11-12T17:02:00+07:00",
+          "audience": {
+            "countries": [
+              "VN"
+            ],
+            "age_min": 18,
+            "age_max": 44,
+            "genders": [
+              "men"
+            ],
+            "custom_audiences": [],
+            "detailed_targeting": "all demographics interests behaviours",
+            "languages": "all",
+            "age_as_suggestion": false,
+            "gender_as_suggestion": false,
+            "source_adset": "120254476317410057",
+            "verified_source": "Live UI 2026-11-09; restored strict age and gender controls"
+          },
+          "placements": {
+            "platforms": [
+              "facebook"
+            ],
+            "positions": [
+              "feed"
+            ],
+            "allow_limited_spending_excluded": false,
+            "source_adset": "120254476314180057"
+          },
+          "automatic_budget_increase": false
+        }
+      ],
+      "adset_budget_sharing": false
+    },
+    "messenger": {
+      "id": "120254658365110057",
+      "name": "YBDS | 2026-11-08 | Messenger | 360k",
+      "toggle": "off",
+      "adsets": [
+        {
+          "id": "120254658365120057",
+          "product": "Tiempo",
+          "daily_budget_vnd": 180000,
+          "ad_count": 5,
+          "optimization": "Maximise number of conversations",
+          "end_date": null,
+          "daypart_schedule": false,
+          "audience": {
+            "countries": [
+              "VN"
+            ],
+            "age_min": 18,
+            "age_max": 44,
+            "genders": [
+              "men"
+            ],
+            "custom_audiences": [],
+            "detailed_targeting": "all demographics interests behaviours",
+            "languages": "all",
+            "age_as_suggestion": false,
+            "gender_as_suggestion": false,
+            "source_adset": "120254476317410057",
+            "verified_source": "Live UI 2026-11-09; restored strict age and gender controls"
+          },
+          "placements": {
+            "platforms": [
+              "facebook",
+              "instagram",
+              "audience_network",
+              "threads"
+            ],
+            "groups": [
+              "feeds",
+              "stories_status_reels",
+              "in_stream_reels",
+              "search_results",
+              "apps_sites"
+            ],
+            "verification": "Compared live UI with both old Messenger ad sets 120254476317410057 and 120254476340700057; all groups selected in old and new. Retained matching current settings."
+          },
+          "start": "2026-11-09T09:25:00+07:00",
+          "automatic_budget_increase": false
+        },
+        {
+          "id": "120254658428270057",
+          "product": "Messi",
+          "daily_budget_vnd": 180000,
+          "ad_count": 6,
+          "optimization": "Maximise number of conversations",
+          "end_date": null,
+          "daypart_schedule": false,
+          "audience": {
+            "countries": [
+              "VN"
+            ],
+            "age_min": 18,
+            "age_max": 44,
+            "genders": [
+              "men"
+            ],
+            "custom_audiences": [],
+            "detailed_targeting": "all demographics interests behaviours",
+            "languages": "all",
+            "age_as_suggestion": false,
+            "gender_as_suggestion": false,
+            "source_adset": "120254476317410057",
+            "verified_source": "Live UI 2026-11-09; restored strict age and gender controls"
+          },
+          "placements": {
+            "platforms": [
+              "facebook",
+              "instagram",
+              "audience_network",
+              "threads"
+            ],
+            "groups": [
+              "feeds",
+              "stories_status_reels",
+              "in_stream_reels",
+              "search_results",
+              "apps_sites"
+            ],
+            "verification": "Compared live UI with both old Messenger ad sets 120254476317410057 and 120254476340700057; all groups selected in old and new. Retained matching current settings."
+          },
+          "start": "2026-11-09T09:26:00+07:00",
+          "automatic_budget_increase": false
+        }
+      ],
+      "adset_budget_sharing": false
+    }
+  },
+  "messenger_questions": {
+    "template_name": "YBDS | 4 cau hoi | 08-11-2026",
+    "questions": [
+      "T\u01b0 v\u1ea5n ch\u1ecdn size gi\u00fap m\u00ecnh v\u1edbi nh\u00e9?",
+      "M\u00ecnh c\u00f3 \u0111\u01b0\u1ee3c ki\u1ec3m tra h\u00e0ng khi nh\u1eadn kh\u00f4ng?",
+      "Gi\u00e0y c\u00f3 \u0111\u01b0\u1ee3c b\u1ea3o h\u00e0nh kh\u00f4ng nh\u1ec9?",
+      "Ship v\u1ec1 ch\u1ed7 m\u00ecnh c\u00f3 \u0111\u01b0\u1ee3c freeship kh\u00f4ng?"
+    ],
+    "automatic_responses": false,
+    "follow_up": false,
+    "verified_ads": 11
+  },
+  "verification": "After reopening Ads Manager: both campaigns In draft, switches off, Review and publish (28). 28 items = 2 campaigns + 3 ad sets + 23 ads. Messenger ads checked individually off with one matching original post. Engagement sources checked at entry, all 12 checked off. No Publish clicked.",
+  "activation_note": "User controls engagement schedule and publication; 12:00 start for 3 days per 2026-11-09 user report, not independently verified. Messenger drafts await Meta Agent work.",
+  "daily_total_vnd": 460000,
+  "daily_after_engagement_ends_vnd": 360000,
+  "latest_verification": "2026-11-09 recovery: all 3 sets restored strict Vietnam men 18-44, age/gender suggestions off. Both MSG goals changed from purchases through messaging back to conversations; 180k each/no end/no daypart. ENG 100k/day; end restored Nov9 17:02 to Nov12 17:02 GMT+7 (72h). Reopened to verify persistence. ENG Facebook Feed only, excluded-placement spending off; MSG all placement groups retained. Both campaigns off and adset budget sharing off. All 23 ad switches inspected off, all 11 MSG four-question saved-template selections inspected. No Publish.",
+  "audience_updated_on": "2026-11-08",
+  "image_check": "Visual previews of ENG_T01 and MSG_T01 show original white-gold shoe photos. Missing thumbnail observed in ads list is not missing attached media; cause of list placeholder not established. No Publish.",
+  "engagement_schedule_update": "User reports personally setting start 12:00 and duration 3 days on 2026-11-09; not independently verified. User will publish engagement only; Messenger awaits Meta Agent work.",
+  "placement_insights_2026_11_09": {
+    "period": "2026-10-29 to 2026-11-09, date_preset maximum",
+    "old_engagement_feed_spend": 238578,
+    "old_engagement_all_spend": 238578,
+    "old_messenger_feed_spend": 1739845,
+    "old_messenger_all_spend": 1771917,
+    "old_messenger_reels_spend": 25538,
+    "notes": "Two old engagement and two old messaging ad sets, Meta Insights publisher_platform and platform_position, no pagination; small spend in other placements; no causal comparison."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "name": "YBDS — Tư vấn cởi mở — 29.10.2026",
+  "greeting": "Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽",
+  "questions": [
+    "Shop tư vấn giúp mình một đôi phù hợp nhé?",
+    "Ship về chỗ mình có được miễn phí không?",
+    "Shop có tư vấn thật lòng, kể cả khi tôi không mua không?"
+  ],
+  "page_welcome_message": {
+    "auto_follow_up": {
+      "text": "Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?"
+    },
+    "auto_follow_up_disabled": true,
+    "reengagement": {
+      "text": "Hi {{user_first_name}}! We wanted to follow up. Do you have any questions?",
+      "include_products": false
+    },
+    "reengagement_disabled": true,
+    "type": "VISUAL_EDITOR",
+    "version": 2,
+    "landing_screen_type": "welcome_message",
+    "media_type": "text",
+    "text_format": {
+      "customer_action_type": "ice_breakers",
+      "message": {
+        "ice_breakers": [
+          {
+            "title": "Shop tư vấn giúp mình một đôi phù hợp nhé?",
+            "response": null
+          },
+          {
+            "title": "Ship về chỗ mình có được miễn phí không?",
+            "response": null
+          },
+          {
+            "title": "Shop có tư vấn thật lòng, kể cả khi tôi không mua không?",
+            "response": null
+          }
+        ],
+        "quick_replies": [],
+        "text": "Chào bạn! Đang ngắm một đôi hay chưa biết chọn mẫu nào thì cứ nhắn shop nhé. Kể một chút về bạn, shop cùng chọn cho dễ ⚽"
+      }
+    },
+    "image_format": {
+      "customer_action_type": "quick_replies",
+      "message": {
+        "attachment": {
+          "type": "template",
+          "payload": {
+            "template_type": "generic",
+            "elements": [
+              {
+                "title": "",
+                "buttons": [],
+                "image_hash": ""
+              }
+            ]
+          }
+        },
+        "quick_replies": [
+          {
+            "title": "I'd like to learn more",
+            "content_type": "text",
+            "response_type": "text"
+          }
+        ],
+        "text": "Hi, {{user_first_name}}! Please let us know how we can help you."
+      }
+    },
+    "video_format": {
+      "customer_action_type": "quick_replies",
+      "message": {
+        "attachment": {
+          "type": "video",
+          "payload": {
+            "attachment_id": ""
+          }
+        },
+        "quick_replies": [
+          {
+            "title": "I'd like to learn more",
+            "content_type": "text",
+            "response_type": "text"
+          }
+        ],
+        "text": "Hi, {{user_first_name}}! Please let us know how we can help you."
+      }
+    },
+    "user_edit": true,
+    "surface": "visual_editor_new",
+    "ai_generated_icebreaker_toggle_enabled": false,
+    "ai_gen_conversation_model_version": "IBV4",
+    "ai_gen_welcome_message_model_version": null,
+    "ai_gen_nudge_model_version": null,
+    "nudge_was_ai_generated": false,
+    "is_eligible_for_customized_greeting": false,
+    "is_user_editing": false,
+    "is_eligible_for_leveraging_inbox_faqs": false
+  }
+}

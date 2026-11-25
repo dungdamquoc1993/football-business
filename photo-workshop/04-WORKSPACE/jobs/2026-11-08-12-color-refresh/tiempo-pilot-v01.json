@@ -1,0 +1,22 @@
+{
+  "tool": "image_gen.imagegen",
+  "model": null,
+  "prompts": [
+    "Use case: precise-object-edit. Image 1 is the EDIT TARGET: existing successful square studio product photograph. Image 2 is detail evidence ONLY and points in the opposite direction. Return a minimally edited version of image 1, not a new photograph. Preserve image 1 camera, exact shoe silhouette and proportions, toe shape, red color and brightness, white material, sole, laces, background, lighting, framing, contact shadow and all unrelated pixels as closely as possible. Change ONLY the black side swoosh and its narrow red outline to match the actual shoe in image 2, correctly mirrored into image 1's orientation: actual swoosh has a broader rounder lower hook/belly, a shorter less needle-like rising head, and the long tail wraps toward the heel with the actual contour. Accurately transfer the contour proportions relative to the white side panel from image 2; don't copy its lighting, shoe deformation, wood table, wall, crop or overall appearance. Preserve target's commercial polish; do not restyle or increase texture. Preserve the black mark's real diagonal ribbed texture and narrow red border. Do not add logos or text, do not alter heel lettering or change anything else. One square image, no comparison collage.",
+    "Use case: product-mockup. Create ONE additional rear-view product photograph belonging to exactly the same existing product-photo set as image 1. Image 1 defines the immutable commercial style: bright clean red/white/black colors, healthy supported shoe form, cool light-grey seamless studio background, soft lighting, crisp understated surface detail, grounded shadow. Image 2 provides the actual unseen heel construction and markings; use its rear-facing camera direction, NOT its dim lighting, table, wall, temporarily compressed collar or low position in frame. Photograph one Tiempo red/black shoe directly from behind, centered, comfortably filling the frame height, camera at heel level with a slight elevated glimpse into the red lined collar. Restore only temporary shipping compression, maintaining realistic proportions. Match image 2's heel exactly: white rear upper with small dimples, red fabric collar lip, black narrow swoosh tail bordered in red wrapping horizontally across heel above lettering, black TIEMPO wordmark with its stylized final O crossed by a short horizontal stroke, a black rectangular size label reading 44 directly below the wordmark as actually photographed, black heel midsole band and red short rubber turf outsole. This is a pictured size-44 sample, not a generic size claim. No additional branding, no extra typography, no redesigned heel, no chrome/plastic exaggeration, no props. Soft grey ground shadow and same light-grey background as image 1. One square photograph, no collage."
+  ],
+  "references": [
+    [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/do-den/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2700.jpg"
+    ],
+    [
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/legacy-ai/Xstars/xstars-tiempo-8/do-den/01-mat-ngoai.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2702.jpg"
+    ]
+  ],
+  "generated_files": [
+    "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-e5a5fe40-7af7-40a7-b514-e7b660883bbb.png",
+    "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-76e091d0-077b-465a-b3bb-f597b2fd57c9.png"
+  ]
+}

@@ -1,0 +1,124 @@
+[
+  {
+    "product": "tiempo-8",
+    "color": "royal-blue-silver",
+    "name": "02-outside.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-93541fca-ee3a-4ae2-89a4-8a7952c62e05.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2724.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2731.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2728.jpg"
+    ],
+    "prompt": "Precise composition correction of image1. It incorrectly contains TWO shoes. Return exactly ONE shoe only: single full side profile, toe left, camera parallel to side. Remove the duplicate rear shoe, keep foreground shoe exact form/color/construction, grey studio backdrop and shadow. Do not add any new tongue logo, pull-loop or change laces/insoles. Other inputs actual detail evidence only.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-01e90688-02b7-4208-8bb7-ba83a86ed4c7.png"
+  },
+  {
+    "product": "tiempo-8",
+    "color": "royal-blue-silver",
+    "name": "04-detail.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-ac5caeef-27ee-4257-998b-0150f8ddba17.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2724.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2731.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2728.jpg"
+    ],
+    "prompt": "Precise composition correction of image1. It incorrectly contains TWO shoes. Return exactly ONE shoe only: single front-three-quarter detail, toe lower right, entire single shoe fits frame. Remove the duplicate rear shoe, keep foreground shoe exact form/color/construction, grey studio backdrop and shadow. Do not add any new tongue logo, pull-loop or change laces/insoles. Other inputs actual detail evidence only.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-1d25cec8-debc-4a7e-9c5f-a5e17d46e491.png"
+  },
+  {
+    "product": "tiempo-8",
+    "color": "white-gold",
+    "name": "02-outside.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-c4b40c02-4bd9-426b-a6a4-afb8a81aef32.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2733.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2741.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2737.jpg"
+    ],
+    "prompt": "Precise composition correction of image1. It incorrectly contains TWO shoes. Return exactly ONE shoe only: single full side profile, toe left, camera parallel to side. Remove the duplicate rear shoe, keep foreground shoe exact form/color/construction, grey studio backdrop and shadow. Do not add any new tongue logo, pull-loop or change laces/insoles. Other inputs actual detail evidence only.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-762860c3-96d7-42ee-b3eb-cbd4a633ddde.png"
+  },
+  {
+    "product": "tiempo-8",
+    "color": "white-gold",
+    "name": "04-detail.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-d16e2f9d-2899-47b9-9ac3-31c8a67497aa.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2733.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2741.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2737.jpg"
+    ],
+    "prompt": "Precise composition correction of image1. It incorrectly contains TWO shoes. Return exactly ONE shoe only: single front-three-quarter detail, toe lower right, entire single shoe fits frame. Remove the duplicate rear shoe, keep foreground shoe exact form/color/construction, grey studio backdrop and shadow. Do not add any new tongue logo, pull-loop or change laces/insoles. Other inputs actual detail evidence only.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-679faa9e-5ccf-433c-9df2-504eff93cf89.png"
+  },
+  {
+    "product": "tiempo-8",
+    "color": "sky-blue-lime",
+    "name": "02-outside.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-c350a5b6-90ce-4cea-9ee4-09f1a94309cd.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2711.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2721.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2716.jpg"
+    ],
+    "prompt": "Precise composition correction of image1. It incorrectly contains TWO shoes. Return exactly ONE shoe only: single full side profile, toe left, camera parallel to side. Remove the duplicate rear shoe, keep foreground shoe exact form/color/construction, grey studio backdrop and shadow. Do not add any new tongue logo, pull-loop or change laces/insoles. Other inputs actual detail evidence only.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-9d49c347-0273-4ab6-aa21-e0f8356db583.png"
+  },
+  {
+    "product": "tiempo-8",
+    "color": "sky-blue-lime",
+    "name": "04-detail.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-0b3d425f-0f37-454e-8a39-bb8c372749df.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2711.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2721.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2716.jpg"
+    ],
+    "prompt": "Precise composition correction of image1. It incorrectly contains TWO shoes. Return exactly ONE shoe only: single front-three-quarter detail, toe lower right, entire single shoe fits frame. Remove the duplicate rear shoe, keep foreground shoe exact form/color/construction, grey studio backdrop and shadow. Do not add any new tongue logo, pull-loop or change laces/insoles. Other inputs actual detail evidence only.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-30f29273-1877-49ef-a734-bd9443ac93bb.png"
+  },
+  {
+    "product": "tiempo-8",
+    "color": "white-gold",
+    "name": "01-hero-pair.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-1345c551-742d-46d8-ae60-c892167fd398.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2733.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2741.jpg",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2737.jpg"
+    ],
+    "prompt": "Precise local correction of image1: actual white/gold Tiempo lining/collar is PALE GREY, not black. Change only black collar lining and visible black tongue backing to pale grey as in actual supporting images. Keep existing healthy form, white/gold colors, composition, laces, light grey studio background and all other pixels intact. No loops or branding additions.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-a48ba000-7dee-4147-a8d7-001081460897.png"
+  },
+  {
+    "product": "tiempo-8",
+    "color": "white-gold",
+    "name": "07-inner-side.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-70d6291c-639f-4f1f-be5f-c5f4728edabb.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2737.jpg"
+    ],
+    "prompt": "Precise local correction of image1: actual white/gold Tiempo lining/collar is PALE GREY, not black. Change only black collar lining and visible black tongue backing to pale grey as in actual supporting images. Keep existing healthy form, white/gold colors, composition, laces, light grey studio background and all other pixels intact. No loops or branding additions.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-d1ba998d-5058-4580-b9d3-dc6ae1d7d0b3.png"
+  },
+  {
+    "product": "tiempo-8",
+    "color": "white-gold",
+    "name": "06-lacing-detail.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-7548dc04-a3cc-4afa-9df0-664b05f8da3d.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2741.jpg"
+    ],
+    "prompt": "Reframe image1 as a TIGHT CLOSE-UP of ONE white/gold shoe's laces and forefoot transition only, exclude heel/collar, not full shoes and not a pair. Crop composition close enough to show woven white lace crossings, plain white tongue and subtle white triangular forefoot texture, tiny yellow outsole edge. Keep same actual construction, colors and studio lighting. No new markings or pull-loop. One square photograph.",
+    "revision": "corrected-v02",
+    "file": "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-39c24a49-20de-4ecd-a4a6-f91cb481ce6f.png"
+  }
+]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nhập hàng hằng tuần"
+  short_description: "Rà nhu cầu, tính tồn mục tiêu và xuất đơn nhập có ảnh"
+  default_prompt: "Dùng $weekly-replenishment để đọc cấu hình và kết quả đã lưu trên server qua Admin MCP, rà phần mới và lập phương án nhập giày; không cần repo local."

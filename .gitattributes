@@ -1,0 +1,8 @@
+# Preserve binary assets and avoid shell CRLF on Windows.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.JPG binary
+*.xlsx binary
+*.sh text eol=lf

@@ -1,0 +1,188 @@
+{
+  "page_id": "693218564214489",
+  "verified_on": "2026-11-08",
+  "source": "live_meta_via_private_mcp",
+  "ads_created": false,
+  "posts": [
+    {
+      "code": "T01",
+      "title": "Xstars Tiempo 8 — Trắng–vàng",
+      "post_id": "693218564214489_1444209871258287",
+      "permalink": "https://www.facebook.com/1036915915321020/posts/1444209871258287",
+      "caption_match": true,
+      "is_published": true,
+      "call_to_action": {
+        "type": "MESSAGE_PAGE",
+        "value": {}
+      },
+      "photo_count": 8,
+      "expected_photo_count": 8,
+      "revision": "49cbc56a127c1a5ef3f2cffe26c9d3034e36c5f7ba64e472a7f1e10eb75d40ed"
+    },
+    {
+      "code": "T02",
+      "title": "Xstars Tiempo 8 — Xanh dương–bạc",
+      "post_id": "693218564214489_1444209021258372",
+      "permalink": "https://www.facebook.com/1036915915321020/posts/1444209021258372",
+      "caption_match": true,
+      "is_published": true,
+      "call_to_action": {
+        "type": "MESSAGE_PAGE",
+        "value": {}
+      },
+      "photo_count": 8,
+      "expected_photo_count": 8,
+      "revision": "1055fee7916e43bb16d58afaae7fa22b1fe21416560b00bb1219617df72827d2"
+    },
+    {
+      "code": "T03",
+      "title": "Xstars Tiempo 8 — Đỏ–đen",
+      "post_id": "693218564214489_1444208244591783",
+      "permalink": "https://www.facebook.com/1036915915321020/posts/1444208244591783",
+      "caption_match": true,
+      "is_published": true,
+      "call_to_action": {
+        "type": "MESSAGE_PAGE",
+        "value": {}
+      },
+      "photo_count": 8,
+      "expected_photo_count": 8,
+      "revision": "ae617ca5925666cbd4cb8b639a77e46dcc3a32c5b14f7e2ea6c2c7e4d8f730a3"
+    },
+    {
+      "code": "T04",
+      "title": "Xstars Tiempo 8 — Xanh da trời–chanh",
+      "post_id": "693218564214489_1444207211258553",
+      "permalink": "https://www.facebook.com/1036915915321020/posts/1444207211258553",
+      "caption_match": true,
+      "is_published": true,
+      "call_to_action": {
+        "type": "MESSAGE_PAGE",
+        "value": {}
+      },
+      "photo_count": 8,
+      "expected_photo_count": 8,
+      "revision": "bd55a11351e78a1fb37520556fa43628b745e2d4b08f39e2650af1a84278c00d"
+    },
+    {
+      "code": "T05",
+      "title": "Xstars Tiempo 8 — bài gom 4 màu",
+      "post_id": "693218564214489_1444206317925309",
+      "permalink": "https://www.facebook.com/1036915915321020/posts/1444206317925309",
+      "caption_match": true,
+      "is_published": true,
+      "call_to_action": {
+        "type": "MESSAGE_PAGE",
+        "value": {}
+      },
+      "photo_count": 4,
+      "expected_photo_count": 4,
+      "revision": "06f196d97b99f0aec8f3e8101a0d974091df3d60bcbee6187de4daf0f749c50e"
+    },
+    {
+      "code": "M01",
+      "title": "Xstars Messi — Bạc sọc đen",
+      "post_id": "693218564214489_1444205121258762",
+      "permalink": "https://www.facebook.com/1036915915321020/posts/1444205121258762",
+      "caption_match": true,
+      "is_published": true,
+      "call_to_action": {
+        "type": "MESSAGE_PAGE",
+        "value": {}
+      },
+      "photo_count": 8,
+      "expected_photo_count": 8,
+      "revision": "6cc522d3cae9c48692e5607db0d6e9960d3d720d7853a0aa83244ff53f0eebe7"
+    },
+    {
+      "code": "M02",
+      "title": "Xstars Messi — Xanh da trời",
+      "post_id": "693218564214489_1444203941258880",
+      "permalink": "https://www.facebook.com/1036915915321020/posts/1444203941258880",
+      "caption_match": true,
+      "is_published": true,
+      "call_to_action": {
+        "type": "MESSAGE_PAGE",
+        "value": {}
+      },
+      "photo_count": 8,
+      "expected_photo_count": 8,
+      "revision": "36813314b2bc66f591561ab6e9f632e40c543c3df1b204e9dd8a898aabec079e"
+    },
+    {
+      "code": "M03",
+      "title": "Xstars Messi — Đen–vàng",
+      "post_id": "693218564214489_1444202991258975",
+      "permalink": "https://www.facebook.com/1036915915321020/posts/1444202991258975",
+      "caption_match": true,
+      "is_published": true,
+      "call_to_action": {
+        "type": "MESSAGE_PAGE",
+        "value": {}
+      },
+      "photo_count": 8,
+      "expected_photo_count": 8,
+      "revision": "98357b65e2587d36f58bf10b6dc22b2cd409c34dd9aa094a277cc458ecd06207"
+    },
+    {
+      "code": "M04",
+      "title": "Xstars Messi — Đỏ–trắng",
+      "post_id": "693218564214489_1444202004592407",
+      "permalink": "https://www.facebook.com/1036915915321020/posts/1444202004592407",
+      "caption_match": true,
+      "is_published": true,
+      "call_to_action": {
+        "type": "MESSAGE_PAGE",
+        "value": {}
+      },
+      "photo_count": 8,
+      "expected_photo_count": 8,
+      "revision": "70086cda0f4bbca0f6c08b851685a1e1bfb258500a11940e41e8ee69382ca005"
+    },
+    {
+      "code": "M05",
+      "title": "Xstars Messi — Xanh than–bạc, sọc cam",
+      "post_id": "693218564214489_1444200987925842",
+      "permalink": "https://www.facebook.com/1036915915321020/posts/1444200987925842",
+      "caption_match": true,
+      "is_published": true,
+      "call_to_action": {
+        "type": "MESSAGE_PAGE",
+        "value": {}
+      },
+      "photo_count": 8,
+      "expected_photo_count": 8,
+      "revision": "1b28c66ed8fdaf69eb6cd1c03603609b0b85bb577b2692175bb854adf658c7da"
+    },
+    {
+      "code": "M06",
+      "title": "Xstars Messi — bài gom 5 màu",
+      "post_id": "693218564214489_1444198001259474",
+      "permalink": "https://www.facebook.com/1036915915321020/posts/1444198001259474",
+      "caption_match": true,
+      "is_published": true,
+      "call_to_action": {
+        "type": "MESSAGE_PAGE",
+        "value": {}
+      },
+      "photo_count": 5,
+      "expected_photo_count": 5,
+      "revision": "4140c182593a530ef93f38cda6ce676ada0989a0eaabd0d58f889c9e4ed65b16"
+    },
+    {
+      "code": "B01",
+      "title": "Xstars Bata ráp đế — ba màu",
+      "post_id": "693218564214489_1444194887926452",
+      "permalink": "https://www.facebook.com/1036915915321020/posts/1444194887926452",
+      "caption_match": true,
+      "is_published": true,
+      "call_to_action": {
+        "type": "MESSAGE_PAGE",
+        "value": {}
+      },
+      "photo_count": 6,
+      "expected_photo_count": 6,
+      "revision": "62b328fc5be71d0476589831dbbbfbed0a2680ded387df67cadbc24fd6272657"
+    }
+  ]
+}

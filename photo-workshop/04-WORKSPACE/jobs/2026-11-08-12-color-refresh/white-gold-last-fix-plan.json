@@ -1,0 +1,24 @@
+[
+  {
+    "product": "tiempo-8",
+    "color": "white-gold",
+    "name": "04-detail.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-679faa9e-5ccf-433c-9df2-504eff93cf89.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2741.jpg"
+    ],
+    "prompt": "Precise local edit image1: replace the BLACK collar lining and black tongue backing with PALE LIGHT GREY fabric, matching actual supporting image2. No black fabric remains on this white/gold shoe. Keep yellow insole and black XSTARS letters there, keep black outline around gold side mark. Preserve single-shoe pose, healthy silhouette, lighting, background, all whites/gold and sole unchanged.",
+    "revision": "corrected-v03"
+  },
+  {
+    "product": "tiempo-8",
+    "color": "white-gold",
+    "name": "08-heel-detail.png",
+    "refs": [
+      "/Users/dung/.codex/generated_images/01a1b949-85c7-7ef3-96d5-93df20a97aa2/exec-7be51f8b-6565-41dc-ae70-aaa3471d4e1a.png",
+      "/Users/dung/Desktop/football-business/photo-workshop/04-WORKSPACE/sources/own-photos/2026-11-08/JPG/IMG_2739.jpg"
+    ],
+    "prompt": "Precise edit image1 close rear heel: keep TIEMPO gold wordmark, size42 sample label, gold band, white heel and yellow sole unchanged. Remove black elevated interior/tongue area visible above rear heel by slightly lowering camera, rear heel fully occludes tongue and insole. Only pale-grey/red-free collar lip visible as actual image2. No black lining; actual collar pale grey. Keep same studio lighting/form.",
+    "revision": "corrected-v03"
+  }
+]

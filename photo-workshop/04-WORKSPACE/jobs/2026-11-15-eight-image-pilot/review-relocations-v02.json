@@ -1,0 +1,17 @@
+{
+  "old_root": "photo-workshop/02-REVIEW/Xstars-unverified/white-red-gold/v01",
+  "history_root": "photo-workshop/04-WORKSPACE/jobs/2026-11-15-eight-image-pilot/review-history/v01",
+  "current_review": "photo-workshop/02-REVIEW/Xstars-unverified/white-red-gold/v02",
+  "retained": [
+    "02",
+    "03",
+    "06"
+  ],
+  "replaced": [
+    "01",
+    "04",
+    "05",
+    "07",
+    "08"
+  ]
+}
