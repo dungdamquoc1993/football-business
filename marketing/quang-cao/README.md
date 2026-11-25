@@ -1,5 +1,22 @@
 # Quảng cáo Facebook
 
+## Messenger Tiempo tài khoản phụ — 25/11/2026
+
+- Dũng giao tạo và bật campaign trên tài khoản phụ `1554033896044468`, dùng đúng năm link bài Tiempo ngày 21/11. Tổng ngân sách **350.000đ/ngày** cho một ad set, không đặt ngày kết thúc; mức này thay mức 450k từng dự kiến cho nhóm Tiempo mới.
+- Campaign `120252988857160732` — `YBDS | 2026-11-25 | Messenger Tiempo | 350k`; ad set `120252988885520732`. Nguồn cấu hình live: campaign chính `120254658365110057`, ad set Tiempo `120254658365120057`.
+- Đã đối chiếu campaign objective `OUTCOME_ENGAGEMENT`, AUCTION, ngân sách ở ad set; giữ nguyên targeting/placement live, tối ưu `CONVERSATIONS`, đích `MESSENGER`, tính phí impressions, lowest cost không cap và mẫu chào/câu hỏi từ từng creative Tiempo nguồn. Target nam 18–44, Việt Nam; Advantage+ audience tắt, không thêm giới hạn placement. Dùng bài có sẵn, không tạo lại bài Page.
+- Ngoại lệ Dũng đã đồng ý: Meta từ chối attribution 7 ngày sau nhấp + 1 ngày sau xem (100/1885501), chỉ chấp nhận **1 ngày sau nhấp** cho nhóm mới. Đây là cửa sổ quy kết, không phải thời gian phải đợi để nhận báo cáo.
+- Đọc lại 15:34 ngày 25/11, giờ Việt Nam: campaign/ad set ACTIVE, đủ năm ads ACTIVE ở cấp cấu hình; bốn ads PENDING_REVIEW, một IN_PROCESS. Insights hôm nay chưa có dòng chi tiêu; chưa xác nhận đã phân phối.
+- Nhóm Tiempo cũ vẫn ACTIVE 240k/ngày; chưa tạm dừng trong lượt này. Theo phương án chuyển cũ, chỉ chuyển nốt sau khi nhóm mới thực sự phân phối. Tại lần đọc này tài khoản phụ còn Messenger Messi/Vapor 150k và tương tác 100k/ngày: tổng cấu hình phụ 600k, cộng Tiempo cũ 240k là 840k/ngày; đây là ngân sách cấu hình, không phải chi tiêu thực tế.
+
+Ads đã xác nhận đúng từng link pfbid Dũng gửi qua Page API:
+
+- Trắng–vàng: post `693218564214489_1458062029873071`, ad `120252988886350732`, creative `983700377723864`. [Link được giao](https://www.facebook.com/yeubongdashop1234/posts/pfbid02F2Hm41gpxkCsD2LnJbbhQZa8E7fFdnJtjjCCJsFVhcDLMRLRXZB5U8ac7as7zAuol).
+- Xanh dương–bạc: post `693218564214489_1458063203206287`, ad `120252988886890732`, creative `3319910714859016`. [Link được giao](https://www.facebook.com/yeubongdashop1234/posts/pfbid02PDa922J1E8FpEiqQ9WXhdKxqGzVCTsbfQipA8WMowCKvb7EtkEHtyKjeRxS2HWvpl).
+- Đỏ–đen: post `693218564214489_1458064083206199`, ad `120252988887200732`, creative `1728365555467648`. [Link được giao](https://www.facebook.com/yeubongdashop1234/posts/pfbid0ju8uDMCfsY1bWQRaz1A5EgqVdvtag4bAiURvuAuLo5rJorgB9xMqE2DgyN7b2vsrl).
+- Xanh da trời–chanh: post `693218564214489_1458064863206121`, ad `120252988888120732`, creative `1439774401559376`. [Link được giao](https://www.facebook.com/yeubongdashop1234/posts/pfbid0tDr2eNmd6uQUY3eR38YMQuNdjEf7teaMYFzqgJDBoosA7BiT5689xSgSoTuPwdprl).
+- Tổng hợp bốn màu: post `693218564214489_1458068173205790`, ad `120252988888480732`, creative `1164946439804599`. [Link được giao](https://www.facebook.com/yeubongdashop1234/posts/pfbid02QMKKU2eL7BZ7ttvYTgbSSwAb7KCUmVJnMXEF3d2vW7KcybLZQM7rBBuyg4RouQrJl).
+
 ## Điều chỉnh chiến dịch tương tác tài khoản phụ — 22/11/2026
 
 - Dũng chốt đổi nhóm tương tác sáu bài `120252937293610732` trên tài khoản phụ sang 100.000đ/ngày và chạy không ngày kết thúc. Dũng yêu cầu dùng Marketing API qua `META_ADS_USER_ACCESS_TOKEN`.
