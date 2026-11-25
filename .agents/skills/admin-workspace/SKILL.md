@@ -3,7 +3,7 @@ name: admin-workspace
 description: Manage Football Business catalogs, media, prices, physical inventory, triage return label photos and record inspected returns, and manage actual cash through the private Admin MCP.
 ---
 
-Use the Catalog, Inventory and Cash MCP. [Catalog operations](../../../../yeubongdashop/docs/operations/catalog.md) owns connection/media/manifest details; [inventory operations](../../../../yeubongdashop/docs/operations/inventory.md) owns physical stock rules. Run `python -m src.admin_bridge` from `yeubongdashop/backend/` for the stdio bridge; private client settings live in `.private/admin-mcp.env`. The bridge transfers bytes and forwards calls; business logic stays on the backend. Do not copy DB/S3/provider secrets into client config or use the deleted standalone CLI.
+Use the Catalog, Inventory and Cash MCP already configured for this environment. A new client connects by Streamable HTTP to the shop server's `/mcp/admin/` with its personal API key; obtain missing access configuration from the operator. No application checkout or local Python bridge is required. Do not copy DB/S3/provider secrets into client config or use the deleted standalone CLI.
 
 Start with `admin_status`, then bounded `admin_products` or `admin_stock` queries. Get exact product by one slug/SKU with `admin_product`. Full media/option/value/variant IDs and updated_at come from that detail. Do not infer which variant a similar name denotes. Follow pagination when claiming a complete result.
 
@@ -25,8 +25,7 @@ Prepare and inspect each correction separately. Include all effective SKU lines,
 
 ## Hàng hoàn — sổ kiểm và nhập kho
 
-Read [return operations](../../../../yeubongdashop/docs/operations/returns.md) for the
-UI/MCP shared workflow. This belongs to Admin; no separate workspace or credential.
+UI and MCP share this workflow. This belongs to Admin; no separate workspace or credential.
 Use `admin_returns` / `admin_return` to inspect the notebook and current revision.
 Work states: waiting (Chờ xử lý, not reviewed), active (Cần xử lý, reviewed but unfinished,
 including waiting for the carrier), closed (Đã xử lý, finished). `states` accepts
@@ -123,8 +122,7 @@ share the same notebook, receipt and actor audit. No cash or SaleNote side effec
   Quà tặng chỉ ghi xuất kho, không ghi thu riêng. Khi đã xác minh các phiếu,
   ghi kết quả vào SaleNote gốc nếu có.
 
-For actual cash receipts/payments, read [cash operations](../../../../yeubongdashop/docs/operations/cash.md).
-This is independent from inventory, sales and carrier settlement. Use `admin_cash_entries`
+Actual cash receipts/payments are independent from inventory, sales and carrier settlement. Use `admin_cash_entries`
 and `admin_cash_summary` with bounded dates/filters; read `admin_cash_entry` before editing.
 Only record actual money Dung confirms, not expected COD or a delivered/settled status.
 For backfills, the ledger starts with the first 60-pair XStars lot received on 07/11/2026.

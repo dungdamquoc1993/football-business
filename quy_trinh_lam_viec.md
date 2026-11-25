@@ -83,7 +83,7 @@ Dũng chốt thời gian, hàng, cước và số tiền với khách/hãng trư
 ## Tài liệu để tra khi cần
 
 - [Chính sách bán hàng](chinh_sach_ban_hang.md) và [prompt Meta](meta_ai_prompt.md).
-- [Hướng dẫn tạo/xử lý vận đơn](.agents/skills/superai-workspace/SKILL.md), [thu hồi tại cửa](../yeubongdashop/docs/operations/salenote.md#đổi-size--thu-hồi-tại-cửa) và [nhập hàng hoàn](../yeubongdashop/docs/operations/returns.md).
+- [Hướng dẫn tạo/xử lý vận đơn](.agents/skills/superai-workspace/SKILL.md), [thu hồi tại cửa](.agents/skills/salenote-workspace/references/aftercare.md#đổi-size--thu-hồi-tại-cửa) và [nhập hàng hoàn](.agents/skills/admin-workspace/SKILL.md#hàng-hoàn--sổ-kiểm-và-nhập-kho).
 - Agent dùng các skill [Messenger](.agents/skills/facebook-workspace/SKILL.md), [SaleNote](.agents/skills/salenote-workspace/SKILL.md), [Admin](.agents/skills/admin-workspace/SKILL.md) và [nhập hàng tuần](.agents/skills/weekly-replenishment/SKILL.md) để thực hiện đúng thao tác.
 
 Khi có người hỗ trợ, giao từng nhóm việc theo checklist, kèm hồ sơ đang mở và phạm vi được quyết định. Kết quả tiếp tục được ghi vào các hệ thống trên.

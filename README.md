@@ -1,50 +1,34 @@
 # Football Business — Yêu Bóng Đá Shop
 
-**Trước khi định giá hàng mới hoặc đổi giá:** đọc [chính sách giá](../yeubongdashop/docs/operations/pricing.md) — mặc định chi phí phục vụ theo C1 ×1,8; giữ ngoại lệ và giá chốt riêng của Dũng.
+**Trước khi định giá hàng mới hoặc đổi giá:** đọc [chính sách giá](chinh_sach_gia.md) — mặc định chi phí phục vụ theo C1 ×1,8; giữ ngoại lệ và giá chốt riêng của Dũng.
 
-## Hướng refactor và ưu tiên — Dũng chốt 25/11/2026
+## Phạm vi và nguồn dữ liệu
 
-- Đã tách vị trí local ngày 25/11: repo này giữ tài liệu, tài sản kinh doanh,
-  script và cả năm skills; repo code ở `../yeubongdashop/`, với
-  code ngay tại gốc repo. Chưa dọn nội dung.
-  Remote business: `dungdamquoc1993/football-business`.
-- Ưu tiên đưa dữ liệu cần để tiếp tục nhập hàng từ `.work/replenishment/` lên
-  server do `football-shop` quản lý, truy cập qua MCP; rút gọn tài liệu sau.
-- Tiêu chí: agent có bộ skill và kết nối MCP được cấp quyền vẫn tiếp tục công
-  việc vận hành trong phạm vi này từ máy khác, không cần clone hai repo hoặc
-  lấy file `.work` từ máy Mac. Skill cần đủ hướng dẫn, không bắt buộc đọc docs
-  trong repo hoặc chạy script local của repo để hoàn thành việc đó.
-- Không xây thêm kho file hoặc chuyển bộ ảnh vào app trong đợt này. Giữ toàn bộ
-  tài liệu Markdown hiện có; việc gom/rút gọn sẽ làm riêng. Chưa xóa nguồn local
-  trước khi kiểm tra dữ liệu đã chuyển và khả năng tiếp tục làm từ máy khác.
+Repo này giữ chính sách, quy trình, tài sản kinh doanh và năm skills chuẩn tại
+[.agents/skills](.agents/skills). Tài liệu và skills dùng độc lập, không yêu cầu
+repo phần mềm nằm cạnh bên hoặc đọc docs của repo khác. Remote:
+`dungdamquoc1993/football-business`, làm trực tiếp trên `main`.
 
-## Repo và làm việc nhiều máy — 25/11/2026
-
-Hai repo nằm cạnh nhau: `football-business/` giữ vận hành kinh doanh;
-`yeubongdashop/` giữ code và toàn bộ lịch sử Git cũ, remote
-`dungdamquoc1993/yeubongdashop`. Repo business khởi tạo nhánh `main` riêng,
-remote `dungdamquoc1993/football-business`. Làm trực tiếp trên `main`; không rewrite lịch sử.
-
-Cả năm skill chuẩn nằm tại [.agents/skills](.agents/skills), không sao chép sang
-repo code. Clone không mang theo MCP bearer, credentials, database hoặc `.work/`.
-Dữ liệu hiện hành tiếp tục thuộc backend. File riêng được giữ tại phía sở hữu cũ.
-
-Ứng dụng ở thẳng gốc `../yeubongdashop/`; chạy Compose/deploy từ đó.
-Việc tách local này chưa push hoặc deploy server; xem runbook trước khi nâng server.
+Dữ liệu khách, đơn, kho, vận đơn và kế hoạch nhập hàng hiện hành thuộc server,
+đọc/ghi qua MCP đã cấu hình. Repo và bản xuất local không thay database.
+Máy khác chỉ cần bộ skills cùng quyền MCP cho công việc vận hành; không cần
+lấy `.work` hoặc credentials từ máy Mac. Deploy và phát triển ứng dụng là
+nhiệm vụ riêng, không thực hiện trong repo này.
 
 ## Mở theo việc
 
 - **Ba tài liệu nền tảng:** [Chính sách bán hàng](chinh_sach_ban_hang.md), [Quy trình làm việc hằng ngày và phát sinh](quy_trinh_lam_viec.md), [Custom Instructions Meta AI](meta_ai_prompt.md). Hiện Dũng vận hành toàn bộ; quy trình chia theo đầu việc để có thể bàn giao về sau.
 - **Nhập hàng hằng tuần:** [skill lập kế hoạch và xuất Excel đặt xưởng](.agents/skills/weekly-replenishment/SKILL.md),
-  dùng dữ liệu server qua Admin MCP; đã import và kiểm tra luồng đọc/ghi lập kế hoạch production
-  ngày25/11/2026, xem
-  [runbook kỹ thuật và bàn giao](../yeubongdashop/docs/operations/replenishment.md).
+  dùng dữ liệu server qua Admin MCP. Nguồn nhập hàng cũ đã được import và kiểm tra
+  luồng đọc/ghi production ngày 25/11/2026; tiếp tục công việc từ server.
 - **Ảnh sản phẩm:** [Photo workshop](photo-workshop/README.md) — bỏ ảnh vào, xem duyệt, lấy bộ đã duyệt; hồ sơ nguồn/prompt ở hậu trường.
 - **Giá và nguồn hàng:** [supplier quotes](supplier-quotes/README.md) — báo giá và ghi chú xưởng. Sản phẩm và tồn hiện hành tra Admin MCP.
 - **Bài Facebook:** [marketing/bai-dang](marketing/bai-dang/README.md) — các đợt bài đăng, ảnh và caption.
 - **Quảng cáo và nhận diện:** [quảng cáo](marketing/quang-cao/README.md), [logo và ảnh bìa](marketing/nhan-dien/README.md).
-- **Messenger và Facebook:** [workspace API/admin/MCP và worker](../yeubongdashop/docs/operations/facebook.md). Ứng dụng Messenger/SQLite cũ đã bỏ; dữ liệu mới lấy trực tiếp từ Meta.
-- **Website:** [football-shop](../yeubongdashop/README.md) — mã nguồn, database và hướng dẫn vận hành riêng.
+- **Messenger và Facebook:** [skill Facebook](.agents/skills/facebook-workspace/SKILL.md).
+- **Hồ sơ công việc:** [skill SaleNote](.agents/skills/salenote-workspace/SKILL.md).
+- **Catalog, kho và thu chi:** [skill Admin](.agents/skills/admin-workspace/SKILL.md).
+- **Vận chuyển:** [skill SuperAI](.agents/skills/superai-workspace/SKILL.md).
 
 ## File làm việc và dữ liệu riêng
 
@@ -52,10 +36,9 @@ Việc tách local này chưa push hoặc deploy server; xem runbook trước kh
   Git bỏ qua. Nguồn nhập hàng đã chuyển lên production và kiểm tra ngày25/11;
   giữ bản cũ để đối chiếu, tiếp tục công việc qua Admin MCP, không suy file trên
   máy này là trạng thái server.
-- Facebook: dữ liệu/bản nhớ hiện hành ở PostgreSQL của `football-shop`, xem [quy trình Facebook](../yeubongdashop/docs/operations/facebook.md). Thư mục Messenger/SQLite cũ đã xóa theo yêu cầu 06/11; không có nguồn phục hồi tại đó.
-- `.env` và `.private/meta/`: credentials/cache Meta, giữ riêng; không chép vào tài liệu hoặc log. Website có cấu hình riêng trong thư mục của nó.
-
-Football Business sở hữu chi tiết thương mại/vận hành. [Living Map](../../living-map/domains/venture/cases/nguon-cung-giay/README.md) chỉ giữ vai trò, ưu tiên và cam kết nguồn lực trong đời sống.
+- Facebook: dữ liệu/bản nhớ hiện hành thuộc server, truy cập qua MCP theo skill
+  Facebook. Thư mục Messenger/SQLite cũ đã xoá theo yêu cầu 06/11.
+- Credentials và cache riêng giữ ngoài Git; không chép vào tài liệu hoặc log.
 
 ## Ảnh local — 25/11/2026
 

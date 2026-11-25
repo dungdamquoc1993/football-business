@@ -22,7 +22,7 @@ Không tự áp phương án cũ tám bài/năm bài chạy hoặc tỷ lệ ng�
 
 ## Giá dùng trong bản nháp
 
-Tiempo 8: 398.066đ; Messi: 291.462đ; Bata ráp đế: 168.993đ mỗi đôi. Nguồn: [chính sách giá](../../../../yeubongdashop/docs/operations/pricing.md). Đây là số ghi nhận để soạn; chưa đọc catalog live trong lượt này. Kiểm tra lại trước phát hành, không tự làm tròn hoặc ghi đè ngoại lệ Tiempo/Bata.
+Tiempo 8: 398.066đ; Messi: 291.462đ; Bata ráp đế: 168.993đ mỗi đôi. Nguồn: [chính sách giá](../../../chinh_sach_gia.md). Đây là số ghi nhận để soạn; chưa đọc catalog live trong lượt này. Kiểm tra lại trước phát hành, không tự làm tròn hoặc ghi đè ngoại lệ Tiempo/Bata.
 
 Không tự hứa freeship/đủ size/có sẵn cả 12 màu. Bộ ảnh có bảy màu từng nhập và năm màu Dũng báo có thể bổ sung nhanh; đây không phải tồn hiện tại. Kiểm tra SKU/khả năng cung ứng trước phát hành, bổ sung thời gian chờ theo màu nếu cần. Không đưa tính năng hiệu năng/chất liệu chưa được xác minh vào caption.
 

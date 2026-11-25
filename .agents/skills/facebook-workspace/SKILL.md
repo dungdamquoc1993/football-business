@@ -3,7 +3,7 @@ name: facebook-workspace
 description: Read and manage Football Business Messenger, Page posts, content plans and reading memory through its private MCP, preserving work memory between sessions.
 ---
 
-Use the Football Facebook Workspace MCP for stored sources and work memory. If not connected, read [Facebook operations](../../../../yeubongdashop/docs/operations/facebook.md) for the stdio bridge and server URL. Do not retrieve or copy Meta credentials into a client configuration.
+Use the Football Facebook Workspace MCP for stored sources and work memory. A new client connects by Streamable HTTP to the shop server's `/mcp/facebook/` with its personal API key; obtain missing access configuration from the operator. No application checkout or local Python bridge is required. Do not retrieve or copy Meta credentials into a client configuration.
 
 Start with `facebook_status` and `facebook_browse`: identify data freshness, unfinished sync, existing snippets and unread counts. First-time conversations need their available history; returning conversations normally need saved memory plus new/changed messages. Search raw messages, people, normalized phone, Page/date and explicit ad IDs as needed. A missing ad source is unknown, not organic.
 

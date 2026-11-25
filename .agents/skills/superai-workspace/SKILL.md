@@ -3,7 +3,7 @@ name: superai-workspace
 description: Track and operate Dung's SuperShip/SuperAI shipments through the private shipping MCP, including shipment searches, quotes, creation, cancellation and handling notes.
 ---
 
-Use the independent SuperAI MCP workspace. Connection and provider limitations are documented in [SuperAI operations](../../../../yeubongdashop/docs/operations/superai.md). The stdio bridge is `python -m src.superai_bridge` from `yeubongdashop/backend/`; it reads only `.private/superai-mcp.env`, never provider keys. Do not copy backend credentials into MCP client configuration.
+Use the independent SuperAI MCP workspace already configured for this environment. A new client connects by Streamable HTTP to the shop server's `/mcp/superai/` with its personal API key; obtain missing access configuration from the operator. No application checkout or local Python bridge is required. Check actual tool schemas and `superai_capabilities` for provider limitations. Do not copy backend credentials into MCP client configuration.
 
 ## Shop defaults — confirmed by Dũng 10/11/2026
 
@@ -193,4 +193,4 @@ SuperAI is the only MCP that submits provider operations. SaleNote is a shared n
 
 `SUPERAI_COMMITMENT_GATE_ENABLED` controls atomic capacity checks for new shop_goods creates independently of SaleNote. This reserves capacity in known commitments, not physical stock. Issued links cease counting; unknown and pickup-blocked stay counted. Read `superai_status` for gate/stock flags. Unenrolled external shipments remain a coverage gap and need reconciliation before enabling. Customer-owned/external goods use stock_policy=none with explicit reason, never to evade insufficient stock. Use `superai_release_commitment` only with definitive failure/cancellation/issue evidence; closure alone never releases capacity.
 
-For J&T doorstep size exchanges, follow [the outbound and collection procedure](../../../../yeubongdashop/docs/operations/salenote.md#đổi-size--thu-hồi-tại-cửa). SaleNote stays `exchange3` when the carrier app uses “Giao một phần” to collect the old pair. Use the app for “Sửa COD / Thu hồi NVC”. The outbound shipment and its note leave that task pending.
+For J&T doorstep size exchanges, follow [the outbound and collection procedure](../salenote-workspace/references/aftercare.md#đổi-size--thu-hồi-tại-cửa). SaleNote stays `exchange3` when the carrier app uses “Giao một phần” to collect the old pair. Use the app for “Sửa COD / Thu hồi NVC”. The outbound shipment and its note leave that task pending.
