@@ -11,6 +11,14 @@
 
 ## Messenger Tiempo tài khoản phụ — 25/11/2026
 
+### Rà chất lượng sau chuyển —26/11/2026
+
+- Dũng báo leads hôm25 và sáng26/11 rất kém, nghi liên quan việc tăng tài khoản mới/giảm tài khoản cũ từ23/11. Đây là quan sát vận hành của Dũng, chưa phải tỷ lệ lead đủ chuẩn đã đo. Dũng cho biết billing tài khoản mới ở Trung Quốc và không bị cộng10% VAT; chưa kiểm chứng hóa đơn/thuế.
+- Đọc live Meta API sau bảng tổng hợp sáng26/11: Tiempo cũ effective_status CAMPAIGN_PAUSED; Tiempo mới ACTIVE350k/ngày và Messi/Vapor mới ACTIVE150k/ngày; tương tác mới CAMPAIGN_PAUSED. Nhóm Messenger hai bên đều tối ưu CONVERSATIONS, địa lý VN; cũ attribution7 ngày nhấp+1 ngày xem, mới1 ngày nhấp. Chưa chứng minh khác attribution gây khác chất lượng.
+- Breakdown23/11 mới: Messenger Messi/Vapor175.057đ,21 hội thoại; tương tác120.892đ,1 hội thoại.24/11 mới: Messenger167.076đ,16 hội thoại; tương tác108.437đ,không có hội thoại. Tương tác chi229.329/571.462đ hai ngày, khoảng40,1%; tổng chi tài khoản mới tăng không đồng nghĩa tiền tìm hội thoại tăng cùng mức.
+-25/11 Tiempo mới171.743đ/10 hội thoại (khoảng17,2k); Messi/Vapor mới162.199đ/17 (khoảng9,5k); tương tác57.167đ. Campaign Messenger cũ129.386đ/10 (khoảng12,9k). Không mặc định campaign cũ chỉ có Tiempo trong toàn ngày nếu chưa đọc breakdown ad set; chỉ số hội thoại dùng onsite_conversion.messaging_conversation_started_7d, theo cấu hình quy kết từng bên.
+- Agent nhận định cần ưu tiên khôi phục nguồn khách có khả năng mua, so Tiempo cùng dòng/cùng bài và đánh giá hội thoại đủ chuẩn/đơn chốt mới theo ngày tạo lead; số xuất kho có độ trễ. Đề xuất quay Tiempo cũ về mức240k/ngày làm đối chứng và tạm dừng Tiempo mới, giữ thử Messi/Vapor hữu hạn; chưa được Dũng chọn và chưa thực hiện. Không có thay đổi quảng cáo trong lượt tư vấn này.
+
 - Dũng giao tạo và bật campaign trên tài khoản phụ `1554033896044468`, dùng đúng năm link bài Tiempo ngày 21/11. Tổng ngân sách **350.000đ/ngày** cho một ad set, không đặt ngày kết thúc; mức này thay mức 450k từng dự kiến cho nhóm Tiempo mới.
 - Campaign `120252988857160732` — `YBDS | 2026-11-25 | Messenger Tiempo | 350k`; ad set `120252988885520732`. Nguồn cấu hình live: campaign chính `120254658365110057`, ad set Tiempo `120254658365120057`.
 - Đã đối chiếu campaign objective `OUTCOME_ENGAGEMENT`, AUCTION, ngân sách ở ad set; giữ nguyên targeting/placement live, tối ưu `CONVERSATIONS`, đích `MESSENGER`, tính phí impressions, lowest cost không cap và mẫu chào/câu hỏi từ từng creative Tiempo nguồn. Target nam 18–44, Việt Nam; Advantage+ audience tắt, không thêm giới hạn placement. Dùng bài có sẵn, không tạo lại bài Page.
