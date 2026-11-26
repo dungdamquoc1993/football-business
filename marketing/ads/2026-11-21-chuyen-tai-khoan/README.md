@@ -1,5 +1,17 @@
 # Chuyển sang tài khoản phụ — 21–25/11/2026
 
+## Đã chuyển lại tài khoản cũ — 26/11/2026
+
+- Dũng chốt và giao triển khai: tạm dừng toàn bộ campaign tài khoản mới `1554033896044468`; tài khoản cũ `814094494973387` chạy Tiempo cũ240k + Tiempo năm bài mới240k + Messi/Vapor120k, tổng600.000đ/ngày trước thuế. Mức này thay các phương án480k/540k hoặc giữ100k ở tài khoản mới đã bàn trước đó. Dũng xác nhận120k dành Messi/Vapor và yêu cầu sao đúng nhóm tài khoản mới, không dùng lại nhóm Messi cũ.
+- Giữ campaign Tiempo cũ `120254658365110057`, đổi tên thành `YBDS | 2026-11-08 | Messenger Tiempo | 480k | chia se`. Ad set cũ `120254658365120057` giữ240k/ngày, cùng IDs/creative/trạng thái các ads cũ và targeting/cấu hình đã đọc trước thao tác. Nhóm Messi cũ trong campaign tiếp tục PAUSED.
+- Thêm ad set Tiempo `120254956441770057`,240k/ngày, đủ năm bài Tiempo21/11, mẫu chào/câu hỏi và creative features khớp nguồn mới `120252988885520732`. Bật `is_adset_budget_sharing_enabled=true` trên campaign Tiempo; vẫn đặt ngân sách riêng240k mỗi nhóm, Meta có thể điều chuyển tối đa20% mỗi ngân sách sang nhóm khác đủ điều kiện trong campaign. Không đổi sang ngân sách campaign480k tự phân bổ hoàn toàn.
+- Dựng campaign Messi/Vapor `120254956440890057`, ad set `120254956442280057`,120k/ngày, đủ12 ads (7 Messi,5 Vapor), sao từ nhóm mới `120252937281760732`: đúng post ID, targeting, placement, optimization/bid/billing/destination, mẫu hội thoại, Instagram identity và creative features. Dùng lại bài Page, không đăng bài mới. Không đặt ngày kết thúc cho các nhóm mới.
+- Meta không cho dùng7 ngày nhấp+1 ngày xem ở ad set mới (100/1885501), nên Tiempo mới và Messi/Vapor dùng1 ngày nhấp đúng cấu hình nguồn bên tài khoản mới. Tiempo cũ giữ cửa sổ quy kết hiện có. Creative ID không dùng chéo tài khoản được (100/1815696), nên tạo creative trong tài khoản cũ từ đúng bài và cấu hình nguồn.
+- Đọc lại11:24:18 ngày26/11, giờ Việt Nam: toàn bộ3 campaign tài khoản mới PAUSED; tài khoản cũ chỉ có campaign Tiempo và Messi/Vapor ACTIVE, đúng3 ad set ACTIVE với tổng600k;17 ads mới đều effective_status ACTIVE. Đã đối chiếu toàn bộ17 bài/mẫu hội thoại/creative features trước bật và post ID sau bật; ads Tiempo cũ không đổi. Chưa đọc impressions/spend sau bật nên chưa xác nhận thực sự phân phối hoặc có đơn. Rate limit17/2446079 khi đọc kiểm cuối đã qua sau chờ ngắn; lượt đọc lại thành công.
+- [Snapshot triển khai và ánh xạ nguồn → đích](return-to-old-account-2026-11-26.json) giữ ID, receipt thao tác và kết quả kiểm chứng. Khoảng660k/ngày gồm thuế chỉ là phép tính nếu đúng mức10% Dũng nêu, chưa đối soát hóa đơn.
+- Dũng gửi lời khuyên Meta Agent về overlap/học lại trong lúc triển khai. Agent giải thích: trùng tệp là rủi ro, chưa đủ kết luận nó gây CPM25/11; thời gian học1–2 ngày không được bảo đảm; thêm bài và tăng mạnh tiền nhóm cũ cũng không bảo đảm tránh học lại. Không có yêu cầu hủy phương án đã giao; tiếp tục cấu trúc tách nhóm và chia sẻ ngân sách như đã chốt.
+- Việc cần theo dõi: phân phối thực tế, chất lượng khách và đơn chốt theo nguồn trong2–3 ngày; không dùng số kiện đi cùng ngày hoặc tiền/tin nhắn riêng lẻ để kết luận. Chưa tạo lịch theo dõi tự động hoặc tăng ngân sách tiếp.
+
 ## Đối chiếu hàng đi và chi tiêu — 26/11/2026
 
 - Dũng giao rà từ thứ Sáu20/11 đến26/11, đặt số giày đi mỗi ngày cạnh chi tiêu thực tế của cả tài khoản cũ và mới. Chỉ đọc dữ liệu, không thay đổi quảng cáo hoặc nghiệp vụ.

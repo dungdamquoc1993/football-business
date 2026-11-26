@@ -1,0 +1,514 @@
+{
+  "verified_at": "2026-11-26T11:24:18+07:00",
+  "configured_at": "2026-11-26T11:23:17+07:00",
+  "account_id": "814094494973387",
+  "source_account_id": "1554033896044468",
+  "tiempo_campaign_id": "120254658365110057",
+  "tiempo_old_adset_id": "120254658365120057",
+  "tiempo_new_adset_id": "120254956441770057",
+  "messi_vapor_campaign_id": "120254956440890057",
+  "messi_vapor_adset_id": "120254956442280057",
+  "daily_budget": {
+    "tiempo_old": 240000,
+    "tiempo_new": 240000,
+    "messi_vapor": 120000,
+    "total": 600000
+  },
+  "is_adset_budget_sharing_enabled": true,
+  "sharing_scope": "Tiempo campaign only; Meta permits sharing up to20% of each ad set budget. Old Messi ad set remains paused.",
+  "source_adsets": {
+    "tiempo": "120252988885520732",
+    "messi_vapor": "120252937281760732"
+  },
+  "ads": [
+    {
+      "source_ad_id": "120252988888480732",
+      "id": "120254956447920057",
+      "adset_id": "120254956441770057",
+      "creative_id": "2380795752754861",
+      "name": "MSG | Tiempo | Gom4Mau",
+      "post_id": "693218564214489_1458068173205790"
+    },
+    {
+      "source_ad_id": "120252988888120732",
+      "id": "120254956448790057",
+      "adset_id": "120254956441770057",
+      "creative_id": "1714248496812045",
+      "name": "MSG | Tiempo | XanhChanh",
+      "post_id": "693218564214489_1458064863206121"
+    },
+    {
+      "source_ad_id": "120252988886890732",
+      "id": "120254956450030057",
+      "adset_id": "120254956441770057",
+      "creative_id": "2353873682035436",
+      "name": "MSG | Tiempo | XanhBac",
+      "post_id": "693218564214489_1458063203206287"
+    },
+    {
+      "source_ad_id": "120252988887200732",
+      "id": "120254956451290057",
+      "adset_id": "120254956441770057",
+      "creative_id": "2430982580643598",
+      "name": "MSG | Tiempo | DoDen",
+      "post_id": "693218564214489_1458064083206199"
+    },
+    {
+      "source_ad_id": "120252988886350732",
+      "id": "120254956452280057",
+      "adset_id": "120254956441770057",
+      "creative_id": "1199712002576952",
+      "name": "MSG | Tiempo | TrangVang",
+      "post_id": "693218564214489_1458062029873071"
+    },
+    {
+      "source_ad_id": "120252937293120732",
+      "id": "120254956453540057",
+      "adset_id": "120254956442280057",
+      "creative_id": "2060702957892075",
+      "name": "MSG | Messi_Gom6Mau",
+      "post_id": "693218564214489_1458069663205641"
+    },
+    {
+      "source_ad_id": "120252937292220732",
+      "id": "120254956454930057",
+      "adset_id": "120254956442280057",
+      "creative_id": "1837063557510916",
+      "name": "MSG | M03_Messi_DenVang",
+      "post_id": "693218564214489_1444202991258975"
+    },
+    {
+      "source_ad_id": "120252937290240732",
+      "id": "120254956457560057",
+      "adset_id": "120254956442280057",
+      "creative_id": "2383996735762661",
+      "name": "MSG | M01_Messi_BacDen",
+      "post_id": "693218564214489_1444205121258762"
+    },
+    {
+      "source_ad_id": "120252937289200732",
+      "id": "120254956458540057",
+      "adset_id": "120254956442280057",
+      "creative_id": "2185236912092366",
+      "name": "MSG | M05_Messi_XanhThan",
+      "post_id": "693218564214489_1444200987925842"
+    },
+    {
+      "source_ad_id": "120252937289700732",
+      "id": "120254956461910057",
+      "adset_id": "120254956442280057",
+      "creative_id": "1020126311137012",
+      "name": "MSG | M02_Messi_XanhTroi",
+      "post_id": "693218564214489_1444203941258880"
+    },
+    {
+      "source_ad_id": "120252937287220732",
+      "id": "120254956466990057",
+      "adset_id": "120254956442280057",
+      "creative_id": "1148096961295925",
+      "name": "MSG | M07_Messi_TrangHong",
+      "post_id": "693218564214489_1451643987181542"
+    },
+    {
+      "source_ad_id": "120252937286000732",
+      "id": "120254956470970057",
+      "adset_id": "120254956442280057",
+      "creative_id": "1851160062702963",
+      "name": "MSG | V02_Vapor_HongDen",
+      "post_id": "693218564214489_1451612587184682"
+    },
+    {
+      "source_ad_id": "120252937288150732",
+      "id": "120254956472360057",
+      "adset_id": "120254956442280057",
+      "creative_id": "1134707135962443",
+      "name": "MSG | M04_Messi_DoTrang",
+      "post_id": "693218564214489_1444202004592407"
+    },
+    {
+      "source_ad_id": "120252937284600732",
+      "id": "120254956473460057",
+      "adset_id": "120254956442280057",
+      "creative_id": "1938749567503786",
+      "name": "MSG | V03_Vapor_XanhNgocTim",
+      "post_id": "693218564214489_1451613303851277"
+    },
+    {
+      "source_ad_id": "120252937283800732",
+      "id": "120254956476910057",
+      "adset_id": "120254956442280057",
+      "creative_id": "1782354316204204",
+      "name": "MSG | V05_Vapor_Gom4Mau",
+      "post_id": "693218564214489_1451614887184452"
+    },
+    {
+      "source_ad_id": "120252937283280732",
+      "id": "120254956478190057",
+      "adset_id": "120254956442280057",
+      "creative_id": "1167421722326918",
+      "name": "MSG | V04_Vapor_DoTrang",
+      "post_id": "693218564214489_1451643783848229"
+    },
+    {
+      "source_ad_id": "120252937282660732",
+      "id": "120254956479450057",
+      "adset_id": "120254956442280057",
+      "creative_id": "1166361239415672",
+      "name": "MSG | V01_Vapor_TrangVang",
+      "post_id": "693218564214489_1451611273851480"
+    }
+  ],
+  "creative_mapping": [
+    {
+      "source_creative_id": "1164946439804599",
+      "id": "2380795752754861",
+      "post_id": "693218564214489_1458068173205790"
+    },
+    {
+      "source_creative_id": "1439774401559376",
+      "id": "1714248496812045",
+      "post_id": "693218564214489_1458064863206121"
+    },
+    {
+      "source_creative_id": "3319910714859016",
+      "id": "2353873682035436",
+      "post_id": "693218564214489_1458063203206287"
+    },
+    {
+      "source_creative_id": "1728365555467648",
+      "id": "2430982580643598",
+      "post_id": "693218564214489_1458064083206199"
+    },
+    {
+      "source_creative_id": "983700377723864",
+      "id": "1199712002576952",
+      "post_id": "693218564214489_1458062029873071"
+    },
+    {
+      "source_creative_id": "2314258672758721",
+      "id": "2060702957892075",
+      "post_id": "693218564214489_1458069663205641"
+    },
+    {
+      "source_creative_id": "2389002351870353",
+      "id": "1837063557510916",
+      "post_id": "693218564214489_1444202991258975"
+    },
+    {
+      "source_creative_id": "1849339772763894",
+      "id": "2383996735762661",
+      "post_id": "693218564214489_1444205121258762"
+    },
+    {
+      "source_creative_id": "3601350960023971",
+      "id": "2185236912092366",
+      "post_id": "693218564214489_1444200987925842"
+    },
+    {
+      "source_creative_id": "29781584664861572",
+      "id": "1020126311137012",
+      "post_id": "693218564214489_1444203941258880"
+    },
+    {
+      "source_creative_id": "2655527554909544",
+      "id": "1148096961295925",
+      "post_id": "693218564214489_1451643987181542"
+    },
+    {
+      "source_creative_id": "1123183673893165",
+      "id": "1851160062702963",
+      "post_id": "693218564214489_1451612587184682"
+    },
+    {
+      "source_creative_id": "1512287797673833",
+      "id": "1134707135962443",
+      "post_id": "693218564214489_1444202004592407"
+    },
+    {
+      "source_creative_id": "4177254692566958",
+      "id": "1938749567503786",
+      "post_id": "693218564214489_1451613303851277"
+    },
+    {
+      "source_creative_id": "1027987510358163",
+      "id": "1782354316204204",
+      "post_id": "693218564214489_1451614887184452"
+    },
+    {
+      "source_creative_id": "1414153843872121",
+      "id": "1167421722326918",
+      "post_id": "693218564214489_1451643783848229"
+    },
+    {
+      "source_creative_id": "1144659555216547",
+      "id": "1166361239415672",
+      "post_id": "693218564214489_1451611273851480"
+    }
+  ],
+  "preactivation_verification": {
+    "all17_posts_welcome_messages_instagram_id_and_creative_features_exact_match": true,
+    "targeting_and_delivery_settings_match_source": true
+  },
+  "activation_api_receipts": [
+    {
+      "id": "120254658365110057",
+      "change": {
+        "is_adset_budget_sharing_enabled": true
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120252937280520732",
+      "change": {
+        "status": "PAUSED"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956447920057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956448790057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956450030057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956451290057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956452280057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956453540057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956454930057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956457560057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956458540057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956461910057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956466990057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956470970057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956472360057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956473460057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956476910057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956478190057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956479450057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956441770057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956442280057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254956440890057",
+      "change": {
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    },
+    {
+      "id": "120254658365110057",
+      "change": {
+        "name": "YBDS | 2026-11-08 | Messenger Tiempo | 480k | chia se",
+        "status": "ACTIVE"
+      },
+      "result": {
+        "success": true
+      }
+    }
+  ],
+  "final_verification": {
+    "source_all_campaigns_paused": true,
+    "active_sets": [
+      {
+        "id": "120254956442280057",
+        "name": "MSG | Messi Vapor | 120k/ngay | tu TK moi",
+        "status": "ACTIVE",
+        "effective_status": "ACTIVE",
+        "daily_budget": "120000"
+      },
+      {
+        "id": "120254956441770057",
+        "name": "MSG | Tiempo | 240k/ngay | 5 bai moi 21-11",
+        "status": "ACTIVE",
+        "effective_status": "ACTIVE",
+        "daily_budget": "240000"
+      },
+      {
+        "id": "120254658365120057",
+        "name": "MSG | Tiempo | 240k/ngay",
+        "status": "ACTIVE",
+        "effective_status": "ACTIVE",
+        "daily_budget": "240000"
+      }
+    ],
+    "new_ads_status_counts": {
+      "ACTIVE": 17
+    },
+    "old_ads_unchanged": true,
+    "sharing_readback": true,
+    "delivery": "All17 new ads effective_status ACTIVE; actual impressions/spend not yet checked.",
+    "source_campaigns": [
+      {
+        "id": "120252988857160732",
+        "name": "YBDS | 2026-11-25 | Messenger Tiempo | 350k",
+        "status": "PAUSED",
+        "effective_status": "PAUSED"
+      },
+      {
+        "id": "120252937293170732",
+        "name": "YBDS | 2026-11-21 | Tuong tac 6 bai | 300k / 72h",
+        "status": "PAUSED",
+        "effective_status": "PAUSED"
+      },
+      {
+        "id": "120252937280520732",
+        "name": "YBDS | 2026-11-21 | Messenger Messi Vapor | 150k",
+        "status": "PAUSED",
+        "effective_status": "PAUSED"
+      }
+    ]
+  }
+}
