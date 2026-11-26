@@ -1,5 +1,14 @@
 # Chuyển sang tài khoản phụ — 21–25/11/2026
 
+## Đối chiếu hàng đi và chi tiêu — 26/11/2026
+
+- Dũng giao rà từ thứ Sáu20/11 đến26/11, đặt số giày đi mỗi ngày cạnh chi tiêu thực tế của cả tài khoản cũ và mới. Chỉ đọc dữ liệu, không thay đổi quảng cáo hoặc nghiệp vụ.
+- Kiểm chứng khoảng10:45 ngày26/11, giờ Việt Nam: Meta Insights cấp tài khoản, từng ngày, cả hai tài khoản có múi giờ Asia/Ho_Chi_Minh và tiền VND. Cũ `814094494973387`:1.937.678đ; mới `1554033896044468`:1.257.203đ; tổng3.194.881đ. Tài khoản mới có chi tiêu trong kỳ từ21/11. Đây là chi tiêu phân phối, chưa đối soát hóa đơn/VAT hoặc khoản trừ thẻ.
+- Admin MCP ghi nhận43 đôi xuất trong kỳ:39 đôi có phiếu SuperAI khớp vận đơn inventory issued,4 đôi thủ công; trong đó có1 đôi đổi size trực tiếp ngày24/11. Cơ cấu36 Tiempo,2 Messi,5 Vapor;5 đôi tất và1 túi tách khỏi số giày. Chưa trừ hoàn, chưa xác nhận đây là43 đôi bán mới hoặc đã giao thành công.
+- Đọc100 phiếu kho gần nhất tới14/11 và chi tiết43 phiếu issue tạo trong kỳ; loại1 phiếu thực giao19/11 dù tạo20/11. Ngày22/11 có1 phiếu thủ công xác nhận đã nhận nhưng chưa rõ ngày gửi. Các ngày khác dùng thời điểm ghi nhận xuất kho. Đọc đủ124 snapshot vận đơn đã biết, không thay cho toàn bộ tài khoản hãng.
+- Dữ liệu từng ngày, định nghĩa, giới hạn và tham chiếu đối chiếu nằm ở [snapshot tổng hợp](performance-2026-11-26.json). Ngày26/11 chưa kết thúc. Không lưu danh tính khách hoặc bản xuất vận hành riêng vào Git.
+- Quan sát:20–22/11 ghi nhận31 đôi, ads1.519.279đ;23–25/11 ghi nhận12 đôi (gồm1 đôi đổi), ads1.579.827đ. Đây là tín hiệu cần theo dõi, chưa đủ kết luận tài khoản mới kém hơn vì chưa nối nguồn từng đơn và có độ trễ giữa ads/chốt/gửi. Chưa quyết định đổi ngân sách trong lượt rà này.
+
 ## Messenger Tiempo tài khoản phụ — 25/11/2026
 
 - Dũng giao tạo và bật campaign trên tài khoản phụ `1554033896044468`, dùng đúng năm link bài Tiempo ngày 21/11. Tổng ngân sách **350.000đ/ngày** cho một ad set, không đặt ngày kết thúc; mức này thay mức 450k từng dự kiến cho nhóm Tiempo mới.

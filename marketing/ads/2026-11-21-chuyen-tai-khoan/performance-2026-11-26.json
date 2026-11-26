@@ -1,0 +1,165 @@
+{
+  "verified_at": "2026-11-26T10:45:43+07:00",
+  "period": {
+    "since": "2026-11-20",
+    "until": "2026-11-26",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "last_day_partial": true
+  },
+  "accounts": [
+    {
+      "id": "act_814094494973387",
+      "currency": "VND",
+      "name": "Dũng Đàm",
+      "timezone_name": "Asia/Ho_Chi_Minh",
+      "timezone_offset_hours_utc": 7
+    },
+    {
+      "id": "act_1554033896044468",
+      "name": "Huỳnh Nghi Điền",
+      "currency": "VND",
+      "timezone_name": "Asia/Ho_Chi_Minh",
+      "timezone_offset_hours_utc": 7
+    }
+  ],
+  "definitions": {
+    "pairs": "Số đôi giày ghi nhận xuất theo ngày Việt Nam của phiếu kho; phiếu ghi rõ ngày giao khác dùng ngày giao đó. Không gồm tất/túi; chưa trừ hoàn.",
+    "shipPairs": "Đôi giày có phiếu tự xuất SuperAI; đối chiếu đủ 39 phiếu với vận đơn có inventory issued.",
+    "manualPairs": "Đôi giày ghi nhận thủ công; gồm 1 đôi giao trực tiếp ngày20, 1 đôi xác nhận đã nhận ngày22 (không rõ ngày bàn giao hãng), 1 đôi bán trực tiếp và 1 đôi đổi size ngày24.",
+    "spend": "Meta Insights account level, time_increment=1, VND; cả hai tài khoản có timezone Asia/Ho_Chi_Minh. Là chi tiêu phân phối, không phải khoản trừ thẻ hoặc hóa đơn VAT.",
+    "exchange": "Lượt đổi size xác định trong phiếu trực tiếp ngày24; chưa kiểm toán toàn bộ vận đơn theo loại bán/đổi."
+  },
+  "coverage": {
+    "stock": "Đọc 100 phiếu gần nhất tới14/11, bao phủ trọn kỳ; đọc chi tiết toàn bộ43 phiếu issue tạo trong kỳ. Loại1 phiếu ghi giao19/11.",
+    "shipping": "Đọc đủ124 snapshot mã đã biết; không chứng minh bao phủ toàn bộ tài khoản hãng.39 phiếu tự xuất trong kỳ đều có vận đơn issued tương ứng.",
+    "excluded_entry_id": "da9dc8db-bad7-4f4c-bfbd-978ed417990a",
+    "known_exchange_entry_id": "71f36e4c-e40c-41cd-86d7-f2e7754b3ea5",
+    "limitations": [
+      "Ngày ghi nhận xuất có thể trễ ngày giao thực tế; phiếu22/11 xác nhận đã nhận nhưng không cho ngày gửi.",
+      "Hàng đi không đồng nghĩa khách nhận thành công, doanh thu, tiền về hoặc đơn do quảng cáo tạo ra.",
+      "Không chia số hàng đi cho tài khoản cũ/mới vì chưa đối chiếu nguồn từng đơn.",
+      "Số hôm nay còn thay đổi; số Meta có thể được cập nhật sau."
+    ]
+  },
+  "daily": [
+    {
+      "date": "2026-11-20",
+      "pairs": 10,
+      "shipPairs": 9,
+      "manualPairs": 1,
+      "tiempo": 6,
+      "messi": 1,
+      "vapor": 3,
+      "socks": 1,
+      "bags": 0,
+      "exchange": 0,
+      "old_spend": 455716,
+      "new_spend": 0,
+      "total_spend": 455716
+    },
+    {
+      "date": "2026-11-21",
+      "pairs": 9,
+      "shipPairs": 9,
+      "manualPairs": 0,
+      "tiempo": 8,
+      "messi": 1,
+      "vapor": 0,
+      "socks": 0,
+      "bags": 0,
+      "exchange": 0,
+      "old_spend": 508265,
+      "new_spend": 78755,
+      "total_spend": 587020
+    },
+    {
+      "date": "2026-11-22",
+      "pairs": 12,
+      "shipPairs": 11,
+      "manualPairs": 1,
+      "tiempo": 11,
+      "messi": 0,
+      "vapor": 1,
+      "socks": 1,
+      "bags": 1,
+      "exchange": 0,
+      "old_spend": 356432,
+      "new_spend": 120111,
+      "total_spend": 476543
+    },
+    {
+      "date": "2026-11-23",
+      "pairs": 3,
+      "shipPairs": 3,
+      "manualPairs": 0,
+      "tiempo": 2,
+      "messi": 0,
+      "vapor": 1,
+      "socks": 0,
+      "bags": 0,
+      "exchange": 0,
+      "old_spend": 281563,
+      "new_spend": 295949,
+      "total_spend": 577512
+    },
+    {
+      "date": "2026-11-24",
+      "pairs": 8,
+      "shipPairs": 6,
+      "manualPairs": 2,
+      "tiempo": 8,
+      "messi": 0,
+      "vapor": 0,
+      "socks": 2,
+      "bags": 0,
+      "exchange": 1,
+      "old_spend": 206316,
+      "new_spend": 275513,
+      "total_spend": 481829
+    },
+    {
+      "date": "2026-11-25",
+      "pairs": 1,
+      "shipPairs": 1,
+      "manualPairs": 0,
+      "tiempo": 1,
+      "messi": 0,
+      "vapor": 0,
+      "socks": 1,
+      "bags": 0,
+      "exchange": 0,
+      "old_spend": 129386,
+      "new_spend": 391100,
+      "total_spend": 520486
+    },
+    {
+      "date": "2026-11-26",
+      "pairs": 0,
+      "shipPairs": 0,
+      "manualPairs": 0,
+      "tiempo": 0,
+      "messi": 0,
+      "vapor": 0,
+      "socks": 0,
+      "bags": 0,
+      "exchange": 0,
+      "old_spend": 0,
+      "new_spend": 95775,
+      "total_spend": 95775
+    }
+  ],
+  "totals": {
+    "pairs": 43,
+    "shipPairs": 39,
+    "manualPairs": 4,
+    "tiempo": 36,
+    "messi": 2,
+    "vapor": 5,
+    "socks": 5,
+    "bags": 1,
+    "exchange": 1,
+    "old_spend": 1937678,
+    "new_spend": 1257203,
+    "total_spend": 3194881
+  }
+}
