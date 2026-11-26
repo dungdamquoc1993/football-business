@@ -1,0 +1,158 @@
+{
+  "verified_at": "2026-11-26T15:47:20+07:00",
+  "period": {
+    "since": "2026-11-21",
+    "until": "2026-11-26",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "last_day_partial": true
+  },
+  "account_id": "1554033896044468",
+  "ad_count": 29,
+  "conversations_reviewed": 98,
+  "conversations_only_new_source": 89,
+  "conversations_mixed_old_new": 9,
+  "incomplete_history_flags": 62,
+  "confirmed_purchases_with_contact": 6,
+  "new_only": {
+    "confirmed": 2,
+    "cancelled": 2,
+    "delivered_verified": 0
+  },
+  "mixed": {
+    "confirmed": 4,
+    "delivered_verified": 1,
+    "delivery_delayed": 1,
+    "waiting_stock": 1,
+    "waiting_shipment": 1
+  },
+  "additional_purchase_intent_without_phone": 1,
+  "spend_vnd": 1282711,
+  "method": "Explicit referral ads→account mapping via Meta API; exhaustive paginated browse of29ads; available Messenger histories and related SaleNote/courier snapshots. One purchase episode per case; cancellations separate.",
+  "limitations": [
+    "Conversation-level referrals lack timestamps linking individual ad to purchase. Mixed cases cannot be assigned exclusively to new account.",
+    "62 conversations flagged incomplete; exhausted available edges is not complete Meta history.",
+    "Unknown referral or comment-origin orders may be absent from this source cohort.",
+    "Courier statuses do not prove cash receipt; six confirmations are not six deliveries.",
+    "Meta ad-account insights may revise retrospectively; spend is delivery cost before invoice/VAT reconciliation."
+  ],
+  "owner": "Private customer evidence and per-case source mapping retained in SaleNote. No customer identities or chat export in Git.",
+  "messages_in_available_batches": 1202,
+  "ad_queries": [
+    {
+      "ad_id": "120252937287220732",
+      "conversations": 3
+    },
+    {
+      "ad_id": "120252937284600732",
+      "conversations": 3
+    },
+    {
+      "ad_id": "120252937292220732",
+      "conversations": 2
+    },
+    {
+      "ad_id": "120252937289200732",
+      "conversations": 5
+    },
+    {
+      "ad_id": "120252937288150732",
+      "conversations": 1
+    },
+    {
+      "ad_id": "120252937293120732",
+      "conversations": 8
+    },
+    {
+      "ad_id": "120252937286000732",
+      "conversations": 13
+    },
+    {
+      "ad_id": "120252937283800732",
+      "conversations": 7
+    },
+    {
+      "ad_id": "120252937283280732",
+      "conversations": 8
+    },
+    {
+      "ad_id": "120252937289700732",
+      "conversations": 15
+    },
+    {
+      "ad_id": "120252937282660732",
+      "conversations": 3
+    },
+    {
+      "ad_id": "120252937290240732",
+      "conversations": 12
+    },
+    {
+      "ad_id": "120252988888480732",
+      "conversations": 9
+    },
+    {
+      "ad_id": "120252988888120732",
+      "conversations": 2
+    },
+    {
+      "ad_id": "120252988886890732",
+      "conversations": 2
+    },
+    {
+      "ad_id": "120252988887200732",
+      "conversations": 3
+    },
+    {
+      "ad_id": "120252988886350732",
+      "conversations": 1
+    },
+    {
+      "ad_id": "120252944849840732",
+      "conversations": 0
+    },
+    {
+      "ad_id": "120252944849560732",
+      "conversations": 0
+    },
+    {
+      "ad_id": "120252944849500732",
+      "conversations": 1
+    },
+    {
+      "ad_id": "120252944848740732",
+      "conversations": 0
+    },
+    {
+      "ad_id": "120252944849120732",
+      "conversations": 0
+    },
+    {
+      "ad_id": "120252944848580732",
+      "conversations": 0
+    },
+    {
+      "ad_id": "120252937295920732",
+      "conversations": 0
+    },
+    {
+      "ad_id": "120252937295020732",
+      "conversations": 0
+    },
+    {
+      "ad_id": "120252937296000732",
+      "conversations": 0
+    },
+    {
+      "ad_id": "120252937294510732",
+      "conversations": 0
+    },
+    {
+      "ad_id": "120252937294320732",
+      "conversations": 0
+    },
+    {
+      "ad_id": "120252937295480732",
+      "conversations": 0
+    }
+  ]
+}

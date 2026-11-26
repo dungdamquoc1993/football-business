@@ -1,5 +1,13 @@
 # Chuyển sang tài khoản phụ — 21–25/11/2026
 
+## Rà đơn theo nguồn tài khoản mới — 26/11/2026
+
+- Rà từ ngày có chi tiêu21/11 đến26/11 khoảng15:47VN: lấy29ads tài khoản mới qua Meta API, phân trang hết referral của từng ad;98hội thoại duy nhất,1.202tin khả dụng.62hội thoại vẫn cờ lịch sử chưa đủ. Đối chiếu ngược hồ sơ SaleNote trong kỳ và vận đơn liên quan; không dùng mẫu giày hoặc post dùng chung làm nguồn tài khoản.
+- Có6lần mua đã chốt kèm liên hệ:2ca chỉ thấy referral mới đều đãhủy;4ca có cả referral cũ/mới gồm1đãgiao,1hoãn giao,1chờhàng,1chờtạo vậnđơn. Thêm1yêu cầu lấy giày chưaSĐT, tách khỏi6ca. Đây là cohort có referral được lưu, không phải chứng minh tài khoản mới trực tiếp gây ra6đơn hoặc toàn bộ khách Meta đã được bao phủ.
+- Một ca hủy vì thiếu đúng size/không kịp lịch nhận; một ca hủy theo correction điện thoại Dũng rằng khách đặt nhầm. Thiếu hàng cũng xuất hiện ở ca chờ và ca đổi màu. Kết quả hiện chưa chứng minh toàn bộ vấn đề do tài khoản/leads, cũng chưa chứng minh tài khoản mới có doanh số thành công riêng.
+- Chi tiêu mới đọc lại1.282.711đ;26/11 còn dở ngày, Insights có thể cập nhật trễ. Không tính CPA/ROAS riêng bằng cách nhận cả4ca hỗn hợp về tài khoản mới. Không xác nhận tiền thựcthu từ trạng thái đối soát hãng.
+- Đã bổ sung nguồn/ads→account, thời điểm kiểm chứng và giới hạn vào6hồ sơ SaleNote, giữ correction/trạng thái/lịch hẹn hiện có. Dữ liệu khách và bằng chứng từng ca ở server; Git chỉ giữ [số tổng hợp và phương pháp](order-attribution-audit-2026-11-26.json). Không chỉnh ads, tạo/gửi/hủy vận đơn hoặc nhắn khách trong lượt điều tra.
+
 ## Đã chuyển lại tài khoản cũ — 26/11/2026
 
 - Dũng chốt và giao triển khai: tạm dừng toàn bộ campaign tài khoản mới `1554033896044468`; tài khoản cũ `814094494973387` chạy Tiempo cũ240k + Tiempo năm bài mới240k + Messi/Vapor120k, tổng600.000đ/ngày trước thuế. Mức này thay các phương án480k/540k hoặc giữ100k ở tài khoản mới đã bàn trước đó. Dũng xác nhận120k dành Messi/Vapor và yêu cầu sao đúng nhóm tài khoản mới, không dùng lại nhóm Messi cũ.
