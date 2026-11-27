@@ -75,6 +75,13 @@ Sổ intent phục vụ nhập hàng và đo ads, độc lập SaleNote. Quy t�
 giới hạn source_ad_ids ở cấp hội thoại xem phần Nguồn ads trong SKILL.md. Chưa
 mặc định các dòng lịch sử có hierarchy hoặc thời điểm referral; việc bổ sung
 trường nguồn phải được kiểm chứng đọc/ghi trước khi báo đã triển khai.
+Capability đã kiểm thử local27/11, chờ xem UI/deploy: `data.ad_links` là danh
+sách đầy đủ `{ad_id,scope,observed_at,referral_at?,evidence}`. Bỏ/null giữ links,
+`[]` xóa có chủ ý; ghi cùng transaction/version của intent. Đọc opportunities
+trả links hiện hành và lọc được ad_id/account_id. Trường bổ sung:
+first_intent_at, reference_unit_price_vnd, price_basis, intent_kind. Client cũ
+không gửi các trường mới thì giữ giá/ngày/loại và links đã có. Chỉ áp dụng khi
+schema server đang kết nối đã nâng cấp, không suy từ việc source local đã có.
 Correction tiếp theo27/11: quan hệ intent–ad là nhiều–nhiều, mỗi cặp chỉ một
 lần. Thống kê bản đầu là liên quan, chưa phân chia credit: q được tính cho mỗi
 ad liên quan; tổng một nhóm lấy tập intent duy nhất trong nhóm và tính q một

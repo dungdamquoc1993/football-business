@@ -140,3 +140,24 @@ voided records and is recorded cash flow, not profit or bank balance. Do not inf
 fee payments from net COD deposits. Keep SuperShip reconciliation separate.
 
 Shared action cases belong to [SaleNote](../salenote-workspace/SKILL.md), not the stock ledger. Creating or closing a case never proves goods moved or money was received. With the shipping commitment gate enabled, available-for-create stock can be below physical stock: include queued/unknown/enrolled unissued shipments once. Customer-owned warranty goods and returns are not automatically shop saleable inventory.
+
+## Intent và ads — kiểm tra capability trước khi dùng
+
+Bản bổ sung được kiểm thử local27/11/2026, chưa mặc định đã deploy. Kiểm tra
+`tools/list` trên server đang kết nối. Sổ intent theo
+[weekly-replenishment](../weekly-replenishment/SKILL.md), độc lập SaleNote.
+Khi có `admin_intent_report`, dùng `filters.view=report` để tổng hợp cùng logic UI;
+`view=catalog` đọc mapping/version trước sửa, `view=costs` đọc chi phí/version,
+lọc ad/ngày/tài khoản và theo `next_offset`. Không cộng các dòng liên quan
+chồng lấn để suy tổng; dùng `totals` trả về. Quantity chưa rõ không mặc định1,
+chi phí chưa nhập lànull, giá trị intent×giá tham chiếu không phải doanh thu.
+
+`admin_ads_save_catalog` ghi mapping ad→adset→campaign→account và creative đã
+kiểm tra, không tự gọi Meta. `admin_ads_save_costs` ghi chi tiêu VND ad/ngày và
+thuế/phí tài khoản/kỳ được cung cấp; không tạo phiếu thu chi. Ghi rõ nguồn,
+thời điểm, số đã gồm thuế hay chưa và ước tính/thực tế. Phí9.900đ/charge là
+ước tính làm việc của Dũng, không tự giả định số charge. Không nhập hai khoản
+thuế/phí trùng kỳ hoặc cộng thuế vào số đã gồm thuế. Cả hai tool ghi cần UUID
+ổn định, current expected_version và workspace_fingerprint từ status; mất phản
+hồi retry đúng payload/UUID, conflict thì đọc lại trước khi sửa có chủ ý.
+Không cần token ads trong app hoặc flow đồng bộ chi tiêu thường trực.

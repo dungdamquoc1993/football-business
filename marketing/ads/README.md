@@ -75,6 +75,22 @@ danh mục ads, lưu chi phí theo kỳ và đọc báo cáo trên Admin MCP hi�
 thêm MCP server/URL, không đồng bộ chi tiêu thường trực. Bổ sung skills hiện có;
 SaleNote vẫn độc lập. Tên/schema tool cuối cùng chốt khi triển khai.
 
+### Đã làm local, chờ Dũng xem UI — 27/11/2026
+
+Dũng giao lấy backup từ `sale_ai`, triển khai/chạy thử local trước, chỉ deploy
+sau khi Dũng xem UI và đồng ý. Đã tạo backup DB mới trên server, kiểm tra dump
+và checksum khi tải về, restore vào DB review riêng trên Mac. Backup/runtime
+và dữ liệu khách chỉ giữ private, không đưa vào Git. Không migrate/deploy production.
+
+Bản local có bốn bảng ads/links/chi phí, mở rộng journal receipt để giữ retry;
+ba tool mới `admin_ads_save_catalog`, `admin_ads_save_costs`, `admin_intent_report`
+và mở rộng tool intent/Facebook. UI Admin có báo cáo, sổ intent và danh mục ads;
+mặc định bảy ngày đã kết thúc. Skills đã bổ sung theo capability, không coi tool
+local là production đã có. Khi xem bản thử: nguồn hồi cứu mới chắc ở cấp hội
+thoại; chi tiêu lấy thật20–26/11, chưa đối chiếu thuế/phí thẻ. Bản chạy local bỏ
+credentials provider và không bật worker. Không dùng số thử để quyết định ads
+hoặc ghi ngược bản DB review lên production.
+
 ## Mở đúng hồ sơ
 
 - [Chuyển sang tài khoản phụ, 21–25/11](2026-11-21-chuyen-tai-khoan/README.md):
