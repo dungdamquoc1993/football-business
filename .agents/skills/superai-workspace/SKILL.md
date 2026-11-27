@@ -47,6 +47,8 @@ former/current administrative names supported by evidence. An exact-text miss or
 missing district in a new-style address does not establish invalidity: the provider
 may retain the older administrative tree.
 
+Khi gửi create qua MCP hiện tại, điền province/district/commune bằng TÊN chính xác trong kết quả reference. Schema hiện chưa có area_type, API mặc định nhận tên; các code chỉ dùng để tra parent-child. Đối chiếu payload của một create đã thành công khi cần kiểm chứng. Truyền code vào trường tên có thể bị hãng từ chối và journal giữ unknown. Tài liệu hãng https://docs.superai.vn/guide/orders.html.
+
 If references do not resolve a rename/merger, research public administrative or
 local government sources for that locality. Never send customer name, phone or full
 private house/street address to public search. Verify the old/new mapping with source
