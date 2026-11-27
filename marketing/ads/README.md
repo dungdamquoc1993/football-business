@@ -16,6 +16,20 @@ agent tra cứu và tiếp tục công việc. Làm ads trong repo với credent
 - Chỉ token trong file local đã được thay; chưa thiết lập tự gia hạn hoặc cập nhật
   credentials của dịch vụ/server. Hồ sơ không chứa giá trị token.
 
+## Mục tiêu theo dõi Dũng nêu — 27/11/2026
+
+Dũng muốn nối chi tiêu với lượt mua/đơn thực tế từ cấp ad lên ad set, campaign
+và tài khoản quảng cáo, kể cả khi nhiều tài khoản chạy cùng bài. Dữ liệu này phục vụ
+quyết định ngân sách; không chỉ dựa vào số hội thoại Meta báo. Ưu tiên lưu bằng chứng
+và kết quả shop tự xác định, tránh sao chép đầy đủ dữ liệu đã có trên Meta.
+
+Mong muốn theo dõi ads hằng ngày và tổng hợp tuần/tháng; nhập hàng tiếp tục theo
+tuần, dùng chung phần nhận diện intent mua từ Messenger. Cần cập nhật từng lượt mua
+thay vì cộng lại các tổng lũy kế. Sổ intent hiện hành thuộc Admin MCP; hồ sơ xử lý
+và nguồn đơn đã ghi thuộc SaleNote. Quy tắc quy nguồn, định nghĩa chỉ số, liên kết
+dữ liệu và cơ chế chạy định kỳ đang được tư vấn; chưa chốt thiết kế, triển khai,
+đặt lịch tự động hoặc cấp quyền điều chỉnh quảng cáo tự động trong lượt này.
+
 ## Mở đúng hồ sơ
 
 - [Chuyển sang tài khoản phụ, 21–25/11](2026-11-21-chuyen-tai-khoan/README.md):
