@@ -40,8 +40,10 @@ tiếp tục theo tuần. Đây không phải yêu cầu tạo lịch tự độ
 Facebook MCP đã kiểm tra có source_ad_ids ở facebook_browse(view=detail) từ
 explicit referrals, không cần token ads local. Lần kiểm tra facebook_read không
 trả referral trên từng tin; chưa có bằng chứng timestamp referral gắn từng lần
-mua. Thiếu/multiple sources giữ unknown/mixed, không suy từ mẫu giày/post và
-không đếm trùng intent cho nhiều ads. Thêm hierarchy account/campaign/adset/ad
+mua. Thiếu nguồn giữ unknown, không suy từ mẫu giày/post. Theo correction tiếp
+theo27/11, dùng thống kê liên quan: mỗi cặp intent–ad chỉ ghi một lần; cùng intent
+có thể xuất hiện đầy đủ ở nhiều dòng ad. Khi gom lên một nhóm phải lấy tập intent
+duy nhất trong nhóm, không cộng các dòng ad để làm tổng. Thêm hierarchy account/campaign/adset/ad
 bằng mapping được xác minh qua Meta khi gặp ID mới; giữ lại để tra dùng tiếp.
 Quy ước trường nguồn và phép tổng hợp chưa được kiểm chứng ghi/đọc trên intent.
 
@@ -59,12 +61,19 @@ lọc chéo, so chi tiêu với intent và giá trị quy đổi từ intent×gi
 này không phải doanh thu thực nhận. Cần giữ giá và thời điểm/cơ sở giá khi quy đổi.
 Chỉ danh sách ad liên quan chưa đủ để chia kết quả cộng khớp giữa các nguồn.
 
-Các điểm đang tư vấn, chưa chốt để code: quy tắc credit intent giữa nhiều ads;
-gom nội dung dùng chung qua nhiều creative ID/tài khoản; phân biệt mẫu được quảng
-cáo với mẫu khách có nhu cầu; cách xử lý chi tiêu quảng cáo nhiều mẫu chung. Không
+Correction sau đó của Dũng: chọn bản đầu đơn giản, chấp nhận thống kê liên quan
+chưa phản ánh nguồn gây mua chính xác. Nguồn là bảng nối nhiều–nhiều intent–ad;
+ghi trung thực sản phẩm của intent và các ad quan sát được, không ép chia credit.
+Không làm nổi bật phân tích quảng cáo mẫu này nhưng mua mẫu khác. Giữ phân bổ7/3
+đã chốt; creative dùng để nhóm ads, chưa dựng mô hình đo creative phức tạp. Không
 tự coi toàn bộ chi tiêu của một ad là chi tiêu riêng cho từng mẫu/intent liên quan.
-Dũng yêu cầu thống nhất cách count trước khi bắt đầu code. Chưa triển khai báo cáo
-hoặc thay quy tắc credit nguồn trong lượt trao đổi này.
+
+Dũng yêu cầu dừng trước khi dựng UI/code để chốt kế hoạch. Chưa tạo bản UI hoặc
+sửa source app trong lượt này. Đề xuất triển khai: sửa backend/Admin của ứng dụng;
+mở rộng record_review/opportunities và dữ liệu nguồn Facebook, thêm tool lưu
+danh mục ads, lưu chi phí theo kỳ và đọc báo cáo trên Admin MCP hiện có. Không
+thêm MCP server/URL, không đồng bộ chi tiêu thường trực. Bổ sung skills hiện có;
+SaleNote vẫn độc lập. Tên/schema tool cuối cùng chốt khi triển khai.
 
 ## Mở đúng hồ sơ
 
