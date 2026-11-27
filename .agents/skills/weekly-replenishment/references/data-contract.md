@@ -59,11 +59,22 @@ weighting_rule_version và demand_allocations. `final_only` chỉ biết lựa c
 không chứng minh đã tính tỷ trọng stockout. Sửa lựa chọn/hậu mãi dùng lại cùng ID;
 mua thêm thật mới có ID mới. Loại dòng sai bằng is_voided, giữ audit, không xóa.
 
-Confirmed đã phân loại đóng góp tổngq. Chỉ dùng0,7q gốc/0,3q cuối khi có bằng
-chứng thiếu hàng và khách chốt thay thế. Lý do chưa rõ giữ pending; không gọi cơ
-cấu final là weighted đầy đủ. Clear_intent không có trọng số mặc định; quantity
-null không được coi1. Nhiều lựa chọn trung gian không tạo thêm đôi. SuperAI chỉ
-chứng minh hàng đặt gửi, không tự chứng minh intent gốc, nhận hàng hoặc tiền.
+Từ quyết định27/11/2026, đơn vị chung là intent mua hàng rõ ràng theo số đôi:
+confirmed và clear_intent đủ bằng chứng đều đóng góp tổngq; settings lưu
+clear_intent_weight=1 và intent_measurement.rule_version=clear-purchase-intent-v1.
+Giữ intent có thật dù thiếu hàng/hủy; hậu mãi bảo hành/đổi size không tạo thêm
+intent. Mua thêm thật chỉ cộng lượng mới; quantity=null không được coi1.
+Chỉ dùng0,7q gốc/0,3q cuối khi có bằng chứng thiếu hàng và khách đồng ý mua thay
+thế; hủy mà không có thay thế thì giữ nhu cầu gốc=q. Đây là phân bổ sản phẩm,
+không phải chia credit giữa nguồn ads. Lý do chưa rõ giữ pending; không gọi cơ
+cấu final là weighted đầy đủ. Nhiều lựa chọn trung gian không tạo thêm đôi.
+Không coi ledger/run lịch sử đã được rà lại chỉ vì config đổi. SuperAI chỉ chứng
+minh hàng đặt gửi, không tự chứng minh intent gốc, nhận hàng hoặc tiền.
+
+Sổ intent phục vụ nhập hàng và đo ads, độc lập SaleNote. Quy tắc bằng chứng và
+giới hạn source_ad_ids ở cấp hội thoại xem phần Nguồn ads trong SKILL.md. Chưa
+mặc định các dòng lịch sử có hierarchy hoặc thời điểm referral; việc bổ sung
+trường nguồn phải được kiểm chứng đọc/ghi trước khi báo đã triển khai.
 
 ## Lưu kế hoạch
 

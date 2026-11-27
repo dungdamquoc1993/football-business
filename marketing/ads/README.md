@@ -16,19 +16,41 @@ agent tra cứu và tiếp tục công việc. Làm ads trong repo với credent
 - Chỉ token trong file local đã được thay; chưa thiết lập tự gia hạn hoặc cập nhật
   credentials của dịch vụ/server. Hồ sơ không chứa giá trị token.
 
-## Mục tiêu theo dõi Dũng nêu — 27/11/2026
+## Đo hiệu quả — Dũng chốt và sửa phạm vi27/11/2026
 
-Dũng muốn nối chi tiêu với lượt mua/đơn thực tế từ cấp ad lên ad set, campaign
-và tài khoản quảng cáo, kể cả khi nhiều tài khoản chạy cùng bài. Dữ liệu này phục vụ
-quyết định ngân sách; không chỉ dựa vào số hội thoại Meta báo. Ưu tiên lưu bằng chứng
-và kết quả shop tự xác định, tránh sao chép đầy đủ dữ liệu đã có trên Meta.
+Đơn vị kết quả chung là **intent mua hàng rõ ràng theo số đôi**, dùng cho nhập
+hàng và đo ads từ ad lên ad set, campaign, tài khoản, kể cả nhiều tài khoản chạy
+cùng bài. q đôi có intent thật đóng góp q; khách mua thêm chỉ cộng lượng mới,
+nhắc lại không đếm thêm. Thiếu hàng/hủy không xóa intent có thật. Bảo hành,
+đổi size và gửi lại thuộc hậu mãi không tạo intent mới. Chuyển mẫu/màu do thiếu
+hàng và khách đồng ý mua thay thế giữ0,7q gốc/0,3q cuối, tổngq; không có thay thế
+thì giữ nhu cầu gốc=q. Quy tắc7/3 phân bổ sản phẩm, không chia credit giữa ads.
+Không dùng đơn chốt/giao thành công làm thang kết quả riêng của phép đo đã chọn.
 
-Mong muốn theo dõi ads hằng ngày và tổng hợp tuần/tháng; nhập hàng tiếp tục theo
-tuần, dùng chung phần nhận diện intent mua từ Messenger. Cần cập nhật từng lượt mua
-thay vì cộng lại các tổng lũy kế. Sổ intent hiện hành thuộc Admin MCP; hồ sơ xử lý
-và nguồn đơn đã ghi thuộc SaleNote. Quy tắc quy nguồn, định nghĩa chỉ số, liên kết
-dữ liệu và cơ chế chạy định kỳ đang được tư vấn; chưa chốt thiết kế, triển khai,
-đặt lịch tự động hoặc cấp quyền điều chỉnh quảng cáo tự động trong lượt này.
+Sổ intent và cấu hình thuộc Admin MCP qua skill weekly-replenishment. Đã lưu
+rule clear-purchase-intent-v1 và clear_intent_weight=1 tại settings version2
+ngày27/11; không coi ledger cũ đã được rà lại hoặc tự sửa kế hoạch nhập cũ.
+SaleNote vẫn là sổ xử lý công việc độc lập, không là nguồn dữ liệu hoặc nơi ghi
+attribution mới cho phép đo này. Ghi chú nguồn cũ trong SaleNote giữ làm lịch sử.
+
+Khi Dũng giao lượt quét Messenger/SuperAI hằng ngày, dùng cùng phần Messenger
+đã thực sự đọc để cập nhật intent; mỗi nghiệp vụ giữ checkpoint riêng. Nhập hàng
+tiếp tục theo tuần. Đây không phải yêu cầu tạo lịch tự động hoặc sửa ngân sách.
+
+Facebook MCP đã kiểm tra có source_ad_ids ở facebook_browse(view=detail) từ
+explicit referrals, không cần token ads local. Lần kiểm tra facebook_read không
+trả referral trên từng tin; chưa có bằng chứng timestamp referral gắn từng lần
+mua. Thiếu/multiple sources giữ unknown/mixed, không suy từ mẫu giày/post và
+không đếm trùng intent cho nhiều ads. Thêm hierarchy account/campaign/adset/ad
+bằng mapping được xác minh qua Meta khi gặp ID mới; giữ lại để tra dùng tiếp.
+Quy ước trường nguồn và phép tổng hợp chưa được kiểm chứng ghi/đọc trên intent.
+
+Dũng ưu tiên chỉ bổ sung ghi chép nguồn, không xây flow lấy chi tiêu thường trực
+trong app. Chi tiêu đọc từ Meta bằng token ads hoặc UI theo kỳ khi cần tính.
+Mục tiêu chi phí/intent gồm cả thuế và phí thẻ. Dũng ước tính phí khoảng9.900đ
+mỗi lần charge; chưa kiểm chứng mức phí/số lần charge. Đối chiếu thuế theo từng
+tài khoản/hóa đơn và tránh cộng lại nếu số đầu vào đã gồm thuế. Phân bổ thuế/phí
+xuống ad theo tỷ trọng chi tiêu cùng tài khoản và cùng kỳ là đề xuất, chưa chốt.
 
 ## Mở đúng hồ sơ
 

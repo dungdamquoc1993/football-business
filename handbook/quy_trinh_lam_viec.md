@@ -75,7 +75,7 @@ Dũng chốt thời gian, hàng, cước và số tiền với khách/hãng trư
 
 ## Mỗi tuần — Nhập hàng và rà lại việc
 
-- [ ] Khi đến lượt đặt hàng, cho agent cập nhật intent từ lần trước và đối chiếu tồn mục tiêu, tồn thực cùng hàng đã hẹn chưa xuất.
+- [ ] Trong lượt quét Messenger/SuperAI hằng ngày được giao, dùng cùng phần Messenger đã đọc để cập nhật sổ intent dùng chung cho nhập hàng và đo ads theo skill weekly-replenishment; SaleNote giữ nghiệp vụ/checkpoint riêng. Intent thật vẫn tính khi thiếu hàng/hủy; hậu mãi không tạo intent mới. Đến lượt đặt hàng thì cập nhật phần còn thiếu và đối chiếu tồn mục tiêu, tồn thực cùng hàng đã hẹn chưa xuất.
 - [ ] Tính từng SKU bằng công thức **Số đặt = MAX(0, tồn mục tiêu − tồn hiện tại + cam kết khách chưa xuất kho)**. Kiểm lô đang về và hàng xưởng gửi thiếu để tránh đặt trùng.
 - [ ] Chốt file đặt xưởng, theo dõi số thực gửi/nhận. Rà hồ sơ quá hẹn, hàng thu hồi chưa về và các phiếu kho/tiền còn thiếu.
 - [ ] Sắp lịch nội dung và quảng cáo cho tuần, ghi các chi phí thực phát sinh.
