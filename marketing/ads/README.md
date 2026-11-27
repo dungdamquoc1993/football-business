@@ -91,6 +91,14 @@ thoại; chi tiêu lấy thật20–26/11, chưa đối chiếu thuế/phí th�
 credentials provider và không bật worker. Không dùng số thử để quyết định ads
 hoặc ghi ngược bản DB review lên production.
 
+### Đã duyệt UI và push, chờ agent server deploy — 27/11/2026
+
+Dũng đồng ý bản UI hiện tại, chỉnh nhỏ để sau; giao push mã nguồn và bàn giao
+agent server migrate/deploy. Commit `e72c16e` đã push `main` repo ứng dụng.
+Chưa xác nhận production đã nâng cấp. Sau khi deploy và kiểm tra MCP/UI,
+rà một vòng dữ liệu intent và ads trên nguồn live; không restore DB review lên
+production hoặc coi dữ liệu thử local là dữ liệu đã nhập server.
+
 ## Mở đúng hồ sơ
 
 - [Chuyển sang tài khoản phụ, 21–25/11](2026-11-21-chuyen-tai-khoan/README.md):
