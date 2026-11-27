@@ -99,6 +99,12 @@ Chưa xác nhận production đã nâng cấp. Sau khi deploy và kiểm tra MCP
 rà một vòng dữ liệu intent và ads trên nguồn live; không restore DB review lên
 production hoặc coi dữ liệu thử local là dữ liệu đã nhập server.
 
+Ngày27/11 Dũng chuyển báo cáo agent server đã deploy `e72c16e`, migrations và
+health đạt; sau đó phiên này kiểm chứng tools/list, đọc/ghi qua MCP HTTPS thành
+công. Đã hoàn tất lượt rà21–26/11 và lưu nguồn live, checkpoint cùng giới hạn
+thuế/phí/coverage trong [hồ sơ tài khoản](2026-11-21-chuyen-tai-khoan/README.md).
+Giao diện sau đăng nhập chưa được kiểm chứng lại ở production trong lượt này.
+
 ## Mở đúng hồ sơ
 
 - [Chuyển sang tài khoản phụ, 21–25/11](2026-11-21-chuyen-tai-khoan/README.md):

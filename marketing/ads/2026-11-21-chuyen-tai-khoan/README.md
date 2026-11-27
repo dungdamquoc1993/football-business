@@ -1,5 +1,13 @@
 # Chuyển sang tài khoản phụ — 21–25/11/2026
 
+## Rà sổ intent và chi phí production — 27/11/2026
+
+- Dũng chọn kỳ từ khi thử tài khoản mới:21–26/11 giờVN, cả hai tài khoản. Đã rà289hội thoại/3.484tin đồng bộ;204hội thoại cờ lịch sử chưa đủ. Không khẳng định toàn bộ lịch sử Meta đầy đủ. Checkpoint intent riêng đã lưu từng hội thoại, không nâng cursor SaleNote/Facebook hoặc change-feed toàn cục.
+- Ghi13intent mới trong kỳ, cập nhật26intent cũ; thêm1intent Bata15/11 qua ngữ cảnh, ngoài kỳ báo cáo. Ledger toàn Page145bản ghi, review_revision4. Kỳ21–26/11 có39lượt mua duy nhất,38đôi rõ và1lượt chưa rõ số đôi/mẫu/giá. Sửa trường hợp đổi màu sau nhận thành hậu mãi, không phân bổ7/3 như thay mẫu trước mua. Hai trường hợp thiếu hàng đổi mẫu trước gửi có phân bổ7/3.
+- Lưu105ads của đúng Page, hierarchy/creative/post từ Meta API;175dòng ad/ngày, tổng3.183.522đ trước thuế/phí. Cũ1.893.547đ, mới1.289.975đ. Đọc account/day độc lập:21–25/11 khớp;26/11 account-level cao hơn tổng ad-level9đ ở cũ và145đ ở mới. Giữ số ad-level thật và ghi giới hạn báo cáo/cập nhật trễ, không tự phân bổ chênh lệch vào ads. Chưa đối soát VAT hoặc số lần charge thẻ, chưa nhập adjustment.
+- Lưu45liên kết intent–ad cấp hội thoại cho39intent trong kỳ; thời gian referral và quan hệ gây ra mua chưa được chứng minh. Có4intent liên quan cả hai tài khoản nên không cộng dòng tài khoản để suy tổng shop. Không tự gán nguồn hiện tại vào intent trước kỳ. Thiếu SĐT không loại intent đủ bằng chứng; không tạo intent từ hỏi ảnh/giá hoặc lời bot tự chốt.
+- Đã đọc lại40intent ghi,289checkpoint và báo cáo đủ6chiều bằng MCP HTTPS production. Key phiên này hoạt động; client cũ có thể cần tải lại tools/list. Dữ liệu riêng/bằng chứng giữ backend; không có thay đổi ads Meta, kho, thu chi, vận đơn hoặc SaleNote trong lượt này.
+
 ## Rà đơn theo nguồn tài khoản mới — 26/11/2026
 
 - Rà từ ngày có chi tiêu21/11 đến26/11 khoảng15:47VN: lấy29ads tài khoản mới qua Meta API, phân trang hết referral của từng ad;98hội thoại duy nhất,1.202tin khả dụng.62hội thoại vẫn cờ lịch sử chưa đủ. Đối chiếu ngược hồ sơ SaleNote trong kỳ và vận đơn liên quan; không dùng mẫu giày hoặc post dùng chung làm nguồn tài khoản.

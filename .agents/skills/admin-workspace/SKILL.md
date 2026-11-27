@@ -143,8 +143,8 @@ Shared action cases belong to [SaleNote](../salenote-workspace/SKILL.md), not th
 
 ## Intent và ads — kiểm tra capability trước khi dùng
 
-Bản bổ sung được kiểm thử local27/11/2026, chưa mặc định đã deploy. Kiểm tra
-`tools/list` trên server đang kết nối. Sổ intent theo
+Đã kiểm chứng tools/list và đọc/ghi MCP production ngày27/11/2026. Với phiên
+kết nối mới, kiểm tra capability thực tế; danh sách tool giữ từ trước deploy có thể cũ. Sổ intent theo
 [weekly-replenishment](../weekly-replenishment/SKILL.md), độc lập SaleNote.
 Khi có `admin_intent_report`, dùng `filters.view=report` để tổng hợp cùng logic UI;
 `view=catalog` đọc mapping/version trước sửa, `view=costs` đọc chi phí/version,
