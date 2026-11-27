@@ -4,6 +4,18 @@ Dũng chốt ngày 25/11/2026: giữ lịch sử ads có cấu trúc tại đây
 agent tra cứu và tiếp tục công việc. Làm ads trong repo với credentials riêng ở
 `.env`; không đưa token vào hồ sơ. Trạng thái trên Meta phải đọc lại trước thao tác.
 
+## Kết nối API — kiểm chứng 27/11/2026
+
+- Theo yêu cầu Dũng, đã đổi token ads ngắn hạn mới sang token người dùng dài hạn
+  và thay trực tiếp `META_ADS_USER_ACCESS_TOKEN` trong `.env`; các biến khác giữ nguyên.
+- Meta Debug Token xác nhận token mới hợp lệ, cùng app/người dùng với token nguồn,
+  có `ads_read` và `ads_management`; hạn token là 15:30:49 ngày 25/01/2027,
+  giờ Việt Nam. Đây là hạn trả về lúc kiểm chứng, không bảo đảm token không bị thu hồi sớm.
+- Đọc trực tiếp cả hai tài khoản `814094494973387` và `1554033896044468` bằng
+  token mới, xác nhận tác vụ `ADVERTISE` và `MANAGE`. Không thay đổi quảng cáo.
+- Chỉ token trong file local đã được thay; chưa thiết lập tự gia hạn hoặc cập nhật
+  credentials của dịch vụ/server. Hồ sơ không chứa giá trị token.
+
 ## Mở đúng hồ sơ
 
 - [Chuyển sang tài khoản phụ, 21–25/11](2026-11-21-chuyen-tai-khoan/README.md):
