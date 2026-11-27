@@ -76,6 +76,8 @@ quantity and agreed sale price; catalog price is not permission to override a de
 If the variant is missing or ambiguous, resolve that before submitting the shipment.
 Read-only catalog lookup does not authorize stock changes.
 
+Trước khi tạo vận đơn hàng shop, gom nhu cầu của cả lượt theo đúng SKU. Đối chiếu tồn Admin với số đôi đã dành cho đơn còn hiệu lực chưa xuất kho, kể cả đơn tạo ngoài hệ thống nếu đã biết. Trong cùng lượt, mỗi đôi chỉ phân bổ một lần. Nếu nhiều khách cùng cần một SKU đang thiếu, báo số đôi còn giao được, đề xuất ưu tiên theo thời điểm khách xác nhận và chờ Dũng chọn nếu chưa có chỉ định. Tiếp tục các đơn độc lập đủ điều kiện. Thiếu SKU, chưa rõ tồn khả dụng hoặc hết size thì giữ đơn chờ. Kiểm tra lại trước khi gửi nếu có thay đổi hoặc có người khác đang tạo đơn song song.
+
 Use structured `products` (`product_type="2"`), with one line per SKU and summed
 quantity for repeated identical SKU. The operation journal retains the submitted
 product lines; use its stable operation ID/generated merchant reference and returned
