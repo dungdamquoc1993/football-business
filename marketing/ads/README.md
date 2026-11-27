@@ -52,6 +52,20 @@ mỗi lần charge; chưa kiểm chứng mức phí/số lần charge. Đối ch
 tài khoản/hóa đơn và tránh cộng lại nếu số đầu vào đã gồm thuế. Phân bổ thuế/phí
 xuống ad theo tỷ trọng chi tiêu cùng tài khoản và cùng kỳ là đề xuất, chưa chốt.
 
+### Các góc nhìn Dũng yêu cầu — tiếp tục trao đổi27/11
+
+Dũng muốn xem theo mẫu giày, creative/nội dung, tài khoản, campaign, ad set và ad;
+lọc chéo, so chi tiêu với intent và giá trị quy đổi từ intent×giá tham chiếu. Giá trị
+này không phải doanh thu thực nhận. Cần giữ giá và thời điểm/cơ sở giá khi quy đổi.
+Chỉ danh sách ad liên quan chưa đủ để chia kết quả cộng khớp giữa các nguồn.
+
+Các điểm đang tư vấn, chưa chốt để code: quy tắc credit intent giữa nhiều ads;
+gom nội dung dùng chung qua nhiều creative ID/tài khoản; phân biệt mẫu được quảng
+cáo với mẫu khách có nhu cầu; cách xử lý chi tiêu quảng cáo nhiều mẫu chung. Không
+tự coi toàn bộ chi tiêu của một ad là chi tiêu riêng cho từng mẫu/intent liên quan.
+Dũng yêu cầu thống nhất cách count trước khi bắt đầu code. Chưa triển khai báo cáo
+hoặc thay quy tắc credit nguồn trong lượt trao đổi này.
+
 ## Mở đúng hồ sơ
 
 - [Chuyển sang tài khoản phụ, 21–25/11](2026-11-21-chuyen-tai-khoan/README.md):
