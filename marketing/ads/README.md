@@ -120,6 +120,22 @@ Giao diện sau đăng nhập chưa được kiểm chứng lại ở production
 - [Mẫu hội thoại](templates/MAU-HOI-THOAI.md): các phiên bản đã dùng; không mặc định
   mẫu cũ là mẫu đang chạy. Bài, caption và kết quả đăng thuộc [bài đăng](../fanpage-posts/README.md).
 
+## Đối chiếu chi tiêu 21/10–28/11/2026
+
+- Meta Insights v24.0, đọc lúc 17:27 ngày 28/11 theo giờ Việt Nam. Tổng chi tiêu
+  đã phân phối của hai tài khoản là 11.485.167đ, gồm 10.194.993đ trên
+  `814094494973387` và 1.290.174đ trên `1554033896044468`. Tổng từ ad/ngày
+  khớp tổng từ tài khoản/ngày. Ngày đầu có chi tiêu trả về là 29/10. Số ngày
+  28/11 là ảnh chụp giữa ngày.
+- Admin MCP đã lưu 357 dòng mới và cập nhật 8 dòng Meta thay đổi. Đọc lại
+  toàn bộ 532 dòng ad/ngày khớp nguồn. Cả 105 mã ads của Page đã có ánh xạ
+  đúng tài khoản, campaign, ad set, creative và bài theo dữ liệu Meta. Có
+  20 mã được liên kết từ sổ intent và đều tìm thấy trong danh mục.
+- Báo cáo Admin cùng kỳ có 181 lượt intent, 178 đôi đã biết số lượng và
+  97 hồ sơ SaleNote đã khớp lượt mua. Số đơn của từng tài khoản còn
+  chưa đối soát. Thuế/phí thẻ chưa có chứng từ đối chiếu, giữ riêng ngoài
+  chi tiêu phân phối. Không ghi điều chỉnh ước tính vào sổ.
+
 ## Cách lưu sau mỗi lượt làm ads
 
 Mỗi đợt hoặc mục tiêu có một thư mục `YYYY-MM-DD-ten-dot/`, dùng ngày bắt đầu.
