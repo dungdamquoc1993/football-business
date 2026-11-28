@@ -92,16 +92,22 @@ Hồ sơ công việc chung thuộc [SaleNote](../salenote-workspace/SKILL.md). 
 ## Ý định mua và quảng cáo
 
 Dùng [sổ ý định mua và quy trình đo ads](../shop-operations/references/purchase-intent.md)
-để chọn dữ liệu và phạm vi. Kiểm schema máy chủ đang kết nối trước khi ghi các trường nguồn.
+để chọn cấp báo cáo, đọc số đơn đã đối soát và gắn chứng cứ đúng lượt mua.
+Sau khi máy chủ cập nhật, mở kết nối Admin MCP mới và gọi `tools/list` nếu
+phiên đang dùng còn giữ schema cũ. Kiểm schema hiện hành trước khi gọi
+`group_by="day"` hoặc ghi trường mới.
 
 Khi có `admin_intent_report`, dùng `filters.view=report` để tổng hợp cùng logic UI;
 `view=catalog` đọc mapping/version trước sửa, `view=costs` đọc chi phí/version,
-lọc ad/ngày/tài khoản và theo `next_offset`. Không cộng các dòng liên quan
-chồng lấn để suy tổng; dùng `totals` trả về. Quantity chưa rõ không mặc định1,
-chi phí chưa nhập lànull, giá trị ý định mua×giá tham chiếu không phải doanh thu.
+lọc ad/ngày/tài khoản và theo `next_offset`. Lấy `totals` trực tiếp ở phạm
+vi cần báo cáo. `purchase_count` là số lượt intent. Số đơn lấy từ
+`confirmed_order_count`, với `null` là chưa đối soát.
 
 `admin_ads_save_catalog` ghi ánh xạ quảng cáo→adset→campaign→account và nội dung quảng cáo đã
-kiểm tra, không tự gọi Meta. `admin_ads_save_costs` ghi chi tiêu VND ad/ngày và
+kiểm tra. Ảnh bài lấy theo `post_id` của cùng Page nếu bài đã đồng bộ.
+Có thể ghi `thumbnail_url` là URL ảnh HTTPS đã kiểm, không chứa xác thực.
+Bỏ trường để giữ ảnh bổ sung cũ, gửi chuỗi rỗng để gỡ ảnh bổ sung.
+`admin_ads_save_costs` ghi chi tiêu VND ad/ngày và
 thuế/phí tài khoản/kỳ được cung cấp; không tạo phiếu thu chi. Ghi rõ nguồn,
 thời điểm, số đã gồm thuế hay chưa và ước tính/thực tế. Phí9.900đ/charge là
 ước tính làm việc của Dũng, không tự giả định số charge. Không nhập hai khoản

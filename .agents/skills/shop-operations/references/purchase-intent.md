@@ -57,31 +57,60 @@ thiếu/hỗn hợp ghi theo dữ kiện; tránh suy từ mẫu giày, tên ho�
 Nguồn mới xuất hiện không tự thay liên kết của một lượt mua cũ.
 
 Dùng `data.ad_links` theo schema hiện hành. `scope=conversation` khi chỉ
-biết nguồn hội thoại, `purchase_episode` khi có bằng chứng cho lượt mua.
+biết khách từng vào hội thoại từ ads, `purchase_episode` khi có bằng chứng
+quảng cáo thuộc đúng lượt mua đang ghi. Nguồn `conversation` vẫn dùng cho
+báo cáo intent.
 Ghi `observed_at` là lúc thấy, `referral_at` chỉ khi có bằng chứng thời
 điểm nguồn. Mỗi cặp ý định mua–quảng cáo ghi một lần. Giữ toàn bộ liên kết
 có căn cứ khi cập nhật; bỏ trường hoặc `null` để giữ liên kết, `[]` chỉ
 dùng khi chủ ý xóa. Ghi cùng ý định mua và đúng phiên bản. Nếu công cụ chưa
 hỗ trợ, báo phần chưa lưu được và giữ việc đối soát để tiếp tục.
 
+### Gắn đơn SaleNote đã đối soát
+
+Ghi `data.sale_case_id` qua `admin_replenishment_record_review` khi đã xác
+minh hồ sơ cùng lượt mua. Hồ sơ cần có `confirmed_at` và tham chiếu Messenger
+đúng Page, đúng ID hội thoại. Cùng hội thoại, tên, mẫu hoặc một ca hậu mãi
+riêng chưa đủ. Nếu lượt mua đã có `shipment_operation_id` liên kết đúng
+fulfillment SaleNote, báo cáo có thể tự đối soát qua liên kết đó. Gắn đơn và
+gắn ads là hai việc cần chứng cứ riêng. Khi chưa biết ads của lượt mua, giữ
+nguồn ở `conversation` dù đã xác minh được đơn.
+
+Bỏ trường `sale_case_id` để giữ liên kết đã lưu. Chỉ gửi chuỗi rỗng khi chủ ý
+gỡ liên kết và tắt đối soát tự động cho lượt đó. Cập nhật đúng ID intent
+hiện có, dùng phiên bản hiện hành và giữ các chứng cứ vẫn còn hiệu lực.
+
 ## Cập nhật và đọc báo cáo ads
 
 1. Kiểm cùng Page, tài khoản, phạm vi ngày, độ mới và phần thiếu của sổ
    ý định mua. Nếu được giao cập nhật, rà phần Messenger còn thiếu bằng
    mốc của sổ này. Nếu chỉ được giao đọc báo cáo, nêu phạm vi sẵn có.
-2. Dùng `admin_intent_report` để tìm danh mục và chi phí đã lưu. Chỉ tra
-   Meta khi cần xác minh ánh xạ quảng cáo → ad set → chiến dịch → tài khoản
-   hoặc đọc chi tiêu/thuế/phí kỳ được giao. Tận dụng ánh xạ đã kiểm chứng.
-   Ghi danh mục/chi phí qua [Admin](../../admin-workspace/SKILL.md#ý-định-mua-và-quảng-cáo)
-   nếu được giao, giữ mốc và nguồn. Dữ liệu thiếu giữ chưa rõ, tách số thực
-   tế với ước tính và tránh cộng lại thuế/phí.
-3. Báo kết quả liên quan. Một ý định mua có thể đóng góp đủ q cho mỗi ad
-   liên quan. Khi nhóm theo ad set, chiến dịch, tài khoản hoặc nội dung,
-   tính trên tập ý định mua duy nhất trong nhóm. Dùng `totals` của báo cáo
-   cho tổng chung. Giá trị q × giá tham chiếu là số quy đổi; giữ cơ sở giá
-   và thời điểm khi dùng. Báo chi phí và phần liên quan trên phạm vi dữ liệu
-   đã biết, tránh coi toàn bộ chi tiêu của một ad là chi phí riêng của từng
-   mẫu giày.
+2. Gọi `admin_intent_report` với `filters.view="report"`, đúng `page_id`,
+   `date_from` và `date_to` theo giờ Việt Nam, tính cả hai ngày. Chọn
+   `group_by` theo cấp cần xem: `account` → `campaign` → `adset` → `ad`.
+   Khi đi xuống cấp con, lọc theo ID cấp cha. Dùng `creative` để xem bài
+   hoặc nội dung (khóa ưu tiên `content_key`, `post_id`, rồi `creative_id`)
+   và `model` để xem mẫu giày. Dùng `day` với cùng bộ lọc để xem các ngày
+   có dữ liệu. Khi hỏi số của một đối tượng cụ thể, lọc theo ID,
+   `creative_key` hoặc `model` tương ứng và đọc `totals`. Khi so nhiều đối
+   tượng cùng cấp, đọc dòng trực tiếp của từng đối tượng. So hai kỳ bằng
+   hai báo cáo và đọc `totals` từng kỳ. Dùng tổng trực tiếp của phạm vi
+   được hỏi để tránh cộng trùng giữa các dòng.
+3. Khi Dũng hỏi “chạy bao tiền, ra bao nhiêu đơn”, dùng `cost_vnd` và
+   `confirmed_order_count` ở đúng phạm vi. Chi phí gồm thuế/phí đã phân bổ
+   theo dữ liệu ghi nhận. Nếu chi phí là `null`, nói chưa có chi phí ghi nhận
+   ở phạm vi đó. Nếu số đơn là `null`, nói **chưa đối soát**. Số đơn dương
+   chỉ đếm hồ sơ SaleNote duy nhất đã khớp lượt mua. Khi lọc theo nguồn ads,
+   đơn cần bằng chứng `purchase_episode`. `purchase_count` đếm lượt intent,
+   `intent_quantity` đếm số đôi, và `cost_per_confirmed_order_vnd` là chi phí
+   trên đơn đã đối soát ở dòng có trường này. Đơn theo ngày chốt, intent
+   theo ngày đầu có ý định mua, chi phí theo ngày phân phối. Giá trị intent
+   là quy đổi theo giá tham chiếu. Chi phí quảng cáo nhiều mẫu giữ chung
+   theo nhãn ads, không tự chia cho từng mẫu.
+4. Dùng `view="catalog"` và `view="costs"` để kiểm ánh xạ và chi phí đã lưu.
+   Chỉ tra Meta khi cần xác minh ánh xạ hoặc đọc chi phí kỳ được giao. Ghi
+   danh mục hoặc chi phí theo [skill Admin](../../admin-workspace/SKILL.md#ý-định-mua-và-quảng-cáo)
+   nếu được giao. Tách số thực tế với ước tính và tránh cộng lại thuế/phí.
 
 SaleNote giữ hồ sơ công việc theo tiêu chí riêng. Không thêm hồ sơ hoặc
 ghi lại ghi chú nguồn cũ chỉ để làm số liệu ads. Chi phí báo cáo thuộc
