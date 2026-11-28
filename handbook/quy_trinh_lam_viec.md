@@ -37,7 +37,12 @@ Giao gấp và sự cố đang diễn ra được xử lý theo cam kết với 
 
 **Messenger** để trao đổi với khách, **SaleNote** để giữ việc, **SuperAI/app hãng** để xử lý giao nhận, **Admin** để ghi kho và tiền.
 
-Một lần mua dùng một hồ sơ SaleNote, hậu mãi tiếp tục trên hồ sơ đó. Chỉ đưa vào SaleNote khi có SĐT đã xác nhận và khách đã chốt mua hoặc shop đã nhận một việc cụ thể. Thiếu SĐT thì tìm lại lịch sử/profile; vẫn thiếu thì giữ nhu cầu trong Messenger.
+Một lần mua dùng một hồ sơ SaleNote, hậu mãi tiếp tục trên hồ sơ đó. Ghi vào
+SaleNote ngay trong lượt rà khi có SĐT đã xác nhận và khách đã chốt mua hoặc
+shop đã nhận một việc cụ thể. Đọc câu xác nhận theo mạch hội thoại, kể cả khi
+khách trả lời bằng sticker. Đơn chốt có điều kiện vẫn vào sổ, kèm việc cần
+kiểm trước khi gửi. Thiếu SĐT thì tìm lại lịch sử và hồ sơ khách. Nếu vẫn
+thiếu, giữ nhu cầu trong Messenger. Xem [điều kiện mở hồ sơ](../.agents/skills/salenote-workspace/SKILL.md#điều-kiện-mở-hồ-sơ).
 
 Sau mỗi lần gọi, nhắn hoặc thao tác, ghi kết quả vào hồ sơ. Có việc còn chờ thì ghi rõ đang chờ ai, cần làm gì và khi nào kiểm lại. Hội thoại đã xử lý có thể chuyển Done sau khi việc cần theo dõi đã được lưu.
 

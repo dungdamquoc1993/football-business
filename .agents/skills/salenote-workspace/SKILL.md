@@ -16,7 +16,32 @@ phạm vi, lấy mốc từng sổ và đọc chứng cứ Messenger một lần
 liên hệ, kiểm lịch sử hội thoại và hồ sơ khách trong Page. Giữ điều chỉnh mới
 nhất của Dũng, kể cả từ điện thoại hoặc Zalo.
 
-**Đưa hồ sơ vào SaleNote:** Bắt buộc có SĐT đã được xác nhận từ hội thoại, hồ sơ khách hoặc điều chỉnh của Dũng trước khi tạo hồ sơ. Sau khi đã đọc lịch sử và hồ sơ khách hiện có mà vẫn thiếu SĐT, giữ nhu cầu trong bộ nhớ Messenger. Quy tắc này áp dụng cả khách đã nói mua và việc hẹn báo khi có hàng. Khi đã có SĐT, tạo hồ sơ khi khách đã xác nhận mua hoặc shop đã nhận một việc cụ thể, ví dụ hẹn báo khi đúng size về. Ghi các khách để lại SĐT nhưng chưa chốt vào tóm tắt lượt rà Messenger nếu cần theo dõi. Đối chiếu thông tin liên hệ trong hội thoại cũ cho đơn đã có hoặc ca hậu mãi. Dũng nhắc lại điều kiện SĐT ngày23/11/2026.
+### Điều kiện mở hồ sơ
+
+Bắt buộc có SĐT đã được xác nhận từ hội thoại, hồ sơ khách hoặc điều chỉnh của
+Dũng. Khi có SĐT, mở hoặc cập nhật hồ sơ ngay trong lượt rà nếu khách đã chốt
+mua hoặc shop đã nhận việc cụ thể như hẹn báo khi đúng size về. Nếu vẫn thiếu
+SĐT sau khi kiểm lịch sử và hồ sơ khách, giữ việc trong bộ nhớ Messenger.
+
+Đọc lời khách theo mạch của cùng lượt mua. Khách có thể chốt bằng lời nhờ
+gửi đúng đôi đã chọn, câu đồng ý ngắn hoặc sticker/emoji như 👍 trả lời câu
+hỏi xác nhận một đơn cụ thể. Đọc câu hỏi ngay trước đó và lời khách sau đó
+để xác định dấu hiệu đồng ý đang trả lời việc đặt hàng. Nếu tin trống nhưng
+có tệp đính kèm ở đúng vị trí đó, mở tệp để kiểm tra trước khi phân loại.
+
+Ví dụ khách đã chọn mẫu và size, gửi SĐT và địa chỉ, dặn chỉ nhận nếu đế có
+độ đàn hồi, rồi gửi 👍 khi shop trả lời điều kiện và hỏi xác nhận đơn. Ghi
+đơn vào SaleNote, lưu nguyên điều kiện của khách và giao đầu việc kiểm đế
+trước khi gửi. Áp dụng tương tự khi đơn đã chốt còn chờ hàng hoặc còn thiếu
+chi tiết giao. Ghi đúng việc đang chờ theo tiến độ thực tế. Việc tạo vận đơn
+theo quyền Dũng giao và kiểm tra của đợt gửi.
+
+Khi khách mới để lại liên hệ, chỉ hỏi hàng hoặc đang cân nhắc, kiểm xem có
+lời chốt hay một việc shop đã nhận trong các tin liền kề. Nếu chưa có, giữ
+trong Messenger và ghi điểm còn mơ hồ khi cần theo dõi. Thẻ chuyển người
+thật và lời AI báo đã nhận đơn là tín hiệu để mở hội thoại rà lại. Kết luận
+khách đã chốt dựa vào lời khách hoặc xác nhận của Dũng. Đối chiếu liên hệ
+trong hội thoại cũ cho đơn đã có hoặc ca hậu mãi.
 
 Dùng `salenote_record_collection` một lần cho mỗi trang sự kiện có giới hạn đã rà hết, với operation UUID ổn định, phiên bản thu thập dự kiến, `from_cursor` từ nguồn và `to_cursor` bằng `next_cursor` nguồn trả về, tóm tắt ngắn, quyết định cho mọi sự kiện (`change_sequence` lấy từ `sequence` nguồn, `source_id`, `object_id`, `fingerprint`, `disposition`, `case_ids`, `note`) và toàn bộ ảnh chụp hồ sơ cần thiết trong changes. Tin chỉ làm ngữ cảnh không là quyết định. Không hành động vẫn cần ghi quyết định. Chỉ mở hồ sơ theo điều kiện tiếp nhận phía trên. Ghi rõ tồn kho, địa chỉ hoặc cam kết khách chưa giải quyết. Người vận hành đã xác thực chịu trách nhiệm báo bằng chứng, sổ không tự kiểm chứng Facebook/ngữ nghĩa con trỏ tiến độ. Không tiến qua sự kiện chưa rà. Giảm số sự kiện mỗi trang khi cần.
 

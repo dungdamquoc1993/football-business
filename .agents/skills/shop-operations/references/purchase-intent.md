@@ -23,6 +23,10 @@ lựa chọn ban đầu cần lời khách hoặc bằng chứng cùng lượt.
 `confirmed` và `clear_intent` đủ bằng chứng cùng đóng góp q khi biết q đôi
 (`clear_intent_weight=1`). Hỏi giá, xin ảnh hoặc hỏi còn hàng đơn thuần
 chưa đủ. Thiếu SĐT, thiếu hàng hoặc hủy sau đó không loại nhu cầu có thật.
+Khi xác định khách đã chốt, dùng cùng cách đọc lời khách trong
+[điều kiện mở hồ sơ SaleNote](../../salenote-workspace/SKILL.md#điều-kiện-mở-hồ-sơ).
+Dùng `confirmed` cho lời chốt rõ, kể cả chốt có điều kiện, và lưu điều kiện
+cùng chứng cứ. Nếu lượt này đã có dòng `clear_intent`, cập nhật đúng dòng đó.
 Số đôi chưa rõ giữ `null`. Không dùng size làm chiều thống kê của sổ này.
 Giữ mức độ, lựa chọn gốc/cuối, hàng thực đặt gửi, lý do chuyển và kết quả
 riêng. Ghi cùng ID khi nhắc đơn, đổi lựa chọn hoặc cập nhật hậu mãi. Đổi size,

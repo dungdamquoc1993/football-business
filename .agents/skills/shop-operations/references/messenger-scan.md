@@ -41,11 +41,16 @@ một ngày, giới hạn số theo ngày tin gốc (giờ Việt Nam) và giữ
    khi cần. Với sự kiện bị thay thế hoặc nội dung không còn, ghi quyết định và
    lý do theo nhánh; phiên bản hiện hành có thể có sự kiện riêng. Xem
    [cách đọc nguồn Facebook](../../facebook-workspace/SKILL.md#đọc-messenger).
-3. Xét riêng tính đủ điều kiện. Ví dụ khách nói mua rõ nhưng chưa tìm thấy
-   SĐT có thể vào sổ ý định mua; hẹn báo hàng có SĐT có thể vào SaleNote dù
-   chưa có ý định mua đủ ngưỡng. Với cùng lượt mua, tìm dòng và hồ sơ hiện có
-   trước khi cập nhật. Tin cũ đồng bộ muộn dùng `sent_at` để xác định ngày và
-   xét lại lượt gốc; một tin mới có thể chỉ là nhắc đơn hoặc hậu mãi.
+3. Xét theo lượt mua và đối chiếu [điều kiện mở hồ sơ SaleNote](../../salenote-workspace/SKILL.md#điều-kiện-mở-hồ-sơ).
+   Rà kỹ đoạn có mẫu–màu–size và tin khách cung cấp SĐT, địa chỉ hoặc đoạn
+   AI chuyển người thật. Đọc từ tóm tắt đơn hoặc câu hỏi chốt tới phản hồi
+   của khách, kể cả khi đoạn này nằm giữa hai trang sự kiện. Xem sticker
+   hay ảnh nếu đó có thể là câu trả lời chốt. Khi đơn đã chốt, ghi cả điều
+   kiện khách đặt ra vào hồ sơ và đưa bước kiểm vào việc tiếp theo.
+   Xét riêng ngưỡng của hai sổ. Khách nói mua rõ nhưng thiếu SĐT có thể vào
+   sổ ý định mua. Hẹn báo hàng có SĐT có thể vào SaleNote. Tìm dòng và hồ
+   sơ hiện có trước khi cập nhật. Tin cũ đồng bộ muộn dùng `sent_at` để xác
+   định ngày và xét lại lượt gốc.
 4. Ghi từng sổ ngay sau khi rà hết trang của sổ đó. SaleNote ghi quyết định cho
    mọi sự kiện. Admin ghi thay đổi ý định mua, liên kết quảng cáo nếu đã xác
    minh và mốc đã rà; trang không có ý định mua mới vẫn ghi mốc kèm kết quả.
@@ -56,6 +61,13 @@ một ngày, giới hạn số theo ngày tin gốc (giờ Việt Nam) và giữ
    Mỗi bên có UUID/phiên bản/biên nhận riêng, xử lý mất phản hồi và xung đột
    theo skill sở hữu. Nếu một bên ghi xong và bên kia lỗi, đọc lại biên nhận
    rồi tiếp nhánh chưa xong từ mốc của nó. Đừng ghi lại nhánh đã thành công.
+   Trước khi gửi trang SaleNote, đối chiếu từng đơn đã chốt có SĐT với hồ sơ
+   hiện có hoặc hồ sơ sẽ ghi trong `changes`. Gắn `case_ids` vào quyết định
+   `recorded` cho tin nguồn làm phát sinh thao tác ghi. Nếu lượt mua đã được
+   xử lý trước, ghi tham chiếu hồ sơ và lý do. Nếu thiếu dữ kiện để kết luận,
+   ghi rõ dữ kiện thiếu. Khi payload bị từ chối, sửa ánh xạ hồ sơ hoặc đọc lại
+   chứng cứ. Không đổi quyết định của đơn đủ điều kiện thành `no_action` để
+   tiến mốc. Trước khi báo xong, kiểm biên nhận của các hồ sơ đã ghi.
 5. Khi được giao hoàn tất lượt rà Messenger, lưu bộ nhớ/dấu đã đọc cho phần
    thật sự đã rà bằng `facebook_complete_review` theo skill Facebook. Việc
    này độc lập với hai sổ. Rà riêng vận đơn cần chăm sóc qua
