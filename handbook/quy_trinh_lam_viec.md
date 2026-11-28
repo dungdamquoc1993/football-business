@@ -7,7 +7,9 @@ Dũng phụ trách toàn bộ vận hành, agent hỗ trợ theo đầu việc �
 ### 11h — Xử lý khách và việc tồn
 
 - [ ] Mở Messenger, xử lý các cuộc trò chuyện AI chuyển lại và yêu cầu mới cần người thật.
-- [ ] Cho agent rà tin mới trên Messenger và vận đơn liên quan trên SuperAI, cập nhật SaleNote.
+- [ ] Cho agent [quét Messenger và SuperAI](../.agents/skills/shop-operations/references/messenger-scan.md).
+  Dùng cùng phần Messenger đã đọc để cập nhật SaleNote và sổ ý định mua. Mỗi
+  sổ tiếp nối mốc tiến độ riêng.
 - [ ] Mở SaleNote, làm các việc đến hẹn. Gọi/nhắn khách cần xác nhận, ghi kết quả và hẹn tiếp nếu chưa xong.
 
 ### 16h30–17h — Chốt đợt gửi chiều
@@ -17,7 +19,9 @@ Dũng phụ trách toàn bộ vận hành, agent hỗ trợ theo đầu việc �
 
 ### 17h–18h30 — Tạo đơn, đóng và gửi hàng
 
-- [ ] Cho agent tạo vận đơn trên SuperAI khoảng 17h–17h30. Kiểm mã đơn thành công, tránh tạo lại đơn đã có hoặc đang chờ kết quả.
+- [ ] Cho agent tạo vận đơn trên SuperAI khoảng 17h–17h30. Đối chiếu địa chỉ
+  nhận với [danh mục ba cấp của hãng](../.agents/skills/superai-workspace/references/recipient-address.md).
+  Kiểm mã đơn thành công và đối soát yêu cầu còn chờ trước khi tạo thay thế.
 - [ ] In nhãn, lấy hàng và đối chiếu **mẫu–màu–size, số lượng, phụ kiện/quà đã xác nhận, người nhận và COD** trước khi đóng.
 - [ ] Khoảng 18h30 bàn giao/mang ra bưu cục, cập nhật SaleNote. Thứ Bảy và Chủ nhật gửi sớm theo giờ nhận của bưu cục.
 
@@ -75,7 +79,9 @@ Dũng chốt thời gian, hàng, cước và số tiền với khách/hãng trư
 
 ## Mỗi tuần — Nhập hàng và rà lại việc
 
-- [ ] Trong lượt quét Messenger/SuperAI hằng ngày được giao, dùng cùng phần Messenger đã đọc để cập nhật sổ intent dùng chung cho nhập hàng và đo ads theo skill weekly-replenishment; SaleNote giữ nghiệp vụ/checkpoint riêng. Intent thật vẫn tính khi thiếu hàng/hủy; hậu mãi không tạo intent mới. Đến lượt đặt hàng thì cập nhật phần còn thiếu và đối chiếu tồn mục tiêu, tồn thực cùng hàng đã hẹn chưa xuất.
+- [ ] Dùng [sổ ý định mua](../.agents/skills/shop-operations/references/purchase-intent.md)
+  đã cập nhật hằng ngày. Rà bổ sung phần còn thiếu trong kỳ trước khi tính cơ cấu
+  và đối chiếu tồn mục tiêu, tồn thực cùng hàng đã hẹn chưa xuất.
 - [ ] Tính từng SKU bằng công thức **Số đặt = MAX(0, tồn mục tiêu − tồn hiện tại + cam kết khách chưa xuất kho)**. Kiểm lô đang về và hàng xưởng gửi thiếu để tránh đặt trùng.
 - [ ] Chốt file đặt xưởng, theo dõi số thực gửi/nhận. Rà hồ sơ quá hẹn, hàng thu hồi chưa về và các phiếu kho/tiền còn thiếu.
 - [ ] Sắp lịch nội dung và quảng cáo cho tuần, ghi các chi phí thực phát sinh.
@@ -84,6 +90,6 @@ Dũng chốt thời gian, hàng, cước và số tiền với khách/hãng trư
 
 - [Chính sách bán hàng](chinh_sach_ban_hang.md) và [prompt Meta](../marketing/meta-agent/instructions.md).
 - [Hướng dẫn tạo/xử lý vận đơn](../.agents/skills/superai-workspace/SKILL.md), [thu hồi tại cửa](../.agents/skills/salenote-workspace/references/aftercare.md#đổi-size--thu-hồi-tại-cửa) và [nhập hàng hoàn](../.agents/skills/admin-workspace/SKILL.md#hàng-hoàn--sổ-kiểm-và-nhập-kho).
-- Agent dùng các skill [Messenger](../.agents/skills/facebook-workspace/SKILL.md), [SaleNote](../.agents/skills/salenote-workspace/SKILL.md), [Admin](../.agents/skills/admin-workspace/SKILL.md) và [nhập hàng tuần](../.agents/skills/weekly-replenishment/SKILL.md) để thực hiện đúng thao tác.
+- Agent bắt đầu từ [skill vận hành](../.agents/skills/shop-operations/SKILL.md) khi phối hợp nhiều nguồn và dùng [skill nhập hàng tuần](../.agents/skills/weekly-replenishment/SKILL.md) khi lập đơn đặt xưởng.
 
 Khi có người hỗ trợ, giao từng nhóm việc theo checklist, kèm hồ sơ đang mở và phạm vi được quyết định. Kết quả tiếp tục được ghi vào các hệ thống trên.

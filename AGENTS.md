@@ -8,6 +8,7 @@ Phân biệt dữ kiện, giả định, đề xuất và quyết định của 
 ## Nguồn đúng theo việc
 
 - Ba tài liệu nền tảng là `handbook/chinh_sach_ban_hang.md` (điều kiện bán), `handbook/quy_trinh_lam_viec.md` (checklist vận hành và xử lý phát sinh) và `marketing/meta-agent/instructions.md` (hướng dẫn AI Meta). Đọc phần liên quan khi sửa chính sách, quy trình hoặc prompt và giữ nhất quán giữa ba tài liệu. Hiện Dũng tự vận hành toàn bộ, các đầu việc được tổ chức để có thể bàn giao về sau.
+- Quét hằng ngày, sổ ý định mua/ads, đợt gửi hoặc đối chiếu kho và tiền qua nhiều hệ thống: `.agents/skills/shop-operations/SKILL.md`.
 - Lập kế hoạch nhập hàng: `.agents/skills/weekly-replenishment/SKILL.md`.
 - Báo giá và điều khoản xưởng: `suppliers/README.md`.
 - Giá: `handbook/chinh_sach_gia.md`; giá bán và giá mua thực tế đọc qua Admin MCP.
@@ -32,7 +33,7 @@ Trước khi định giá, đọc `handbook/chinh_sach_gia.md`.
 Repo business là thư mục này, nhánh `main`; remote `dungdamquoc1993/football-business`.
 Làm/commit/push trực tiếp main theo quyết định của Dũng; không tự tạo PR/nhánh phụ.
 Pull fast-forward; giữ thay đổi không liên quan. Không rewrite lịch sử hoặc force push.
-Năm skill chuẩn nằm ở `.agents/skills/` tại gốc workspace; không tạo bản sao phân kỳ.
+Các skill chuẩn nằm ở `.agents/skills/` tại gốc workspace; không tạo bản sao phân kỳ.
 
 Giữ credentials, dữ liệu khách xuất riêng, `.work`, runtime và backup ngoài Git.
 Không in secret khi kiểm tra cấu hình. `outputs/` chỉ dành bản giao phù hợp để lưu

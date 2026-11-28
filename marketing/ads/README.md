@@ -4,6 +4,10 @@ Dũng chốt ngày 25/11/2026: giữ lịch sử ads có cấu trúc tại đây
 agent tra cứu và tiếp tục công việc. Làm ads trong repo với credentials riêng ở
 `.env`; không đưa token vào hồ sơ. Trạng thái trên Meta phải đọc lại trước thao tác.
 
+Khi cập nhật sổ hoặc làm báo cáo, dùng
+[quy trình ý định mua và đo quảng cáo](../../.agents/skills/shop-operations/references/purchase-intent.md).
+Các mốc bên dưới giữ quyết định và lần kiểm chứng đã ghi.
+
 ## Kết nối API — kiểm chứng 27/11/2026
 
 - Theo yêu cầu Dũng, đã đổi token ads ngắn hạn mới sang token người dùng dài hạn
@@ -27,7 +31,7 @@ hàng và khách đồng ý mua thay thế giữ0,7q gốc/0,3q cuối, tổngq;
 thì giữ nhu cầu gốc=q. Quy tắc7/3 phân bổ sản phẩm, không chia credit giữa ads.
 Không dùng đơn chốt/giao thành công làm thang kết quả riêng của phép đo đã chọn.
 
-Sổ intent và cấu hình thuộc Admin MCP qua skill weekly-replenishment. Đã lưu
+Sổ intent và cấu hình thuộc Admin MCP. Đã lưu
 rule clear-purchase-intent-v1 và clear_intent_weight=1 tại settings version2
 ngày27/11; không coi ledger cũ đã được rà lại hoặc tự sửa kế hoạch nhập cũ.
 SaleNote vẫn là sổ xử lý công việc độc lập, không là nguồn dữ liệu hoặc nơi ghi

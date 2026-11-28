@@ -4,7 +4,7 @@
 
 ## Phạm vi và nguồn dữ liệu
 
-Repo này giữ chính sách, quy trình, tài sản kinh doanh và năm skills chuẩn tại
+Repo này giữ chính sách, quy trình, tài sản kinh doanh và các skill chuẩn tại
 [.agents/skills](.agents/skills). Tài liệu và skills dùng độc lập, không yêu cầu
 repo phần mềm nằm cạnh bên hoặc đọc docs của repo khác. Remote:
 `dungdamquoc1993/football-business`, làm trực tiếp trên `main`.
@@ -29,6 +29,9 @@ bằng skills + MCP. Chưa có quyết định đưa toàn bộ tài liệu ho�
 
 - **Sổ tay kinh doanh:** [Chính sách bán hàng](handbook/chinh_sach_ban_hang.md), [Chính sách giá](handbook/chinh_sach_gia.md), [Quy trình làm việc hằng ngày và phát sinh](handbook/quy_trinh_lam_viec.md). Hiện Dũng vận hành toàn bộ; quy trình chia theo đầu việc để có thể bàn giao về sau.
 - **Meta Agent:** [hướng dẫn và mô tả sản phẩm](marketing/meta-agent/README.md).
+- **Vận hành qua nhiều hệ thống:** [skill vận hành shop](.agents/skills/shop-operations/SKILL.md)
+  dẫn vào quét Messenger và ghi hai sổ, cập nhật ý định mua/ads, chuẩn bị đợt
+  gửi và đối chiếu kho, vận đơn, thu chi.
 - **Nhập hàng hằng tuần:** [skill lập kế hoạch và xuất Excel đặt xưởng](.agents/skills/weekly-replenishment/SKILL.md),
   dùng dữ liệu server qua Admin MCP. Nguồn nhập hàng cũ đã được import và kiểm tra
   luồng đọc/ghi production ngày 25/11/2026; tiếp tục công việc từ server.
